@@ -1,0 +1,38 @@
+[
+  {
+    "id": "01",
+    "filename": "ACU CRS MS5 - 01 - Finding Aid, George Douglas Papers 1830-1939.pdf",
+    "pages": 6,
+    "sha256": "407ac150385b7e1c4a35111fbd2dc113c52d59534b9219200b153c81d19bd22c"
+  },
+  {
+    "id": "02",
+    "filename": "ACU CRS MS5 - 02 - L. Douglas Sermon Notes, 16 Feb 1883.pdf",
+    "pages": 4,
+    "sha256": "d0f97a4967414638c7ebf74064633a5571f39f6cb6d753971b79bed17d75daed"
+  },
+  {
+    "id": "03",
+    "filename": "ACU CRS MS5 - 03 - Sylvana Church Endorsement for George Douglas, Sept 1888.pdf",
+    "pages": 5,
+    "sha256": "ffd6cdfaac980365018773c286940767b5bce0c3c1ab285c3c7ad1b434263d57"
+  },
+  {
+    "id": "04",
+    "filename": "ACU CRS MS5 - 04 - Folder 1, Correspondence and Loan Papers.pdf",
+    "pages": 96,
+    "sha256": "5c93172385acbe177e2cfb2f190f58fbd534ee5a468be3843ad6dc6ae91ed2bb"
+  },
+  {
+    "id": "05",
+    "filename": "ACU CRS MS5 - 05 - Folder 2, Correspondence and Legal Papers.pdf",
+    "pages": 158,
+    "sha256": "84e92f46ff5208da786ecda5bb9b497766d054a596b8383e760626a975286cbf"
+  },
+  {
+    "id": "06",
+    "filename": "ACU CRS MS5 - 06 - Folder 3, Correspondence and Legal Papers.pdf",
+    "pages": 118,
+    "sha256": "d9ef810f7432dac5f9d1949cea8708f92bb447e8a431a550ea11c22c3a1cce76"
+  }
+]

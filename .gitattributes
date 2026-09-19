@@ -1,0 +1,12 @@
+* text=auto
+*.md text eol=lf
+*.txt text eol=lf
+*.json text eol=lf
+*.jsonl text eol=lf
+*.tsv text eol=lf
+*.html text eol=lf
+*.pdf binary
+*.docx binary
+*.zip binary
+# Preserve exported bytes so the supplied checksum manifests remain valid.
+editions/** -text
