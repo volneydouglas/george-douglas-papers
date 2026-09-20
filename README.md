@@ -36,6 +36,8 @@ A locator such as `05-025-P02` means source PDF 05, scan page 25, transcript blo
 - [Source-to-edition PDF page map](editions/annotated/Supporting-files/PDF-page-map.tsv)
 - [Structured transcript data](editions/annotated/Supporting-files/Transcripts.json)
 - [Review status and remaining work](REVIEW-STATUS.md)
+- [Contextual review of the 1,200 unresolved readings, September 2026](review/uncertain-text-review-2026-09.md)
+- [Research digest for the family history](research/digest-for-the-names-we-carry.md) and [facts table](research/facts.csv)
 - [How to propose a correction](CONTRIBUTING.md)
 
 The original source PDFs are identified by filename and SHA-256 checksum in the catalog; they are not copied into this repository. Consult the scans when verifying a reading. The finding aid describes additional folders 4–7 whose manuscript scans were not supplied and are outside this edition.

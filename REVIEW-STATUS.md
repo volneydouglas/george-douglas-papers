@@ -11,6 +11,10 @@ Status at the initial private repository snapshot, 19 September 2026.
 - The independent family edition is assembled as four PDF/Word pairs and source-organized Markdown readings.
 - The page inventory, source-to-PDF map, correction register, editorial guide, machine-readable data and downloadable packages are included.
 
+## Contextual review, 20 September 2026
+
+- All 1,200 register items were reviewed against the surrounding text, recurring names and formulae, duplicate scans, calendar checks and the independent family edition. The scans were not available to that review, so nothing was resolved: 140 items received a suggested reading with the marker kept, 119 conflicts between the two editions were flagged, 941 were left as they stand. See `review/uncertain-text-review-2026-09.md` and the filled columns of the register TSV. The items listed under "recommended for first image check" are the starting point for anyone with the scans.
+
 ## Remaining scholarly work
 
 - An independent human reader has not checked every transcription against the scans. Layout and export checks establish presentation and consistency, not handwriting accuracy.
