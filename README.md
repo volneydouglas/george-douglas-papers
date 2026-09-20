@@ -6,6 +6,8 @@ An independent family project prepared for Volney Douglas from scans supplied by
 
 Both editions account for all **387 pages of the six supplied source PDFs**. This is complete coverage of the supplied scans, including covers, later labels, envelopes, duplicates and fragments. It does not mean every word has been recovered. The annotated transcript contains **1,200 marked unresolved readings** and has not received an independent human transcription check or ACU approval.
 
+**New review addendum:** [50-item image pilot](review/image-pilot-2026-09/) with a printable report, source crops and corrected draft excerpts. It supports 16 literal readings, verifies 12 clearer-witness links and partly recovers two names. The original edition exports remain intact; these selected results are not a recovery estimate for the rest of the collection.
+
 ## Start reading
 
 | Edition | Purpose | Download |
@@ -37,6 +39,7 @@ A locator such as `05-025-P02` means source PDF 05, scan page 25, transcript blo
 - [Structured transcript data](editions/annotated/Supporting-files/Transcripts.json)
 - [Review status and remaining work](REVIEW-STATUS.md)
 - [Contextual review of the 1,200 unresolved readings, September 2026](review/uncertain-text-review-2026-09.md)
+- [Image review of 50 selected items, with evidence and corrected excerpts](review/image-pilot-2026-09/)
 - [Research digest for the family history](research/digest-for-the-names-we-carry.md) and [facts table](research/facts.csv)
 - [How to propose a correction](CONTRIBUTING.md)
 

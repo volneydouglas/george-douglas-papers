@@ -1,0 +1,251 @@
+{
+  "scope": "Nine selected, image-supported targets within 19 difficult crop regions. Case-insensitive exact target search in concatenated top-ranked lines. Not CER/WER or a full-page benchmark.",
+  "engine": "Apple Vision VNRecognizeTextRequest",
+  "os": "Version 27.0 (Build 26A428)",
+  "completed_runs": 76,
+  "diagnostic_cases": [
+    {
+      "region": "02-003-opening",
+      "target": "Of",
+      "match_expression": "\\bOf\\b",
+      "runs": [
+        {
+          "file": "02-003-opening-original.png",
+          "language_correction": false,
+          "exact_target_in_top_ranked_output": false
+        },
+        {
+          "file": "02-003-opening-original.png",
+          "language_correction": true,
+          "exact_target_in_top_ranked_output": false
+        },
+        {
+          "file": "02-003-opening-contrast.png",
+          "language_correction": false,
+          "exact_target_in_top_ranked_output": false
+        },
+        {
+          "file": "02-003-opening-contrast.png",
+          "language_correction": true,
+          "exact_target_in_top_ranked_output": false
+        }
+      ]
+    },
+    {
+      "region": "04-002-alfred",
+      "target": "Alfred",
+      "match_expression": "\\bAlfred\\b",
+      "runs": [
+        {
+          "file": "04-002-alfred-original.png",
+          "language_correction": false,
+          "exact_target_in_top_ranked_output": false
+        },
+        {
+          "file": "04-002-alfred-original.png",
+          "language_correction": true,
+          "exact_target_in_top_ranked_output": false
+        },
+        {
+          "file": "04-002-alfred-contrast.png",
+          "language_correction": false,
+          "exact_target_in_top_ranked_output": false
+        },
+        {
+          "file": "04-002-alfred-contrast.png",
+          "language_correction": true,
+          "exact_target_in_top_ranked_output": false
+        }
+      ]
+    },
+    {
+      "region": "04-017-denmark",
+      "target": "Denmark",
+      "match_expression": "\\bDenmark\\b",
+      "runs": [
+        {
+          "file": "04-017-denmark-original.png",
+          "language_correction": false,
+          "exact_target_in_top_ranked_output": false
+        },
+        {
+          "file": "04-017-denmark-original.png",
+          "language_correction": true,
+          "exact_target_in_top_ranked_output": false
+        },
+        {
+          "file": "04-017-denmark-contrast.png",
+          "language_correction": false,
+          "exact_target_in_top_ranked_output": false
+        },
+        {
+          "file": "04-017-denmark-contrast.png",
+          "language_correction": true,
+          "exact_target_in_top_ranked_output": false
+        }
+      ]
+    },
+    {
+      "region": "04-079-brushy",
+      "target": "Brushy",
+      "match_expression": "\\bBrushy\\b",
+      "runs": [
+        {
+          "file": "04-079-brushy-original.png",
+          "language_correction": false,
+          "exact_target_in_top_ranked_output": false
+        },
+        {
+          "file": "04-079-brushy-original.png",
+          "language_correction": true,
+          "exact_target_in_top_ranked_output": false
+        },
+        {
+          "file": "04-079-brushy-contrast.png",
+          "language_correction": false,
+          "exact_target_in_top_ranked_output": false
+        },
+        {
+          "file": "04-079-brushy-contrast.png",
+          "language_correction": true,
+          "exact_target_in_top_ranked_output": false
+        }
+      ]
+    },
+    {
+      "region": "04-080-build",
+      "target": "build",
+      "match_expression": "\\bbuild\\b",
+      "runs": [
+        {
+          "file": "04-080-build-original.png",
+          "language_correction": false,
+          "exact_target_in_top_ranked_output": false
+        },
+        {
+          "file": "04-080-build-original.png",
+          "language_correction": true,
+          "exact_target_in_top_ranked_output": false
+        },
+        {
+          "file": "04-080-build-contrast.png",
+          "language_correction": false,
+          "exact_target_in_top_ranked_output": false
+        },
+        {
+          "file": "04-080-build-contrast.png",
+          "language_correction": true,
+          "exact_target_in_top_ranked_output": false
+        }
+      ]
+    },
+    {
+      "region": "05-035-slip",
+      "target": "Sat",
+      "match_expression": "\\bSat\\b",
+      "runs": [
+        {
+          "file": "05-035-slip-original.png",
+          "language_correction": false,
+          "exact_target_in_top_ranked_output": true
+        },
+        {
+          "file": "05-035-slip-original.png",
+          "language_correction": true,
+          "exact_target_in_top_ranked_output": true
+        },
+        {
+          "file": "05-035-slip-contrast.png",
+          "language_correction": false,
+          "exact_target_in_top_ranked_output": true
+        },
+        {
+          "file": "05-035-slip-contrast.png",
+          "language_correction": true,
+          "exact_target_in_top_ranked_output": true
+        }
+      ]
+    },
+    {
+      "region": "05-037-chadsey",
+      "target": "Chadsey's",
+      "match_expression": "\\bChad[\\s-]*sey['\u2019]?s\\b",
+      "runs": [
+        {
+          "file": "05-037-chadsey-original.png",
+          "language_correction": false,
+          "exact_target_in_top_ranked_output": false
+        },
+        {
+          "file": "05-037-chadsey-original.png",
+          "language_correction": true,
+          "exact_target_in_top_ranked_output": false
+        },
+        {
+          "file": "05-037-chadsey-contrast.png",
+          "language_correction": false,
+          "exact_target_in_top_ranked_output": false
+        },
+        {
+          "file": "05-037-chadsey-contrast.png",
+          "language_correction": true,
+          "exact_target_in_top_ranked_output": false
+        }
+      ]
+    },
+    {
+      "region": "06-008-docket",
+      "target": "91",
+      "match_expression": "\\b91\\b",
+      "runs": [
+        {
+          "file": "06-008-docket-original.png",
+          "language_correction": false,
+          "exact_target_in_top_ranked_output": false
+        },
+        {
+          "file": "06-008-docket-original.png",
+          "language_correction": true,
+          "exact_target_in_top_ranked_output": false
+        },
+        {
+          "file": "06-008-docket-contrast.png",
+          "language_correction": false,
+          "exact_target_in_top_ranked_output": false
+        },
+        {
+          "file": "06-008-docket-contrast.png",
+          "language_correction": true,
+          "exact_target_in_top_ranked_output": false
+        }
+      ]
+    },
+    {
+      "region": "06-063-opening",
+      "target": "Claunch",
+      "match_expression": "\\bClaunch\\b",
+      "runs": [
+        {
+          "file": "06-063-opening-original.png",
+          "language_correction": false,
+          "exact_target_in_top_ranked_output": false
+        },
+        {
+          "file": "06-063-opening-original.png",
+          "language_correction": true,
+          "exact_target_in_top_ranked_output": false
+        },
+        {
+          "file": "06-063-opening-contrast.png",
+          "language_correction": false,
+          "exact_target_in_top_ranked_output": false
+        },
+        {
+          "file": "06-063-opening-contrast.png",
+          "language_correction": true,
+          "exact_target_in_top_ranked_output": false
+        }
+      ]
+    }
+  ]
+}

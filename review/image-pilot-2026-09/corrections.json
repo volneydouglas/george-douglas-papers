@@ -1,0 +1,255 @@
+{
+  "status": "Applied only to corrected pilot excerpts; not to v1.0 edition exports",
+  "baseline_commit": "ae16c74",
+  "offset_unit": "Python Unicode code points, zero-based; end exclusive",
+  "patches": [
+    {
+      "item": "02-003-U001",
+      "paragraph_id": "02-003-P01",
+      "paragraph_sha256": "b96ef681c8b492036c2702ddd2f5fa0677f89c97b331173c41c7da6bdf7269d6",
+      "start": 0,
+      "end": 7,
+      "before": "[[Of?]]",
+      "after": "Of",
+      "outcome": "image_supported",
+      "evidence_regions": [
+        "02-003-opening"
+      ]
+    },
+    {
+      "item": "04-002-U007",
+      "paragraph_id": "04-002-P04",
+      "paragraph_sha256": "d4746177c4ebc3be3189037f2eae2dc5b94299eda903c12263ca30b34f876e73",
+      "start": 129,
+      "end": 140,
+      "before": "[[Alfred?]]",
+      "after": "Alfred",
+      "outcome": "image_supported",
+      "evidence_regions": [
+        "04-002-alfred",
+        "06-097-alfred"
+      ]
+    },
+    {
+      "item": "04-017-U003",
+      "paragraph_id": "04-017-P02",
+      "paragraph_sha256": "9ed77155ddc616f94ec8d67c0f880945060ee06a60597f944e787a11350894af",
+      "start": 533,
+      "end": 545,
+      "before": "[[Denmark?]]",
+      "after": "Denmark",
+      "outcome": "image_supported",
+      "evidence_regions": [
+        "04-017-denmark"
+      ]
+    },
+    {
+      "item": "04-043-U002",
+      "paragraph_id": "04-043-P04",
+      "paragraph_sha256": "1e04f6131ccf40c6e87d98f5ad62e643ebd61497b0d017ca65727fba30790b06",
+      "start": 96,
+      "end": 106,
+      "before": "[[S. M.?]]",
+      "after": "Wm L",
+      "outcome": "image_supported",
+      "evidence_regions": [
+        "04-043-signature",
+        "04-044-signature",
+        "05-151-hancock",
+        "05-157-hancock"
+      ]
+    },
+    {
+      "item": "04-043-U003",
+      "paragraph_id": "04-043-P06",
+      "paragraph_sha256": "5f7b589f5e9b46a6ccd5c665bd0f2a8748215f114005a7fa9067337b97b5eb4c",
+      "start": 29,
+      "end": 38,
+      "before": "[[Rusk?]]",
+      "after": "Hood",
+      "outcome": "image_supported",
+      "evidence_regions": [
+        "04-043-county",
+        "04-044-county"
+      ]
+    },
+    {
+      "item": "04-044-U003",
+      "paragraph_id": "04-044-P02",
+      "paragraph_sha256": "e27ce6cce0fd32dd0509949e5c5113182fc3cd55ac62f2b2e386bf23ec1cc8a8",
+      "start": 96,
+      "end": 106,
+      "before": "[[S. M.?]]",
+      "after": "Wm L",
+      "outcome": "image_supported",
+      "evidence_regions": [
+        "04-044-signature",
+        "05-151-hancock",
+        "05-157-hancock"
+      ]
+    },
+    {
+      "item": "04-079-U002",
+      "paragraph_id": "04-079-P01",
+      "paragraph_sha256": "02fcd7b98940acdf05d8c24edbe604a3afd3886e6271591c8b6bdc831950f2d1",
+      "start": 464,
+      "end": 474,
+      "before": "[[Burky?]]",
+      "after": "Brushy",
+      "outcome": "image_supported",
+      "evidence_regions": [
+        "04-079-brushy"
+      ]
+    },
+    {
+      "item": "04-080-U001",
+      "paragraph_id": "04-080-P01",
+      "paragraph_sha256": "fef915927bd57aca0816744e9099cd33f44f1fd940cb695da848485bfa24a36c",
+      "start": 306,
+      "end": 317,
+      "before": "[[Hedlie?]]",
+      "after": "build",
+      "outcome": "image_supported",
+      "evidence_regions": [
+        "04-080-build",
+        "04-080-build-exemplar"
+      ]
+    },
+    {
+      "item": "05-024-U001",
+      "paragraph_id": "05-024-P02",
+      "paragraph_sha256": "14ee5ab10d8133c26e9020964f6333423795de015c7d18bc93f5759736194260",
+      "start": 41,
+      "end": 47,
+      "before": "[[A?]]",
+      "after": "F",
+      "outcome": "image_supported",
+      "evidence_regions": [
+        "05-024-docket",
+        "05-026-hawkins"
+      ]
+    },
+    {
+      "item": "05-035-U001",
+      "paragraph_id": "05-035-P01",
+      "paragraph_sha256": "20c5d0763e7dd14166d0f33651f71bc66797096345f17d94cf844aa835d4ad7a",
+      "start": 113,
+      "end": 121,
+      "before": "[[Sat?]]",
+      "after": "Sat",
+      "outcome": "image_supported",
+      "evidence_regions": [
+        "05-035-slip",
+        "05-036-heading"
+      ]
+    },
+    {
+      "item": "05-037-U001",
+      "paragraph_id": "05-037-P01",
+      "paragraph_sha256": "ffafcd9a415113099560b5bc4371f897140ae2171ce15f309ac5c5cb8add5e40",
+      "start": 89,
+      "end": 101,
+      "before": "[[Chadens?]]",
+      "after": "Chadsey's",
+      "outcome": "image_supported",
+      "evidence_regions": [
+        "05-037-chadsey"
+      ]
+    },
+    {
+      "item": "05-142-U002",
+      "paragraph_id": "05-142-P03",
+      "paragraph_sha256": "a463f41777d2788d055f830c278b9602771a96af3abfde4d7e507e4f9f4e66a3",
+      "start": 72,
+      "end": 82,
+      "before": "[[Ellis?]]",
+      "after": "Ellis",
+      "outcome": "image_supported",
+      "evidence_regions": [
+        "05-142-certificate"
+      ]
+    },
+    {
+      "item": "05-142-U012",
+      "paragraph_id": "05-142-P03",
+      "paragraph_sha256": "a463f41777d2788d055f830c278b9602771a96af3abfde4d7e507e4f9f4e66a3",
+      "start": 702,
+      "end": 712,
+      "before": "[[Ellis?]]",
+      "after": "Ellis",
+      "outcome": "image_supported",
+      "evidence_regions": [
+        "05-142-certificate"
+      ]
+    },
+    {
+      "item": "05-149-U001",
+      "paragraph_id": "05-149-P02",
+      "paragraph_sha256": "ca8bc0a5729c10b42af07b23235dea7a9902525326d7ebb5c6b807c8c03cc684",
+      "start": 10,
+      "end": 27,
+      "before": "[[Raept Sudris?]]",
+      "after": "[[illegible: given name]] Guthrie",
+      "outcome": "partial_reading",
+      "evidence_regions": [
+        "05-149-opening",
+        "05-149-ending"
+      ]
+    },
+    {
+      "item": "05-149-U003",
+      "paragraph_id": "05-149-P03",
+      "paragraph_sha256": "badc6cd4c74082a73f35029800569e6fd5c63a45c6453d81d725a35ca10b3214",
+      "start": 63,
+      "end": 80,
+      "before": "[[Raept Sudris?]]",
+      "after": "[[illegible: given name]] Guthrie",
+      "outcome": "partial_reading",
+      "evidence_regions": [
+        "05-149-ending",
+        "05-149-opening"
+      ]
+    },
+    {
+      "item": "06-008-U003",
+      "paragraph_id": "06-008-P02",
+      "paragraph_sha256": "75a56a370b5dec9bab728fff8eb6c268c201d52f181bda9e6b24d933b9c601bb",
+      "start": 334,
+      "end": 341,
+      "before": "[[91?]]",
+      "after": "91",
+      "outcome": "image_supported",
+      "evidence_regions": [
+        "06-008-docket",
+        "06-011-record"
+      ]
+    },
+    {
+      "item": "06-063-U001",
+      "paragraph_id": "06-063-P01",
+      "paragraph_sha256": "dca836b71449247186c24e57a6cd025e9b5d77d1fdf077e886f313c80e02ecc9",
+      "start": 66,
+      "end": 78,
+      "before": "[[Stinnet?]]",
+      "after": "Claunch",
+      "outcome": "image_supported",
+      "evidence_regions": [
+        "06-063-opening",
+        "04-017-claunch"
+      ]
+    },
+    {
+      "item": "06-063-U002",
+      "paragraph_id": "06-063-P01",
+      "paragraph_sha256": "dca836b71449247186c24e57a6cd025e9b5d77d1fdf077e886f313c80e02ecc9",
+      "start": 100,
+      "end": 106,
+      "before": "[[S?]]",
+      "after": "C",
+      "outcome": "image_supported",
+      "evidence_regions": [
+        "06-063-opening"
+      ]
+    }
+  ]
+}

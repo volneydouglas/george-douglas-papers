@@ -1,0 +1,1488 @@
+[
+  {
+    "id": "02-003-opening",
+    "page": "02-003",
+    "box": [
+      160,
+      200,
+      1500,
+      560
+    ],
+    "source": {
+      "id": "02",
+      "filename": "ACU CRS MS5 - 02 - L. Douglas Sermon Notes, 16 Feb 1883.pdf",
+      "pages": 4,
+      "sha256": "d0f97a4967414638c7ebf74064633a5571f39f6cb6d753971b79bed17d75daed"
+    },
+    "native_size": [
+      2580,
+      4182
+    ],
+    "rotation_ccw": 0,
+    "coordinate_system": "Pixels on rotated native embedded image, origin top-left; left, top, right, bottom; no resampling",
+    "processing": "original: convert embedded image to RGB; exact 90-degree rotation; crop. contrast: PIL grayscale, autocontrast cutoff 1% at each tail. gamma (when present): grayscale then round(255*(pixel/255)**exponent). No generative processing.",
+    "gamma_exponent": null,
+    "files": {
+      "original": {
+        "path": "images/02-003-opening-original.png",
+        "sha256": "e760b6ffc7d521135f449789d92a22ad2a7e3583be8a061642eb61245ef6b872"
+      },
+      "contrast": {
+        "path": "images/02-003-opening-contrast.png",
+        "sha256": "6d784d5a99596df0c830638ed5e23a71488b124b6fa8340dfbd113ee4fedaeb1"
+      }
+    }
+  },
+  {
+    "id": "04-002-place",
+    "page": "04-002",
+    "box": [
+      350,
+      850,
+      2040,
+      1110
+    ],
+    "source": {
+      "id": "04",
+      "filename": "ACU CRS MS5 - 04 - Folder 1, Correspondence and Loan Papers.pdf",
+      "pages": 96,
+      "sha256": "5c93172385acbe177e2cfb2f190f58fbd534ee5a468be3843ad6dc6ae91ed2bb"
+    },
+    "native_size": [
+      2131,
+      2785
+    ],
+    "rotation_ccw": 180,
+    "coordinate_system": "Pixels on rotated native embedded image, origin top-left; left, top, right, bottom; no resampling",
+    "processing": "original: convert embedded image to RGB; exact 90-degree rotation; crop. contrast: PIL grayscale, autocontrast cutoff 1% at each tail. gamma (when present): grayscale then round(255*(pixel/255)**exponent). No generative processing.",
+    "gamma_exponent": null,
+    "files": {
+      "original": {
+        "path": "images/04-002-place-original.png",
+        "sha256": "ef03afb9767799d5945062534a09d05faa0f219a7e1c3fd322837baf26248aea"
+      },
+      "contrast": {
+        "path": "images/04-002-place-contrast.png",
+        "sha256": "aef3a6f256f351ad4833618a2c8b3075622a369c20b01a8ecb9341ca4d9661ed"
+      }
+    }
+  },
+  {
+    "id": "04-002-alfred",
+    "page": "04-002",
+    "box": [
+      350,
+      1340,
+      2040,
+      1690
+    ],
+    "source": {
+      "id": "04",
+      "filename": "ACU CRS MS5 - 04 - Folder 1, Correspondence and Loan Papers.pdf",
+      "pages": 96,
+      "sha256": "5c93172385acbe177e2cfb2f190f58fbd534ee5a468be3843ad6dc6ae91ed2bb"
+    },
+    "native_size": [
+      2131,
+      2785
+    ],
+    "rotation_ccw": 180,
+    "coordinate_system": "Pixels on rotated native embedded image, origin top-left; left, top, right, bottom; no resampling",
+    "processing": "original: convert embedded image to RGB; exact 90-degree rotation; crop. contrast: PIL grayscale, autocontrast cutoff 1% at each tail. gamma (when present): grayscale then round(255*(pixel/255)**exponent). No generative processing.",
+    "gamma_exponent": null,
+    "files": {
+      "original": {
+        "path": "images/04-002-alfred-original.png",
+        "sha256": "6e27cfda35ceb1a94311336db273896d7b8734f7175caed04df3617e0c00da70"
+      },
+      "contrast": {
+        "path": "images/04-002-alfred-contrast.png",
+        "sha256": "2ab25e5c45ce1117714bb19393cdb0e90d0e9e7ebad6bc633c0269505967ed4e"
+      }
+    }
+  },
+  {
+    "id": "04-002-signature",
+    "page": "04-002",
+    "box": [
+      1250,
+      2090,
+      2040,
+      2350
+    ],
+    "source": {
+      "id": "04",
+      "filename": "ACU CRS MS5 - 04 - Folder 1, Correspondence and Loan Papers.pdf",
+      "pages": 96,
+      "sha256": "5c93172385acbe177e2cfb2f190f58fbd534ee5a468be3843ad6dc6ae91ed2bb"
+    },
+    "native_size": [
+      2131,
+      2785
+    ],
+    "rotation_ccw": 180,
+    "coordinate_system": "Pixels on rotated native embedded image, origin top-left; left, top, right, bottom; no resampling",
+    "processing": "original: convert embedded image to RGB; exact 90-degree rotation; crop. contrast: PIL grayscale, autocontrast cutoff 1% at each tail. gamma (when present): grayscale then round(255*(pixel/255)**exponent). No generative processing.",
+    "gamma_exponent": null,
+    "files": {
+      "original": {
+        "path": "images/04-002-signature-original.png",
+        "sha256": "75c7e2bc04e70a3de689c80c295c36754d9cf12b8aba025847faddd4e9fc3c39"
+      },
+      "contrast": {
+        "path": "images/04-002-signature-contrast.png",
+        "sha256": "dc279ea758e9a0be6cf55e341c7134a617586b0b57df5a7e65348e6debc5d46b"
+      }
+    }
+  },
+  {
+    "id": "04-017-heading",
+    "page": "04-017",
+    "box": [
+      1300,
+      50,
+      2050,
+      290
+    ],
+    "source": {
+      "id": "04",
+      "filename": "ACU CRS MS5 - 04 - Folder 1, Correspondence and Loan Papers.pdf",
+      "pages": 96,
+      "sha256": "5c93172385acbe177e2cfb2f190f58fbd534ee5a468be3843ad6dc6ae91ed2bb"
+    },
+    "native_size": [
+      2650,
+      2086
+    ],
+    "rotation_ccw": 90,
+    "coordinate_system": "Pixels on rotated native embedded image, origin top-left; left, top, right, bottom; no resampling",
+    "processing": "original: convert embedded image to RGB; exact 90-degree rotation; crop. contrast: PIL grayscale, autocontrast cutoff 1% at each tail. gamma (when present): grayscale then round(255*(pixel/255)**exponent). No generative processing.",
+    "gamma_exponent": null,
+    "files": {
+      "original": {
+        "path": "images/04-017-heading-original.png",
+        "sha256": "ed595f22256b7d947663610fcdb3f0b738ba195ca486eb574c8e7f75e99d5451"
+      },
+      "contrast": {
+        "path": "images/04-017-heading-contrast.png",
+        "sha256": "2dacf0512ca31d7e51ae5a1e797fd00e33cdd56f25d2918858201f1a6904d551"
+      }
+    }
+  },
+  {
+    "id": "04-017-denmark",
+    "page": "04-017",
+    "box": [
+      200,
+      620,
+      2086,
+      810
+    ],
+    "source": {
+      "id": "04",
+      "filename": "ACU CRS MS5 - 04 - Folder 1, Correspondence and Loan Papers.pdf",
+      "pages": 96,
+      "sha256": "5c93172385acbe177e2cfb2f190f58fbd534ee5a468be3843ad6dc6ae91ed2bb"
+    },
+    "native_size": [
+      2650,
+      2086
+    ],
+    "rotation_ccw": 90,
+    "coordinate_system": "Pixels on rotated native embedded image, origin top-left; left, top, right, bottom; no resampling",
+    "processing": "original: convert embedded image to RGB; exact 90-degree rotation; crop. contrast: PIL grayscale, autocontrast cutoff 1% at each tail. gamma (when present): grayscale then round(255*(pixel/255)**exponent). No generative processing.",
+    "gamma_exponent": null,
+    "files": {
+      "original": {
+        "path": "images/04-017-denmark-original.png",
+        "sha256": "496753a6a8f3851ca6a324c715f2e0b529c7f4bcfa60a226de9ca07d61abb1d2"
+      },
+      "contrast": {
+        "path": "images/04-017-denmark-contrast.png",
+        "sha256": "db79f0198b7cf3093338347b5d1a7b20567fca65f1e07993eb336a48619f9089"
+      }
+    }
+  },
+  {
+    "id": "04-017-claunch",
+    "page": "04-017",
+    "box": [
+      250,
+      1240,
+      2030,
+      1440
+    ],
+    "source": {
+      "id": "04",
+      "filename": "ACU CRS MS5 - 04 - Folder 1, Correspondence and Loan Papers.pdf",
+      "pages": 96,
+      "sha256": "5c93172385acbe177e2cfb2f190f58fbd534ee5a468be3843ad6dc6ae91ed2bb"
+    },
+    "native_size": [
+      2650,
+      2086
+    ],
+    "rotation_ccw": 90,
+    "coordinate_system": "Pixels on rotated native embedded image, origin top-left; left, top, right, bottom; no resampling",
+    "processing": "original: convert embedded image to RGB; exact 90-degree rotation; crop. contrast: PIL grayscale, autocontrast cutoff 1% at each tail. gamma (when present): grayscale then round(255*(pixel/255)**exponent). No generative processing.",
+    "gamma_exponent": null,
+    "files": {
+      "original": {
+        "path": "images/04-017-claunch-original.png",
+        "sha256": "7067136ab652828b763622e25fe676ff8ddfa7e4f48d31946371183d9471170c"
+      },
+      "contrast": {
+        "path": "images/04-017-claunch-contrast.png",
+        "sha256": "c2fd483ed049fda5991ec88110a8a5f6a9d1c429b7724b8a3a0d37bf4e9e14fa"
+      }
+    }
+  },
+  {
+    "id": "04-043-fold",
+    "page": "04-043",
+    "box": [
+      200,
+      1000,
+      1820,
+      1680
+    ],
+    "source": {
+      "id": "04",
+      "filename": "ACU CRS MS5 - 04 - Folder 1, Correspondence and Loan Papers.pdf",
+      "pages": 96,
+      "sha256": "5c93172385acbe177e2cfb2f190f58fbd534ee5a468be3843ad6dc6ae91ed2bb"
+    },
+    "native_size": [
+      1892,
+      3132
+    ],
+    "rotation_ccw": 0,
+    "coordinate_system": "Pixels on rotated native embedded image, origin top-left; left, top, right, bottom; no resampling",
+    "processing": "original: convert embedded image to RGB; exact 90-degree rotation; crop. contrast: PIL grayscale, autocontrast cutoff 1% at each tail. gamma (when present): grayscale then round(255*(pixel/255)**exponent). No generative processing.",
+    "gamma_exponent": null,
+    "files": {
+      "original": {
+        "path": "images/04-043-fold-original.png",
+        "sha256": "4d5dcd4af52b8eb8310e0db21f38224e1197bceed2d9962a3e4d91c753544a3e"
+      },
+      "contrast": {
+        "path": "images/04-043-fold-contrast.png",
+        "sha256": "67e2138aa223fcc190a9a20491c084128822edc147525ec0171439af7b77d245"
+      }
+    }
+  },
+  {
+    "id": "04-043-signature",
+    "page": "04-043",
+    "box": [
+      200,
+      1650,
+      1780,
+      2040
+    ],
+    "source": {
+      "id": "04",
+      "filename": "ACU CRS MS5 - 04 - Folder 1, Correspondence and Loan Papers.pdf",
+      "pages": 96,
+      "sha256": "5c93172385acbe177e2cfb2f190f58fbd534ee5a468be3843ad6dc6ae91ed2bb"
+    },
+    "native_size": [
+      1892,
+      3132
+    ],
+    "rotation_ccw": 0,
+    "coordinate_system": "Pixels on rotated native embedded image, origin top-left; left, top, right, bottom; no resampling",
+    "processing": "original: convert embedded image to RGB; exact 90-degree rotation; crop. contrast: PIL grayscale, autocontrast cutoff 1% at each tail. gamma (when present): grayscale then round(255*(pixel/255)**exponent). No generative processing.",
+    "gamma_exponent": null,
+    "files": {
+      "original": {
+        "path": "images/04-043-signature-original.png",
+        "sha256": "08d1c0dde939007c5c5e181d7f767ad9dced5acba06873d5466b0d3bb976ef5a"
+      },
+      "contrast": {
+        "path": "images/04-043-signature-contrast.png",
+        "sha256": "e00a76381c01044d9b3103236702f734e60e4869bb6bd47d45552e6c4d3d16b7"
+      }
+    }
+  },
+  {
+    "id": "04-043-county",
+    "page": "04-043",
+    "box": [
+      260,
+      2160,
+      1800,
+      2540
+    ],
+    "source": {
+      "id": "04",
+      "filename": "ACU CRS MS5 - 04 - Folder 1, Correspondence and Loan Papers.pdf",
+      "pages": 96,
+      "sha256": "5c93172385acbe177e2cfb2f190f58fbd534ee5a468be3843ad6dc6ae91ed2bb"
+    },
+    "native_size": [
+      1892,
+      3132
+    ],
+    "rotation_ccw": 0,
+    "coordinate_system": "Pixels on rotated native embedded image, origin top-left; left, top, right, bottom; no resampling",
+    "processing": "original: convert embedded image to RGB; exact 90-degree rotation; crop. contrast: PIL grayscale, autocontrast cutoff 1% at each tail. gamma (when present): grayscale then round(255*(pixel/255)**exponent). No generative processing.",
+    "gamma_exponent": null,
+    "files": {
+      "original": {
+        "path": "images/04-043-county-original.png",
+        "sha256": "a7d3cf9d05b5476bd1aa1f238179753254d97fe57dbfd42703c5246c01745581"
+      },
+      "contrast": {
+        "path": "images/04-043-county-contrast.png",
+        "sha256": "c8521c5778c2a3a268c1cca90b25cbf5a0844360f1bad0cb967d6786641d2810"
+      }
+    }
+  },
+  {
+    "id": "04-043-ending",
+    "page": "04-043",
+    "box": [
+      230,
+      2730,
+      1810,
+      3132
+    ],
+    "source": {
+      "id": "04",
+      "filename": "ACU CRS MS5 - 04 - Folder 1, Correspondence and Loan Papers.pdf",
+      "pages": 96,
+      "sha256": "5c93172385acbe177e2cfb2f190f58fbd534ee5a468be3843ad6dc6ae91ed2bb"
+    },
+    "native_size": [
+      1892,
+      3132
+    ],
+    "rotation_ccw": 0,
+    "coordinate_system": "Pixels on rotated native embedded image, origin top-left; left, top, right, bottom; no resampling",
+    "processing": "original: convert embedded image to RGB; exact 90-degree rotation; crop. contrast: PIL grayscale, autocontrast cutoff 1% at each tail. gamma (when present): grayscale then round(255*(pixel/255)**exponent). No generative processing.",
+    "gamma_exponent": null,
+    "files": {
+      "original": {
+        "path": "images/04-043-ending-original.png",
+        "sha256": "4d4a2dc96837bd6af6b928191abaf5cbc5269dfd806954f365fafb51b8f6c911"
+      },
+      "contrast": {
+        "path": "images/04-043-ending-contrast.png",
+        "sha256": "2ca7fca4f0b1db0d0313ae65e5e6b0cd437f35b93f4d7c03ceef898a4c9e373c"
+      }
+    }
+  },
+  {
+    "id": "04-044-opening",
+    "page": "04-044",
+    "box": [
+      0,
+      0,
+      1600,
+      640
+    ],
+    "source": {
+      "id": "04",
+      "filename": "ACU CRS MS5 - 04 - Folder 1, Correspondence and Loan Papers.pdf",
+      "pages": 96,
+      "sha256": "5c93172385acbe177e2cfb2f190f58fbd534ee5a468be3843ad6dc6ae91ed2bb"
+    },
+    "native_size": [
+      1640,
+      2428
+    ],
+    "rotation_ccw": 0,
+    "coordinate_system": "Pixels on rotated native embedded image, origin top-left; left, top, right, bottom; no resampling",
+    "processing": "original: convert embedded image to RGB; exact 90-degree rotation; crop. contrast: PIL grayscale, autocontrast cutoff 1% at each tail. gamma (when present): grayscale then round(255*(pixel/255)**exponent). No generative processing.",
+    "gamma_exponent": null,
+    "files": {
+      "original": {
+        "path": "images/04-044-opening-original.png",
+        "sha256": "af4f45f84c6a7224a96ece339149690ce711fc8d626d6bd5b3b8fb5a5eb61794"
+      },
+      "contrast": {
+        "path": "images/04-044-opening-contrast.png",
+        "sha256": "b1fceb0af3f9275836f14dc734a4569f01075c36328f6fea40be367589a59ca5"
+      }
+    }
+  },
+  {
+    "id": "04-044-signature",
+    "page": "04-044",
+    "box": [
+      30,
+      550,
+      1550,
+      1020
+    ],
+    "source": {
+      "id": "04",
+      "filename": "ACU CRS MS5 - 04 - Folder 1, Correspondence and Loan Papers.pdf",
+      "pages": 96,
+      "sha256": "5c93172385acbe177e2cfb2f190f58fbd534ee5a468be3843ad6dc6ae91ed2bb"
+    },
+    "native_size": [
+      1640,
+      2428
+    ],
+    "rotation_ccw": 0,
+    "coordinate_system": "Pixels on rotated native embedded image, origin top-left; left, top, right, bottom; no resampling",
+    "processing": "original: convert embedded image to RGB; exact 90-degree rotation; crop. contrast: PIL grayscale, autocontrast cutoff 1% at each tail. gamma (when present): grayscale then round(255*(pixel/255)**exponent). No generative processing.",
+    "gamma_exponent": null,
+    "files": {
+      "original": {
+        "path": "images/04-044-signature-original.png",
+        "sha256": "b89f4acbbe0733589c69ca4ec8934e534c2db31c9eeb2aec568800646216bf70"
+      },
+      "contrast": {
+        "path": "images/04-044-signature-contrast.png",
+        "sha256": "72748d3f53f9231b74c1bf1e45897a8718e9256036e7c9884ec8c91e1ecc5e19"
+      }
+    }
+  },
+  {
+    "id": "04-044-county",
+    "page": "04-044",
+    "box": [
+      50,
+      1050,
+      1600,
+      1470
+    ],
+    "source": {
+      "id": "04",
+      "filename": "ACU CRS MS5 - 04 - Folder 1, Correspondence and Loan Papers.pdf",
+      "pages": 96,
+      "sha256": "5c93172385acbe177e2cfb2f190f58fbd534ee5a468be3843ad6dc6ae91ed2bb"
+    },
+    "native_size": [
+      1640,
+      2428
+    ],
+    "rotation_ccw": 0,
+    "coordinate_system": "Pixels on rotated native embedded image, origin top-left; left, top, right, bottom; no resampling",
+    "processing": "original: convert embedded image to RGB; exact 90-degree rotation; crop. contrast: PIL grayscale, autocontrast cutoff 1% at each tail. gamma (when present): grayscale then round(255*(pixel/255)**exponent). No generative processing.",
+    "gamma_exponent": null,
+    "files": {
+      "original": {
+        "path": "images/04-044-county-original.png",
+        "sha256": "4f0c9d80410912cd3912c036e0ad24e63416bd00e0db133e70d0c842d6749270"
+      },
+      "contrast": {
+        "path": "images/04-044-county-contrast.png",
+        "sha256": "9803fba570875bb243c204373a4f1303ba7f9c9a8394948e34896bd88fc36fc2"
+      }
+    }
+  },
+  {
+    "id": "04-044-ending",
+    "page": "04-044",
+    "box": [
+      80,
+      1710,
+      1610,
+      2428
+    ],
+    "source": {
+      "id": "04",
+      "filename": "ACU CRS MS5 - 04 - Folder 1, Correspondence and Loan Papers.pdf",
+      "pages": 96,
+      "sha256": "5c93172385acbe177e2cfb2f190f58fbd534ee5a468be3843ad6dc6ae91ed2bb"
+    },
+    "native_size": [
+      1640,
+      2428
+    ],
+    "rotation_ccw": 0,
+    "coordinate_system": "Pixels on rotated native embedded image, origin top-left; left, top, right, bottom; no resampling",
+    "processing": "original: convert embedded image to RGB; exact 90-degree rotation; crop. contrast: PIL grayscale, autocontrast cutoff 1% at each tail. gamma (when present): grayscale then round(255*(pixel/255)**exponent). No generative processing.",
+    "gamma_exponent": null,
+    "files": {
+      "original": {
+        "path": "images/04-044-ending-original.png",
+        "sha256": "b8b347cee827b10c9b199c97a7dd845ccb5c11361f10506dcc6dd0e2ecedfb13"
+      },
+      "contrast": {
+        "path": "images/04-044-ending-contrast.png",
+        "sha256": "67e02e76efdcf1e0c9a78b8f5ba9a1a0642bdbd479120bbe4e38ffcf57c68ed7"
+      }
+    }
+  },
+  {
+    "id": "04-079-brushy",
+    "page": "04-079",
+    "box": [
+      40,
+      1180,
+      1690,
+      1510
+    ],
+    "source": {
+      "id": "04",
+      "filename": "ACU CRS MS5 - 04 - Folder 1, Correspondence and Loan Papers.pdf",
+      "pages": 96,
+      "sha256": "5c93172385acbe177e2cfb2f190f58fbd534ee5a468be3843ad6dc6ae91ed2bb"
+    },
+    "native_size": [
+      1875,
+      2526
+    ],
+    "rotation_ccw": 0,
+    "coordinate_system": "Pixels on rotated native embedded image, origin top-left; left, top, right, bottom; no resampling",
+    "processing": "original: convert embedded image to RGB; exact 90-degree rotation; crop. contrast: PIL grayscale, autocontrast cutoff 1% at each tail. gamma (when present): grayscale then round(255*(pixel/255)**exponent). No generative processing.",
+    "gamma_exponent": null,
+    "files": {
+      "original": {
+        "path": "images/04-079-brushy-original.png",
+        "sha256": "0223dca9a1170b432d0eeeced8ce0b91c2b2e1d1182392f6e3f92fdd33bd97bf"
+      },
+      "contrast": {
+        "path": "images/04-079-brushy-contrast.png",
+        "sha256": "e97c5f3487326492c678ebf0f00ecc49fdd476be976aced428f47983a5b020a3"
+      }
+    }
+  },
+  {
+    "id": "04-080-build",
+    "page": "04-080",
+    "box": [
+      20,
+      880,
+      1820,
+      1160
+    ],
+    "source": {
+      "id": "04",
+      "filename": "ACU CRS MS5 - 04 - Folder 1, Correspondence and Loan Papers.pdf",
+      "pages": 96,
+      "sha256": "5c93172385acbe177e2cfb2f190f58fbd534ee5a468be3843ad6dc6ae91ed2bb"
+    },
+    "native_size": [
+      1958,
+      2541
+    ],
+    "rotation_ccw": 0,
+    "coordinate_system": "Pixels on rotated native embedded image, origin top-left; left, top, right, bottom; no resampling",
+    "processing": "original: convert embedded image to RGB; exact 90-degree rotation; crop. contrast: PIL grayscale, autocontrast cutoff 1% at each tail. gamma (when present): grayscale then round(255*(pixel/255)**exponent). No generative processing.",
+    "gamma_exponent": null,
+    "files": {
+      "original": {
+        "path": "images/04-080-build-original.png",
+        "sha256": "6b9ed8a3bdd4df28e21f77d4b98edc68c1bc571ec7facaba350a29c405d7b53f"
+      },
+      "contrast": {
+        "path": "images/04-080-build-contrast.png",
+        "sha256": "088218ec1e1a75b27c91b7a1b91c5ff61b822433cc146d087011f5b5433b54b2"
+      }
+    }
+  },
+  {
+    "id": "04-080-build-exemplar",
+    "page": "04-080",
+    "box": [
+      30,
+      1720,
+      1830,
+      1930
+    ],
+    "source": {
+      "id": "04",
+      "filename": "ACU CRS MS5 - 04 - Folder 1, Correspondence and Loan Papers.pdf",
+      "pages": 96,
+      "sha256": "5c93172385acbe177e2cfb2f190f58fbd534ee5a468be3843ad6dc6ae91ed2bb"
+    },
+    "native_size": [
+      1958,
+      2541
+    ],
+    "rotation_ccw": 0,
+    "coordinate_system": "Pixels on rotated native embedded image, origin top-left; left, top, right, bottom; no resampling",
+    "processing": "original: convert embedded image to RGB; exact 90-degree rotation; crop. contrast: PIL grayscale, autocontrast cutoff 1% at each tail. gamma (when present): grayscale then round(255*(pixel/255)**exponent). No generative processing.",
+    "gamma_exponent": null,
+    "files": {
+      "original": {
+        "path": "images/04-080-build-exemplar-original.png",
+        "sha256": "75a52b3dfd7f7986f08db41da8b2a97fd3c239009020d4097b72cc979fd485a8"
+      },
+      "contrast": {
+        "path": "images/04-080-build-exemplar-contrast.png",
+        "sha256": "ffa817730208ac00cafab6770897cb2cdaca0a523e19da9d674539984540ba2c"
+      }
+    }
+  },
+  {
+    "id": "05-024-docket",
+    "page": "05-024",
+    "box": [
+      820,
+      730,
+      1520,
+      1170
+    ],
+    "source": {
+      "id": "05",
+      "filename": "ACU CRS MS5 - 05 - Folder 2, Correspondence and Legal Papers.pdf",
+      "pages": 158,
+      "sha256": "84e92f46ff5208da786ecda5bb9b497766d054a596b8383e760626a975286cbf"
+    },
+    "native_size": [
+      2021,
+      2594
+    ],
+    "rotation_ccw": 270,
+    "coordinate_system": "Pixels on rotated native embedded image, origin top-left; left, top, right, bottom; no resampling",
+    "processing": "original: convert embedded image to RGB; exact 90-degree rotation; crop. contrast: PIL grayscale, autocontrast cutoff 1% at each tail. gamma (when present): grayscale then round(255*(pixel/255)**exponent). No generative processing.",
+    "gamma_exponent": null,
+    "files": {
+      "original": {
+        "path": "images/05-024-docket-original.png",
+        "sha256": "3a657c054929ef02ea33abdbf099b1bdf6fb90d02b9d3f19cca742829dced893"
+      },
+      "contrast": {
+        "path": "images/05-024-docket-contrast.png",
+        "sha256": "363bd41cfc82da1f2abb61d590da105b45701808639e1e6d646c48b1bf5d0bac"
+      }
+    }
+  },
+  {
+    "id": "05-026-hawkins",
+    "page": "05-026",
+    "box": [
+      770,
+      990,
+      1890,
+      1260
+    ],
+    "source": {
+      "id": "05",
+      "filename": "ACU CRS MS5 - 05 - Folder 2, Correspondence and Legal Papers.pdf",
+      "pages": 158,
+      "sha256": "84e92f46ff5208da786ecda5bb9b497766d054a596b8383e760626a975286cbf"
+    },
+    "native_size": [
+      1923,
+      2438
+    ],
+    "rotation_ccw": 0,
+    "coordinate_system": "Pixels on rotated native embedded image, origin top-left; left, top, right, bottom; no resampling",
+    "processing": "original: convert embedded image to RGB; exact 90-degree rotation; crop. contrast: PIL grayscale, autocontrast cutoff 1% at each tail. gamma (when present): grayscale then round(255*(pixel/255)**exponent). No generative processing.",
+    "gamma_exponent": null,
+    "files": {
+      "original": {
+        "path": "images/05-026-hawkins-original.png",
+        "sha256": "5d7f3dff8a075c1a94016fb2ccb93d07f9a1c4b66c4c64a0eebcc535a99cc9b6"
+      },
+      "contrast": {
+        "path": "images/05-026-hawkins-contrast.png",
+        "sha256": "50c158991de124ca3749f004063fd8234ec7582abb35a507a5669849f3a8dc68"
+      }
+    }
+  },
+  {
+    "id": "05-035-slip",
+    "page": "05-035",
+    "box": [
+      640,
+      150,
+      1500,
+      890
+    ],
+    "source": {
+      "id": "05",
+      "filename": "ACU CRS MS5 - 05 - Folder 2, Correspondence and Legal Papers.pdf",
+      "pages": 158,
+      "sha256": "84e92f46ff5208da786ecda5bb9b497766d054a596b8383e760626a975286cbf"
+    },
+    "native_size": [
+      1857,
+      2475
+    ],
+    "rotation_ccw": 0,
+    "coordinate_system": "Pixels on rotated native embedded image, origin top-left; left, top, right, bottom; no resampling",
+    "processing": "original: convert embedded image to RGB; exact 90-degree rotation; crop. contrast: PIL grayscale, autocontrast cutoff 1% at each tail. gamma (when present): grayscale then round(255*(pixel/255)**exponent). No generative processing.",
+    "gamma_exponent": null,
+    "files": {
+      "original": {
+        "path": "images/05-035-slip-original.png",
+        "sha256": "84a60a348120c6cedc69984f3f362f24f64ba7ad3c321d4dca023a49edf78965"
+      },
+      "contrast": {
+        "path": "images/05-035-slip-contrast.png",
+        "sha256": "37d7edafb2a9a7dde3b32961fcc80d5b81a81f2e948f51ff0606b63e82e315e4"
+      }
+    }
+  },
+  {
+    "id": "05-036-heading",
+    "page": "05-036",
+    "box": [
+      450,
+      0,
+      1710,
+      600
+    ],
+    "source": {
+      "id": "05",
+      "filename": "ACU CRS MS5 - 05 - Folder 2, Correspondence and Legal Papers.pdf",
+      "pages": 158,
+      "sha256": "84e92f46ff5208da786ecda5bb9b497766d054a596b8383e760626a975286cbf"
+    },
+    "native_size": [
+      1962,
+      2616
+    ],
+    "rotation_ccw": 0,
+    "coordinate_system": "Pixels on rotated native embedded image, origin top-left; left, top, right, bottom; no resampling",
+    "processing": "original: convert embedded image to RGB; exact 90-degree rotation; crop. contrast: PIL grayscale, autocontrast cutoff 1% at each tail. gamma (when present): grayscale then round(255*(pixel/255)**exponent). No generative processing.",
+    "gamma_exponent": null,
+    "files": {
+      "original": {
+        "path": "images/05-036-heading-original.png",
+        "sha256": "afd76cd23253526da4775c935881d7b82fada4a113e22ac4e7d3fc4af3354695"
+      },
+      "contrast": {
+        "path": "images/05-036-heading-contrast.png",
+        "sha256": "245891f16254b6e4b6affa2e0cb2148dbe27047d64f2f0113d4121e5e5f89bab"
+      }
+    }
+  },
+  {
+    "id": "05-037-chadsey",
+    "page": "05-037",
+    "box": [
+      420,
+      900,
+      1590,
+      1200
+    ],
+    "source": {
+      "id": "05",
+      "filename": "ACU CRS MS5 - 05 - Folder 2, Correspondence and Legal Papers.pdf",
+      "pages": 158,
+      "sha256": "84e92f46ff5208da786ecda5bb9b497766d054a596b8383e760626a975286cbf"
+    },
+    "native_size": [
+      1913,
+      2450
+    ],
+    "rotation_ccw": 0,
+    "coordinate_system": "Pixels on rotated native embedded image, origin top-left; left, top, right, bottom; no resampling",
+    "processing": "original: convert embedded image to RGB; exact 90-degree rotation; crop. contrast: PIL grayscale, autocontrast cutoff 1% at each tail. gamma (when present): grayscale then round(255*(pixel/255)**exponent). No generative processing.",
+    "gamma_exponent": null,
+    "files": {
+      "original": {
+        "path": "images/05-037-chadsey-original.png",
+        "sha256": "3cd6e046566eb8f6836bf448d56a9f8661ce710958fa47295959101f58d083e3"
+      },
+      "contrast": {
+        "path": "images/05-037-chadsey-contrast.png",
+        "sha256": "726315cab2c4740da280a3966eb14c9ff90f3052bc9c0c77c2781578e59eb113"
+      }
+    }
+  },
+  {
+    "id": "05-130-loss",
+    "page": "05-130",
+    "box": [
+      180,
+      1770,
+      1700,
+      2470
+    ],
+    "source": {
+      "id": "05",
+      "filename": "ACU CRS MS5 - 05 - Folder 2, Correspondence and Legal Papers.pdf",
+      "pages": 158,
+      "sha256": "84e92f46ff5208da786ecda5bb9b497766d054a596b8383e760626a975286cbf"
+    },
+    "native_size": [
+      2140,
+      3306
+    ],
+    "rotation_ccw": 180,
+    "coordinate_system": "Pixels on rotated native embedded image, origin top-left; left, top, right, bottom; no resampling",
+    "processing": "original: convert embedded image to RGB; exact 90-degree rotation; crop. contrast: PIL grayscale, autocontrast cutoff 1% at each tail. gamma (when present): grayscale then round(255*(pixel/255)**exponent). No generative processing.",
+    "gamma_exponent": null,
+    "files": {
+      "original": {
+        "path": "images/05-130-loss-original.png",
+        "sha256": "abbe76ee24d4149672c82a39abd3ab3d20602e0e00cbf27f7df5cda54710002e"
+      },
+      "contrast": {
+        "path": "images/05-130-loss-contrast.png",
+        "sha256": "5abb265111302332484636c56f5a573ab28bba96bb1b81f0d9b99e20e894bf7b"
+      }
+    }
+  },
+  {
+    "id": "05-142-certificate",
+    "page": "05-142",
+    "box": [
+      230,
+      2690,
+      1900,
+      3280
+    ],
+    "source": {
+      "id": "05",
+      "filename": "ACU CRS MS5 - 05 - Folder 2, Correspondence and Legal Papers.pdf",
+      "pages": 158,
+      "sha256": "84e92f46ff5208da786ecda5bb9b497766d054a596b8383e760626a975286cbf"
+    },
+    "native_size": [
+      2163,
+      3320
+    ],
+    "rotation_ccw": 0,
+    "coordinate_system": "Pixels on rotated native embedded image, origin top-left; left, top, right, bottom; no resampling",
+    "processing": "original: convert embedded image to RGB; exact 90-degree rotation; crop. contrast: PIL grayscale, autocontrast cutoff 1% at each tail. gamma (when present): grayscale then round(255*(pixel/255)**exponent). No generative processing.",
+    "gamma_exponent": 2.0,
+    "files": {
+      "original": {
+        "path": "images/05-142-certificate-original.png",
+        "sha256": "deacf77d1aaf3f47fcbc3dbef9fb31ed0c6e8fa5eb879d1002aa3cbbd79a7206"
+      },
+      "contrast": {
+        "path": "images/05-142-certificate-contrast.png",
+        "sha256": "83e87abef716592d69904de2481157fb3af2dffdf713526c8dfffaf505bc1700"
+      },
+      "gamma": {
+        "path": "images/05-142-certificate-gamma.png",
+        "sha256": "2a7fee5f33ce84dc854619d7b145f90255c731ce51e88d52f98ac1c0d91da629"
+      }
+    }
+  },
+  {
+    "id": "05-145-survey",
+    "page": "05-145",
+    "box": [
+      320,
+      2030,
+      1960,
+      2950
+    ],
+    "source": {
+      "id": "05",
+      "filename": "ACU CRS MS5 - 05 - Folder 2, Correspondence and Legal Papers.pdf",
+      "pages": 158,
+      "sha256": "84e92f46ff5208da786ecda5bb9b497766d054a596b8383e760626a975286cbf"
+    },
+    "native_size": [
+      2266,
+      3392
+    ],
+    "rotation_ccw": 180,
+    "coordinate_system": "Pixels on rotated native embedded image, origin top-left; left, top, right, bottom; no resampling",
+    "processing": "original: convert embedded image to RGB; exact 90-degree rotation; crop. contrast: PIL grayscale, autocontrast cutoff 1% at each tail. gamma (when present): grayscale then round(255*(pixel/255)**exponent). No generative processing.",
+    "gamma_exponent": null,
+    "files": {
+      "original": {
+        "path": "images/05-145-survey-original.png",
+        "sha256": "30b7a26eb0f3ab1ed3d233dcd64f993309e1b270281b1f27f1b8ada9ae3f08fc"
+      },
+      "contrast": {
+        "path": "images/05-145-survey-contrast.png",
+        "sha256": "d37ecfe9e5177c887087a4a7168f61e8e2e6add9b31188ba7a1fa3c2750beba3"
+      }
+    }
+  },
+  {
+    "id": "05-146-top",
+    "page": "05-146",
+    "box": [
+      250,
+      590,
+      1970,
+      1120
+    ],
+    "source": {
+      "id": "05",
+      "filename": "ACU CRS MS5 - 05 - Folder 2, Correspondence and Legal Papers.pdf",
+      "pages": 158,
+      "sha256": "84e92f46ff5208da786ecda5bb9b497766d054a596b8383e760626a975286cbf"
+    },
+    "native_size": [
+      2247,
+      3378
+    ],
+    "rotation_ccw": 0,
+    "coordinate_system": "Pixels on rotated native embedded image, origin top-left; left, top, right, bottom; no resampling",
+    "processing": "original: convert embedded image to RGB; exact 90-degree rotation; crop. contrast: PIL grayscale, autocontrast cutoff 1% at each tail. gamma (when present): grayscale then round(255*(pixel/255)**exponent). No generative processing.",
+    "gamma_exponent": null,
+    "files": {
+      "original": {
+        "path": "images/05-146-top-original.png",
+        "sha256": "6a0333729a7b46f668f1caf0df2d62e77f218fd98954bc930b48c823fa0ce058"
+      },
+      "contrast": {
+        "path": "images/05-146-top-contrast.png",
+        "sha256": "68473dae3582fb1311f1562d7ed295a97fec24898abfd4bb2b7e479b4fac3e65"
+      }
+    }
+  },
+  {
+    "id": "05-146-signatures",
+    "page": "05-146",
+    "box": [
+      360,
+      1950,
+      1950,
+      2460
+    ],
+    "source": {
+      "id": "05",
+      "filename": "ACU CRS MS5 - 05 - Folder 2, Correspondence and Legal Papers.pdf",
+      "pages": 158,
+      "sha256": "84e92f46ff5208da786ecda5bb9b497766d054a596b8383e760626a975286cbf"
+    },
+    "native_size": [
+      2247,
+      3378
+    ],
+    "rotation_ccw": 0,
+    "coordinate_system": "Pixels on rotated native embedded image, origin top-left; left, top, right, bottom; no resampling",
+    "processing": "original: convert embedded image to RGB; exact 90-degree rotation; crop. contrast: PIL grayscale, autocontrast cutoff 1% at each tail. gamma (when present): grayscale then round(255*(pixel/255)**exponent). No generative processing.",
+    "gamma_exponent": 0.45,
+    "files": {
+      "original": {
+        "path": "images/05-146-signatures-original.png",
+        "sha256": "87120b089aa3e7db2e6b26b6447489c3ab336b6a5c9ec0218421fc6f9db3d7ab"
+      },
+      "contrast": {
+        "path": "images/05-146-signatures-contrast.png",
+        "sha256": "9d9bcf3cbe5767e908bbc8b17e046df07dffb1f0ca859f32a98bc8ebb4d850bf"
+      },
+      "gamma": {
+        "path": "images/05-146-signatures-gamma.png",
+        "sha256": "d3f3b7deb9554ae043b64ba25a23bceae54a41ff2a67d932ee0ec1a8772104d8"
+      }
+    }
+  },
+  {
+    "id": "05-146-date",
+    "page": "05-146",
+    "box": [
+      300,
+      2410,
+      1960,
+      2820
+    ],
+    "source": {
+      "id": "05",
+      "filename": "ACU CRS MS5 - 05 - Folder 2, Correspondence and Legal Papers.pdf",
+      "pages": 158,
+      "sha256": "84e92f46ff5208da786ecda5bb9b497766d054a596b8383e760626a975286cbf"
+    },
+    "native_size": [
+      2247,
+      3378
+    ],
+    "rotation_ccw": 0,
+    "coordinate_system": "Pixels on rotated native embedded image, origin top-left; left, top, right, bottom; no resampling",
+    "processing": "original: convert embedded image to RGB; exact 90-degree rotation; crop. contrast: PIL grayscale, autocontrast cutoff 1% at each tail. gamma (when present): grayscale then round(255*(pixel/255)**exponent). No generative processing.",
+    "gamma_exponent": 0.45,
+    "files": {
+      "original": {
+        "path": "images/05-146-date-original.png",
+        "sha256": "56bfc2b014b974d7ebb0dd00b9b40a4358a27379aed35ce4bf2e678a05c0b174"
+      },
+      "contrast": {
+        "path": "images/05-146-date-contrast.png",
+        "sha256": "2650d0da7c1bb247c0319ca5aa9097d1a6982d0330b52fdc0ed0ef4f1ec8257a"
+      },
+      "gamma": {
+        "path": "images/05-146-date-gamma.png",
+        "sha256": "fdd7837b4f071155d2e64774505dc420b6d8cb6f193269c54f45fe21e9ca801e"
+      }
+    }
+  },
+  {
+    "id": "05-146-bottom",
+    "page": "05-146",
+    "box": [
+      300,
+      2790,
+      1980,
+      3378
+    ],
+    "source": {
+      "id": "05",
+      "filename": "ACU CRS MS5 - 05 - Folder 2, Correspondence and Legal Papers.pdf",
+      "pages": 158,
+      "sha256": "84e92f46ff5208da786ecda5bb9b497766d054a596b8383e760626a975286cbf"
+    },
+    "native_size": [
+      2247,
+      3378
+    ],
+    "rotation_ccw": 0,
+    "coordinate_system": "Pixels on rotated native embedded image, origin top-left; left, top, right, bottom; no resampling",
+    "processing": "original: convert embedded image to RGB; exact 90-degree rotation; crop. contrast: PIL grayscale, autocontrast cutoff 1% at each tail. gamma (when present): grayscale then round(255*(pixel/255)**exponent). No generative processing.",
+    "gamma_exponent": null,
+    "files": {
+      "original": {
+        "path": "images/05-146-bottom-original.png",
+        "sha256": "f2e284c828cac33eb754298f3d295d4baa0983750d1728be270646724a9050c7"
+      },
+      "contrast": {
+        "path": "images/05-146-bottom-contrast.png",
+        "sha256": "1c3a9a004b8bbf20508f12ab079486ab20c0b4f1229462c1df652ca299d8097c"
+      }
+    }
+  },
+  {
+    "id": "05-147-date",
+    "page": "05-147",
+    "box": [
+      300,
+      585,
+      1930,
+      990
+    ],
+    "source": {
+      "id": "05",
+      "filename": "ACU CRS MS5 - 05 - Folder 2, Correspondence and Legal Papers.pdf",
+      "pages": 158,
+      "sha256": "84e92f46ff5208da786ecda5bb9b497766d054a596b8383e760626a975286cbf"
+    },
+    "native_size": [
+      2176,
+      3329
+    ],
+    "rotation_ccw": 0,
+    "coordinate_system": "Pixels on rotated native embedded image, origin top-left; left, top, right, bottom; no resampling",
+    "processing": "original: convert embedded image to RGB; exact 90-degree rotation; crop. contrast: PIL grayscale, autocontrast cutoff 1% at each tail. gamma (when present): grayscale then round(255*(pixel/255)**exponent). No generative processing.",
+    "gamma_exponent": null,
+    "files": {
+      "original": {
+        "path": "images/05-147-date-original.png",
+        "sha256": "7d709b11c50bfe3ef2a95e72c085734a1b48e30641c121d8d096b02a3ea545f2"
+      },
+      "contrast": {
+        "path": "images/05-147-date-contrast.png",
+        "sha256": "ebe6f2dbc265e9940b3c8f8722effe7e4111922bc6f9f61b8df142eea67b188e"
+      }
+    }
+  },
+  {
+    "id": "05-147-roper",
+    "page": "05-147",
+    "box": [
+      300,
+      985,
+      1930,
+      1770
+    ],
+    "source": {
+      "id": "05",
+      "filename": "ACU CRS MS5 - 05 - Folder 2, Correspondence and Legal Papers.pdf",
+      "pages": 158,
+      "sha256": "84e92f46ff5208da786ecda5bb9b497766d054a596b8383e760626a975286cbf"
+    },
+    "native_size": [
+      2176,
+      3329
+    ],
+    "rotation_ccw": 0,
+    "coordinate_system": "Pixels on rotated native embedded image, origin top-left; left, top, right, bottom; no resampling",
+    "processing": "original: convert embedded image to RGB; exact 90-degree rotation; crop. contrast: PIL grayscale, autocontrast cutoff 1% at each tail. gamma (when present): grayscale then round(255*(pixel/255)**exponent). No generative processing.",
+    "gamma_exponent": null,
+    "files": {
+      "original": {
+        "path": "images/05-147-roper-original.png",
+        "sha256": "02129946a003db57a6b36321bffb17543b1d8e8e904178901fc837b8c7896a44"
+      },
+      "contrast": {
+        "path": "images/05-147-roper-contrast.png",
+        "sha256": "94b13c6f8184bb2f9c5a3c2da0ce3a2cb79773fdcd385b08753fb15aee049557"
+      }
+    }
+  },
+  {
+    "id": "05-147-bottom",
+    "page": "05-147",
+    "box": [
+      220,
+      2530,
+      1950,
+      3329
+    ],
+    "source": {
+      "id": "05",
+      "filename": "ACU CRS MS5 - 05 - Folder 2, Correspondence and Legal Papers.pdf",
+      "pages": 158,
+      "sha256": "84e92f46ff5208da786ecda5bb9b497766d054a596b8383e760626a975286cbf"
+    },
+    "native_size": [
+      2176,
+      3329
+    ],
+    "rotation_ccw": 0,
+    "coordinate_system": "Pixels on rotated native embedded image, origin top-left; left, top, right, bottom; no resampling",
+    "processing": "original: convert embedded image to RGB; exact 90-degree rotation; crop. contrast: PIL grayscale, autocontrast cutoff 1% at each tail. gamma (when present): grayscale then round(255*(pixel/255)**exponent). No generative processing.",
+    "gamma_exponent": null,
+    "files": {
+      "original": {
+        "path": "images/05-147-bottom-original.png",
+        "sha256": "714ac93c27f11fb07f0707ed1c8b7faf354316867b1d9da3ae2173d6e38cb68f"
+      },
+      "contrast": {
+        "path": "images/05-147-bottom-contrast.png",
+        "sha256": "0270a054cdc975cf65e213aaaf22b65a61754f0d913d64515c25ebd7e2f235be"
+      }
+    }
+  },
+  {
+    "id": "05-148-bottom",
+    "page": "05-148",
+    "box": [
+      240,
+      2340,
+      2000,
+      3306
+    ],
+    "source": {
+      "id": "05",
+      "filename": "ACU CRS MS5 - 05 - Folder 2, Correspondence and Legal Papers.pdf",
+      "pages": 158,
+      "sha256": "84e92f46ff5208da786ecda5bb9b497766d054a596b8383e760626a975286cbf"
+    },
+    "native_size": [
+      2140,
+      3306
+    ],
+    "rotation_ccw": 0,
+    "coordinate_system": "Pixels on rotated native embedded image, origin top-left; left, top, right, bottom; no resampling",
+    "processing": "original: convert embedded image to RGB; exact 90-degree rotation; crop. contrast: PIL grayscale, autocontrast cutoff 1% at each tail. gamma (when present): grayscale then round(255*(pixel/255)**exponent). No generative processing.",
+    "gamma_exponent": 0.45,
+    "files": {
+      "original": {
+        "path": "images/05-148-bottom-original.png",
+        "sha256": "0082181683df466c272125555c4aad1fdeecf75ade538203e2bf5f85b7dd8502"
+      },
+      "contrast": {
+        "path": "images/05-148-bottom-contrast.png",
+        "sha256": "1b2f17569dce9caa505edeb4fdab7ededad46d56342c0f0a6d4a705083976f16"
+      },
+      "gamma": {
+        "path": "images/05-148-bottom-gamma.png",
+        "sha256": "fd91c531557d57f73e14595e72f7cb59c5c9d22f331bdbea847b728f7f8ffdc5"
+      }
+    }
+  },
+  {
+    "id": "05-149-opening",
+    "page": "05-149",
+    "box": [
+      270,
+      610,
+      1970,
+      1920
+    ],
+    "source": {
+      "id": "05",
+      "filename": "ACU CRS MS5 - 05 - Folder 2, Correspondence and Legal Papers.pdf",
+      "pages": 158,
+      "sha256": "84e92f46ff5208da786ecda5bb9b497766d054a596b8383e760626a975286cbf"
+    },
+    "native_size": [
+      2280,
+      3399
+    ],
+    "rotation_ccw": 180,
+    "coordinate_system": "Pixels on rotated native embedded image, origin top-left; left, top, right, bottom; no resampling",
+    "processing": "original: convert embedded image to RGB; exact 90-degree rotation; crop. contrast: PIL grayscale, autocontrast cutoff 1% at each tail. gamma (when present): grayscale then round(255*(pixel/255)**exponent). No generative processing.",
+    "gamma_exponent": null,
+    "files": {
+      "original": {
+        "path": "images/05-149-opening-original.png",
+        "sha256": "3dff5271ac9e4d5a44379534707e729c090cd2a90f32dc81c97163db0c9511a0"
+      },
+      "contrast": {
+        "path": "images/05-149-opening-contrast.png",
+        "sha256": "6b06b432270b3e34bbfcde82126c7313290095fc0f35fa1c9844fbf917336340"
+      }
+    }
+  },
+  {
+    "id": "05-149-ending",
+    "page": "05-149",
+    "box": [
+      260,
+      1860,
+      1960,
+      3240
+    ],
+    "source": {
+      "id": "05",
+      "filename": "ACU CRS MS5 - 05 - Folder 2, Correspondence and Legal Papers.pdf",
+      "pages": 158,
+      "sha256": "84e92f46ff5208da786ecda5bb9b497766d054a596b8383e760626a975286cbf"
+    },
+    "native_size": [
+      2280,
+      3399
+    ],
+    "rotation_ccw": 180,
+    "coordinate_system": "Pixels on rotated native embedded image, origin top-left; left, top, right, bottom; no resampling",
+    "processing": "original: convert embedded image to RGB; exact 90-degree rotation; crop. contrast: PIL grayscale, autocontrast cutoff 1% at each tail. gamma (when present): grayscale then round(255*(pixel/255)**exponent). No generative processing.",
+    "gamma_exponent": null,
+    "files": {
+      "original": {
+        "path": "images/05-149-ending-original.png",
+        "sha256": "a5e29a3f568b008fad7fb86a8036bcbb318afab3183f7cd9dece326a863a8f2e"
+      },
+      "contrast": {
+        "path": "images/05-149-ending-contrast.png",
+        "sha256": "c2f26102002ed2107180425c4f17ce8add8f9c4c06118325f745416d205a4ce5"
+      }
+    }
+  },
+  {
+    "id": "06-008-docket",
+    "page": "06-008",
+    "box": [
+      740,
+      1270,
+      1430,
+      1890
+    ],
+    "source": {
+      "id": "06",
+      "filename": "ACU CRS MS5 - 06 - Folder 3, Correspondence and Legal Papers.pdf",
+      "pages": 118,
+      "sha256": "d9ef810f7432dac5f9d1949cea8708f92bb447e8a431a550ea11c22c3a1cce76"
+    },
+    "native_size": [
+      3473,
+      2316
+    ],
+    "rotation_ccw": 0,
+    "coordinate_system": "Pixels on rotated native embedded image, origin top-left; left, top, right, bottom; no resampling",
+    "processing": "original: convert embedded image to RGB; exact 90-degree rotation; crop. contrast: PIL grayscale, autocontrast cutoff 1% at each tail. gamma (when present): grayscale then round(255*(pixel/255)**exponent). No generative processing.",
+    "gamma_exponent": null,
+    "files": {
+      "original": {
+        "path": "images/06-008-docket-original.png",
+        "sha256": "074a797527efb8b893bec4c5d5b8c9d69c56e3e0f7f106b9b3ea1626dff5c437"
+      },
+      "contrast": {
+        "path": "images/06-008-docket-contrast.png",
+        "sha256": "69438f6522443259edcd6c1e12736473d1effdf15633600b15cdb7c2e422e90a"
+      }
+    }
+  },
+  {
+    "id": "06-011-record",
+    "page": "06-011",
+    "box": [
+      340,
+      2240,
+      1900,
+      2850
+    ],
+    "source": {
+      "id": "06",
+      "filename": "ACU CRS MS5 - 06 - Folder 3, Correspondence and Legal Papers.pdf",
+      "pages": 118,
+      "sha256": "d9ef810f7432dac5f9d1949cea8708f92bb447e8a431a550ea11c22c3a1cce76"
+    },
+    "native_size": [
+      2292,
+      3463
+    ],
+    "rotation_ccw": 0,
+    "coordinate_system": "Pixels on rotated native embedded image, origin top-left; left, top, right, bottom; no resampling",
+    "processing": "original: convert embedded image to RGB; exact 90-degree rotation; crop. contrast: PIL grayscale, autocontrast cutoff 1% at each tail. gamma (when present): grayscale then round(255*(pixel/255)**exponent). No generative processing.",
+    "gamma_exponent": null,
+    "files": {
+      "original": {
+        "path": "images/06-011-record-original.png",
+        "sha256": "7a5f123e755993036d0759fc04e26f999e9de9f35115b37b8e4f1b14f8b5a496"
+      },
+      "contrast": {
+        "path": "images/06-011-record-contrast.png",
+        "sha256": "ac1e9ee7207fb8578e8c5bc4d56592e5ddffc5a24f89e26d175456ac0ffbb4a8"
+      }
+    }
+  },
+  {
+    "id": "06-063-opening",
+    "page": "06-063",
+    "box": [
+      370,
+      1280,
+      1920,
+      1560
+    ],
+    "source": {
+      "id": "06",
+      "filename": "ACU CRS MS5 - 06 - Folder 3, Correspondence and Legal Papers.pdf",
+      "pages": 118,
+      "sha256": "d9ef810f7432dac5f9d1949cea8708f92bb447e8a431a550ea11c22c3a1cce76"
+    },
+    "native_size": [
+      2253,
+      3436
+    ],
+    "rotation_ccw": 180,
+    "coordinate_system": "Pixels on rotated native embedded image, origin top-left; left, top, right, bottom; no resampling",
+    "processing": "original: convert embedded image to RGB; exact 90-degree rotation; crop. contrast: PIL grayscale, autocontrast cutoff 1% at each tail. gamma (when present): grayscale then round(255*(pixel/255)**exponent). No generative processing.",
+    "gamma_exponent": 2.0,
+    "files": {
+      "original": {
+        "path": "images/06-063-opening-original.png",
+        "sha256": "782e3a867cf63cf8c0b2a3b2da4dd22664abf1e1bea765f80e74be8daec86cf1"
+      },
+      "contrast": {
+        "path": "images/06-063-opening-contrast.png",
+        "sha256": "7fdc66221f456acfc54c398b5833645bea23ccac487dab743b2ba638cba0ef0b"
+      },
+      "gamma": {
+        "path": "images/06-063-opening-gamma.png",
+        "sha256": "1b32e09218a340456add9ed227cb5f114e4d48e855eaee542d88521e8908cb5a"
+      }
+    }
+  },
+  {
+    "id": "06-097-alfred",
+    "page": "06-097",
+    "box": [
+      735,
+      1640,
+      1760,
+      2040
+    ],
+    "source": {
+      "id": "06",
+      "filename": "ACU CRS MS5 - 06 - Folder 3, Correspondence and Legal Papers.pdf",
+      "pages": 118,
+      "sha256": "d9ef810f7432dac5f9d1949cea8708f92bb447e8a431a550ea11c22c3a1cce76"
+    },
+    "native_size": [
+      2365,
+      3516
+    ],
+    "rotation_ccw": 180,
+    "coordinate_system": "Pixels on rotated native embedded image, origin top-left; left, top, right, bottom; no resampling",
+    "processing": "original: convert embedded image to RGB; exact 90-degree rotation; crop. contrast: PIL grayscale, autocontrast cutoff 1% at each tail. gamma (when present): grayscale then round(255*(pixel/255)**exponent). No generative processing.",
+    "gamma_exponent": null,
+    "files": {
+      "original": {
+        "path": "images/06-097-alfred-original.png",
+        "sha256": "0bba89bbeb9f7bfb50609a760354c6880706d566e9f62e54ac9b2e9c5c9aa867"
+      },
+      "contrast": {
+        "path": "images/06-097-alfred-contrast.png",
+        "sha256": "e07664ae9d97964cb2992b1adebfe70fedc4001500e648d96633440c7323a191"
+      }
+    }
+  },
+  {
+    "id": "06-116-opening",
+    "page": "06-116",
+    "box": [
+      690,
+      1610,
+      1720,
+      1960
+    ],
+    "source": {
+      "id": "06",
+      "filename": "ACU CRS MS5 - 06 - Folder 3, Correspondence and Legal Papers.pdf",
+      "pages": 118,
+      "sha256": "d9ef810f7432dac5f9d1949cea8708f92bb447e8a431a550ea11c22c3a1cce76"
+    },
+    "native_size": [
+      2273,
+      3449
+    ],
+    "rotation_ccw": 180,
+    "coordinate_system": "Pixels on rotated native embedded image, origin top-left; left, top, right, bottom; no resampling",
+    "processing": "original: convert embedded image to RGB; exact 90-degree rotation; crop. contrast: PIL grayscale, autocontrast cutoff 1% at each tail. gamma (when present): grayscale then round(255*(pixel/255)**exponent). No generative processing.",
+    "gamma_exponent": 2.0,
+    "files": {
+      "original": {
+        "path": "images/06-116-opening-original.png",
+        "sha256": "d4df850f605673da885cd48658bde73ab47b7738703217f22cc15f5928f1e188"
+      },
+      "contrast": {
+        "path": "images/06-116-opening-contrast.png",
+        "sha256": "5e0bef41c2dfe7b0c2a1196e2c0209f85e9b2db95d3899441472a864f6e11cd2"
+      },
+      "gamma": {
+        "path": "images/06-116-opening-gamma.png",
+        "sha256": "4c5da3b52f49ac0703036431057811c9f460d7519c95d4d84065db3c4d894c77"
+      }
+    }
+  },
+  {
+    "id": "05-151-hancock",
+    "page": "05-151",
+    "box": [
+      300,
+      2820,
+      1150,
+      3140
+    ],
+    "source": {
+      "id": "05",
+      "filename": "ACU CRS MS5 - 05 - Folder 2, Correspondence and Legal Papers.pdf",
+      "pages": 158,
+      "sha256": "84e92f46ff5208da786ecda5bb9b497766d054a596b8383e760626a975286cbf"
+    },
+    "native_size": [
+      2140,
+      3306
+    ],
+    "rotation_ccw": 180,
+    "coordinate_system": "Pixels on rotated native embedded image, origin top-left; left, top, right, bottom; no resampling",
+    "processing": "original: convert embedded image to RGB; exact 90-degree rotation; crop. contrast: PIL grayscale, autocontrast cutoff 1% at each tail. gamma (when present): grayscale then round(255*(pixel/255)**exponent). No generative processing.",
+    "gamma_exponent": null,
+    "files": {
+      "original": {
+        "path": "images/05-151-hancock-original.png",
+        "sha256": "c0df81e927b69a36ff9aa8bc87597250ae773dd431b3696fad58c219aaa6a04d"
+      },
+      "contrast": {
+        "path": "images/05-151-hancock-contrast.png",
+        "sha256": "f80182383a4cd478c50f1fa666e4700960e029056a0fe6c73128abe7afa0448e"
+      }
+    }
+  },
+  {
+    "id": "05-157-hancock",
+    "page": "05-157",
+    "box": [
+      500,
+      1580,
+      1620,
+      1940
+    ],
+    "source": {
+      "id": "05",
+      "filename": "ACU CRS MS5 - 05 - Folder 2, Correspondence and Legal Papers.pdf",
+      "pages": 158,
+      "sha256": "84e92f46ff5208da786ecda5bb9b497766d054a596b8383e760626a975286cbf"
+    },
+    "native_size": [
+      2299,
+      3415
+    ],
+    "rotation_ccw": 0,
+    "coordinate_system": "Pixels on rotated native embedded image, origin top-left; left, top, right, bottom; no resampling",
+    "processing": "original: convert embedded image to RGB; exact 90-degree rotation; crop. contrast: PIL grayscale, autocontrast cutoff 1% at each tail. gamma (when present): grayscale then round(255*(pixel/255)**exponent). No generative processing.",
+    "gamma_exponent": null,
+    "files": {
+      "original": {
+        "path": "images/05-157-hancock-original.png",
+        "sha256": "d23eeca9874b02494b2ab1d5fe32f9f2c1e22907596c88102a3427c4598edc99"
+      },
+      "contrast": {
+        "path": "images/05-157-hancock-contrast.png",
+        "sha256": "3879cb59a0785359821cbce937877d72a83543c269e547804beadfb3a08730bb"
+      }
+    }
+  }
+]

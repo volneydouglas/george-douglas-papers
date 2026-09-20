@@ -17,6 +17,14 @@ Status at the initial private repository snapshot, 19 September 2026.
 
 ## Remaining scholarly work
 
+### Image-review pilot, 19 September 2026
+
+Fifty deliberately selected register items received focused review against the supplied source images. The [addendum](review/image-pilot-2026-09/) records 16 image-supported literal readings, 12 verified links to clearer duplicate scans, two partial surname recoveries, two conjectural completions and 18 unresolved items. It includes 43 source regions from 26 scan pages, 92 image derivatives, a 12-page report, and an explicit draft overlay of the selected paragraphs. All 76 local OCR diagnostic runs completed; ordinary OCR added no accepted reading. A trained handwriting model was not tested.
+
+The original edition exports and the 1,200-row baseline register were not rewritten. Some reviewed items refer to the same original passage; the counts must not be treated as independent recoveries or extrapolated to the remaining 1,150 items. This was an AI-assisted image review informed by the other agent’s proposals, not a blinded or independently human-verified reading. Agreement between the two local AI-assisted editions is not independent human corroboration.
+
+### Work still outstanding
+
 - An independent human reader has not checked every transcription against the scans. Layout and export checks establish presentation and consistency, not handwriting accuracy.
 - The annotated register contains 1,200 items: tentative readings, unreadable text, missing text and obscured passages. The number is not an error count and a single item may represent more than one word.
 - Faded and damaged passages remain partial. Some may require better images or access to other copies. ACU's Folder 2 catalog record states that it holds photocopies rather than the originals and that its PDFs are the best quality available from those photocopies.
