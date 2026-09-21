@@ -1,0 +1,747 @@
+{
+  "best_clockwise_rotation" : 90,
+  "engine" : "Apple Vision",
+  "os" : "Version 27.0 (Build 26A428)",
+  "page_id" : "04-025",
+  "records" : [
+    {
+      "clockwise_rotation" : 0,
+      "file" : "04-025-original.png",
+      "lines" : [
+        {
+          "box" : [
+            0.21294029354532071,
+            0.13696139243260597,
+            0.04482185113038259,
+            0.18093861920341947
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "Цеб Дoug aо."
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.24641110268526922,
+            0.10954903563657925,
+            0.044028630502906785,
+            0.18513356819914084
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Red Oak. Jeras"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.46259670102877315,
+            0.47473079302861787,
+            0.081138532038585676,
+            0.2713385763118995
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Bella Douglas."
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.5209108028905568,
+            0.44656559054161848,
+            0.072532786337982325,
+            0.38937601229039631
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "115 Grand Quenue."
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.57043166324597805,
+            0.49028181462052245,
+            0.074601333689801486,
+            0.30751728923428268
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "rah tort Nonth"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.64209137734243049,
+            0.72310441708040174,
+            0.066511965469575274,
+            0.11130190424274178
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Yoras"
+            }
+          ]
+        }
+      ],
+      "orientation_score" : 53.700000107288361,
+      "revision" : 3,
+      "usesLanguageCorrection" : false
+    },
+    {
+      "clockwise_rotation" : 90,
+      "file" : "04-025-original.png",
+      "lines" : [
+        {
+          "box" : [
+            0.13890525590875982,
+            0.73161480632835452,
+            0.17540850924811183,
+            0.060753119383619492
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "Ged Dongao-"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.11377408610435784,
+            0.70383355830955718,
+            0.19314954127546424,
+            0.04780704874387931
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Led Oak. Velas."
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.47596959799599758,
+            0.46094886776920818,
+            0.27177371682718954,
+            0.066524806492765265
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Della Deugtasi"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.45083779355706366,
+            0.40477157125564589,
+            0.38663867801009333,
+            0.072309492227616956
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "11IS grand Quenue."
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.50278445588512999,
+            0.34995118759445554,
+            0.29907233329147043,
+            0.072447877982412701
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "ronh Hort North"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.72157573536437536,
+            0.28373494546337341,
+            0.12964495357899686,
+            0.073455445195587554
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "Jojas."
+            }
+          ]
+        }
+      ],
+      "orientation_score" : 56.000000059604645,
+      "revision" : 3,
+      "usesLanguageCorrection" : false
+    },
+    {
+      "clockwise_rotation" : 180,
+      "file" : "04-025-original.png",
+      "lines" : [
+        {
+          "box" : [
+            0.73588966682940338,
+            0.67755815148755927,
+            0.052126434039621916,
+            0.18445436600306619
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "Цеб Дorg aо -"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.69989055806043521,
+            0.69008409529745007,
+            0.058598359873597072,
+            0.20378102642998208
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Red Oat Jeras."
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.4516031466746297,
+            0.27348578808962931,
+            0.07920468469180969,
+            0.24908697631565269
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Bella Dongas"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.41353452140818819,
+            0.31894240627979631,
+            0.062677911749468185,
+            0.234103477010001
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "1TI5 hrand"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.3589300558886519,
+            0.20224925436366159,
+            0.053705018450956432,
+            0.291238721352723
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "ronh Hort Noth"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.28799162739054696,
+            0.16477822321970192,
+            0.068896799580032253,
+            0.11260125836177126
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "Lofas"
+            }
+          ]
+        }
+      ],
+      "orientation_score" : 40.300000250339508,
+      "revision" : 3,
+      "usesLanguageCorrection" : false
+    },
+    {
+      "clockwise_rotation" : 270,
+      "file" : "04-025-original.png",
+      "lines" : [
+        {
+          "box" : [
+            0.67466490389000555,
+            0.21411370840268662,
+            0.18684846211255091,
+            0.048581041864386165
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "Jеб Доrд aо -?"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.70501172383886557,
+            0.24448258159584968,
+            0.18729781258661304,
+            0.050502121616417317
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Red Oak Jepas"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.10545074384294494,
+            0.26316090407407688,
+            0.042138208923565387,
+            0.032500995044976833
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "ITED S"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.25404401605219068,
+            0.46300008515672386,
+            0.27091216477128371,
+            0.083366161221069879
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Bella Donglas."
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.1641878247424404,
+            0.52464220554587493,
+            0.38626610642438097,
+            0.070256902130556798
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "11S yrand Qvenue."
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.20074916866899489,
+            0.58474962077686987,
+            0.29435128876657196,
+            0.056882784847922085
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Noh Hort North"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.16423796351983833,
+            0.64299574190357611,
+            0.11253235133947131,
+            0.0666860302848995
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Lojas"
+            }
+          ]
+        }
+      ],
+      "orientation_score" : 53.700000107288361,
+      "revision" : 3,
+      "usesLanguageCorrection" : false
+    },
+    {
+      "clockwise_rotation" : 90,
+      "file" : "04-025-original.png",
+      "lines" : [
+        {
+          "box" : [
+            0.13890525590875982,
+            0.73161480632835452,
+            0.17540850924811183,
+            0.060753119383619492
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "Ged Dong ao -"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "Ged Dong ao-"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "Ged Dongao -"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.11377408610435784,
+            0.70383355830955718,
+            0.19314954127546424,
+            0.04780704874387931
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Led Oak. Welas."
+            },
+            {
+              "confidence" : 1,
+              "text" : "Led Oak. Velas."
+            },
+            {
+              "confidence" : 1,
+              "text" : "Led Oak. Veras."
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.47596959799599758,
+            0.46094886776920818,
+            0.27177371682718954,
+            0.066524806492765265
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "Della Dengtasi"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "Della Dengtaso"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "Della Denglasi"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.45083779355706366,
+            0.40477157125564589,
+            0.38663867801009333,
+            0.072309492227616956
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "I)IS grand Quenue ."
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "1\/IS grand Quenue ."
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "I)IS grand Quenue."
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.50278445588512999,
+            0.34995118759445554,
+            0.29907233329147043,
+            0.072447877982412701
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "Tonh Hort North"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "ronh Hort North"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "Tonh Hort Norih"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.72157573536437536,
+            0.28373494546337341,
+            0.12964495357899686,
+            0.073455445195587554
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "Joj as."
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "Joj ase"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "Jojas."
+            }
+          ]
+        }
+      ],
+      "orientation_score" : 38,
+      "revision" : 3,
+      "usesLanguageCorrection" : true
+    },
+    {
+      "clockwise_rotation" : 90,
+      "file" : "04-025-contrast.png",
+      "lines" : [
+        {
+          "box" : [
+            0.1391950534956532,
+            0.73552497670151218,
+            0.14970642676286494,
+            0.052092560244278219
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "Уеб Доrg a"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.10755813960644955,
+            0.71771217661257936,
+            0.11337209223643641,
+            0.031583597962285381
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Red Oak."
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.47727679973048293,
+            0.46473129841163507,
+            0.26772832200867286,
+            0.062116689189498975
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Bella Denglas."
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.45100392776533382,
+            0.4068216603628152,
+            0.38344536194163437,
+            0.069238997625073351
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "1I5 yrand Quenue."
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.50460948699104768,
+            0.35297289795929332,
+            0.31256780180328436,
+            0.064772925578372553
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "roh Hort North."
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.72438759394966656,
+            0.28852358364460129,
+            0.11004441311336488,
+            0.068026002695862675
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "Yojas"
+            }
+          ]
+        }
+      ],
+      "orientation_score" : 46.900000095367432,
+      "revision" : 3,
+      "usesLanguageCorrection" : false
+    },
+    {
+      "clockwise_rotation" : 90,
+      "file" : "04-025-contrast.png",
+      "lines" : [
+        {
+          "box" : [
+            0.10755813960644955,
+            0.71771217661257936,
+            0.11337209223643641,
+            0.031583597962285381
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Red Oak."
+            },
+            {
+              "confidence" : 1,
+              "text" : "Med Oak."
+            },
+            {
+              "confidence" : 1,
+              "text" : "Aed Oak."
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.47727679973048293,
+            0.46473129841163507,
+            0.26772832200867286,
+            0.062116689189498975
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Bella Douglas."
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "Bella DougLas."
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "Bella Douglas"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.45100392776533382,
+            0.4068216603628152,
+            0.38344536194163437,
+            0.069238997625073351
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "1I5 yrand Quenne."
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "1I5 yrand Quenne."
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "1I5 yrand Qvenne."
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.50460948699104768,
+            0.35297289795929332,
+            0.31256780180328436,
+            0.064772925578372553
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "roh Hort North."
+            },
+            {
+              "confidence" : 1,
+              "text" : "rah Hort North."
+            },
+            {
+              "confidence" : 1,
+              "text" : "raih Hort North."
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.72438759394966656,
+            0.28852358364460129,
+            0.11004441311336488,
+            0.068026002695862675
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "Lojas"
+            },
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "Sojas"
+            },
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "Lofas"
+            }
+          ]
+        }
+      ],
+      "orientation_score" : 38.5,
+      "revision" : 3,
+      "usesLanguageCorrection" : true
+    }
+  ]
+}

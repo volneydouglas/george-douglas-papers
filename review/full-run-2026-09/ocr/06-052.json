@@ -1,0 +1,443 @@
+{
+  "best_clockwise_rotation" : 0,
+  "engine" : "Apple Vision",
+  "os" : "Version 27.0 (Build 26A428)",
+  "page_id" : "06-052",
+  "records" : [
+    {
+      "clockwise_rotation" : 0,
+      "file" : "06-052-original.png",
+      "lines" : [
+        {
+          "box" : [
+            0.37476947107500119,
+            0.44640414276447471,
+            0.26239344030750894,
+            0.044215161253603807
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "Mis Leghyeh Deeplos"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.41057809379469118,
+            0.4928803117603946,
+            0.17407663881831609,
+            0.023675599947519665
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "int) Miss dezy"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.42097536419913106,
+            0.51096934298685781,
+            0.19285115036376299,
+            0.023917632275049616
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "inasshead Sti"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.36465012038490741,
+            0.52914806660163771,
+            0.23984265602470611,
+            0.020525502658972794
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Par aisus? Alabama"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.42629212410667727,
+            0.54648763536962286,
+            0.17378436598824309,
+            0.019052694229641065
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Moy 10, 1867,"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.35168638207087349,
+            0.5592382999197214,
+            0.27007856259011759,
+            0.028325725906247712
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "seg ands gives to Do t Bruple)"
+            }
+          ]
+        }
+      ],
+      "orientation_score" : 53.000000476837158,
+      "revision" : 3,
+      "usesLanguageCorrection" : false
+    },
+    {
+      "clockwise_rotation" : 90,
+      "file" : "06-052-original.png",
+      "lines" : [
+        {
+          "box" : [
+            0.44004063609746247,
+            0.36078519772550166,
+            0.057610319712664337,
+            0.2707627304063609
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "Mie Lgyk Drmplas"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.4914034604385405,
+            0.36793862517463982,
+            0.047512376405584866,
+            0.24875032277686893
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "- Cannt Sace Fage"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.52902795374731726,
+            0.39077794059929338,
+            0.022325980926975575,
+            0.24682029581958476
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Par aisus? Alabama"
+            }
+          ]
+        }
+      ],
+      "orientation_score" : 23.100000321865082,
+      "revision" : 3,
+      "usesLanguageCorrection" : false
+    },
+    {
+      "clockwise_rotation" : 180,
+      "file" : "06-052-original.png",
+      "lines" : [
+        {
+          "box" : [
+            0.35600589329596893,
+            0.51539135969711825,
+            0.27471387671916586,
+            0.0389847228080209
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "Mis Jeghyh Drrp los"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.38873007056813097,
+            0.4473416940849787,
+            0.24888679890264537,
+            0.022701540981377111
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Par aisus? Alabama"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.39380531045962169,
+            0.43306169990782173,
+            0.17699114876504268,
+            0.017519695517347889
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "may 10, 1867"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.38031454221049305,
+            0.41904209080468535,
+            0.26368146082312,
+            0.01920378333059547
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "regjurds gren to Dr.A. Danples"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.4862312321485483,
+            0.4131892830250955,
+            0.089511807026224244,
+            0.011226325429221418
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "→ Ellan"
+            }
+          ]
+        }
+      ],
+      "orientation_score" : 51.800000190734863,
+      "revision" : 3,
+      "usesLanguageCorrection" : false
+    },
+    {
+      "clockwise_rotation" : 270,
+      "file" : "06-052-original.png",
+      "lines" : [
+        {
+          "box" : [
+            0.52470929577554037,
+            0.37610619026958647,
+            0.024709315183415237,
+            0.26106195864470105
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Mies Legtyel Douglas"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.46174565310276416,
+            0.37944740557916912,
+            0.047069109915576779,
+            0.25276247716732747
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "- (aunt) Met Fge"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.44559936107608983,
+            0.35992248303039898,
+            0.028705978837640533,
+            0.25181862561175961
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Par aisus? Alabama"
+            }
+          ]
+        }
+      ],
+      "orientation_score" : 36.00000011920929,
+      "revision" : 3,
+      "usesLanguageCorrection" : false
+    },
+    {
+      "clockwise_rotation" : 0,
+      "file" : "06-052-original.png",
+      "lines" : [
+        {
+          "box" : [
+            0.37476947107500119,
+            0.44640414276447471,
+            0.26239344030750894,
+            0.044215161253603807
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "Mies Ligh Deeples"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "Mis Leggh Deeples"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "Mis Ligh Deeples"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.41057809379469118,
+            0.4928803117603946,
+            0.17407663881831609,
+            0.023675599947519665
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "int) Miss begy"
+            },
+            {
+              "confidence" : 1,
+              "text" : "int) Miss Legy"
+            },
+            {
+              "confidence" : 1,
+              "text" : "int) Miss degy"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.42097536419913106,
+            0.51096934298685781,
+            0.19285115036376299,
+            0.023917632275049616
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "inasshead Sti"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "inasshead Str"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "inosshead Sti"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.36465012038490741,
+            0.52914806660163771,
+            0.23984265602470611,
+            0.020525502658972794
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Par aisus? Alabama"
+            },
+            {
+              "confidence" : 1,
+              "text" : "Pas aisus? Alabama"
+            },
+            {
+              "confidence" : 1,
+              "text" : "Par aisus ? Alabama"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.42629212410667727,
+            0.54648763536962286,
+            0.17378436598824309,
+            0.019052694229641065
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "May 10, 1867,"
+            },
+            {
+              "confidence" : 1,
+              "text" : "may 10, 1867,"
+            },
+            {
+              "confidence" : 1,
+              "text" : "May 10, 1861,"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.35168638207087349,
+            0.5592382999197214,
+            0.27007856259011759,
+            0.028325725906247712
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "sey ands given to Do ts Bruple)"
+            },
+            {
+              "confidence" : 1,
+              "text" : "sey ands gives to Do ts Bruple)"
+            },
+            {
+              "confidence" : 1,
+              "text" : "sey ands given to Do t Banple)"
+            }
+          ]
+        }
+      ],
+      "orientation_score" : 66.5,
+      "revision" : 3,
+      "usesLanguageCorrection" : true
+    },
+    {
+      "clockwise_rotation" : 0,
+      "file" : "06-052-contrast.png",
+      "lines" : [
+
+      ],
+      "orientation_score" : 0,
+      "revision" : 3,
+      "usesLanguageCorrection" : false
+    },
+    {
+      "clockwise_rotation" : 0,
+      "file" : "06-052-contrast.png",
+      "lines" : [
+
+      ],
+      "orientation_score" : 0,
+      "revision" : 3,
+      "usesLanguageCorrection" : true
+    }
+  ]
+}

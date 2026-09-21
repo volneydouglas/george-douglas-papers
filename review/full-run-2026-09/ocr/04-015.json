@@ -1,0 +1,220 @@
+{
+  "best_clockwise_rotation" : 90,
+  "engine" : "Apple Vision",
+  "os" : "Version 27.0 (Build 26A428)",
+  "page_id" : "04-015",
+  "records" : [
+    {
+      "clockwise_rotation" : 0,
+      "file" : "04-015-original.png",
+      "lines" : [
+
+      ],
+      "orientation_score" : 0,
+      "revision" : 3,
+      "usesLanguageCorrection" : false
+    },
+    {
+      "clockwise_rotation" : 90,
+      "file" : "04-015-original.png",
+      "lines" : [
+        {
+          "box" : [
+            0.67296511918686797,
+            0.66651206003368135,
+            0.19186045736269808,
+            0.037191644006845825
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "Long Troun iệ y Apart 1o"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.66609696609346625,
+            0.58617121807881156,
+            0.17366419026040714,
+            0.081025642012842014
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Ve. Horigh Shaber"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.68464914048880998,
+            0.54386710184706966,
+            0.21430979240400816,
+            0.06606100220405986
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Naskwill dMilan"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.6811899285886247,
+            0.52625926038527582,
+            0.068521303758947716,
+            0.038629627404717315
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Steras"
+            }
+          ]
+        }
+      ],
+      "orientation_score" : 39.400000214576721,
+      "revision" : 3,
+      "usesLanguageCorrection" : false
+    },
+    {
+      "clockwise_rotation" : 180,
+      "file" : "04-015-original.png",
+      "lines" : [
+
+      ],
+      "orientation_score" : 0,
+      "revision" : 3,
+      "usesLanguageCorrection" : false
+    },
+    {
+      "clockwise_rotation" : 270,
+      "file" : "04-015-original.png",
+      "lines" : [
+
+      ],
+      "orientation_score" : 0,
+      "revision" : 3,
+      "usesLanguageCorrection" : false
+    },
+    {
+      "clockwise_rotation" : 90,
+      "file" : "04-015-original.png",
+      "lines" : [
+        {
+          "box" : [
+            0.67296511918686797,
+            0.66651206003368135,
+            0.19186045736269808,
+            0.037191644006845825
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Long Tron iệ y Apart 1o"
+            },
+            {
+              "confidence" : 1,
+              "text" : "Long Tron iệ y Aprt 1o"
+            },
+            {
+              "confidence" : 1,
+              "text" : "Long Tron iệ y Apart 1o"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.66609696609346625,
+            0.58617121807881156,
+            0.17366419026040714,
+            0.081025642012842014
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Ve. Horigh Shaber"
+            },
+            {
+              "confidence" : 1,
+              "text" : "Ve. Horigh Shater"
+            },
+            {
+              "confidence" : 1,
+              "text" : "Ve. Hörigh Shaber"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.68464914048880998,
+            0.54386710184706966,
+            0.21430979240400816,
+            0.06606100220405986
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Naskwill d Milan"
+            },
+            {
+              "confidence" : 1,
+              "text" : "Naskwile d Milan"
+            },
+            {
+              "confidence" : 1,
+              "text" : "Naskwill d Milam"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.6811899285886247,
+            0.52625926038527582,
+            0.068521303758947716,
+            0.038629627404717315
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "Steras"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "Steias"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "Steñas"
+            }
+          ]
+        }
+      ],
+      "orientation_score" : 48,
+      "revision" : 3,
+      "usesLanguageCorrection" : true
+    },
+    {
+      "clockwise_rotation" : 90,
+      "file" : "04-015-contrast.png",
+      "lines" : [
+
+      ],
+      "orientation_score" : 0,
+      "revision" : 3,
+      "usesLanguageCorrection" : false
+    },
+    {
+      "clockwise_rotation" : 90,
+      "file" : "04-015-contrast.png",
+      "lines" : [
+
+      ],
+      "orientation_score" : 0,
+      "revision" : 3,
+      "usesLanguageCorrection" : true
+    }
+  ]
+}

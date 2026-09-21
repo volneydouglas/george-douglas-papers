@@ -1,0 +1,3343 @@
+{
+  "best_clockwise_rotation" : 0,
+  "engine" : "Apple Vision",
+  "os" : "Version 27.0 (Build 26A428)",
+  "page_id" : "05-100",
+  "records" : [
+    {
+      "clockwise_rotation" : 0,
+      "file" : "05-100-original.png",
+      "lines" : [
+        {
+          "box" : [
+            0.084713714330817064,
+            0.89315808336558689,
+            0.78993703929949,
+            0.04838610348636152
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "ever sinee ihe hor, of bol, H.D, Oobrene bluch Ian"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.083126531321288291,
+            0.86784456299131907,
+            0.86207989169962729,
+            0.036353279466498356
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "bounty beunk showing sy characler and struding, ther"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.081402720811504792,
+            0.83601740711749484,
+            0.84067008684868594,
+            0.038215434714539365
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "I am sdo an kensable man te, and tlave practiced"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.090132346596314777,
+            0.80386785780644243,
+            0.84795267911136907,
+            0.039361692454716879
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "taw fur twent, fice gears; hot onl this but had it net"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.086945967439196192,
+            0.78100289362402431,
+            0.84389020209531895,
+            0.032375211585057961
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "been for me, your sothen and Aund woould have sleps"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.085062028978062559,
+            0.7452314348201039,
+            0.84938470688823875,
+            0.039192160514936125
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "an their sight, beeanse the will idea had toker hold of"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.092245129358310363,
+            0.71626147233923509,
+            0.85282821336051895,
+            0.039883447020021334
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "evey body else, and you somed not have had ary ease"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.091889829912006254,
+            0.67917763494592975,
+            0.85693850976153907,
+            0.046295819217211598
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "here to emplay any lawger aboud; and sene in caiider."
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.081384394723981748,
+            0.65206593408756874,
+            0.86916469430324927,
+            0.041978326562332802
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "- atio of all these fai, coed any scosmablr persa mtn"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.09914520342930444,
+            0.61989753642246193,
+            0.85320687393763073,
+            0.044020685431075401
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "any grotitude, or sense of justiv, acceps of the secoveng"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.36720898618439557,
+            0.6120825159367792,
+            0.15037653136951656,
+            0.064751148223876953
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "sence of y"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.093997357745343721,
+            0.59568950226620621,
+            0.82975839271705032,
+            0.03683331567947179
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "of the propisty broughs about ly these seriices, and tere"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.10102386770576371,
+            0.56406911471547061,
+            0.86187814369361271,
+            0.04122443885019389
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "lurn theis back aumne, słab zy seprtatiin ao a Louger"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.10107976280396644,
+            0.53796208052964634,
+            0.863549076862415,
+            0.034572511503141223
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "and a san of henon, and clase a crnseapmdmer aite"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.10479572234166901,
+            0.51017441931815899,
+            0.8525755175985551,
+            0.030523254446787274
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "me ly merg srging me chank you fer the interess zur"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.104795733117616,
+            0.49127907013213601,
+            0.80817052609750906,
+            0.02327572401255773
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "have Toker sis ihe maten\" and then send à Pover of"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.3018065005234486,
+            0.48881323081594641,
+            0.1679013463742563,
+            0.04659532847469805
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "he mote"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.097690928372516458,
+            0.44905821865769135,
+            0.84369451929834594,
+            0.036406897518732828
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Stterny to seme kinsnan to emplay (nit jour friend"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.10471401993837524,
+            0.41920677359938407,
+            0.84032545528651281,
+            0.037565286845377077
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "as I have shoms myself to te), buk to emfl y his frind"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.10990049561035578,
+            0.38758275282513011,
+            0.83885352481858011,
+            0.043215650401703276
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "to sepreaut sgore in bouk - At the same time I have re-"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.11012433335603682,
+            0.36172945202609519,
+            0.81527531196881542,
+            0.035102739726027399
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "fenned yyen i Judge Peter Junney of Wiichetes Soue -"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.10650437797250711,
+            0.33187847659471004,
+            0.81186174847590875,
+            0.034892467603291566
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "for infermation of sy standing of the Bor, wks has hun"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.104575726299906,
+            0.30290546875560476,
+            0.84763882050454376,
+            0.039227064341714968
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "me ever sinee the gear 1860 and ihen intraduccd kimuy"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.10632872092077293,
+            0.26570608602851253,
+            0.84600389552415667,
+            0.04355348952829019
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "t the by snyeng ihat all the old Louyer saise char iis a seac"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.099170456847552158,
+            0.23399773947920399,
+            0.82998842375049042,
+            0.042972584293313187
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "estate cmpliestee case 1 hod peateptu feunorgumenr"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.10997605017330528,
+            0.21070781365998426,
+            0.82088192736254584,
+            0.032896283554704198
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "hat ho i been susde at ikal Tesmy - But there is one"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.10631798000733403,
+            0.17797822687937159,
+            0.82285516331884145,
+            0.038531412817027433
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "thing I kreor, and ihat is, ihet some persu her ham"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.10996291828890388,
+            0.14865318441070874,
+            0.82983519741680822,
+            0.035734849433376348
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "wsote letters to yen prejudie al to me, et has been sug-"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.099177968810122433,
+            0.12463143978846425,
+            0.8015024991215024,
+            0.032188356739200952
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "- gested to oe ihot you have been informee that I an"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.11190052907569184,
+            0.10017123326259703,
+            0.7992895277973,
+            0.024828767123287632
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "intemperite- Boch ni che past I had preccriher fer n"
+            }
+          ]
+        }
+      ],
+      "orientation_score" : 1168.200000166893,
+      "revision" : 3,
+      "usesLanguageCorrection" : false
+    },
+    {
+      "clockwise_rotation" : 90,
+      "file" : "05-100-original.png",
+      "lines" : [
+        {
+          "box" : [
+            0.88864177960684798,
+            0.12501162042445091,
+            0.060465832279153031,
+            0.79402926776199667
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "ever since the bar, of bol, ID, Pobiane blusk Fah"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.86023942022732869,
+            0.05272775413547004,
+            0.05238744004132001,
+            0.86803516084679
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "bounty bernk showing sy character and struding, chas"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.83540724195707916,
+            0.074270621878649856,
+            0.04108496234841541,
+            0.84620889958976198
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "I am dar an kennable man te, and tave prailiced"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.80238072480447509,
+            0.060069814910848063,
+            0.043774915068116926,
+            0.8516207898511049
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "taw fur twent, five jears; not onl this bul hod is nel"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.78068333953675728,
+            0.069164337535745246,
+            0.030416406997262668,
+            0.84218760215088917
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "been for se, your stother and dunt would have slafh"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.74689445220766404,
+            0.061993578838770658,
+            0.039814419942359458,
+            0.85293157729144875
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "an their sight, beeanse the wice idea hod Token hold of"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.71773077716883305,
+            0.054945329496411843,
+            0.038405741730781373,
+            0.85102403712571906
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "eveny body else, and yon soonld wat have had ary ease"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.67661664285519185,
+            0.047505836194970952,
+            0.051839083841402234,
+            0.86248906985486418
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "here to emplay any lawger abond; and sne in cmeider."
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.65199395570150553,
+            0.045988877946111617,
+            0.041685466896997703,
+            0.87253663130883885
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "- ation of all these fai, coed any seosmablr person nite"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.62232358658135489,
+            0.047838278513446464,
+            0.039403970927408327,
+            0.85103501834629958
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "any grotituce, or sense of justice, acceps of the seeoveng"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.59990132627214487,
+            0.08341565579189536,
+            0.029671148078082354,
+            0.8171739777760525
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "of the propit, broughs abouk ly these seriices, and there"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.57002606241830522,
+            0.0442316282903501,
+            0.032308553996151401,
+            0.84937449179932667
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "lurn theis back avme, stal zy seputatie ao a Louger"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.5380044232071961,
+            0.035372653563590095,
+            0.034514103850273314,
+            0.86176954452961563
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "and a san of hino, and cloe a corseapmlmee eitu"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.5110403319214738,
+            0.044251395616312417,
+            0.032827782304319597,
+            0.84752141082635968
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "me y mereg srging ive chonh yor fer the interese zur"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.4912790404796667,
+            0.087033753507121725,
+            0.023255872399839672,
+            0.80639431366860626
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "have Toker sis che miten\" and then send à Porver of"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.44664533786226368,
+            0.060261621780551278,
+            0.040426953198158588,
+            0.83872538929703855
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Stterny 2o sime kinsnan to employ (wit jour friened"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.38808136579629993,
+            0.058614584291670324,
+            0.069767501256237319,
+            0.83658966958273395
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "t% sepnenk agne n bent . bi dhe d nnine henainee"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.36046508745273914,
+            0.069271765739923996,
+            0.03924424354344197,
+            0.82238009784012156
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "fenned yen io Judge Peter Punney of Winchetes Sou-"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.32913364429303393,
+            0.072761055221210014,
+            0.037297364783613673,
+            0.82250836105027458
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "fir infermation of sy stonding of he Bor, wks has hum"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.30383492948170437,
+            0.047841078562883332,
+            0.035176869941084377,
+            0.84749280857740594
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "me ever sinee the goar 1860 aue then intradueece kirnalf"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.26799834283056356,
+            0.04779228010045411,
+            0.040387060544262221,
+            0.84754362864474375
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "to se ly sajeng ihat all the old Louzere said ihat is a seac"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.20639531918777282,
+            0.060390761263324655,
+            0.0697675110542611,
+            0.84191830686944291
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "det had biennede dhedtete n banh ihge come"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.17456471528851636,
+            0.069186495810297566,
+            0.037120332456614863,
+            0.8225787813194626
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "thing I knar, and ihet is, ihet some pessus hee kave"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.15203408592821996,
+            0.056772455788302256,
+            0.031588322495760962,
+            0.83139804217605906
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "asote letters to yen prejudie al to sne, It has been sug-"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.11908184687100935,
+            0.093868477905809211,
+            0.03949619972542541,
+            0.81053053085774063
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "- gežtea Io me ihot you hare been infonmed that I an"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.10174415802616485,
+            0.097690945160107234,
+            0.026162846447670307,
+            0.79040852949709073
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "intemperite- Boch ni che pask I hai precciiter fer en"
+            }
+          ]
+        }
+      ],
+      "orientation_score" : 1026.300000846386,
+      "revision" : 3,
+      "usesLanguageCorrection" : false
+    },
+    {
+      "clockwise_rotation" : 180,
+      "file" : "05-100-original.png",
+      "lines" : [
+        {
+          "box" : [
+            0.093739288477435956,
+            0.058787015849273927,
+            0.81974115730828323,
+            0.047199428898014428
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "ever sinee he Bar, of bol, HD, Dobisne blesk Jatte"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.065989843405531032,
+            0.091666604959063536,
+            0.8527918859505752,
+            0.037500123455099899
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "bounty beurk showing sy character and standing the"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.081444205261110875,
+            0.12528437675014659,
+            0.83898338413637552,
+            0.037823654200932699
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "I am har an kensable man te, and tave prackeed"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.058265265129051613,
+            0.15237103048449574,
+            0.85353465060309885,
+            0.046328004092386244
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "haw fur twent, fiie jears; hot onl this bul had it mel"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.067495572685116648,
+            0.18895342788732883,
+            0.84547066788294323,
+            0.026162911767828922
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "been for se, your stother and Aunt soould have slefh"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.065542973765238849,
+            0.21464509128023401,
+            0.84764890790484448,
+            0.038007928900522736
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "an theii sight, beeanse the wile idea had taken hold of"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.054936182378157027,
+            0.24387095606210962,
+            0.85103310301712864,
+            0.038398265838623047
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "every bady else, and yor somndd not have had ary eass"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.047578284425717647,
+            0.27156930089925391,
+            0.86057284686355906,
+            0.047849844579827328
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "here to emplay any lawger abrud; and seae in emeider."
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.047720227327371953,
+            0.30623154744325753,
+            0.8726125421883173,
+            0.039496171964357951
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "- ation of ale these fat, cold ary scosmable persa nitu"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.42964008649147245,
+            0.33747428601008889,
+            0.46939980734342313,
+            0.033824525467337052
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "any grotitude, or seuse of just"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.04926919020024486,
+            0.3386507700747784,
+            0.38090084187655271,
+            0.035168224818086014
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "i accefs of the seeoveny"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.081611804344962985,
+            0.36898486412486042,
+            0.8190252711084598,
+            0.031523333836908307
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "of the propit, broughs abouk by these seniices, and therr"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.042466845115033972,
+            0.39766527816945418,
+            0.85292666127990968,
+            0.032317880081803918
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "lurn theis back avmme, słab zy sepetatier ao a Louzer"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.035407292763356878,
+            0.42636113452827629,
+            0.86170372105043813,
+            0.033489361201247125
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "and a man of kino, and dlose a coreapmlmer eite"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.04784314471888293,
+            0.45739941898345993,
+            0.53663814017962208,
+            0.02816179353896886
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Ạỗạ¿ve honh yer fer the interess ze"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.090348071066084737,
+            0.45970747973647785,
+            0.79799227534976469,
+            0.049088239669799916
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "sa menk engennine thanhpen perta paleres,"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.056753835226464509,
+            0.51208694038401892,
+            0.84569712363526417,
+            0.038296506829457622
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Atterpy to seme kinsman to emplay (hit your friend"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.053160299507501584,
+            0.54031114189141349,
+            0.84213767590383115,
+            0.040511446456386602
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "as I have shown myelf to be), twh to empl y heis friind"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.04936844569878316,
+            0.56362834626292901,
+            0.84084770170714562,
+            0.049762538034621828
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "to repreceunt Agoor ins bouk - St the same time I kave re-"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.072824142197817923,
+            0.60029063900869639,
+            0.81882773682662124,
+            0.036337326650750068
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "fenred yur io Judge Peter Purney of Wivchets Ser-"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.078089669335533338,
+            0.6321154745783284,
+            0.81717972376356574,
+            0.037290017898768513
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "for infermation of sy standing of ite Bor, wks has huem"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.046039806060737376,
+            0.65947738440806147,
+            0.84931952185211812,
+            0.0369174023197123
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "me ever since the gear 1860 ane iker intraduecce kimalf."
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.049330632613094089,
+            0.68808691122512489,
+            0.84612896651902458,
+            0.04705362777187394
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "I the by sojeng that all the old Lowfer said char wis a seac"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.078152759089110138,
+            0.72819761469988242,
+            0.81349909953991251,
+            0.030523373656076935
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "estate cmpliestee case 9 had reat tufenesr argumens"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.072595208799686686,
+            0.75086469737379657,
+            0.81213046915860354,
+            0.034876490292483742
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "tet had been sade at thal Jerm- But ther is one"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.070915239019541623,
+            0.78491357169429232,
+            0.81911401469338374,
+            0.033731578147574659
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "hing I krear, and ihot is, iket some perses keu have"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.065719356362419615,
+            0.81831389563817281,
+            0.81705152439771833,
+            0.030523372023072981
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "wsote lte, ts yu preudeeae to me, It heasbeen auf."
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.092097266890632065,
+            0.84154578664238922,
+            0.81404994820949927,
+            0.039318146770947582
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "- gesta to me ihot you have been informed that I an"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.095847356118914068,
+            0.87112048264690245,
+            0.79231855959074271,
+            0.029356878097743233
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "intemperote- Boch ni che pask I hai preccriter fer n"
+            }
+          ]
+        }
+      ],
+      "orientation_score" : 1117.5000004172325,
+      "revision" : 3,
+      "usesLanguageCorrection" : false
+    },
+    {
+      "clockwise_rotation" : 270,
+      "file" : "05-100-original.png",
+      "lines" : [
+        {
+          "box" : [
+            0.052752988691702717,
+            0.081081827682001895,
+            0.056231988619451646,
+            0.82894418628644739
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "ever since the bar, of bol, MD, Pobiane blusk Iathe"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.092912922324841024,
+            0.079638882574534886,
+            0.041398486045941901,
+            0.86733012817893562
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "bount benk showing sy charscte, ane standing cher"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.1219825333798609,
+            0.077755713878895016,
+            0.041652326714502613,
+            0.84264989876846885
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "I am dar au kennable man te, and tave practicee"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.14935056840828181,
+            0.082263142940120049,
+            0.082834883911968887,
+            0.861304438762585
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "ten jer taenty fån eteni ant pun t buned han e v"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.20916413984852492,
+            0.083105757548758596,
+            0.047137760136225476,
+            0.85327869878154428
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "in their sight, beeanse the wile ide a had taker hold of"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.24546171750014079,
+            0.092307474378050092,
+            0.036670098566029208,
+            0.85269905633008625
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "every body else, and you somld not have had ary eaae"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.27153558273021849,
+            0.086580172663729971,
+            0.049345218971984017,
+            0.86406647111581458
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "here to emplay any lawger abond; and senn in cmdider."
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.30614998016721906,
+            0.079621559471500181,
+            0.040142039730124257,
+            0.87089672647260719
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "- ation of ale these fat, coned ary seasmablr persa mitu"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.33636428001163249,
+            0.097486914952582771,
+            0.041124347138078221,
+            0.8530052536202275
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "any grotitude, or sence of justic acceps of the seeoveny"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.36906833351834134,
+            0.097635128490848655,
+            0.030030123175007029,
+            0.82072684954399844
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "of the peopit, broughs about by these seriices, and thers"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.38934459337492122,
+            0.10434373504364147,
+            0.046181090890544729,
+            0.85704570435081062
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "lurn theis back avme, słab zy sepritatiin ao a Louger"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.42539713471387292,
+            0.10101186666590523,
+            0.036428196789467182,
+            0.8601365987227052
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "and a man of henon, and clase a crnseapmdmes srte"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.45527880537163723,
+            0.10997972522935706,
+            0.035713816342288485,
+            0.84757408237856313
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "me y merg sigeng sve chanh yer fer the interese zor"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.48110461371523211,
+            0.10124335669118956,
+            0.027616345719115365,
+            0.81172288711100937
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "have Token sis the mateen\" and then send ã Porver f"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.51308136595060039,
+            0.099467139571495222,
+            0.036337267862607381,
+            0.84191830686944291
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Stterzey to seme kinsman to emplay (hit four friened"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.54475453343739155,
+            0.10651306357287349,
+            0.031535290691950491,
+            0.83494740250719135
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "as I have shoun myself to te), but to emfl y his frind"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.56182300304255695,
+            0.11329411789019095,
+            0.045772898687075236,
+            0.83188721724633896
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "to sefreseut spore in bourt -St the same time I have re-"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.60007616960216481,
+            0.11710071396928479,
+            0.036422613548905969,
+            0.80666194899810406
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "fenred yon t Judge Peter Penney of Wiichetes Seun-"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.62971964918417567,
+            0.10464567531126667,
+            0.03957128361479878,
+            0.81382700389399187
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "fou infermstion of sy słonding of the Bor, wko has hun"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.65618079450479672,
+            0.10453780262592705,
+            0.04093558167758049,
+            0.84593590133858532
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "me ever sine the gear 1860 ane ther intrnduccd kimay"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.68914796422494384,
+            0.1027723713736759,
+            0.045238736557633885,
+            0.84780781638173375
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "t ohe ly sajing that all the old Lauzers said ikat is a seal"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.7229288854734961,
+            0.097552985991297025,
+            0.069937725589700017,
+            0.83864073174767917
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "het heu hen nede chedettt hnt tueh shene none"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.78360961136045004,
+            0.10635035232580059,
+            0.038229458952603323,
+            0.82283518005115708
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "thing I kno, and ihat is, ihet some persus hen have"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.81421067661173141,
+            0.10995494761070279,
+            0.035492165447914448,
+            0.8298344312851399
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "wsote lettes to yen prejudie al to me, It has been sug-"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.84428330371805649,
+            0.095663848623447789,
+            0.032364058167967169,
+            0.80862899205674688
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "- gesked to me chot you han been informee that I an"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.87294616732218555,
+            0.11003014383995702,
+            0.026005551423112006,
+            0.8012462919227249
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "intemperte- Boch hi che pask 2 haa precariter fer en"
+            }
+          ]
+        }
+      ],
+      "orientation_score" : 1022.2000008821487,
+      "revision" : 3,
+      "usesLanguageCorrection" : false
+    },
+    {
+      "clockwise_rotation" : 0,
+      "file" : "05-100-original.png",
+      "lines" : [
+        {
+          "box" : [
+            0.084713714330817064,
+            0.89315808336558689,
+            0.78993703929949,
+            0.04838610348636152
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "ever since he har, of bol, H.D, Dobrane blush Ian"
+            },
+            {
+              "confidence" : 1,
+              "text" : "ever since he har, of bol, H.D, Dobrane blush Fan"
+            },
+            {
+              "confidence" : 1,
+              "text" : "ever since he har, of bol, H.D, Dobrane blush Far"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.083126531321288291,
+            0.86784456299131907,
+            0.86207989169962729,
+            0.036353279466498356
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "bounty berk showing by character and standing, ther"
+            },
+            {
+              "confidence" : 1,
+              "text" : "bounty berk showing by character and standing, thir"
+            },
+            {
+              "confidence" : 1,
+              "text" : "bounty berk showing by character and standing, thor"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.081402720811504792,
+            0.83601740711749484,
+            0.84067008684868594,
+            0.038215434714539365
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "I am see an kennable man te, and have practiced"
+            },
+            {
+              "confidence" : 1,
+              "text" : "I am see an kennable man te, and tave practiced"
+            },
+            {
+              "confidence" : 1,
+              "text" : "I am sto an kennable man te, and tave practiced"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.090132346596314777,
+            0.80386785780644243,
+            0.84795267911136907,
+            0.039361692454716879
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "law for twenty fire years; hot only this but had it met"
+            },
+            {
+              "confidence" : 1,
+              "text" : "law for twenty five years; hot only this but had it met"
+            },
+            {
+              "confidence" : 1,
+              "text" : "law for twenty fire years; hot only this but had it net"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.086945967439196192,
+            0.78100289362402431,
+            0.84389020209531895,
+            0.032375211585057961
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "been for me, your sother and Aunt would have slaps"
+            },
+            {
+              "confidence" : 1,
+              "text" : "been for me, your sother and Aunt would have sleph"
+            },
+            {
+              "confidence" : 1,
+              "text" : "been for me, your sother and Aunt would have sleps"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.085062028978062559,
+            0.7452314348201039,
+            0.84938470688823875,
+            0.039192160514936125
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "in their sight, beanse the will idea had taken hold of"
+            },
+            {
+              "confidence" : 1,
+              "text" : "in their sight, beanse the will idea had token hold of"
+            },
+            {
+              "confidence" : 1,
+              "text" : "in their sight, beanse the will idea had taker hold of"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.092245129358310363,
+            0.71626147233923509,
+            0.85282821336051895,
+            0.039883447020021334
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "every body else, and you somed not have had asy ease"
+            },
+            {
+              "confidence" : 1,
+              "text" : "every body else, and you soned not have had asy ease"
+            },
+            {
+              "confidence" : 1,
+              "text" : "every body else, and you somed not have had ary ease"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.091889829912006254,
+            0.67917763494592975,
+            0.85693850976153907,
+            0.046295819217211598
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "here to employ any lawyer about; and send in caiides."
+            },
+            {
+              "confidence" : 1,
+              "text" : "here to employ any lawyer about; and send in caiider."
+            },
+            {
+              "confidence" : 1,
+              "text" : "here to employ any lawyer about; and send in criedes."
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.081384394723981748,
+            0.65206593408756874,
+            0.86916469430324927,
+            0.041978326562332802
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "- ation of all these fai, cold any scosmable person min"
+            },
+            {
+              "confidence" : 1,
+              "text" : "- ation of all these fat, cold any scosmable person min"
+            },
+            {
+              "confidence" : 1,
+              "text" : "- ation of all these fai, coed any scosmable person min"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.09914520342930444,
+            0.61989753642246193,
+            0.85320687393763073,
+            0.044020685431075401
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "any gratitude, or sense of justice, accept of the secovery"
+            },
+            {
+              "confidence" : 1,
+              "text" : "any gratitude, or sense of justice, accept of the secoverg"
+            },
+            {
+              "confidence" : 1,
+              "text" : "any gratitude, or sense of justin, accept of the secovery"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.36720898618439557,
+            0.6120825159367792,
+            0.15037653136951656,
+            0.064751148223876953
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "sense of yo"
+            },
+            {
+              "confidence" : 1,
+              "text" : "sense of y"
+            },
+            {
+              "confidence" : 1,
+              "text" : "sense of t"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.093997357745343721,
+            0.59568950226620621,
+            0.82975839271705032,
+            0.03683331567947179
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "of the property brought about by these services, and there"
+            },
+            {
+              "confidence" : 1,
+              "text" : "of the property brought about by these services, and ther"
+            },
+            {
+              "confidence" : 1,
+              "text" : "of the property brought about ly these services, and there"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.10102386770576371,
+            0.56406911471547061,
+            0.86187814369361271,
+            0.04122443885019389
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "turn their back amme, stab zy sepitatin do a Louger"
+            },
+            {
+              "confidence" : 1,
+              "text" : "turn their back amme, stab zy sepitatin do a Louge"
+            },
+            {
+              "confidence" : 1,
+              "text" : "turn their back amme, stab zy sepitatin as a Louge"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.10107976280396644,
+            0.53796208052964634,
+            0.863549076862415,
+            0.034572511503141223
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "and a man of kenon, and close a consespenner situ"
+            },
+            {
+              "confidence" : 1,
+              "text" : "and a man of kenon, and close a consespenner site"
+            },
+            {
+              "confidence" : 1,
+              "text" : "and a man of henon, and close a consespenner situ"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.10479572234166901,
+            0.51017441931815899,
+            0.8525755175985551,
+            0.030523254446787274
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "me by merg seging me thank you for the interess zur"
+            },
+            {
+              "confidence" : 1,
+              "text" : "me by merg siging me thank you for the interess zur"
+            },
+            {
+              "confidence" : 1,
+              "text" : "me by merg seging me thank you for the interess zer"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.104795733117616,
+            0.49127907013213601,
+            0.80817052609750906,
+            0.02327572401255773
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "have Taken sir the mate,\" and then send a Pover of"
+            },
+            {
+              "confidence" : 1,
+              "text" : "have Taken sis the mate,\" and then send a Pover of"
+            },
+            {
+              "confidence" : 1,
+              "text" : "have Take sir the mate,\" and then send a Pover of"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.3018065005234486,
+            0.48881323081594641,
+            0.1679013463742563,
+            0.04659532847469805
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "the mate"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "she mate"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "the mote"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.097690928372516458,
+            0.44905821865769135,
+            0.84369451929834594,
+            0.036406897518732828
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Sterny to some kinsman to employ not four friend"
+            },
+            {
+              "confidence" : 1,
+              "text" : "Sterny to some kinsman to employ not jour friend"
+            },
+            {
+              "confidence" : 1,
+              "text" : "Sterny to some kinsman to employ hit four friend"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.10471401993837524,
+            0.41920677359938407,
+            0.84032545528651281,
+            0.037565286845377077
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "as I have shows myself to te), but to employ his friend"
+            },
+            {
+              "confidence" : 1,
+              "text" : "as I have shows myself to te), but to employ his freind"
+            },
+            {
+              "confidence" : 1,
+              "text" : "as I have shows myself to te), but to employ his frind"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.10990049561035578,
+            0.38758275282513011,
+            0.83885352481858011,
+            0.043215650401703276
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "to sepresent sore in bout - At the same time I have re-"
+            },
+            {
+              "confidence" : 1,
+              "text" : "to sepresent tore in bout - At the same time I have re-"
+            },
+            {
+              "confidence" : 1,
+              "text" : "to sepresent sore in bout - It the same time I have re-"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.11012433335603682,
+            0.36172945202609519,
+            0.81527531196881542,
+            0.035102739726027399
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "ferned yen i Judge Peter Tunney of Winchetes Some -"
+            },
+            {
+              "confidence" : 1,
+              "text" : "ferned yen i Judge Peter Funny of Winchetes Some -"
+            },
+            {
+              "confidence" : 1,
+              "text" : "ferred yen i Judge Peter Funny of Winchetes Some -"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.10650437797250711,
+            0.33187847659471004,
+            0.81186174847590875,
+            0.034892467603291566
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "for infirmation of by standing of the Bon, who has hun"
+            },
+            {
+              "confidence" : 1,
+              "text" : "for infirmation of by standing of the Bor, who has hun"
+            },
+            {
+              "confidence" : 1,
+              "text" : "for infirmation of sy standing of the Bon, who has hun"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.104575726299906,
+            0.30290546875560476,
+            0.84763882050454376,
+            0.039227064341714968
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "me ever sine the gear 1860 and iken introduced kimu"
+            },
+            {
+              "confidence" : 1,
+              "text" : "me ever sine the gear 1860 and iken introduced kime"
+            },
+            {
+              "confidence" : 1,
+              "text" : "me ever sine the gear 1860 and her introduced kimey"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.10632872092077293,
+            0.26570608602851253,
+            0.84600389552415667,
+            0.04355348952829019
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "to the by saying that all the old Louger saise char is a seac"
+            },
+            {
+              "confidence" : 1,
+              "text" : "to the by saying that all the old Louger saise char is a sear"
+            },
+            {
+              "confidence" : 1,
+              "text" : "I the by saying that all the old Louger saise that is a seac"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.10997605017330528,
+            0.21070781365998426,
+            0.82088192736254584,
+            0.032896283554704198
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "that ho i been suade at ikal Termy - But there is one"
+            },
+            {
+              "confidence" : 1,
+              "text" : "that ho i been suade at ikal Termy - But There is one"
+            },
+            {
+              "confidence" : 1,
+              "text" : "that ho i been suade at ikal Termy - But thee is one"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.10631798000733403,
+            0.17797822687937159,
+            0.82285516331884145,
+            0.038531412817027433
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "thing I know, and that is, iket some persus her have"
+            },
+            {
+              "confidence" : 1,
+              "text" : "thing I know, and that is, iket some persus her hav"
+            },
+            {
+              "confidence" : 1,
+              "text" : "thing I know, and that is, ikes some persus her have"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.10996291828890388,
+            0.14865318441070874,
+            0.82983519741680822,
+            0.035734849433376348
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "wrote letters to yen prejudie al to me, It has been sug-"
+            },
+            {
+              "confidence" : 1,
+              "text" : "wrote letters to yen prejudical to me, It has been sug-"
+            },
+            {
+              "confidence" : 1,
+              "text" : "wrote letters to yen prejudic al to me, It has been sug-"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.099177968810122433,
+            0.12463143978846425,
+            0.8015024991215024,
+            0.032188356739200952
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "- zested to se chat you have been informed that I an"
+            },
+            {
+              "confidence" : 1,
+              "text" : "- zested to se chot you have been informed that I an"
+            },
+            {
+              "confidence" : 1,
+              "text" : "- gested to se chat you have been informed that I an"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.11190052907569184,
+            0.10017123326259703,
+            0.7992895277973,
+            0.024828767123287632
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "intemperate - Boch hi che past I had precariner fer en"
+            },
+            {
+              "confidence" : 1,
+              "text" : "intemperate - Boch hi che past I had precariner fer n"
+            },
+            {
+              "confidence" : 1,
+              "text" : "intemperate - Boch ni che past I had precariner fer en"
+            }
+          ]
+        }
+      ],
+      "orientation_score" : 1133.5,
+      "revision" : 3,
+      "usesLanguageCorrection" : true
+    },
+    {
+      "clockwise_rotation" : 0,
+      "file" : "05-100-contrast.png",
+      "lines" : [
+        {
+          "box" : [
+            0.084768973470109504,
+            0.89384791225480709,
+            0.78460655052791584,
+            0.048491530222435464
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "ever since he Bor, of bol, HD, Oobrene blesh Ban"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.083141690049328296,
+            0.86771539791428598,
+            0.86029403878056354,
+            0.03659874445771516
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "bount bernk showing sy characler and sTaudeng, čhar"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.081386478714800647,
+            0.83639986554069268,
+            0.77668564289683573,
+            0.037957390693769022
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "I an hae an kensable man te, and tave peadl"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.090132346596314777,
+            0.80386785780644243,
+            0.84795267911136907,
+            0.039361692454716879
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "taw fur twent, fice jears; hot onl this but had it net"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.086956137096775632,
+            0.78101619986984128,
+            0.84386983576180052,
+            0.032341179782397145
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "been for me, your sother and Aund woould have slefs"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.086850150183127792,
+            0.74670473926255521,
+            0.84758468053330938,
+            0.037697178043731183
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "in their sight, beeanse the wile idea had toker hold of"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.092245181304487028,
+            0.71626147200474022,
+            0.8528189559361925,
+            0.039875876413632771
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "evey body else, and you somed not have had ary ease"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.091890825137608073,
+            0.67919021079751762,
+            0.85691667500898927,
+            0.046282827037654517
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "here to emplay any lawger aboud; and sene in caiider."
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.081384394723981748,
+            0.65206593408756874,
+            0.86916469430324927,
+            0.041978326562332802
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "- atio of all these fai, coed any scosmablr persa mtn"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.097402435698126219,
+            0.61988598677712914,
+            0.85493341549669843,
+            0.044063525657131231
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "any grotitude, or senre of justiv, acceps of she seeovery"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.092942638653032206,
+            0.59943946633054934,
+            0.12463330224966904,
+            0.035400011768079831
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "of the pr"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.22024865211820677,
+            0.59717465818501037,
+            0.70159861033930437,
+            0.032185807620009332
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "fity broughs about ly these seriices, and there"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.10124335468465999,
+            0.56831395307593335,
+            0.86145645205445875,
+            0.033569608649162364
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "lurn theis back au me, stab sy seputatien ao a Louger"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.10115847796147624,
+            0.53932976987493797,
+            0.86339968118707511,
+            0.032548079751942405
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "and a man of henon, and clase a crnseapmdmee situ"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.10657192818570584,
+            0.51155821869036089,
+            0.8507993051696523,
+            0.027825342465753411
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "ie by mereg sugeng mve chanh yor fer the iteress zor"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.10479573844970744,
+            0.49127906968362345,
+            0.80639431366860626,
+            0.021991478253717278
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "have Tokn sis the matu\" avd then send a Porver of"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.097690953547290155,
+            0.44905821865762163,
+            0.84547066788294323,
+            0.036406897518732717
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Stterny to seme kinsnan to emplay (nit jour fiiend"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.10649641753489533,
+            0.42066311970600445,
+            0.83854273073842833,
+            0.036097938067292556
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "as I have shoun myselt to te), buk to empl y his frind"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.10990174145786488,
+            0.38759389179633186,
+            0.83885122642357479,
+            0.043159769005971405
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "to sepreaut sgore in bouk - At the same time I have re-"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.11012433335987065,
+            0.36172945229269349,
+            0.81527531196881542,
+            0.036526361556902365
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "fenned yyun io Judge Peter Funney of Winchetes feu-"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.1064853087909484,
+            0.33179448437292958,
+            0.81010737079955553,
+            0.033304064241174158
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "for infermation of sy stouding of he Bor, wks has hun"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.10291095756546396,
+            0.30267939156959622,
+            0.84923250206344791,
+            0.035583731246321193
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "me ever sine the gear 1860 ane ihen intraducce kimaly"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.10632447859552188,
+            0.26566129632998825,
+            0.84601187606236927,
+            0.043737251464634808
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "t she by sneng ihat all the old Lougers saise char sis a seac"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.10276293554657352,
+            0.23548425594932398,
+            0.82457940648290406,
+            0.039983037399919152
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "estate empliestee case 9 had seaSuptnbunr rgumur"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.11012434503183,
+            0.21511627923046972,
+            0.82060388541121865,
+            0.027616278765952851
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "hit ho d been suade at ikal Jerm- But there is one"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.10623591126081727,
+            0.17698846384606959,
+            0.82296682700951229,
+            0.042120463227572458
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "thing I brew, and ihat is, ihet some persm, hee have"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.11172431601338033,
+            0.14866509606718037,
+            0.82807379686682803,
+            0.035722938302445106
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "asote lettes to yen prejudieal to se, It has been sug-"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.11451055147049412,
+            0.12441885129392438,
+            0.28201316290819495,
+            0.033279222984836543
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "gestea Io me chor."
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.39060651286590481,
+            0.1252700074565688,
+            0.51537278307032874,
+            0.029556574886792308
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "you har been infonmed that & am"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.11361014491516692,
+            0.099442065511662125,
+            0.81362883116909634,
+            0.02711112776847735
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "intempente- Bach ni che pask I had preccriter fer n e"
+            }
+          ]
+        }
+      ],
+      "orientation_score" : 1148,
+      "revision" : 3,
+      "usesLanguageCorrection" : false
+    },
+    {
+      "clockwise_rotation" : 0,
+      "file" : "05-100-contrast.png",
+      "lines" : [
+        {
+          "box" : [
+            0.084768973470109504,
+            0.89384791225480709,
+            0.78460655052791584,
+            0.048491530222435464
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "ever since he Bor, of bol, ID, dobrane blush Ban"
+            },
+            {
+              "confidence" : 1,
+              "text" : "ever since he Bor, of bol, ID, dobrane blest Ban"
+            },
+            {
+              "confidence" : 1,
+              "text" : "ever since he Bor, of bol, ID, dobrane blesh Ban"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.083141690049328296,
+            0.86771539791428598,
+            0.86029403878056354,
+            0.03659874445771516
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "bount berk showing sy character and sTanding, char"
+            },
+            {
+              "confidence" : 1,
+              "text" : "bount berk showing sy character and standing, char"
+            },
+            {
+              "confidence" : 1,
+              "text" : "bount berk showing sy character and sTanding, cher"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.081386478714800647,
+            0.83639986554069268,
+            0.77668564289683573,
+            0.037957390693769022
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "I am her an hennable man te, and have peach"
+            },
+            {
+              "confidence" : 1,
+              "text" : "I am has an hennable man te, and have peach"
+            },
+            {
+              "confidence" : 1,
+              "text" : "I am her an hennable man te, and have prack"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.090132346596314777,
+            0.80386785780644243,
+            0.84795267911136907,
+            0.039361692454716879
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "law for twenty fire years; hot only this but had it met"
+            },
+            {
+              "confidence" : 1,
+              "text" : "law for twenty fire years; hot only this but had it net"
+            },
+            {
+              "confidence" : 1,
+              "text" : "law for twenty fire years; hot only this but had it mel"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.086956137096775632,
+            0.78101619986984128,
+            0.84386983576180052,
+            0.032341179782397145
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "been for me, your sother and Aunt would have sleph"
+            },
+            {
+              "confidence" : 1,
+              "text" : "been for me, your sother and Aunt would have sleps"
+            },
+            {
+              "confidence" : 1,
+              "text" : "been for me, your sother and Aund would have sleph"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.086850150183127792,
+            0.74670473926255521,
+            0.84758468053330938,
+            0.037697178043731183
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "in their sight, beans the wile idea had taker hold of"
+            },
+            {
+              "confidence" : 1,
+              "text" : "in their sight, beans the wile idea had toker hold of"
+            },
+            {
+              "confidence" : 1,
+              "text" : "in their sight, beanse the wile idea had taker hold of"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.092245181304487028,
+            0.71626147200474022,
+            0.8528189559361925,
+            0.039875876413632771
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "every body else, and you somed not have had asy ease"
+            },
+            {
+              "confidence" : 1,
+              "text" : "every body else, and you somed not have had ary ease"
+            },
+            {
+              "confidence" : 1,
+              "text" : "every body else, and you soned not have had asy ease"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.091890825137608073,
+            0.67919021079751762,
+            0.85691667500898927,
+            0.046282827037654517
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "here to employ any langer about; and send in caiides."
+            },
+            {
+              "confidence" : 1,
+              "text" : "here to employ any langer about; and send in caiider."
+            },
+            {
+              "confidence" : 1,
+              "text" : "here to employ any langer about; and send in criedes."
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.081384394723981748,
+            0.65206593408756874,
+            0.86916469430324927,
+            0.041978326562332802
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "- ation of all these fat, cold any scosmable person min"
+            },
+            {
+              "confidence" : 1,
+              "text" : "- ation of all these fai, cold any scosmable person min"
+            },
+            {
+              "confidence" : 1,
+              "text" : "- ation of all these fat, coed any scosmable person min"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.097402435698126219,
+            0.61988598677712914,
+            0.85493341549669843,
+            0.044063525657131231
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "any gratitude, or sense of justice, acceps of the secovery"
+            },
+            {
+              "confidence" : 1,
+              "text" : "any gratitude, or sense of justice acceps of the secovery"
+            },
+            {
+              "confidence" : 1,
+              "text" : "any gratitude, or sense of justice, acceps of the secoverg"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.092942638653032206,
+            0.59943946633054934,
+            0.12463330224966904,
+            0.035400011768079831
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "of the pr"
+            },
+            {
+              "confidence" : 1,
+              "text" : "of che pr"
+            },
+            {
+              "confidence" : 1,
+              "text" : "of the p"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.22024865211820677,
+            0.59717465818501037,
+            0.70159861033930437,
+            0.032185807620009332
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "fity broughs about by these services, and there"
+            },
+            {
+              "confidence" : 1,
+              "text" : "pity broughs about by these services, and there"
+            },
+            {
+              "confidence" : 1,
+              "text" : "fity brought about by these services, and there"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.10124335468465999,
+            0.56831395307593335,
+            0.86145645205445875,
+            0.033569608649162364
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "turn theis back an me, stab say seputatien as a Louger"
+            },
+            {
+              "confidence" : 1,
+              "text" : "turn theis back an me, stab say seputatien as a Lauger"
+            },
+            {
+              "confidence" : 1,
+              "text" : "turn theis back a me, stab say seputatien as a Louger"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.10115847796147624,
+            0.53932976987493797,
+            0.86339968118707511,
+            0.032548079751942405
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "and a man of kenon, and close a conseapndmas situ"
+            },
+            {
+              "confidence" : 1,
+              "text" : "and a man of kenon, and close a conseapolmer situ"
+            },
+            {
+              "confidence" : 1,
+              "text" : "and a man of kenon, and close a conseapndmer situ"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.10657192818570584,
+            0.51155821869036089,
+            0.8507993051696523,
+            0.027825342465753411
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "me by merg saging me thank you for the interess for"
+            },
+            {
+              "confidence" : 1,
+              "text" : "me by merg saging me thank you for the interess yor"
+            },
+            {
+              "confidence" : 1,
+              "text" : "me by merg saging me thank you for the interess zor"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.10479573844970744,
+            0.49127906968362345,
+            0.80639431366860626,
+            0.021991478253717278
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "have Taken sis the mate\" and then send a Porer of"
+            },
+            {
+              "confidence" : 1,
+              "text" : "have Taken sis the mate\" and then send a Poner of"
+            },
+            {
+              "confidence" : 1,
+              "text" : "have Taken sis the mate\" and Then send a Porer of"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.097690953547290155,
+            0.44905821865762163,
+            0.84547066788294323,
+            0.036406897518732717
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Sterny to some kinsman to employ not four friend"
+            },
+            {
+              "confidence" : 1,
+              "text" : "Sterny to some kinsman to employ not jour friend"
+            },
+            {
+              "confidence" : 1,
+              "text" : "Sterny to some kinsman to employ hit four friend"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.10649641753489533,
+            0.42066311970600445,
+            0.83854273073842833,
+            0.036097938067292556
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "as I have shown myself to te), but to emply his frind"
+            },
+            {
+              "confidence" : 1,
+              "text" : "as I have shown myself to te), but to emply his frend"
+            },
+            {
+              "confidence" : 1,
+              "text" : "as I have shown myself to te), buk to emply his frind"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.10990174145786488,
+            0.38759389179633186,
+            0.83885122642357479,
+            0.043159769005971405
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "to sepresent sore in bout - At the same time I have re-"
+            },
+            {
+              "confidence" : 1,
+              "text" : "to sepresent tore in bout - At the same time I have re-"
+            },
+            {
+              "confidence" : 1,
+              "text" : "to sepresent sore in bout - It the same time I have re-"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.11012433335987065,
+            0.36172945229269349,
+            0.81527531196881542,
+            0.036526361556902365
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "ferned yun i Judge Peter Funny of Winchets Seri"
+            },
+            {
+              "confidence" : 1,
+              "text" : "ferned yun i Judge Peter Funny of Winchets feu-"
+            },
+            {
+              "confidence" : 1,
+              "text" : "ferned yun i Judge Peter Funny of Winchets for-"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.1064853087909484,
+            0.33179448437292958,
+            0.81010737079955553,
+            0.033304064241174158
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "for infirmation of by stonding of the Bor, sks has hun"
+            },
+            {
+              "confidence" : 1,
+              "text" : "for infirmation of by stonding of the Bor, sko has hun"
+            },
+            {
+              "confidence" : 1,
+              "text" : "for infirmation of by stonding of the Bor, wks has hun"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.10291095756546396,
+            0.30267939156959622,
+            0.84923250206344791,
+            0.035583731246321193
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "me ever since the gear 1860 ane then introduced himal"
+            },
+            {
+              "confidence" : 1,
+              "text" : "me ever since the gear 1860 ane then introduced himay"
+            },
+            {
+              "confidence" : 1,
+              "text" : "me ever sine the gear 1860 ane then introduced himal"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.10632447859552188,
+            0.26566129632998825,
+            0.84601187606236927,
+            0.043737251464634808
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "to the by aneng that all the old Lawyers saise char sis a reac"
+            },
+            {
+              "confidence" : 1,
+              "text" : "to the by aneng that all the old Lawyers saise char sis a seac"
+            },
+            {
+              "confidence" : 1,
+              "text" : "to the by aneng that all the old Lawyers saise char sis a seal"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.10276293554657352,
+            0.23548425594932398,
+            0.82457940648290406,
+            0.039983037399919152
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "estate empliestee case I had sea Superban, gumur"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "estate empliestee case I had sea Superban gumur"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "estate empliestee case I had sea Superbun gumur"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.11012434503183,
+            0.21511627923046972,
+            0.82060388541121865,
+            0.027616278765952851
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "hit had been sade at Ekat Term - But there is one"
+            },
+            {
+              "confidence" : 1,
+              "text" : "hit had been sade at Ekal Term - But there is one"
+            },
+            {
+              "confidence" : 1,
+              "text" : "hit had been sade at Ekat Term - But There is one"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.10623591126081727,
+            0.17698846384606959,
+            0.82296682700951229,
+            0.042120463227572458
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "thing I brew, and that is, chet some perse, her have"
+            },
+            {
+              "confidence" : 1,
+              "text" : "thing I brew, and that is, chat some perse, her have"
+            },
+            {
+              "confidence" : 1,
+              "text" : "thing I brew, and that is, chet some perse, her hame"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.11172431601338033,
+            0.14866509606718037,
+            0.82807379686682803,
+            0.035722938302445106
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "aste lettes to yun prejudical to me, It has been sug-"
+            },
+            {
+              "confidence" : 1,
+              "text" : "aste lettes to yen prejudical to me, It has been sug-"
+            },
+            {
+              "confidence" : 1,
+              "text" : "aste letters to yen prejudical to me, It has been sug-"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.11451055147049412,
+            0.12441885129392438,
+            0.28201316290819495,
+            0.033279222984836543
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "jester to me chor."
+            },
+            {
+              "confidence" : 1,
+              "text" : "jester to me chor ."
+            },
+            {
+              "confidence" : 1,
+              "text" : "Jester to me chor."
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.39060651286590481,
+            0.1252700074565688,
+            0.51537278307032874,
+            0.029556574886792308
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "you han been infommed that & an"
+            },
+            {
+              "confidence" : 1,
+              "text" : "you han been infommed that 9 am"
+            },
+            {
+              "confidence" : 1,
+              "text" : "you han been infommed that 9 an"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.11361014491516692,
+            0.099442065511662125,
+            0.81362883116909634,
+            0.02711112776847735
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "intemperate - Bach ni che past I had precariter fer ne"
+            },
+            {
+              "confidence" : 1,
+              "text" : "intemperate - Bach ni che past I had precariber fer ne"
+            },
+            {
+              "confidence" : 1,
+              "text" : "intemperate - Bach ni che post I had precariter fer ne"
+            }
+          ]
+        }
+      ],
+      "orientation_score" : 1126,
+      "revision" : 3,
+      "usesLanguageCorrection" : true
+    }
+  ]
+}

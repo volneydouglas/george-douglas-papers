@@ -220,7 +220,7 @@ Geo. A. Sublett of Rutherford County, Tennessee, grants N. L. Douglas power of a
 
 [Scan page 24]
 
-Geo. A. Sublett: power of attorney to N. L. Douglas. Filed October 29, 1852, at [2¼?] o'clock p.m., by [B.?] Hawkins, Clerk. [Fee notation unclear.]
+Geo. A. Sublett: power of attorney to N. L. Douglas. Filed October 29, 1852, at [2¼?] o'clock p.m., [uncertain abbreviation] F. Hawkins, Clerk. [Fee notation unclear.]
 
 ## Pages 25-26
 ### George A Sublett appoints N L Douglas to manage land and debts
@@ -348,11 +348,11 @@ Signed and sealed in my office in Corsicana, February 3, 1851.
 ## Pages 35-35
 ### Label and envelope for Sadie's letter
 
-[Archive label:] To Miss Lizzie Douglas from her niece, Sarah Gail (Douglas) Headrick. Bardsdale, California, September 29, 1893.
+[Archive label:] To Miss Lizzie Douglas from her niece, Sarah Gail (Douglas) Headrick. Bardsdale, California, [written “Sat 29, 1893”; the month is not established].
 
 [Envelope:] From Sadie. Miss Lizzie Douglas, Ferris, Ellis County, Texas. Bardsdale, California postmark, August 9 [year unclear].
 
-[Reading note: The envelope's August postmark differs from the date on the following letter.]
+[Reading note: The envelope has an August postmark. The following letter’s heading does not establish a month; its date is not reconciled with the envelope.]
 
 ## Pages 36-45
 ### Sadie writes about home, the children, and ill health
@@ -361,7 +361,7 @@ Signed and sealed in my office in Corsicana, February 3, 1851.
 
 [Scan page 36]
 
-Bardsdale, September 29, 1893
+Bardsdale, [written “Sat, 29th, 1893”; month uncertain]
 
 My dear Aunt,
 
@@ -1417,7 +1417,7 @@ Floyd County, Texas: John McCrary acknowledged the deed before R. D. White, just
 
 [Scan page 149]
 
-Oklahoma Territory, Oklahoma County: E. D. Winniford and his wife Millie Winniford appeared before [Reese?] Guthrie, notary public, and acknowledged signing the deed. Millie was examined apart from her husband and said she signed willingly and did not wish to withdraw it. April 4, 1891. [This certificate appears to use the initial D; the main deed uses L. The commission's expiration date is partly illegible.]
+Oklahoma Territory, Oklahoma County: E. D. Winniford and his wife Millie Winniford appeared before [given name unread] Guthrie, notary public, and acknowledged signing the deed. Millie was examined apart from her husband and said she signed willingly and did not wish to withdraw it. April 4, 1891. [This certificate appears to use the initial D; the main deed uses L. The commission's expiration date is partly illegible.]
 
 [Scan page 144: filing and recording docket]
 
@@ -1474,7 +1474,7 @@ Johnson County, Texas: Warren Douglas acknowledged signing the deed for its stat
 
 Ellis County, Texas: George Stanford and his wife Ellen Stanford; R. A. Farrar and his wife M. D. Farrar; W. E. Bell and his wife Johnnie Bell; and J. H. Headrick and his wife S. G. Headrick appeared before S. B. Farrar, notary public. They acknowledged signing the instrument for its stated purposes. The four wives were each examined privately, apart from their husbands. After the document was explained, they acknowledged signing of their own free will and said they did not wish to withdraw it. April 15, 1891.
 
-Docket: “Heirs of Mary Douglas, dec'd, to Lizzie Douglas—Deed.” Filed May 28, 1894, at 11:30 a.m., with T. F. Thompson, Ellis County clerk, by [A. Lasswell?], deputy. Recording certificate: May 29, 1896, at 9:40 a.m., Deed Record Book 92, page 516; T. F. Thompson, clerk, by Mordaunt Rink, deputy. [The filing and recording years differ as written.]
+Docket: “Heirs of Mary Douglas, dec'd, to Lizzie Douglas—Deed.” Filed May 28, 1894, at 11:30 a.m., with T. F. Thompson, Ellis County clerk, by A. Lasswell, deputy. Recording certificate: May 29, 1896, at 9:40 a.m., Deed Record Book 92, page 516; T. F. Thompson, clerk, by Mordaunt Rink, deputy. [The filing and recording years differ as written.]
 
 ## Pages 156-158
 ### Mary Douglas gives land to Lizzie, retaining its use for life
@@ -1499,7 +1499,7 @@ Signed February 25, 1875: Mary Douglas.
 
 Ellis County, Texas: Mary Douglas appeared before the undersigned official and acknowledged signing the deed for its stated purposes and consideration. She said she did not wish to withdraw it. Certified at Palmer, February 25, 1875, by Wm. L. Hancock, justice of the peace, Ellis County, Texas, Precinct No. 3. Certificate No. 86.
 
-Docket: Mary Douglas to Lizzie Douglas. Filed August 21, 1875, at 10:30 a.m.; Book O, page 3 [docket notation]. The formal recording certificate states that it was recorded August 28, 1875, at 10 a.m., in Deed Record O, page 884, by J. M. Phillips, Ellis County district court clerk, through H. C. [Ware?], deputy. [Both page references are retained as written.]
+Docket: Mary Douglas to Lizzie Douglas. Filed August 21, 1875, at 10:30 a.m.; Book O, page 3 [docket notation]. The formal recording certificate states that it was recorded August 28, 1875, at 10 a.m., in Deed Record O, page 884, by J. M. Phillips, Ellis County district court clerk, through H. C. Wise, deputy. [Both page references are retained as written.]
 
 ## Pages 2-2
 ### Label for Henry Douglas's letter

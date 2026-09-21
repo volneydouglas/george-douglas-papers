@@ -1,0 +1,374 @@
+{
+  "best_clockwise_rotation" : 270,
+  "engine" : "Apple Vision",
+  "os" : "Version 27.0 (Build 26A428)",
+  "page_id" : "06-118",
+  "records" : [
+    {
+      "clockwise_rotation" : 0,
+      "file" : "06-118-original.png",
+      "lines" : [
+        {
+          "box" : [
+            0.36567015418115439,
+            0.46204332859907893,
+            0.021318817311752503,
+            0.081740337869395385
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "and close.Ii"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.40134528904143107,
+            0.46075581567683177,
+            0.013452919338662495,
+            0.037790695172499222
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Scerett"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.41928250880212331,
+            0.47674418643043481,
+            0.011210766980955245,
+            0.034883721034479231
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Патиь."
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.34304932427123547,
+            0.63226744268192592,
+            0.017937225784883326,
+            0.040697673793124833
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "warовs."
+            }
+          ]
+        }
+      ],
+      "orientation_score" : 23.800000071525574,
+      "revision" : 3,
+      "usesLanguageCorrection" : false
+    },
+    {
+      "clockwise_rotation" : 90,
+      "file" : "06-118-original.png",
+      "lines" : [
+
+      ],
+      "orientation_score" : 0,
+      "revision" : 3,
+      "usesLanguageCorrection" : false
+    },
+    {
+      "clockwise_rotation" : 180,
+      "file" : "06-118-original.png",
+      "lines" : [
+
+      ],
+      "orientation_score" : 0,
+      "revision" : 3,
+      "usesLanguageCorrection" : false
+    },
+    {
+      "clockwise_rotation" : 270,
+      "file" : "06-118-original.png",
+      "lines" : [
+        {
+          "box" : [
+            0.32837762772182738,
+            0.33930604401976572,
+            0.18040306727838568,
+            0.024523115417702024
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "alit cll se tri mare marsto."
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.35755814131364255,
+            0.36547082747660165,
+            0.18168604275874894,
+            0.022421573770457393
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "andt close. Ii has Pectestet in"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.50872092990027851,
+            0.38789237194970583,
+            0.036337210344791981,
+            0.0134529245310816
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "дегита"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.47375419893750076,
+            0.39618462513869712,
+            0.067026485707589012,
+            0.021532095062754331
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "sachttt has"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.48401162647974161,
+            0.46188339983072679,
+            0.059593025861979898,
+            0.015695083812014454
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "crtrenu. to"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.38372093015915287,
+            0.50448430142555223,
+            0.027616278965520824,
+            0.01345292193487202
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "2 0um"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.37209301984787369,
+            0.52017934921850006,
+            0.17005814620666859,
+            0.015695113235722813
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "es svașgmes! atíling bigez fay"
+            }
+          ]
+        }
+      ],
+      "orientation_score" : 77.300000131130219,
+      "revision" : 3,
+      "usesLanguageCorrection" : false
+    },
+    {
+      "clockwise_rotation" : 270,
+      "file" : "06-118-original.png",
+      "lines" : [
+        {
+          "box" : [
+            0.32837762772182738,
+            0.33930604401976572,
+            0.18040306727838568,
+            0.024523115417702024
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "alit clit se tri mare marsto."
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "alit ulit se tri mare marsto."
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "alit clit se tri mare marste."
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.35755814131364255,
+            0.36547082747660165,
+            0.18168604275874894,
+            0.022421573770457393
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "andt close. Ii has Petrestet in"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "andt close. Ii has Petrested in"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "andt close. Ii has Pactestet in"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.47375419893750076,
+            0.39618462513869712,
+            0.067026485707589012,
+            0.021532095062754331
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "sachttt has"
+            },
+            {
+              "confidence" : 1,
+              "text" : "sachtti has"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "sachtet has"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.48401162647974161,
+            0.46188339983072679,
+            0.059593025861979898,
+            0.015695083812014454
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "cutremu . to"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "cutremu. to"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "cutremu to"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.38372093015915287,
+            0.50448430142555223,
+            0.027616278965520824,
+            0.01345292193487202
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "2 dum"
+            },
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "2 dun"
+            },
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "2 dm"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.37209301984787369,
+            0.52017934921850006,
+            0.17005814620666859,
+            0.015695113235722813
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "es svașgmes! atíling bigez fas"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "es svașzmes! atíling bigez fas"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "es svașgmes! atíling bigez far"
+            }
+          ]
+        }
+      ],
+      "orientation_score" : 51.900000035762787,
+      "revision" : 3,
+      "usesLanguageCorrection" : true
+    },
+    {
+      "clockwise_rotation" : 270,
+      "file" : "06-118-contrast.png",
+      "lines" : [
+        {
+          "box" : [
+            0.42837755560818569,
+            0.3684375810030236,
+            0.039946832892197137,
+            0.018030322398550847
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "K nu"
+            }
+          ]
+        }
+      ],
+      "orientation_score" : 0.90000003576278687,
+      "revision" : 3,
+      "usesLanguageCorrection" : false
+    },
+    {
+      "clockwise_rotation" : 270,
+      "file" : "06-118-contrast.png",
+      "lines" : [
+
+      ],
+      "orientation_score" : 0,
+      "revision" : 3,
+      "usesLanguageCorrection" : true
+    }
+  ]
+}

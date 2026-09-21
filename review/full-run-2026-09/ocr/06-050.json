@@ -1,0 +1,4123 @@
+{
+  "best_clockwise_rotation" : 270,
+  "engine" : "Apple Vision",
+  "os" : "Version 27.0 (Build 26A428)",
+  "page_id" : "06-050",
+  "records" : [
+    {
+      "clockwise_rotation" : 0,
+      "file" : "06-050-original.png",
+      "lines" : [
+        {
+          "box" : [
+            0.76853696334003929,
+            0.66116763882637031,
+            0.040496701530003842,
+            0.31279163185609582
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "it out s wald hove lited iso such to ham gone"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.7386503319289851,
+            0.6655306039003932,
+            0.038180114273766663,
+            0.31287992984876722
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "9 do'nt hrow shither Puse to an orgenezed chusch"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.64786093044450421,
+            0.66830209199949753,
+            0.039211138711340521,
+            0.3072616857126218
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "chuch Pe and I ane alone it mates me feel sight"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.62190423106699111,
+            0.66254724480794769,
+            0.036674932478218403,
+            0.31304480176453198
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "adly & do weshi there wrve wchugeh in this sseg holor."
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.60566446815743713,
+            0.6715116285321705,
+            0.023965186941551919,
+            0.3066860513949613
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "novit or evere if it wese not in thw sug hlushova. il at-"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.58169932650166367,
+            0.67441861340071063,
+            0.023965186941551919,
+            0.30523254674509026
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "vvere neane enowzh foras to ittugo ernec si e while"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.55077505463907461,
+            0.67991797906488061,
+            0.040279713152609031,
+            0.29713593929185778
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "That monld he bester than not ho go at all we"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.51787046716669849,
+            0.91839332367914173,
+            0.017421974975900922,
+            0.058639622609549691
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Ane arome"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.4542820212194289,
+            0.66101380125681908,
+            0.040872385249707821,
+            0.31468123689703986
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "Fizzer de zun ever bearang Phunng fram Mer Bared-"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.43199042757671913,
+            0.68437968417220174,
+            0.039983921592233518,
+            0.29556876366291573
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "mian thise days froos man Dreetaos he avile"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.39215684202448631,
+            0.6671511743929448,
+            0.056644921864503761,
+            0.31395346965264848
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "aund lane his grnies heliles it s n kis shraele"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.70397722201014534,
+            0.35675795953890155,
+            0.039993049969267225,
+            0.10755028855909998
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Mhoes head Alla.ł"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.67973855606043809,
+            0.53488372308771803,
+            0.032679752143210505,
+            0.077034880261902416
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Dear Lyzі"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.67973855126624172,
+            0.33284884220904409,
+            0.032679765263407323,
+            0.17441859814005145
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "2. Heodnesday sught Aung. 24.136)"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.64898211539298678,
+            0.32514967086782742,
+            0.040062616533589335,
+            0.22741466487219575
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Jout ven pelcone lett.n Of Thu 25."
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.62962960989473915,
+            0.33284884720875318,
+            0.021786531495925021,
+            0.30813952104760967
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "tul reachesi ane abori tivo wecho agg Pread a!-"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.58435016044219845,
+            0.3324343648034257,
+            0.054830579027879467,
+            0.31330493612026944
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "wtele se bed I hravr kur grsti siete was sod bea"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.56102893782698748,
+            0.35440704801777578,
+            0.040059757970677179,
+            0.29116914031702446
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "neanl a i th is vi iacd froni billinsause"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.48778860433489313,
+            0.49701653155610215,
+            0.022885715356697256,
+            0.15280436594551849
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "auvt anovverena vti ssoner"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.45280423984699758,
+            0.3415044868531254,
+            0.037195463172341903,
+            0.30250307835570167
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "ie diength I am smnanty redeced we fleade and very"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.43217975871913222,
+            0.35601368390851684,
+            0.025154484415095324,
+            0.29380388872339092
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "made redueed- mi dotos My sretneas has served to"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.3965141420476001,
+            0.33720931435255175,
+            0.032679776743579692,
+            0.31104649535012896
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "make me look Bhe av. Ala gesl the first onornung"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.36448299098073683,
+            0.34000537709356149,
+            0.037271268390317691,
+            0.30395864784170723
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "wet I was able hr fell my seat at the lable some"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.27015248512945622,
+            0.66569768390448969,
+            0.028322480612547329,
+            0.30813952104760967
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Yane and Mary whuch I hape gou prll feardow"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.24638532986738385,
+            0.65975488188088094,
+            0.030465677905882199,
+            0.20823308962200759
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "a youas gine it to ang of our old"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.17476927941634501,
+            0.86612353047966661,
+            0.020601458725802158,
+            0.109380100845197
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "do tis anbaur 3 more,"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.2507315999272281,
+            0.4763817203979861,
+            0.048793054713530459,
+            0.17069993325329702
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "They avere going to weki pe thly"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.2592592493791116,
+            0.33720930607539557,
+            0.030501108997768145,
+            0.14098836741316212
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "all com menced\" yes"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.22275532917629132,
+            0.3412698786103856,
+            0.043992891254244659,
+            0.25044518217034295
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "hav any sechvees ie Juza\" said I 've"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.18086613776954102,
+            0.32247754609172774,
+            0.05907148261164552,
+            0.32588500276618049
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "deobed dave no sening puale jace there ae goe dhe aetin."
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.17864922907660724,
+            0.52180233028682177,
+            0.023965158241121082,
+            0.13226743575629829
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "I was sich tivo sveeks"
+            }
+          ]
+        }
+      ],
+      "orientation_score" : 840.9000009894371,
+      "revision" : 3,
+      "usesLanguageCorrection" : false
+    },
+    {
+      "clockwise_rotation" : 90,
+      "file" : "06-050-original.png",
+      "lines" : [
+        {
+          "box" : [
+            0.66262026947581365,
+            0.19177139546416344,
+            0.31134309681183703,
+            0.039645507432014226
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "it out I would hove liked iso such to have gone"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.66540847873879883,
+            0.21749371390228101,
+            0.31173128600514266,
+            0.043759225466491247
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "9 do'nt heow shither these is an orgenized chusch"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.75850121486113575,
+            0.2422788490530603,
+            0.21857314153548768,
+            0.036107028032927646
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "and regular preachung down them."
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.66669351660531795,
+            0.25049648950777181,
+            0.091151254986404306,
+            0.030204622066953735
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "s mot af shese"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.67587209619479482,
+            0.26797381722034574,
+            0.29941859814005156,
+            0.050109010468447734
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "idkau me velede ta srge date tnta"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.66979569909578085,
+            0.31074925379621576,
+            0.307220458984375,
+            0.039149395064454806
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "cherch Pa and I anc alone it matkes me feel seght"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.66538842647784591,
+            0.33756615161897952,
+            0.31023280992420432,
+            0.038643700033041961
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Ladly & do west there wvere wchuset ui this mugtolor"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.6729651206842675,
+            0.36601303243272387,
+            0.30232557244257097,
+            0.023965220562056633
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "hov i or everr if it vvere not in thi nig hlushora il it-"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.67587208930157794,
+            0.39433547193722618,
+            0.30377907709244201,
+            0.021786571676528199
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "vvere meare enough for as to attuyo erner un e while"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.69740478254750737,
+            0.405001363541445,
+            0.28384714389066079,
+            0.039335616579982413
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "That woukd he bettes than no? to go at all"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.66119738037803166,
+            0.50304485585431746,
+            0.31426627482842961,
+            0.038935280010193862
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "tiggin de zen ever hear ang Phing from Per. Biroch"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.68723166889534593,
+            0.52559102940739888,
+            0.29131252393810025,
+            0.041238479745459689
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "man thusa days foos man Drectrs he wile"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.67695389627139169,
+            0.5410953660015243,
+            0.30298736992232289,
+            0.044737099986187134
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "move and anove sntt hu dittl in his gsave"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.67005814514866502,
+            0.57298471011244079,
+            0.30523254674509026,
+            0.030501168038654436
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "avd leam his fannelę helfiless at is a fitz thort he"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.67246206619678028,
+            0.58862118787303697,
+            0.30610565745502438,
+            0.073395050914761173
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "font he an e e wihine e lhar t ie sons"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.66569767313737993,
+            0.69934636530570748,
+            0.30959302569748071,
+            0.028322519973138172
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "You and Geamy which I hope gou perll pardes"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.66124540969476231,
+            0.72314562736261956,
+            0.312663192049079,
+            0.02830479786709672
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "me for senoung a youas jine it to ang of our old"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.35976230022800681,
+            0.25800941917377573,
+            0.10434888262267511,
+            0.034741422172671066
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Mures head Ala."
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.33284883446230612,
+            0.3464051884906334,
+            0.30959302569748065,
+            0.026143871907622018
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Aule reachedi me abori tvo wechs agd Pread at"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.32840378086738264,
+            0.37231932089230502,
+            0.30536952587442656,
+            0.032205127378219456
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "de un bed I havr buru griití sieh, was șev best."
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.35743047285617646,
+            0.39990628245194326,
+            0.28803594396748677,
+            0.034034460039868653
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "nearl a i th i ovi ansed fromi billinsause"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.49854651263704081,
+            0.49237470800472372,
+            0.14825581191876619,
+            0.015250584019327218
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "suví anopoerera vt stoner"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.42563967764819,
+            0.50315873153013335,
+            0.22447666553182344,
+            0.043606932780297814
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "me strcngth I an smantl redweed un"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.35465116358346754,
+            0.54030497306858416,
+            0.29360464953501281,
+            0.023965217282007401
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "mwcde redueed- in dolos Me seekness has served to"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.33720930995574938,
+            0.5686274102375255,
+            0.31104649535012896,
+            0.030501169678678997
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "make me look Bhe av. Ala. gesl the firat norung"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.34004919315130466,
+            0.5963102663547919,
+            0.30536305138824182,
+            0.028308081196385615
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Tat I was atl tt fell one, seat ait the table some"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.35901162661708652,
+            0.61655769604185973,
+            0.28924418808123387,
+            0.039215763580768392
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "of Pene szish equsen Lizén jemer sotenes alenę"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.3313953474952519,
+            0.65141609755669472,
+            0.18459302569748059,
+            0.021786541336072607
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "\"I saide \"Otes it is onle helfa-"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.4793755967927773,
+            0.70301235558658393,
+            0.1647076213031734,
+            0.043057429411241133
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Hhey were going tr cehip thly"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.33720929991290371,
+            0.71023963204441043,
+            0.14244186331372743,
+            0.030501128678063649
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "all com menced\" yes"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.34593024057362726,
+            0.7385620590876123,
+            0.24418603389635002,
+            0.030501154918457396
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "have any scoknees ue dexa\" saidrIive"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.32684333421515688,
+            0.79012809695063357,
+            0.13853839559292574,
+            0.026960016219449878
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "ser brct eti didnt-tatke"
+            }
+          ]
+        }
+      ],
+      "orientation_score" : 905.50000125169754,
+      "revision" : 3,
+      "usesLanguageCorrection" : false
+    },
+    {
+      "clockwise_rotation" : 180,
+      "file" : "06-050-original.png",
+      "lines" : [
+        {
+          "box" : [
+            0.18954489663046514,
+            0.024598586515600318,
+            0.039768629000295569,
+            0.31423537228085574
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "it' out & would hove litaed iso much to have gond"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.2152616678584601,
+            0.020070496522170078,
+            0.043756094659492067,
+            0.31165380215426108
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "9 dónt heow swhitter, Pese is an orguniged chusch"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.2529266570675604,
+            0.53434078575667576,
+            0.039817787098249069,
+            0.10342389727951184
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Tires head Ala."
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.28540304459364468,
+            0.38662790847374839,
+            0.034858398568701932,
+            0.075581393110642825
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Dear Luzzii"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.31392858722975858,
+            0.021337321430417111,
+            0.068704304978033648,
+            0.64615092146287267
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "Chach Pe wih ten bene de tinch sn iål nghene jul neachest e atni tro wecho agv Prcad it-"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.35945515342293316,
+            0.020197671399401318,
+            0.036246695809598051,
+            0.30552897322068517
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "hovd or evere if it were not in thia neig hlurhova. il is"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.3723162640164478,
+            0.35169027236045836,
+            0.029929609618510822,
+            0.31843363910640055
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "whele u bed I have kusv guití sicta was șd bedt"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.39537685715574827,
+            0.35160813965003135,
+            0.03693467957750024,
+            0.29243826209951973
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "reanl a i sh ii wi 'ansed from billiunswas"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.45592435107302887,
+            0.020178619375311957,
+            0.056271711301926541,
+            0.31735390479411552
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "Nee aon dont ttenet hin dite y ley de s t dint"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.5032679536751079,
+            0.021802338802454746,
+            0.034858428089145188,
+            0.31686044395516777
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Liggén de zen ever hear ung Phing fram. Mr. Broch"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.52606372001913904,
+            0.018632163848862016,
+            0.038528627705594509,
+            0.29405268397899942
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "mian thuse deys poos man D rebaos he avile"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.54762237884354947,
+            0.018704599234598218,
+            0.032923681205034416,
+            0.30416460649682842
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "move and move nntl hu sittle in hi gsave"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.56999052050505161,
+            0.023070509306158504,
+            0.033704995493999523,
+            0.30556841509057842
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "arcot leam his fannel, helfliss it is a pitz thait he"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.60130717607391548,
+            0.16569768129318474,
+            0.026143814506760399,
+            0.15843022197758383
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "mana prisac 9 pul sořz"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.58900543422755514,
+            0.022802298082215233,
+            0.07103414363319871,
+            0.2979687332013331
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "cant be cantele tinaltan ypheane de la, tir tee aod"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.64112235422277997,
+            0.022998441999358299,
+            0.037368869535490457,
+            0.29690404769477496
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "chat io he dong any ching? he is neyt matelo tí"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.66616289195432332,
+            0.023164195580821501,
+            0.031484977807449188,
+            0.30982197752786333
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Ber gosdena Liggár 9 have aonittin a lettir Né"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.49019606821373402,
+            0.34593023858499672,
+            0.017429214044572594,
+            0.15406976052380483
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "suvt anepverene vt sooner"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.50574670688140388,
+            0.34870129274276018,
+            0.037316152584112028,
+            0.22840391386539571
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "me dangttiạẠi an smcante redueed v"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.54031600425439341,
+            0.34880143892983306,
+            0.024018540222482843,
+            0.30533963824630883
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "mrdu redueed- w dolos My siehness has derved to"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.59357709458299079,
+            0.35309154361058492,
+            0.029435293077910041,
+            0.305452189314256
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Tat'I was abl tir fill o, seat at the table some"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.61437905993866704,
+            0.34883720817989328,
+            0.041394378845792112,
+            0.30087210278992249
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "I Phu said \"Epusin Lizin your siohenes shoue"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.649237453610781,
+            0.34883721367722864,
+            0.032679776743579692,
+            0.31540697430251941
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "restet somratly on ow I said \"Obe! it is onl helfa."
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.68191720226513874,
+            0.34883721269969314,
+            0.021786507715567893,
+            0.10901162383753227
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "ins to snake an"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.70749840865816349,
+            0.35274053438979824,
+            0.036973200475769907,
+            0.14624596517020405
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "They were gorng ito whep,"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.70056539405818408,
+            0.475916832130305,
+            0.047115253766651044,
+            0.18433941832376177
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "I med all com minceul\" yes"
+            }
+          ]
+        }
+      ],
+      "orientation_score" : 687.00000250339508,
+      "revision" : 3,
+      "usesLanguageCorrection" : false
+    },
+    {
+      "clockwise_rotation" : 270,
+      "file" : "06-050-original.png",
+      "lines" : [
+        {
+          "box" : [
+            0.026017163881330869,
+            0.76854474626828073,
+            0.30991412521502298,
+            0.039831171339171134
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "it out I would hove liked iso such to have gone"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.023022709168605732,
+            0.65003198199537504,
+            0.30721611932877008,
+            0.038894889483857664
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "charch Pa and tanc alone it malres me feel seght"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.023042309231006683,
+            0.62419060844257257,
+            0.3129015581323466,
+            0.033950546540172599
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "badly & do westi shere wvere achaveh eni this seig blvor-"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.020348836050242233,
+            0.60784313720047756,
+            0.30959302569748065,
+            0.024143105012429555
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "hov il or evere if it vvere not in tis seug hlushord il, it-"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.021802330857202897,
+            0.58383490992112974,
+            0.30232557244257097,
+            0.024075666380051652
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "vvere vreane croug h feras te attuyor ercce an eu sohile"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.018637988830875887,
+            0.54818418953579662,
+            0.30301249792816443,
+            0.050292178258133258
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "That woukd he better thenn not to go at all we"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.024709304178617615,
+            0.53376906356566456,
+            0.29651162383753227,
+            0.030501089317472641
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "have very good methedieat perenshing huse ns thive"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.086967324066561977,
+            0.516567145623688,
+            0.095141375830414085,
+            0.024100589834198605
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "ent cietaerhată la"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.18140137917438992,
+            0.51494794613911021,
+            0.15310257727946713,
+            0.030026028305932817
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "vene nene ave do oit have"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.021680237660429501,
+            0.49007794324191067,
+            0.31132776802832929,
+            0.029315900925614091
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "sences of dactrunat sermons litas Ahez doet tibent"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.022907230212224846,
+            0.45562060298835538,
+            0.31461645703796948,
+            0.042776476793625395
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "tiger de zen ever bear ung Phing fram Ter. Eroch"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.021503356281205206,
+            0.43429627420279038,
+            0.28973192687428329,
+            0.037687545999410488
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "man ituse deno prers mon D veelenle ate"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.024597525288208622,
+            0.29998648627261448,
+            0.3098619793533185,
+            0.031769317075904802
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "ber gosdenaw Ligzár 9 haue avnitten a lettir tí"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.024709309137571637,
+            0.27214101483670983,
+            0.30813952104760972,
+            0.026333931080759876
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Yume and Mary which I hape gon prll fardor"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.53580593433153267,
+            0.70755757786134588,
+            0.10028568757783385,
+            0.034805960421508852
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Mses head Ala."
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.38802495459349734,
+            0.6815999026936066,
+            0.075694276652204906,
+            0.031135706684247033
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Dear Lyzii"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.35610464540726466,
+            0.62725709388058271,
+            0.31976745325490968,
+            0.026337677717003793
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Jali reachedi me abvui tvo wecho ago Pread al"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.3530835687577551,
+            0.59463351170571055,
+            0.32290803401842022,
+            0.034242657885301342
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "white in bed t havr kurv quikí siet was in best."
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.35598493192224023,
+            0.56603087315504075,
+            0.2880402136286464,
+            0.034123247692734671
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "varl a i h ži evi cansed fromi billiensmuse"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.35319767418783915,
+            0.53594771277126552,
+            0.094476743575629851,
+            0.037139131606701348
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "bing seater auken"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.44889535200766167,
+            0.52862316500007611,
+            0.20712422012189119,
+            0.04992833223613502
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "I got your liter and very beay"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.34291445160903394,
+            0.50670752552488252,
+            0.11966371098789602,
+            0.033004313015466247
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "dener 1 get evell 3"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.34447674756543106,
+            0.49011177989305177,
+            0.15406976052380483,
+            0.019776440240756643
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "auvt anopverena vti ssoner"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.37203581846983469,
+            0.45949707677276574,
+            0.29811372669464953,
+            0.031206089980829854
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "srengith. I an smantl redesed we flarhs and ver."
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.38941103035996683,
+            0.43396811248550238,
+            0.2517057821291302,
+            0.026876707068826278
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "redueed- i dolos Ml seetness has served to"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.36337208812454896,
+            0.39638864982910871,
+            0.30087210278992255,
+            0.041702493551160735
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "ake me look the av. Hea gisl the firdl morring"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.35717999402066175,
+            0.34198103441126348,
+            0.28704144539089377,
+            0.062362277292528745
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "lels anche enpelt deg u yan teihnun e hạn"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.58712255927560486,
+            0.38059369212710048,
+            0.072847904415305531,
+            0.02312634140893699
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "tatle som"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.38289745219311305,
+            0.3484200863640976,
+            0.065779029776196984,
+            0.02855335999847175
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "e anelạỊại"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.36889108518644043,
+            0.31149792500188478,
+            0.28113585655842355,
+            0.046939854773589529
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "t samasitly on pow\" I said Ote! it is onle he"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.37052402341313195,
+            0.29378940190699587,
+            0.28078040726687925,
+            0.029184831798025335
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "to make an déa. gent ó me\" ii seemed lita"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.36164030682956572,
+            0.25463837918570253,
+            0.1616026852109016,
+            0.045444885411348612
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "ly weve going to whipe thly"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.51889534733400011,
+            0.25924333628558527,
+            0.14244186331372743,
+            0.030524505588994
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "all commenced\" yes"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.42997496739261398,
+            0.2315305145185117,
+            0.22576998789376079,
+            0.035432233343017816
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "\" any sceknees ne Lexas smar l \"ve"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.35174094526975652,
+            0.20663747180913761,
+            0.1122475545340722,
+            0.030657714948711612
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "do'nt-have ao man"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.51162790468592345,
+            0.20679277760095416,
+            0.16133721377871457,
+            0.026322691172028234
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "aces there as sover do hise\""
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.53779069812669511,
+            0.18518518555354868,
+            0.13662790595938301,
+            0.019607842429793298
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "mer brct eli didint-latae"
+            }
+          ]
+        }
+      ],
+      "orientation_score" : 956.60000133514404,
+      "revision" : 3,
+      "usesLanguageCorrection" : false
+    },
+    {
+      "clockwise_rotation" : 270,
+      "file" : "06-050-original.png",
+      "lines" : [
+        {
+          "box" : [
+            0.026017163881330869,
+            0.76854474626828073,
+            0.30991412521502298,
+            0.039831171339171134
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "it out I would hove liked iso such to have gane"
+            },
+            {
+              "confidence" : 1,
+              "text" : "it out I would hove liked iso such to have gone"
+            },
+            {
+              "confidence" : 1,
+              "text" : "it out I would have liked iso such to have gone"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.023022709168605732,
+            0.65003198199537504,
+            0.30721611932877008,
+            0.038894889483857664
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "church Pa and tanc alone it males me feel sight"
+            },
+            {
+              "confidence" : 1,
+              "text" : "church Pa and tanc alone it males me feel seght"
+            },
+            {
+              "confidence" : 1,
+              "text" : "church Pa and tanc alone it males me fuel sight"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.023042309231006683,
+            0.62419060844257257,
+            0.3129015581323466,
+            0.033950546540172599
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "badly & do westi there avere acheneh eni this seig blor-"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "badly & do westi there avere acheneh uni this seig blor-"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "badly & do westi there overe acheneh eni this seig blor-"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.020348836050242233,
+            0.60784313720047756,
+            0.30959302569748065,
+            0.024143105012429555
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "hov il or evere if it vere not in tis seig hlashord il, it-"
+            },
+            {
+              "confidence" : 1,
+              "text" : "hov il or evere if it vere not in dis seig hlashord il, it-"
+            },
+            {
+              "confidence" : 1,
+              "text" : "hov il or evere if it vere not in tis seeg hlashord il, it-"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.021802330857202897,
+            0.58383490992112974,
+            0.30232557244257097,
+            0.024075666380051652
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "vere meane crou, h fer as te atteror ence an eu shile"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "vere meane crou, h fer as te atteror ence un eu shile"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "vere meane crou, h fer as te atteror ence an eu shil"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.018637988830875887,
+            0.54818418953579662,
+            0.30301249792816443,
+            0.050292178258133258
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "That would he bettes thn not to go at all we"
+            },
+            {
+              "confidence" : 1,
+              "text" : "That would he bettes thinn not to go at all we"
+            },
+            {
+              "confidence" : 1,
+              "text" : "That would he letter thinn not to go at all we"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.024709304178617615,
+            0.53376906356566456,
+            0.29651162383753227,
+            0.030501089317472641
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "have verg good methodist perenehing huse ns thine"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "have verg good Methodist perenehing huse ns thine"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "have verg good methodet perenehing huse ns thine"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.086967324066561977,
+            0.516567145623688,
+            0.095141375830414085,
+            0.024100589834198605
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "ent cinetorhată la"
+            },
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "ent cinetorhată ka"
+            },
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "ent cinetohată la"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.18140137917438992,
+            0.51494794613911021,
+            0.15310257727946713,
+            0.030026028305932817
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "vene nene ave do oit have"
+            },
+            {
+              "confidence" : 1,
+              "text" : "vene nene ave do sit have"
+            },
+            {
+              "confidence" : 1,
+              "text" : "vene nene ave do'oit have"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.021680237660429501,
+            0.49007794324191067,
+            0.31132776802832929,
+            0.029315900925614091
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "senes of doctrinat sermons lilas they doet tibent"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "senes of doctrinae sermons lilas they doet tibent"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "senes of doctrinat sermons lilas Ahez doet tibent"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.022907230212224846,
+            0.45562060298835538,
+            0.31461645703796948,
+            0.042776476793625395
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "tiger de zen ever bear ung Phing fram Ter. Eroch"
+            },
+            {
+              "confidence" : 1,
+              "text" : "tiger de zen ever bear ung Phing fram Mer. Eroch"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "tiger de zen ever bear ung Phing frem Ter. Eroch"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.021503356281205206,
+            0.43429627420279038,
+            0.28973192687428329,
+            0.037687545999410488
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "mian tus deno prer mon D veelen le ate"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "mian tus deno prer man D veelen le ate"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "man tus deno prer mon D veelen le avt,"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.024597525288208622,
+            0.29998648627261448,
+            0.3098619793533185,
+            0.031769317075904802
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "ber gordonaw Lizzár 9 haue anitten a lettir tí"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "ber gordonaw Lizzár 9 have anitten a lettir tí"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "ber gordonaw Lizzár 9 haur anitten a lettir tí"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.024709309137571637,
+            0.27214101483670983,
+            0.30813952104760972,
+            0.026333931080759876
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "Tume and Mary wich I hape gon prll farder"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "Tume and Mary wich I hape gou prll farder"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "Tume and Mary wich I hape gon prll fardew"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.53580593433153267,
+            0.70755757786134588,
+            0.10028568757783385,
+            0.034805960421508852
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Mises head Ala."
+            },
+            {
+              "confidence" : 1,
+              "text" : "Moes head Ala."
+            },
+            {
+              "confidence" : 1,
+              "text" : "Mies head Ala."
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.38802495459349734,
+            0.6815999026936066,
+            0.075694276652204906,
+            0.031135706684247033
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "Dear Lyzi"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "Dear Lyzii"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "Dear Lyzí"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.35610464540726466,
+            0.62725709388058271,
+            0.31976745325490968,
+            0.026337677717003793
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Juli reachedi me abori tvo wecho ago Pread al-"
+            },
+            {
+              "confidence" : 1,
+              "text" : "Jali reachedi me abori tvo wecho ago Pread al-"
+            },
+            {
+              "confidence" : 1,
+              "text" : "Juli reachedi me abori tvo wecho ago Pread at-"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.3530835687577551,
+            0.59463351170571055,
+            0.32290803401842022,
+            0.034242657885301342
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "white in bed t havr kurv guití siet, was in best."
+            },
+            {
+              "confidence" : 1,
+              "text" : "white in bed t havr kurv guití siet was in best."
+            },
+            {
+              "confidence" : 1,
+              "text" : "white in bed t havr kurv guití siet, was in beast."
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.35598493192224023,
+            0.56603087315504075,
+            0.2880402136286464,
+            0.034123247692734671
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "varl a i th ži evi cansed from billiensmse"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "varl a i h ži evi cansed from billiensmse"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "vanl a i h ži evi cansed from billiensmse"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.35319767418783915,
+            0.53594771277126552,
+            0.094476743575629851,
+            0.037139131606701348
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "bing sester arken"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "bing sester aukem"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "bing sester auken"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.44889535200766167,
+            0.52862316500007611,
+            0.20712422012189119,
+            0.04992833223613502
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "I got your liter and very beay"
+            },
+            {
+              "confidence" : 1,
+              "text" : "I got your liter and very beat"
+            },
+            {
+              "confidence" : 1,
+              "text" : "I got your liter and very beay"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.34291445160903394,
+            0.50670752552488252,
+            0.11966371098789602,
+            0.033004313015466247
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "diner 1 get evell 3"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "diner 1 got evell 3"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "diner 1 get evell s"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.34447674756543106,
+            0.49011177989305177,
+            0.15406976052380483,
+            0.019776440240756643
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "avt anorerena vti ssoner"
+            },
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "avt anorereng vti ssoner"
+            },
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "avt anoerena vti ssoner"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.37203581846983469,
+            0.45949707677276574,
+            0.29811372669464953,
+            0.031206089980829854
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "sireneth. I an smartl redesed we flards and ver."
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "sireneth. I un smartl redesed we flards and ver."
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "sireneth. I an smartl redesed we flard and ver."
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.38941103035996683,
+            0.43396811248550238,
+            0.2517057821291302,
+            0.026876707068826278
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "redueed- ii dolos Ml seetness has served to"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "redueed- ni dolos Ml seetness has served to"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "redueed- ii dolos Ml seedness has served to"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.36337208812454896,
+            0.39638864982910871,
+            0.30087210278992255,
+            0.041702493551160735
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "ake me look the av. Hea gisl the fird morning"
+            },
+            {
+              "confidence" : 1,
+              "text" : "ake me look the ar. Hea gisl the fird morning"
+            },
+            {
+              "confidence" : 1,
+              "text" : "ake me look the av. Hea gisl the firt morning"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.35717999402066175,
+            0.34198103441126348,
+            0.28704144539089377,
+            0.062362277292528745
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "le anch e elt eg u yan tihan e hạn."
+            },
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "le anch e elt eg u yan tihan e hạn"
+            },
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "le anch e elt eg u yan tihan a hạn"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.58712255927560486,
+            0.38059369212710048,
+            0.072847904415305531,
+            0.02312634140893699
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "tat-le some"
+            },
+            {
+              "confidence" : 1,
+              "text" : "table some"
+            },
+            {
+              "confidence" : 1,
+              "text" : "tat-le som"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.38289745219311305,
+            0.3484200863640976,
+            0.065779029776196984,
+            0.02855335999847175
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "e Wandtại"
+            },
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "e Wandlại"
+            },
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "e anetại"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.36889108518644043,
+            0.31149792500188478,
+            0.28113585655842355,
+            0.046939854773589529
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "it samastly on pow\" I said Ote! it is onle he"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "it samastly on pow\" I said Oke! it is onle he"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "it samastly on pow\" I said Ote' it is onle he"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.37052402341313195,
+            0.29378940190699587,
+            0.28078040726687925,
+            0.029184831798025335
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "to make an déa. gent ó me\" ii seemed lita"
+            },
+            {
+              "confidence" : 1,
+              "text" : "to make an déa. gent ó me\" ii seemed lita."
+            },
+            {
+              "confidence" : 1,
+              "text" : "to make an déa. gent ó me\" ii seemed leta"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.36164030682956572,
+            0.25463837918570253,
+            0.1616026852109016,
+            0.045444885411348612
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "ly weve going to wh pe thy"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "ty weve going to wh pe thy"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "ly weve going to whi e thy"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.51889534733400011,
+            0.25924333628558527,
+            0.14244186331372743,
+            0.030524505588994
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "all com meneed\" yes"
+            },
+            {
+              "confidence" : 1,
+              "text" : "all com meneed\" y-es"
+            },
+            {
+              "confidence" : 1,
+              "text" : "all com menced\" yes"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.42997496739261398,
+            0.2315305145185117,
+            0.22576998789376079,
+            0.035432233343017816
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "\"e any seeknees ne Lexas smar l \"ve"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "\"e any seeknees ne Lexas saar l \"ve"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "\"e any seeknees ne Lexas sadr l \"ve"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.35174094526975652,
+            0.20663747180913761,
+            0.1122475545340722,
+            0.030657714948711612
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "do 'nt-have ao man"
+            },
+            {
+              "confidence" : 1,
+              "text" : "do nt-have ao man"
+            },
+            {
+              "confidence" : 1,
+              "text" : "do 'nt-have as man"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.51162790468592345,
+            0.20679277760095416,
+            0.16133721377871457,
+            0.026322691172028234
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "aces there as sover do hise\""
+            },
+            {
+              "confidence" : 1,
+              "text" : "aces these as sover do hise\""
+            },
+            {
+              "confidence" : 1,
+              "text" : "aces There as sover do hise\""
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.53779069812669511,
+            0.18518518555354868,
+            0.13662790595938301,
+            0.019607842429793298
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "mer bret eli didint-latae"
+            },
+            {
+              "confidence" : 1,
+              "text" : "mer bret ili didint-latae"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "mer brt eli didint-latae"
+            }
+          ]
+        }
+      ],
+      "orientation_score" : 732.50000083446503,
+      "revision" : 3,
+      "usesLanguageCorrection" : true
+    },
+    {
+      "clockwise_rotation" : 270,
+      "file" : "06-050-contrast.png",
+      "lines" : [
+        {
+          "box" : [
+            0.025828044916019959,
+            0.7723218073165552,
+            0.17058236008390376,
+            0.033890708601895025
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "it out I would hove litaed"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.1999742617026842,
+            0.76567892284755934,
+            0.13671217052214732,
+            0.048027087774957344
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "wso suuch to have gone"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.020042644969182032,
+            0.73957648161490064,
+            0.31306859987591384,
+            0.04060532692067087
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "9 dó'nt heow schither Puse is si orgenized chusch"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.53571070599094073,
+            0.70730214933175517,
+            0.10038091502058399,
+            0.035068902288750148
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Mds head Ala."
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.3876867747251706,
+            0.68358784451434496,
+            0.073384219353352098,
+            0.028421323256357378
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Dear Lugzi"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.44228248946766985,
+            0.64303364722893952,
+            0.23569163051220249,
+            0.077748207623653087
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "Pin veg nuthone cint f ząś"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.35901163598621394,
+            0.63180827899309588,
+            0.3110464953501289,
+            0.021786492135334123
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Aul reached ane aboui tavo ivechs ags Pread al"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.021802323684786809,
+            0.60784313794440803,
+            0.3066860513949613,
+            0.026292717262064613
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "hov it or evere if it were not in this sneig hlushora il it-"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.021802330668249374,
+            0.58598452267504397,
+            0.30232557244257097,
+            0.021926053310403981
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "vere mease cnouzh foras to attunor erroe sn eu sohite"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.36901599533080198,
+            0.59275673922358241,
+            0.30416383655793078,
+            0.039562012138596225
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "le en bed I havr bun qiité siet was jed bed."
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.019856263953922787,
+            0.54737390810923703,
+            0.30182651204800381,
+            0.05228590042757153
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Tha would he bettes than no? to yo at all we"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.35889353999993484,
+            0.56612094454412087,
+            0.28512933713580485,
+            0.03401384493039783
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "carl a i sh îi evi cansed fromi billiensnuse"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.018776038523329302,
+            0.48349274961422006,
+            0.32152791854438428,
+            0.0907782294682562
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "tung h n t hàn gn n it hing"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.3530343805195173,
+            0.52885590297323692,
+            0.30272097106373641,
+            0.047005578760227373
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "seng siste avher 3 got y our litusr and ver brey"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.3412519455556946,
+            0.50693685404028166,
+            0.11856913785321999,
+            0.034478726309122631
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "denec I got will."
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.48961777741573242,
+            0.51345268991930082,
+            0.17047593352991508,
+            0.029630665930816091
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "u pov vell excuac ene fos"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.34291841979104476,
+            0.48994432263529342,
+            0.15571972208285551,
+            0.02199166413534337
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "zuo! anopoereno vtí -ssoner"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.0215291269975788,
+            0.45811237323955911,
+            0.31885035103614179,
+            0.041390849512810357
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "Ligzer de zun ever kearung Phig frem Per Eirodh-"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.49816011031170854,
+            0.47667034321993584,
+            0.17065786659170729,
+            0.038407930093701359
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "I have only frartall, neg ame"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.39087991657438859,
+            0.45989198455786773,
+            0.18633949209790712,
+            0.03121098053424598
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "sith I am smantl rederced w"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.57376041825842738,
+            0.45828499774618026,
+            0.095293989968955994,
+            0.027442830447379829
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Hlerhs ant ver."
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.018630311898820025,
+            0.4331938466668207,
+            0.29405586872625789,
+            0.038605316896840325
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "mian thuse days foos man & restawn he wvile"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.017441869631040139,
+            0.39208942277231451,
+            0.31395346965264836,
+            0.063248267792876289
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "aun ane his gn ren telhe W in pa trrke"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.38953488427765465,
+            0.43572984762237954,
+            0.25145348715125965,
+            0.021786492135334012
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "redueed- wi dolos M seetness has served to"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.36337208690626421,
+            0.39638864924177497,
+            0.29796512848740331,
+            0.039552880481513286
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "ake me look tShe ar. Ala. gisl the firdt omorning"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.026042205161167339,
+            0.38207274381982181,
+            0.13400519659759802,
+            0.021994450537172416
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "cant le cantenl di sta"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.024709305609497724,
+            0.35076252706289246,
+            0.29941859814005156,
+            0.047930283681749786
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "for fune aand farinel. yetn te dla ti I feed so"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.36918604442938779,
+            0.37690631821295983,
+            0.20348837616246779,
+            0.021786492135334123
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "I I was atle tir fell oru, seat ast i"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.58716664265111806,
+            0.38093925597067324,
+            0.072759737662219215,
+            0.02243521371383872
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "tatlo some"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.38081395876409896,
+            0.34640522854266353,
+            0.2630813843613371,
+            0.034936130815605981
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "v said \"Brasmi Zezze you sidkree shon"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.024410025184673615,
+            0.31926499731405988,
+            0.29262234749050314,
+            0.037500360149406498
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "what io he dong any Onng? he is neyt matelo ho"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.024618638680941111,
+            0.30020117729307172,
+            0.30980461890544364,
+            0.031406400947866064
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Ber jordonav Lizzár 9 have avnitten a littir tí"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.023255820768269847,
+            0.27214101483578013,
+            0.30813952104760967,
+            0.026333931080759987
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Yome and Meany whuch I hope gou perlt parden"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.36438475487970273,
+            0.2798309894496086,
+            0.24698582920459428,
+            0.092879186287483817
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "te enty ne sen set f vei e nan"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.49273256371225321,
+            0.32459157353251944,
+            0.15697673482632418,
+            0.024075666380051541
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "I said. \"Oh! it is onl he"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.37063953455599891,
+            0.29621668086647279,
+            0.082848837616246729,
+            0.019776440240756643
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "to make on"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.22219001979418598,
+            0.24887969541368848,
+            0.1151324543384237,
+            0.026105513371789901
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "it to ang of our old"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.36885432336558327,
+            0.25330677731032181,
+            0.15316181007875213,
+            0.048300381477598631
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "v aveve ging to whipe, thly^"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.52034883509442453,
+            0.25924333628622609,
+            0.14098837616246773,
+            0.030524505588994
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "all com menced\" yes"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.41397458059168835,
+            0.22661161202499247,
+            0.24330657119051036,
+            0.041774005184681995
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "saue any scehnees ne Lezaś\" smidr ? \"ve"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.35319767440405364,
+            0.20894239035090723,
+            0.10465116238375322,
+            0.026351726987909219
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "do'nh have ao man"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.50993743849923312,
+            0.20264994394977431,
+            0.16620809222580102,
+            0.035592522789257286
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "wees There as gore do huniằ_i"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.024213112889722901,
+            0.18878366377295464,
+            0.063507416926392724,
+            0.02150862440402812
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Alcase vrih"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.51001817774167391,
+            0.18401980685719499,
+            0.1630688763539726,
+            0.023410765958672863
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "sumser brt eli dedint-latae"
+            }
+          ]
+        }
+      ],
+      "orientation_score" : 969.90000212192535,
+      "revision" : 3,
+      "usesLanguageCorrection" : false
+    },
+    {
+      "clockwise_rotation" : 270,
+      "file" : "06-050-contrast.png",
+      "lines" : [
+        {
+          "box" : [
+            0.025828044916019959,
+            0.7723218073165552,
+            0.17058236008390376,
+            0.033890708601895025
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "it out I would have litard"
+            },
+            {
+              "confidence" : 1,
+              "text" : "it out I would have lidard"
+            },
+            {
+              "confidence" : 1,
+              "text" : "it out I would have lilard"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.1999742617026842,
+            0.76567892284755934,
+            0.13671217052214732,
+            0.048027087774957344
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "so such to have gone"
+            },
+            {
+              "confidence" : 1,
+              "text" : "so such to have gond"
+            },
+            {
+              "confidence" : 1,
+              "text" : "so such to have gane"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.020042644969182032,
+            0.73957648161490064,
+            0.31306859987591384,
+            0.04060532692067087
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "9 dont how shither Puse is si organized church"
+            },
+            {
+              "confidence" : 1,
+              "text" : "9 dont how shither Puse is si organized chusch"
+            },
+            {
+              "confidence" : 1,
+              "text" : "9 dont how shither Puse is sa organized chusch"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.53571070599094073,
+            0.70730214933175517,
+            0.10038091502058399,
+            0.035068902288750148
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Mods head Ala."
+            },
+            {
+              "confidence" : 1,
+              "text" : "Mes head Ala."
+            },
+            {
+              "confidence" : 1,
+              "text" : "Mods head Ala,"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.021802323684786809,
+            0.60784313794440803,
+            0.3066860513949613,
+            0.026292717262064613
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "hov it or evere if it were not in this neighlushova. il it-"
+            },
+            {
+              "confidence" : 1,
+              "text" : "hov it or evere if it were not in this neighlushova il it-"
+            },
+            {
+              "confidence" : 1,
+              "text" : "hoo it or evere if it were not in this neighlushova il it-"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.021802330668249374,
+            0.58598452267504397,
+            0.30232557244257097,
+            0.021926053310403981
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "vere pease enough for as to attune error an en rohite"
+            },
+            {
+              "confidence" : 1,
+              "text" : "vere pease enough for as to attune error an en robile"
+            },
+            {
+              "confidence" : 1,
+              "text" : "vere pease enough for as to attune error an en robite"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.019856263953922787,
+            0.54737390810923703,
+            0.30182651204800381,
+            0.05228590042757153
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Tha would he better than not to go at all we"
+            },
+            {
+              "confidence" : 1,
+              "text" : "Thad would he better than not to go at all we"
+            },
+            {
+              "confidence" : 1,
+              "text" : "That would he better than not to go at all we"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.0215291269975788,
+            0.45811237323955911,
+            0.31885035103614179,
+            0.041390849512810357
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Lizzer do zen ever hear ung Phig from Per Girdh"
+            },
+            {
+              "confidence" : 1,
+              "text" : "Lizzer do zen ever hear ung Phig from Per Gird-"
+            },
+            {
+              "confidence" : 1,
+              "text" : "Lizzer do zen ever hear ung Phig from Per Eird-"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.018630311898820025,
+            0.4331938466668207,
+            0.29405586872625789,
+            0.038605316896840325
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "mian these days poor man & restaus he wile"
+            },
+            {
+              "confidence" : 1,
+              "text" : "mian these days poor man & restaus he avile"
+            },
+            {
+              "confidence" : 1,
+              "text" : "mian these days poor man & restown he wile"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.026042205161167339,
+            0.38207274381982181,
+            0.13400519659759802,
+            0.021994450537172416
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "cant be cantin di sta"
+            },
+            {
+              "confidence" : 1,
+              "text" : "cant le cantin di sta"
+            },
+            {
+              "confidence" : 1,
+              "text" : "cart be cantin di sta"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.024709305609497724,
+            0.35076252706289246,
+            0.29941859814005156,
+            0.047930283681749786
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "for fun and fried yet de la tiged son"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "for fun and fried yet de la til ed so"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "for fun and fried yet de la tiged so"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.024410025184673615,
+            0.31926499731405988,
+            0.29262234749050314,
+            0.037500360149406498
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "what is he dong any Oing? he is ney matel ho"
+            },
+            {
+              "confidence" : 1,
+              "text" : "what is he dong any Oing? he is sey matel ho"
+            },
+            {
+              "confidence" : 1,
+              "text" : "what is he dong any Oing? he is ney matel h"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.024618638680941111,
+            0.30020117729307172,
+            0.30980461890544364,
+            0.031406400947866064
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Ber gordonaw Lizzár 9 have avniten a litter te"
+            },
+            {
+              "confidence" : 1,
+              "text" : "Ber gordonaw Lizzár 9 have avniten a litter tí"
+            },
+            {
+              "confidence" : 1,
+              "text" : "Ber gordonaw Lizzár 9 have avniten a litter le"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.023255820768269847,
+            0.27214101483578013,
+            0.30813952104760967,
+            0.026333931080759987
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Yone and Many which I hope you parlt pardon"
+            },
+            {
+              "confidence" : 1,
+              "text" : "Yone and Many which I hope you perll pardon"
+            },
+            {
+              "confidence" : 1,
+              "text" : "Yone and Many which I hope gou parlt pardon"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.22219001979418598,
+            0.24887969541368848,
+            0.1151324543384237,
+            0.026105513371789901
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "it to any of our old"
+            },
+            {
+              "confidence" : 1,
+              "text" : "it to ang of our old"
+            },
+            {
+              "confidence" : 1,
+              "text" : "it to any of our oll"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.024213112889722901,
+            0.18878366377295464,
+            0.063507416926392724,
+            0.02150862440402812
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "Alcase vrih"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "Alcase wrih"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "Alease vrih"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.3876867747251706,
+            0.68358784451434496,
+            0.073384219353352098,
+            0.028421323256357378
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Dear Luzi"
+            },
+            {
+              "confidence" : 1,
+              "text" : "Dear Lugzi"
+            },
+            {
+              "confidence" : 1,
+              "text" : "Dear Lugze"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.35901163598621394,
+            0.63180827899309588,
+            0.3110464953501289,
+            0.021786492135334123
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Aul reached one about tavo secho age Pread al"
+            },
+            {
+              "confidence" : 1,
+              "text" : "Aul reached one about tavo secho age Pread at"
+            },
+            {
+              "confidence" : 1,
+              "text" : "Aul reached one about tavo secho age Pread at-"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.36901599533080198,
+            0.59275673922358241,
+            0.30416383655793078,
+            0.039562012138596225
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "le en bed I havr bus quit siet, was jed bed."
+            },
+            {
+              "confidence" : 1,
+              "text" : "le en bed I havr bus quit siet was jed bed."
+            },
+            {
+              "confidence" : 1,
+              "text" : "le en bed I havr bus quit sict was jed bed."
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.35889353999993484,
+            0.56612094454412087,
+            0.28512933713580485,
+            0.03401384493039783
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "carl a i sh in evi cansed from billiensuse"
+            },
+            {
+              "confidence" : 1,
+              "text" : "carl a i sh in evi cansed from billinsuse"
+            },
+            {
+              "confidence" : 1,
+              "text" : "carl a i sh in evi cansed from billinsanse"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.3530343805195173,
+            0.52885590297323692,
+            0.30272097106373641,
+            0.047005578760227373
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "being siste acher 3 got your liter and very brey"
+            },
+            {
+              "confidence" : 1,
+              "text" : "being siste acher 3 got your liter and very frey"
+            },
+            {
+              "confidence" : 1,
+              "text" : "being siste acher 3 got your lites and very brey"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.3412519455556946,
+            0.50693685404028166,
+            0.11856913785321999,
+            0.034478726309122631
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "diner I got will."
+            },
+            {
+              "confidence" : 1,
+              "text" : "diner I got well."
+            },
+            {
+              "confidence" : 1,
+              "text" : "diner I got will ."
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.48961777741573242,
+            0.51345268991930082,
+            0.17047593352991508,
+            0.029630665930816091
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "u for vell excuse an fos"
+            },
+            {
+              "confidence" : 1,
+              "text" : "e for vell excuse an fos"
+            },
+            {
+              "confidence" : 1,
+              "text" : "u for vell excuse ene fos"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.49816011031170854,
+            0.47667034321993584,
+            0.17065786659170729,
+            0.038407930093701359
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "I have only frastall, neg ame"
+            },
+            {
+              "confidence" : 1,
+              "text" : "I have only frastall, neg ane"
+            },
+            {
+              "confidence" : 1,
+              "text" : "I have only frastall, negame"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.39087991657438859,
+            0.45989198455786773,
+            0.18633949209790712,
+            0.03121098053424598
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "sit I am smarte reduced w"
+            },
+            {
+              "confidence" : 1,
+              "text" : "sit I am smarte reduced wi"
+            },
+            {
+              "confidence" : 1,
+              "text" : "sit I am smarte reduced m"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.57376041825842738,
+            0.45828499774618026,
+            0.095293989968955994,
+            0.027442830447379829
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "flesh and ver."
+            },
+            {
+              "confidence" : 1,
+              "text" : "flesh and per."
+            },
+            {
+              "confidence" : 1,
+              "text" : "flesh ant ver."
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.38953488427765465,
+            0.43572984762237954,
+            0.25145348715125965,
+            0.021786492135334012
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "reduced- wi dolos M seetness has served to"
+            },
+            {
+              "confidence" : 1,
+              "text" : "reduced- in dolos M seetness has served to"
+            },
+            {
+              "confidence" : 1,
+              "text" : "reduced- i dolos M seetness has served to"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.36337208690626421,
+            0.39638864924177497,
+            0.29796512848740331,
+            0.039552880481513286
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "ake me look the ar. Ala. gisl the first morning"
+            },
+            {
+              "confidence" : 1,
+              "text" : "ake me look the ar. Ala. gil the first morning"
+            },
+            {
+              "confidence" : 1,
+              "text" : "ake me look the ar. Ala. gil the find morning"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.36918604442938779,
+            0.37690631821295983,
+            0.20348837616246779,
+            0.021786492135334123
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "I I was able tir fell on seat ast i"
+            },
+            {
+              "confidence" : 1,
+              "text" : "i I was able tir fell on seat ast i"
+            },
+            {
+              "confidence" : 1,
+              "text" : "I I was able tir fell or seat ast i"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.58716664265111806,
+            0.38093925597067324,
+            0.072759737662219215,
+            0.02243521371383872
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "table some"
+            },
+            {
+              "confidence" : 1,
+              "text" : "tablo some"
+            },
+            {
+              "confidence" : 1,
+              "text" : "table som"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.38081395876409896,
+            0.34640522854266353,
+            0.2630813843613371,
+            0.034936130815605981
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "ve said Brass Zzze your sickness shou"
+            },
+            {
+              "confidence" : 1,
+              "text" : "ve said Brass Zzze you sickness shou"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "ve said Brass Zzze your sicknes shou"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.49273256371225321,
+            0.32459157353251944,
+            0.15697673482632418,
+            0.024075666380051541
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "I said. \" Oh! it is onl he"
+            },
+            {
+              "confidence" : 1,
+              "text" : "I said. \"Oh! it is ont he"
+            },
+            {
+              "confidence" : 1,
+              "text" : "I said. \"Oh! it is onl he"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.37063953455599891,
+            0.29621668086647279,
+            0.082848837616246729,
+            0.019776440240756643
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "to make an"
+            },
+            {
+              "confidence" : 1,
+              "text" : "to make on"
+            },
+            {
+              "confidence" : 1,
+              "text" : "to wake an"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.36885432336558327,
+            0.25330677731032181,
+            0.15316181007875213,
+            0.048300381477598631
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "i overe going to whipe, they^"
+            },
+            {
+              "confidence" : 1,
+              "text" : "a overe going to whipe, they^"
+            },
+            {
+              "confidence" : 1,
+              "text" : "i overe going to whips, they^"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.52034883509442453,
+            0.25924333628622609,
+            0.14098837616246773,
+            0.030524505588994
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "all commenced\" yes"
+            },
+            {
+              "confidence" : 1,
+              "text" : "all commenced \" yes"
+            },
+            {
+              "confidence" : 1,
+              "text" : "all com menced\" yes"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.41397458059168835,
+            0.22661161202499247,
+            0.24330657119051036,
+            0.041774005184681995
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "save any sechness me Legas said ? \"ve"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "save any sechness me Legas said? \"ve"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "save any seeknees me Legas said ? \"ve"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.35319767440405364,
+            0.20894239035090723,
+            0.10465116238375322,
+            0.026351726987909219
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "do'nt have as man"
+            },
+            {
+              "confidence" : 1,
+              "text" : "do'nt have as mar"
+            },
+            {
+              "confidence" : 1,
+              "text" : "do'nt have ao man"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.50993743849923312,
+            0.20264994394977431,
+            0.16620809222580102,
+            0.035592522789257286
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "sees There as gore do huniằ_i"
+            },
+            {
+              "confidence" : 1,
+              "text" : "wees There as gore do huniằ_i"
+            },
+            {
+              "confidence" : 1,
+              "text" : "sees there as gore do huniằ_i"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.51001817774167391,
+            0.18401980685719499,
+            0.1630688763539726,
+            0.023410765958672863
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "summer but i didnt-lathe"
+            },
+            {
+              "confidence" : 1,
+              "text" : "summer but i didnt-latke"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "summer but i didnt-latre"
+            }
+          ]
+        }
+      ],
+      "orientation_score" : 950.5,
+      "revision" : 3,
+      "usesLanguageCorrection" : true
+    }
+  ]
+}

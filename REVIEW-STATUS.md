@@ -1,36 +1,33 @@
 # Review status
 
-Status at the initial private repository snapshot, 19 September 2026.
+20 September 2026, revision 1.1. Private AI-assisted reference and family editions.
 
 ## Completed
 
-- All six supplied PDFs and 387 source scan pages have entries in both editions.
-- The direct annotated edition contains 971 transcript blocks across four volumes and 186 rendered pages.
-- The annotated edition's PDF, Word, text and HTML exports were checked against its structured transcript data. All source checksums were verified.
-- All 186 annotated PDF pages received visual layout inspection; subsequent changes were re-rendered and checked.
-- The independent family edition is assembled as four PDF/Word pairs and source-organized Markdown readings.
-- The page inventory, source-to-PDF map, correction register, editorial guide, machine-readable data and downloadable packages are included.
+- All six supplied PDFs and 387 source scan pages remain accounted for in both editions.
+- The annotated edition contains 971 transcript blocks and four PDF/Word pairs totaling 186 PDF pages. The family edition contains 161 entries and four PDF/Word pairs totaling 127 PDF pages.
+- All original source checksums were verified. Annotated PDF, Word, HTML and plain text agree with the structured master; the family PDFs agree with Word, including corrected search/copy encoding. Coverage, paragraph locators, HTML filters and family navigation passed validation.
+- All 313 final pages were rendered. The 102 changed page bodies received visual inspection; 211 bodies were pixel-identical to the previously inspected edition. Footer samples were checked across all eight volumes. Encoding repairs left all 127 family pages pixel-identical.
+- The source-to-PDF map, current uncertainty register, structured data, guides, exact change records and both ZIP packages were rebuilt.
 
-## Contextual review, 20 September 2026
+## Review sequence
 
-- All 1,200 register items were reviewed against the surrounding text, recurring names and formulae, duplicate scans, calendar checks and the independent family edition. The scans were not available to that review, so nothing was resolved: 140 items received a suggested reading with the marker kept, 119 conflicts between the two editions were flagged, 941 were left as they stand. See `review/uncertain-text-review-2026-09.md` and the filled columns of the register TSV. The items listed under "recommended for first image check" are the starting point for anyone with the scans.
+The [contextual review](review/uncertain-text-review-2026-09.md) examined all 1,200 original register entries without access to the scans and proposed readings or flagged conflicts. It did not resolve handwriting.
 
-## Remaining scholarly work
+The [50-item image pilot](review/image-pilot-2026-09/) then provided focused source evidence for selected candidates. It was deliberately selected and does not estimate the recoverability of other passages. Its original reports and draft overlay remain historical records.
 
-### Image-review pilot, 19 September 2026
+The [complete processing run](review/full-run-2026-09/) covered all 193 scan pages containing those 1,200 items: 1,351 Apple Vision OCR runs, no errors. An additional 31 items received individual image adjudication, bringing the total to 81. The ledger explicitly marks the other 1,119 as machine-processed without fresh individual image adjudication.
 
-Fifty deliberately selected register items received focused review against the supplied source images. The [addendum](review/image-pilot-2026-09/) records 16 image-supported literal readings, 12 verified links to clearer duplicate scans, two partial surname recoveries, two conjectural completions and 18 unresolved items. It includes 43 source regions from 26 scan pages, 92 image derivatives, a 12-page report, and an explicit draft overlay of the selected paragraphs. All 76 local OCR diagnostic runs completed; ordinary OCR added no accepted reading. A trained handwriting model was not tested.
+Revision 1.1 applies 28 resolved readings, two partial recoveries, 16 clearer-witness notes, six surrounding-text changes, eleven family-text changes and seven synchronized editorial notes. Three new doubts were added, leaving 1,175 uncertainty entries. Original IDs are retained; resolved IDs are retired. No change was accepted solely from OCR agreement. No trained handwriting recognition model was tested.
 
-The original edition exports and the 1,200-row baseline register were not rewritten. Some reviewed items refer to the same original passage; the counts must not be treated as independent recoveries or extrapolated to the remaining 1,150 items. This was an AI-assisted image review informed by the other agent’s proposals, not a blinded or independently human-verified reading. Agreement between the two local AI-assisted editions is not independent human corroboration.
+## Remaining work
 
-### Work still outstanding
+- The 1,119 machine-only items still lack a fresh individual image adjudication in this round. Other checked items remain uncertain. The number of register entries is not an error count; a single entry can cover several words.
+- An independent human reader has not verified every transcription. Export checks establish consistent presentation, not historical or handwriting accuracy. The revised AI readings were informed by contextual proposals and are not blinded.
+- Damaged passages may benefit from further source-image work, better witnesses or specialist reading. A trained handwriting model would need evaluation against independently checked samples before accepting its output. This project has not exhausted all possible improvement methods.
+- The editions have not been systematically reconciled word by word with each other or with the other agent's complete translation.
+- Folders 4–7 in the finding aid were not supplied as manuscript scans and are not transcribed here.
+- Nathaniel Lynn Douglas's father has not been established. References to another person's father are not proof of his parentage.
+- ACU has not reviewed or endorsed the contribution. No invitation or files have been sent. Public distribution remains outside the current private review scope.
 
-- An independent human reader has not checked every transcription against the scans. Layout and export checks establish presentation and consistency, not handwriting accuracy.
-- The annotated register contains 1,200 items: tentative readings, unreadable text, missing text and obscured passages. The number is not an error count and a single item may represent more than one word.
-- Faded and damaged passages remain partial. Some may require better images or access to other copies. ACU's Folder 2 catalog record states that it holds photocopies rather than the originals and that its PDFs are the best quality available from those photocopies.
-- The two editions have not been systematically compared with each other or with the other agent's independently prepared version.
-- Manuscript folders 4–7 described in the finding aid were not among the supplied scans. They have not been transcribed here.
-- Nathaniel Lynn Douglas's father has not been established by this project. References to a different person's father should not be treated as proof of his parentage.
-- ACU has not reviewed or endorsed the contribution. Reuse terms should be clarified before public distribution.
-
-The current files are ready for private reading and review. Coverage is complete for the supplied material; verification of every historical reading remains unfinished.
+Coverage is complete for the supplied scans. Complete scholarly verification remains unfinished.

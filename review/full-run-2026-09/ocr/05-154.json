@@ -1,0 +1,2317 @@
+{
+  "best_clockwise_rotation" : 180,
+  "engine" : "Apple Vision",
+  "os" : "Version 27.0 (Build 26A428)",
+  "page_id" : "05-154",
+  "records" : [
+    {
+      "clockwise_rotation" : 0,
+      "file" : "05-154-original.png",
+      "lines" : [
+        {
+          "box" : [
+            0.64087015712898265,
+            0.242322660077117,
+            0.19055470521260542,
+            0.025211212433964292
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "State of fixac"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.16926502862868628,
+            0.26162786917224756,
+            0.65478842800514092,
+            0.029069841913430094
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "D'ount, of olles Pufre tho cendenigned Authoety, this day"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.14400308741138057,
+            0.27822635194339529,
+            0.56691782840298643,
+            0.063151251551616605
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "в Про реми ло встр у ра ву сить чи"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.13773014259644642,
+            0.32496707062534458,
+            0.66883717535163467,
+            0.036219293525419971
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "to me artinndege a that he had eipred the eame for thes"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.32030058503850151,
+            0.34828048209138962,
+            0.49547606519321857,
+            0.036237404145390228
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Iumpour V crsi devatin therin containn"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.31303111906503783,
+            0.36360038297874953,
+            0.37348799784831327,
+            0.075939265791192145
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "Hituu my gfialeo DDTSCe"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.14415944788573287,
+            0.37795297401680195,
+            0.34874391115086356,
+            0.030483512418815861
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "cedl Real Ana rigenatun Freiono"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.18684704969041094,
+            0.38962105668716518,
+            0.49556451540116681,
+            0.079052256388836617
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "Ai 9 Aday pmackian Astary Oulleo"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.22462615869330632,
+            0.4460857932164034,
+            0.23676876836695643,
+            0.023176795316029675
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Olles crnty Tesão"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.66458259310090606,
+            0.47689829894682711,
+            0.15802973607992288,
+            0.032055310168898288
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "The Hale"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.48905886911782065,
+            0.47251787838575432,
+            0.36675120017004098,
+            0.0887298951666039
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "Panng y jalere te nang"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.18485523345369406,
+            0.52906975023469471,
+            0.32739421400257052,
+            0.045058174592902955
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "Bfen the undericmit"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.42970885593989055,
+            0.59727908679939024,
+            0.19875221463977294,
+            0.026107305503753286
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Deed Pal to"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.23092707426891362,
+            0.61719625363026254,
+            0.60261200007581439,
+            0.036523492652249634
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Iflnt he Thad signed the Jame forthe"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.13337408456251659,
+            0.64478040045017404,
+            0.70424309411463137,
+            0.031672542066459197
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "purpaso Ma cauvidirationi therines prsud"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.13140312373535343,
+            0.67441856797490818,
+            0.6169264929131526,
+            0.062500073536332801
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "dha ad tae mny f feri cic e vin tan-"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.15215902403788453,
+            0.70683624845369475,
+            0.32322890304593632,
+            0.037533084455742882
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : ") dai af any 158)"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.59910912142236417,
+            0.76598836344770915,
+            0.15590202345645365,
+            0.072674436454313374
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "Bg Lany"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.1395332558852421,
+            0.75566011281274603,
+            0.43168893979790024,
+            0.037779034763933628
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "lish dlish Cautss Johuson ta te"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.3538091657346758,
+            0.78450418560600077,
+            0.13402383913614835,
+            0.061887828413262458
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Lep"
+            }
+          ]
+        }
+      ],
+      "orientation_score" : 312.80000174045563,
+      "revision" : 3,
+      "usesLanguageCorrection" : false
+    },
+    {
+      "clockwise_rotation" : 90,
+      "file" : "05-154-original.png",
+      "lines" : [
+        {
+          "box" : [
+            0.23202686353578578,
+            0.1550000804631505,
+            0.045709706501788405,
+            0.19914660215818514
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "State of Fnva"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.26308136949194394,
+            0.17371938024706202,
+            0.027616322758686085,
+            0.65701559070298066
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "P'ornt, of olles Befre Mho underignea Autharty, Ais day"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.27346604595991286,
+            0.29360797894735391,
+            0.052767788071230226,
+            0.56006620904213844
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "e Fressowall, cane Seenqi Doghas, Arern te sue"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.30595897741467765,
+            0.34885641520103161,
+            0.033285956784903259,
+            0.45143702819034481
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "tho pern who signea the fre giny deed."
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.32806742350847107,
+            0.19136132759976554,
+            0.034143018148031612,
+            0.66848241555712795
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "to me artumleps a that hu had sipues tho eane firthe"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.35227432688442445,
+            0.19126578864904531,
+            0.027504983005753492,
+            0.47928025674026686
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "upour Scrse devatin therin containe"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.44622092727151397,
+            0.68151447584329528,
+            0.020348843034491471,
+            0.095768376771711794
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "Tu vào"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.47806625919710272,
+            0.17566230957924378,
+            0.035194334926375415,
+            0.16162043093753609
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "the Sale"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.47682116653151085,
+            0.33018490256945399,
+            0.041515148116881617,
+            0.16495591479176297
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "oicix act"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.50506526286789377,
+            0.15158030649556598,
+            0.042993102016219198,
+            0.23275988115180224
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "scinty of tonsen"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.52819766647895061,
+            0.48646039237321959,
+            0.035355434647525663,
+            0.33189916698857724
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Beforr the underseaned"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.64429656808720481,
+            0.16222970238222478,
+            0.033917792446642059,
+            0.70449693718591155
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "purpasco UaCauvidirationi therines presud"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.75673633757616199,
+            0.42434924751946468,
+            0.039302529484392612,
+            0.42247079789307984
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Cisk dlish Caustat Jomuson ta"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.77177207454746255,
+            0.2545004712218043,
+            0.056985050798898707,
+            0.3099917202031105
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "Bpseary Jarnera"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.79505813548767335,
+            0.5233853006878868,
+            0.049418612560593989,
+            0.14253897675745164
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "Rept"
+            }
+          ]
+        }
+      ],
+      "orientation_score" : 272.30000066757202,
+      "revision" : 3,
+      "usesLanguageCorrection" : false
+    },
+    {
+      "clockwise_rotation" : 180,
+      "file" : "05-154-original.png",
+      "lines" : [
+        {
+          "box" : [
+            0.159986681649222,
+            0.73071406691320528,
+            0.21455070227660003,
+            0.028623282191264976
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "State of fura"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.17149220427598882,
+            0.70783132489183664,
+            0.65701559070298066,
+            0.030540768496961412
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "C'ouent, ofollis d Prfre Mho cendenignea Cuthoaty, thii day"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.34256894770991714,
+            0.68810874733331429,
+            0.49723091054976315,
+            0.029320697324821898
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "persowall, came Sterge Dowglas, Iuren lo me"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.29143786295055724,
+            0.66038990897991323,
+            0.55729508884733137,
+            0.033575655466102639
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "to he thépern cho sipnesi the frogiry deca. V"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.19136072229343357,
+            0.63781543203347368,
+            0.66403982335229894,
+            0.032665652539356715
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "là me artennlepea that hu had eignea tho eame furthes"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.188839021918942,
+            0.61564071505466378,
+            0.48861841000823136,
+            0.034286744910550393
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Irpour Serui du aliu therin containse"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.18405284429102456,
+            0.49022062189912341,
+            0.13993942627404402,
+            0.023801139463861309
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "The Stale"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.16453817459883871,
+            0.45358873463786265,
+            0.21693313231970598,
+            0.039435968054346349
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "ocinty of jelson"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.48975929073978097,
+            0.43804511182223116,
+            0.30555936633548986,
+            0.03379349766007389
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Belor the undersime"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.16891491891963284,
+            0.41930009727817774,
+            0.33915335325568963,
+            0.024414890932749511
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "witkonity thes dai på"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.17339859516302536,
+            0.401008038161767,
+            0.22337692458175684,
+            0.020096167598862347
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Jaualaso Anaros"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.47438752842890747,
+            0.40116279110061759,
+            0.037861913938398939,
+            0.017441859877253107
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "de"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.16222431090418366,
+            0.3249672228907029,
+            0.69099321911824174,
+            0.030809547240475577
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Purpasco Ua Caneidirationi therines praui"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.34086526376860643,
+            0.28052325768138142,
+            0.14310544167340572,
+            0.035040853109704395
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "Mitness om"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.26268709789697264,
+            0.25595575813516769,
+            0.26684702874992772,
+            0.044242766966302693
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "ere unto. tha 1A"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.55456570254337356,
+            0.28779069786511446,
+            0.16481068835020496,
+            0.015988371745649488
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "LiaVEa"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.7395726853626331,
+            0.27694098610251894,
+            0.12021997984147559,
+            0.028568120749600023
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "VeG nati"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.56429235012067647,
+            0.25510092315678179,
+            0.27210194698763868,
+            0.032270861246499694
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "\" dact at jamy 155\""
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.50556793176094439,
+            0.23982558185327529,
+            0.18040088364465401,
+            0.024709301684276208
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "PКіл5.ГИ"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.41945848078850873,
+            0.20540106942422065,
+            0.34554667305373438,
+            0.041322018726762555
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Clisk dish Causs yom"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.37514680393148114,
+            0.1906258161465878,
+            0.16551930538607618,
+            0.035027437324983479
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "yFamere"
+            }
+          ]
+        }
+      ],
+      "orientation_score" : 325.20000052452087,
+      "revision" : 3,
+      "usesLanguageCorrection" : false
+    },
+    {
+      "clockwise_rotation" : 270,
+      "file" : "05-154-original.png",
+      "lines" : [
+        {
+          "box" : [
+            0.72139339058074337,
+            0.63456936434752831,
+            0.046588709268225226,
+            0.20772421337980873
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "State oftrvae"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.70314950881757143,
+            0.16469867621990453,
+            0.049599475171192564,
+            0.66623787871129847
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "V'ounty of öles → Rofe Phe nnteipres Cinllent, hii day"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.69040696290305037,
+            0.15144767667595571,
+            0.021802355295204245,
+            0.50556790674459917
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "fersowall, came Sterge Dowglas, Knun to me"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.66382920162539216,
+            0.14693507283834384,
+            0.026709864512983517,
+            0.56145236144004163
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "to he thoperen who signes the fro geiy decc. I"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.64215293389909478,
+            0.14461492601875603,
+            0.026282930948648087,
+            0.65954911378306957
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "ts me actennlege a that he had signea the eams firthie"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.61627905556841567,
+            0.3273942164228425,
+            0.03052328408482563,
+            0.48775054875231061
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Irupour Vcersi devatin therin containse"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.48647206961405476,
+            0.66846222867125382,
+            0.039867539003670904,
+            0.16177827902069364
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "The. Shile"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.47991084667778205,
+            0.54530005052790487,
+            0.035234949962202333,
+            0.093991764371804898
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "jex a"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.44524166318836139,
+            0.59336493692951287,
+            0.055496937395578427,
+            0.26138756940633667
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "Pocinty of jabiar."
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.3668038621043298,
+            0.15130005915699751,
+            0.10239710520548995,
+            0.68873864136870377
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "auhonity shu dai pie hepeban mhe srgned"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.3445165571505176,
+            0.23681403789783573,
+            0.050907157989869667,
+            0.5946789528217421
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "ne pargse thad sioned the Jame forthe"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.32372335126892515,
+            0.13569784577370592,
+            0.031951357370399558,
+            0.70197729086038585
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "purpasco Ul Cansidirationi therines prsuds"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.16279068897892904,
+            0.43652560779904592,
+            0.068313970910497457,
+            0.31848553500642618
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "Вувину ванеrо"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.20351534596023071,
+            0.1458586189226353,
+            0.041845482516001509,
+            0.42585446962367146
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "Oirk dish Causs Jotuson ae"
+            }
+          ]
+        }
+      ],
+      "orientation_score" : 268.00000166893005,
+      "revision" : 3,
+      "usesLanguageCorrection" : false
+    },
+    {
+      "clockwise_rotation" : 180,
+      "file" : "05-154-original.png",
+      "lines" : [
+        {
+          "box" : [
+            0.159986681649222,
+            0.73071406691320528,
+            0.21455070227660003,
+            0.028623282191264976
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "State of fire"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "State of fina"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "State of fine"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.17149220427598882,
+            0.70783132489183664,
+            0.65701559070298066,
+            0.030540768496961412
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "Count, of ollis Pufre to undenigner Authenty, this day"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "Count, of ollis Pufre to undenigner Authent, this day"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "Count, of ollis Pufre to undenigner Authout, this day"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.34256894770991714,
+            0.68810874733331429,
+            0.49723091054976315,
+            0.029320697324821898
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "persowall, came Sterge Douglas, Auren to me"
+            },
+            {
+              "confidence" : 1,
+              "text" : "perswall, came Sterge Douglas, Auren to me"
+            },
+            {
+              "confidence" : 1,
+              "text" : "persowall, came Sterge Douglas, Auren lo me"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.19136072229343357,
+            0.63781543203347368,
+            0.66403982335229894,
+            0.032665652539356715
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "to me artennepea that hu had signea thicane furthes"
+            },
+            {
+              "confidence" : 1,
+              "text" : "to me artennepea that hu had signea thicane furthe"
+            },
+            {
+              "confidence" : 1,
+              "text" : "to me artennepea that hu had signea thicame furthe"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.188839021918942,
+            0.61564071505466378,
+            0.48861841000823136,
+            0.034286744910550393
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Impour Seri de alin therin contains"
+            },
+            {
+              "confidence" : 1,
+              "text" : "Impour Seri du alin therin contains"
+            },
+            {
+              "confidence" : 1,
+              "text" : "Impour Seri de alin therin containe"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.18405284429102456,
+            0.49022062189912341,
+            0.13993942627404402,
+            0.023801139463861309
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "The Stale"
+            },
+            {
+              "confidence" : 1,
+              "text" : "She Stale"
+            },
+            {
+              "confidence" : 1,
+              "text" : "the Stale"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.16453817459883871,
+            0.45358873463786265,
+            0.21693313231970598,
+            0.039435968054346349
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "ocenty of alson"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "ocenty of elson"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "ocenty of alsor"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.48975929073978097,
+            0.43804511182223116,
+            0.30555936633548986,
+            0.03379349766007389
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Belor the undersime"
+            },
+            {
+              "confidence" : 1,
+              "text" : "Belor the undersione"
+            },
+            {
+              "confidence" : 1,
+              "text" : "Belor the underime"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.16891491891963284,
+            0.41930009727817774,
+            0.33915335325568963,
+            0.024414890932749511
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "withonity the day på"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "withonity the day pá"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "withonity the day pů"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.17339859516302536,
+            0.401008038161767,
+            0.22337692458175684,
+            0.020096167598862347
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "Jonalasa nacos"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "Jonalasa naros"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "Janalasa naros"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.47438752842890747,
+            0.40116279110061759,
+            0.037861913938398939,
+            0.017441859877253107
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "de"
+            },
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "d"
+            },
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "e"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.16222431090418366,
+            0.3249672228907029,
+            0.69099321911824174,
+            0.030809547240475577
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "Purp ase a Canidiration therines prais"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "Purp ase a Canidiration therines pravi"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "Purp ase a Canidiration therines prans"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.34086526376860643,
+            0.28052325768138142,
+            0.14310544167340572,
+            0.035040853109704395
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "Hitness om"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "hitness om"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "Mitness om"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.26268709789697264,
+            0.25595575813516769,
+            0.26684702874992772,
+            0.044242766966302693
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "ere unto. the 1 A"
+            },
+            {
+              "confidence" : 1,
+              "text" : "ere unto. the 1A"
+            },
+            {
+              "confidence" : 1,
+              "text" : "ere unto. the lA"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.56429235012067647,
+            0.25510092315678179,
+            0.27210194698763868,
+            0.032270861246499694
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "\" dact at jamy 155\""
+            },
+            {
+              "confidence" : 1,
+              "text" : "\" dact at lamy 155\""
+            },
+            {
+              "confidence" : 1,
+              "text" : "\" dact at jany 155\""
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.50556793176094439,
+            0.23982558185327529,
+            0.18040088364465401,
+            0.024709301684276208
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "PКіл5.ГИ"
+            },
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "PКіл5.ГИ"
+            },
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "PКіл5.ГИ"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.41945848078850873,
+            0.20540106942422065,
+            0.34554667305373438,
+            0.041322018726762555
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Clink dish Causes yom"
+            },
+            {
+              "confidence" : 1,
+              "text" : "Clink dish Causes yor"
+            },
+            {
+              "confidence" : 1,
+              "text" : "Clink dish Caust yom"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.37514680393148114,
+            0.1906258161465878,
+            0.16551930538607618,
+            0.035027437324983479
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "y Famere"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "y Tamere"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "y Tamers"
+            }
+          ]
+        }
+      ],
+      "orientation_score" : 249.30000007152557,
+      "revision" : 3,
+      "usesLanguageCorrection" : true
+    },
+    {
+      "clockwise_rotation" : 180,
+      "file" : "05-154-contrast.png",
+      "lines" : [
+        {
+          "box" : [
+            0.16188091135146288,
+            0.73064848988020981,
+            0.20620606258483998,
+            0.028530033525214105
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "Etate of 1uxar"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.171068558694673,
+            0.70306895588610219,
+            0.65788948778304068,
+            0.035588450604174482
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "C'ouent, ofolles Bufre Mo underignes Aullunti Aii day"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.34484961178916251,
+            0.68813081804222742,
+            0.49720225448749422,
+            0.029302261536379937
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "perowall, came Serge Bouglas, Aurn to meśł"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.29158537046997218,
+            0.66085570446481312,
+            0.55705918401975496,
+            0.031350983769060647
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "to be tho peren cho sipnei tho frogiry dece. V"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.1893095658509564,
+            0.63945783154441327,
+            0.66592429790391061,
+            0.029216867469879615
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "ti me artennlegea that he had signes thi camu fri ths"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.19117135319358861,
+            0.61600110007293485,
+            0.14568483983743211,
+            0.029308390330119227
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "Irmpous"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.34298440639316358,
+            0.62349397582714317,
+            0.33407573030087517,
+            0.021987951807229011
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "rii dev atinw therin centainse"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.34913666442545166,
+            0.59066344223759581,
+            0.46657211106277441,
+            0.03159867941615091
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "nirs my officiae seal and vigenatui thie"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.47871919130170787,
+            0.57226711156321852,
+            0.19078364345811433,
+            0.030025867094476411
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Oilobeo BDTSS"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.33010145946253883,
+            0.53448081295207372,
+            0.42329240330045631,
+            0.073765196283179568
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "i 9day damackay Artas De"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.75278396383166613,
+            0.55523255854247811,
+            0.057906459307714653,
+            0.017441859877253107
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "Meo"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.18399896635396237,
+            0.49019336169502303,
+            0.13785562850190622,
+            0.024087099282138369
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "She Stale"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.16703220559904805,
+            0.45562860123321414,
+            0.21640226184330233,
+            0.034160632397755131
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "ocinty of pansor"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.16655770364423247,
+            0.41616749695297683,
+            0.33053413997516179,
+            0.027845168975462409
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "witkosity thes. day pe"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.16907229388188283,
+            0.40066675072788316,
+            0.21860901837868962,
+            0.02030520381697698
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Vaualasa Knoro"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.52767143491796575,
+            0.44281422255804614,
+            0.28108181486288408,
+            0.022925962884742135
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "orr the underzemned"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.52561247193121596,
+            0.37645348903369436,
+            0.026726058142022224,
+            0.020348836140460347
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "to"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.16224948928456204,
+            0.32498056322062951,
+            0.6575663737580868,
+            0.030556301898266858
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Purpasco Ua cansidirationi therinex pus"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.34116593824988173,
+            0.28028755710422804,
+            0.14286524971840342,
+            0.035472970985504504
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Hitness om"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.25849109832865019,
+            0.25600390331693668,
+            0.2731667904668727,
+            0.04440748375582404
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "ere unto. Ae 1A"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.55679287476469563,
+            0.28779069792804735,
+            0.15812917205190047,
+            0.015988371745649599
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "wiaWEa"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.7392124759235188,
+            0.27802134800197131,
+            0.1189864153341974,
+            0.029153166621564419
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "VeLeg natir"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.50773074948623409,
+            0.2396385739566721,
+            0.1783024193839533,
+            0.026536807094711845
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "Phu 5.0a"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.25179101155373568,
+            0.17084131605869746,
+            0.13383183505751067,
+            0.062016071181699384
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "BySev"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.42661451713030152,
+            0.21303518049590875,
+            0.28236738899498903,
+            0.028859260283320753
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "link dlist Caust"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.38654955223666798,
+            0.19681592353914712,
+            0.17241640496386179,
+            0.026938470587672958
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "Famere"
+            }
+          ]
+        }
+      ],
+      "orientation_score" : 369.30000096559525,
+      "revision" : 3,
+      "usesLanguageCorrection" : false
+    },
+    {
+      "clockwise_rotation" : 180,
+      "file" : "05-154-contrast.png",
+      "lines" : [
+        {
+          "box" : [
+            0.16188091135146288,
+            0.73064848988020981,
+            0.20620606258483998,
+            0.028530033525214105
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "State of luxer"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "State of luxe"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "State of luxa"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.171068558694673,
+            0.70306895588610219,
+            0.65788948778304068,
+            0.035588450604174482
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Count, of olles Befre to underigues Authents Air day"
+            },
+            {
+              "confidence" : 1,
+              "text" : "Count, of oller Befre to underigues Authents Air day"
+            },
+            {
+              "confidence" : 1,
+              "text" : "Count, of olles Befre to underigues Authents Mur day"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.34484961178916251,
+            0.68813081804222742,
+            0.49720225448749422,
+            0.029302261536379937
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "perowall, came Serge Douglas, Aurn to meśł"
+            },
+            {
+              "confidence" : 1,
+              "text" : "perowall, came Serge Douglas, Aurn to meś"
+            },
+            {
+              "confidence" : 1,
+              "text" : "perowall, came Serge Douglas, Aurn to meł"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.29158537046997218,
+            0.66085570446481312,
+            0.55705918401975496,
+            0.031350983769060647
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "to be to percen who signes the frogery dece. V"
+            },
+            {
+              "confidence" : 1,
+              "text" : "to be to percen who signes the frogery dece. I"
+            },
+            {
+              "confidence" : 1,
+              "text" : "to be to peren who signes the frogery dece. V"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.1893095658509564,
+            0.63945783154441327,
+            0.66592429790391061,
+            0.029216867469879615
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "to me artennley a that he had signed the came fri tho"
+            },
+            {
+              "confidence" : 1,
+              "text" : "to me artennleg a that he had signed the came fri tho"
+            },
+            {
+              "confidence" : 1,
+              "text" : "to me artennley a that he had signed the came fri the"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.19117135319358861,
+            0.61600110007293485,
+            0.14568483983743211,
+            0.029308390330119227
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "Impour"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "Impour d"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "Impous"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.34298440639316358,
+            0.62349397582714317,
+            0.33407573030087517,
+            0.021987951807229011
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "ri dev atin therin containse"
+            },
+            {
+              "confidence" : 1,
+              "text" : "ri dev atin therin containe"
+            },
+            {
+              "confidence" : 1,
+              "text" : "ri dev alim therin containse"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.34913666442545166,
+            0.59066344223759581,
+            0.46657211106277441,
+            0.03159867941615091
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "nirs my official seal and vignatur the"
+            },
+            {
+              "confidence" : 1,
+              "text" : "nirs my official seal and vignatu the"
+            },
+            {
+              "confidence" : 1,
+              "text" : "nirs my official Real and vignatu the"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.33010145946253883,
+            0.53448081295207372,
+            0.42329240330045631,
+            0.073765196283179568
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "in 9 day damackay Astar De"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "in 9 day danackay Astar De"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "in 9 day damackay Atas De"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.75278396383166613,
+            0.55523255854247811,
+            0.057906459307714653,
+            0.017441859877253107
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "Meo"
+            },
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "Heo"
+            },
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "Muo"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.18399896635396237,
+            0.49019336169502303,
+            0.13785562850190622,
+            0.024087099282138369
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "The State"
+            },
+            {
+              "confidence" : 1,
+              "text" : "the State"
+            },
+            {
+              "confidence" : 1,
+              "text" : "The Stale"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.16703220559904805,
+            0.45562860123321414,
+            0.21640226184330233,
+            0.034160632397755131
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "acinty of pansor"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "acinty of panson"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "ointy of pansor"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.16655770364423247,
+            0.41616749695297683,
+            0.33053413997516179,
+            0.027845168975462409
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "withosity thes. day pe"
+            },
+            {
+              "confidence" : 1,
+              "text" : "withosity thes. day de"
+            },
+            {
+              "confidence" : 1,
+              "text" : "withosity thes day pe"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.16907229388188283,
+            0.40066675072788316,
+            0.21860901837868962,
+            0.02030520381697698
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "Vanalas Anaro"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "Vanalas Knaco"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "Vanalas Knaro"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.52767143491796575,
+            0.44281422255804614,
+            0.28108181486288408,
+            0.022925962884742135
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "or the undersened"
+            },
+            {
+              "confidence" : 1,
+              "text" : "or the undersemed"
+            },
+            {
+              "confidence" : 1,
+              "text" : "or the underzemed"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.52561247193121596,
+            0.37645348903369436,
+            0.026726058142022224,
+            0.020348836140460347
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "to"
+            },
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "t"
+            },
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "o"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.16224948928456204,
+            0.32498056322062951,
+            0.6575663737580868,
+            0.030556301898266858
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "Purp ase a candiration therines pus"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "Purp ase a Candiration therines pus"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "Purp ase a candiration theriner pus"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.34116593824988173,
+            0.28028755710422804,
+            0.14286524971840342,
+            0.035472970985504504
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Hitness om"
+            },
+            {
+              "confidence" : 1,
+              "text" : "hitness om"
+            },
+            {
+              "confidence" : 1,
+              "text" : "Mitness om"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.25849109832865019,
+            0.25600390331693668,
+            0.2731667904668727,
+            0.04440748375582404
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "here unto. the 1 A"
+            },
+            {
+              "confidence" : 1,
+              "text" : "here unto. the 1A"
+            },
+            {
+              "confidence" : 1,
+              "text" : "here unto. the lA"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.50773074948623409,
+            0.2396385739566721,
+            0.1783024193839533,
+            0.026536807094711845
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "Pu 5. 0a"
+            },
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "Pu 5. 00"
+            },
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "Pu 5.0a"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.25179101155373568,
+            0.17084131605869746,
+            0.13383183505751067,
+            0.062016073479709832
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "By Sev"
+            },
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "By Ser"
+            },
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "By Sen"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.42661451713030152,
+            0.21303518049590875,
+            0.28236738899498903,
+            0.028859260283320753
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "link dist Caust"
+            },
+            {
+              "confidence" : 1,
+              "text" : "link dist aust"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "link dist caust"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.38654955223666798,
+            0.19681592353914712,
+            0.17241640496386179,
+            0.026938470587672958
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "1 Famere"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "Famere"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "Famere"
+            }
+          ]
+        }
+      ],
+      "orientation_score" : 341.90000009536743,
+      "revision" : 3,
+      "usesLanguageCorrection" : true
+    }
+  ]
+}

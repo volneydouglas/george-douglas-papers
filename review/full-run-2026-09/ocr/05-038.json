@@ -1,0 +1,1979 @@
+{
+  "best_clockwise_rotation" : 180,
+  "engine" : "Apple Vision",
+  "os" : "Version 27.0 (Build 26A428)",
+  "page_id" : "05-038",
+  "records" : [
+    {
+      "clockwise_rotation" : 0,
+      "file" : "05-038-original.png",
+      "lines" : [
+        {
+          "box" : [
+            0.23510930886312603,
+            0.81288419254980382,
+            0.53342336891397579,
+            0.04774041315440225
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "I tniamed, lach orghs of heng as"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.24264362927339694,
+            0.78226744276347815,
+            0.50916297212017536,
+            0.047648531262790117
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "the old homertład, - telliu zur"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.24419806070602154,
+            0.74856264641493109,
+            0.5174001314565464,
+            0.051617385793724102
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "• Krand-ana any třvvebelio, ao g"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.24087531044241456,
+            0.72297948005554757,
+            0.44070677848685041,
+            0.046240877113283507
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "wao wont ti do is hj-ja"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.24334600940067008,
+            0.69183358984236332,
+            0.41444866592299445,
+            0.036364085134262369
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "daijo + alao of aung benele"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.25263641506604528,
+            0.66913199309063609,
+            0.40910143808928789,
+            0.025383839070888814
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Struue e tidrit dencam a"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.24995241700386367,
+            0.63337558060582411,
+            0.45785426997272322,
+            0.047290208343364726
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "y thí rich. A fen ariahlo l"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.24843985339103533,
+            0.60306773667209201,
+            0.5050609600171071,
+            0.037113814214344898
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "dnamed of Grand ana. Y"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.24509884667616816,
+            0.57053592255375984,
+            0.50413456213341945,
+            0.035816192626953125
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "kuvri t ozlin have thah phav"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.24274604773155573,
+            0.53744907425630395,
+            0.52232895128421408,
+            0.043978103320293727
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "2 enpprae, hecane, plin thínk"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.25095057429295159,
+            0.51001540781525634,
+            0.51520911716187889,
+            0.038135593220338992
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "→ afunke oz her. divce 2 hugan vorit"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.24473631834821405,
+            0.47327173316325211,
+            0.51475372468426772,
+            0.045750376990837061
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "klens hrought ane quuer litten"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.25590744100010043,
+            0.45315722575039152,
+            0.53725965328582237,
+            0.034828863452505798
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "pran the leffice, Lus dseaed are"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.24880067923718471,
+            0.41539957105870573,
+            0.52331111842520184,
+            0.0383945944129227
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "indud lvvely- Lun are carrjenz"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.49699699144066428,
+            0.38610879312803847,
+            0.30035030853856587,
+            0.041048102827028088
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : ", des plurly jaru"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.25221999802005951,
+            0.36043389707695506,
+            0.55067734857861383,
+            0.0556665811406446
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "clot Thete ttene I enfected barse"
+            }
+          ]
+        }
+      ],
+      "orientation_score" : 306.80000048875809,
+      "revision" : 3,
+      "usesLanguageCorrection" : false
+    },
+    {
+      "clockwise_rotation" : 90,
+      "file" : "05-038-original.png",
+      "lines" : [
+        {
+          "box" : [
+            0.81445791394708666,
+            0.23150104862118792,
+            0.045536972892302741,
+            0.52959466004588163
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "I triamed, lach anght oj hung as"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.78361440098093293,
+            0.2331658756282321,
+            0.046008079187895734,
+            0.52797091548546293
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "the old homentiad, - tellin Janr"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.75133755227873733,
+            0.23138615507725246,
+            0.043007461242205558,
+            0.52757791313225277
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "• krand-ana any tövveklio, ao 2"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.73313015007265148,
+            0.38001244222725317,
+            0.028492170783514625,
+            0.37519428395599463
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "wao mint li do ir lu"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.68598048860544769,
+            0.34136743871009212,
+            0.04562286088940537,
+            0.41390633992061365
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "kejo - ales of aninz benelí"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.6689809503040246,
+            0.34771864760637572,
+            0.026026020432106334,
+            0.399689552160854
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Struue e tidrik dencam o"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.63364295466429854,
+            0.30779180257194361,
+            0.039337502054881623,
+            0.43957972213791308
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "s the rieh. Ae fen arighlo."
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.60070372709093367,
+            0.2427319561284943,
+            0.038419479581718319,
+            0.51255285607577572
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "I dscamed of Gravid ana. I"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.56784140609777334,
+            0.25232962178433604,
+            0.040121395892832368,
+            0.50279181949065033
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "kivro, tozlin have than pla."
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.53935825061153175,
+            0.22747631290883641,
+            0.041569599568935689,
+            0.52597837323016516
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "2 euppuae, hecane, I vplin Akínk"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.5101744021391742,
+            0.23764259756260864,
+            0.037790730480787738,
+            0.50950568667815022
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "→ afuck oz her. Lince I hezan usit"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.47222755470968669,
+            0.2368603279258521,
+            0.045217302437004947,
+            0.51460720335559096
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Elins kronght cne zuier littir"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.44860610551676439,
+            0.19899825325609144,
+            0.045066417641191514,
+            0.54929096980244074
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "frun the Affice. Yus doveaed are"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.41715114550679194,
+            0.24904943104598143,
+            0.033430267004827152,
+            0.50380228698915241
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "inded lovely - Lum are carrzun"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.29158792105767251,
+            0.19764497036827378,
+            0.075611578848769734,
+            0.55250255226728051
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "gelgn y it, ant ken d gyn mile"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.28821189764586752,
+            0.5712192528659763,
+            0.033052190242820245,
+            0.17454849073793044
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "мизму пчо"
+            }
+          ]
+        }
+      ],
+      "orientation_score" : 315.10000026226044,
+      "revision" : 3,
+      "usesLanguageCorrection" : false
+    },
+    {
+      "clockwise_rotation" : 180,
+      "file" : "05-038-original.png",
+      "lines" : [
+        {
+          "box" : [
+            0.23155431311088906,
+            0.14228767245477358,
+            0.52750505279941351,
+            0.041665066923309069
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "e triamed, laes aright oj heny as"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.23114851751729118,
+            0.16802940559100299,
+            0.52832554760421924,
+            0.051628794618674201
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "the old homertład, - tellin Juns"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.23136000361698419,
+            0.20420121688677828,
+            0.52572912067986888,
+            0.043008025511754866
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "• Grand-ava any třvrblio, ao z"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.32800581613821783,
+            0.23088735149531847,
+            0.4347556351893605,
+            0.043616228735501972
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "wvaw wont li do ir hy-z"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.33964882031176563,
+            0.26909171423362299,
+            0.41555059377167952,
+            0.04477635517326084
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "tajo r alas oz auing binelí"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.33636343304078387,
+            0.30556755828068494,
+            0.4052703580269299,
+            0.028102530904102752
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "tnuue e diduit dercam a"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.31139819205702518,
+            0.32407246555854174,
+            0.43084584379532981,
+            0.038164030054500864
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "1 the rieh. A ten arichlo."
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.2505976335408317,
+            0.36637095452618185,
+            0.50061632574025605,
+            0.027454149925102644
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "anamned of Lrared ana. 2"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.25199717533857274,
+            0.38477998984253947,
+            0.50173328141752327,
+            0.048235530294879703
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "kiaro, t ozlin harve that plao."
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.24070979706319623,
+            0.41754121458300497,
+            0.51271982510563818,
+            0.044644510066380594
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "2 enfpuse, hecane, o oplin tkínt"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.20152091094101918,
+            0.45203484795514448,
+            0.54372623878579085,
+            0.036337280861218235
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "→ afwek of hen, dince I hezan writing"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.2019197378087548,
+            0.47590077602934433,
+            0.54809453292523336,
+            0.069145793356403251
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "elns dre ppdă se guio bettn?"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.22594594388813924,
+            0.54320297811741691,
+            0.5253619859004478,
+            0.041777656331819069
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "indud lovely- Lar are carrzing"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.19547897998404848,
+            0.5704214636987156,
+            0.55579444738978934,
+            0.043468175573598722
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "jous any advice, des plunty Javce"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.18972605670176437,
+            0.59789089707660337,
+            0.55569935326138375,
+            0.041650581065972969
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "clottạỊạihetter ttran & espected bane"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.18532024078923218,
+            0.63454704514377402,
+            0.56065133072653894,
+            0.056170082973956204
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Dlak of is aand kuord gun vill?"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.42103253682535369,
+            0.67190935698196297,
+            0.32460657883845234,
+            0.039773680947043699
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "unjay mranuny ther"
+            }
+          ]
+        }
+      ],
+      "orientation_score" : 373.60000026226044,
+      "revision" : 3,
+      "usesLanguageCorrection" : false
+    },
+    {
+      "clockwise_rotation" : 270,
+      "file" : "05-038-original.png",
+      "lines" : [
+        {
+          "box" : [
+            0.13910745775163114,
+            0.23894424396857505,
+            0.046558027458484808,
+            0.53145946575823033
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "I tniamned, lach aughs oj lung as"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.18047961923655087,
+            0.24308254899572912,
+            0.029969901627127704,
+            0.42641402012645058
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "the old homeatiad, + tilliu"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.18308758461153268,
+            0.24531995366690795,
+            0.078701225010382569,
+            0.52343694569484733
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "• Grantna any lăublå Jen"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.24097625574561077,
+            0.24308242288027171,
+            0.025079133514263219,
+            0.38066330494962475
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "wao mnt li do is lu"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.27061765863179449,
+            0.24300812593288357,
+            0.04179809346955804,
+            0.41546618541482716
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "duijo - aleo of aunz bineli"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.30813951811457851,
+            0.25475286097174854,
+            0.020348867025507644,
+            0.40874523543926589
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Straiue e tidiib dercamn a"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.32039767285665194,
+            0.24433199926497684,
+            0.044950829081248811,
+            0.45216115572377968
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "os thí rich. A fen arishlo."
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.36313823353521152,
+            0.24651182051185783,
+            0.036780917222033305,
+            0.36248887078432446
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "2 dneamed of Grave"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.36701849462245845,
+            0.60381543817336913,
+            0.021113650640831483,
+            0.12292581321493046
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "A amar."
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.39224305661442277,
+            0.24679287158177177,
+            0.038366123781365891,
+            0.50080217194003862
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "kivrd tozlin have thah plea."
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.41896407957623161,
+            0.24476974350038094,
+            0.042081590426170212,
+            0.51447410852949993
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "I enfpuse, hecane, t oplin tkínt"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.45203486717239683,
+            0.25285172033541037,
+            0.037790730480787738,
+            0.51520911716187867
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "o afurk oj hes, dirce I hezam vositi."
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.48290480051792417,
+            0.24480841565135791,
+            0.043613601355413145,
+            0.51820652227469099
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "Eluno hroncht ane guiin litten"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.5064119008669089,
+            0.2519678501564524,
+            0.044973827473738903,
+            0.55087043154011106
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "frun the Affice. Yuur doveaed are"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.54941858741328398,
+            0.25095058950407967,
+            0.033430267004827208,
+            0.52281366034545285
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "indud lovely- Lun are Carrjunz"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.63603997841666482,
+            0.25570621748805122,
+            0.04017130288945514,
+            0.55098012237086902
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "glad oý at, and kucovd cun zull"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.66359492179634971,
+            0.25960001374521291,
+            0.050011921369790713,
+            0.40058977452344535
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "unjay weanun thirve the"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.67732557571327867,
+            0.64068441435067658,
+            0.013081406591853306,
+            0.16349809417570638
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "сe 2ицern"
+            }
+          ]
+        }
+      ],
+      "orientation_score" : 335.80000030994415,
+      "revision" : 3,
+      "usesLanguageCorrection" : false
+    },
+    {
+      "clockwise_rotation" : 180,
+      "file" : "05-038-original.png",
+      "lines" : [
+        {
+          "box" : [
+            0.23155431311088906,
+            0.14228767245477358,
+            0.52750505279941351,
+            0.041665066923309069
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "I triamed, last aright of hung as"
+            },
+            {
+              "confidence" : 1,
+              "text" : "I triamed, last aright of heny as"
+            },
+            {
+              "confidence" : 1,
+              "text" : "I triamed, last aright of leng as"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.23114851751729118,
+            0.16802940559100299,
+            0.52832554760421924,
+            0.051628794618674201
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "the old homestead, - tellin, Jans"
+            },
+            {
+              "confidence" : 1,
+              "text" : "the old homestead, - tellin, June"
+            },
+            {
+              "confidence" : 1,
+              "text" : "the old homestead, - tellin, Jane"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.23136000361698419,
+            0.20420121688677828,
+            0.52572912067986888,
+            0.043008025511754866
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "• Grand-ava any tortilio, as z"
+            },
+            {
+              "confidence" : 1,
+              "text" : "• Grand-ava any tortilio, as z"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "• Grand-ava any tortilio, as d"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.33964882031176563,
+            0.26909171423362299,
+            0.41555059377167952,
+            0.04477635517326084
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "tango - alas of aming binele"
+            },
+            {
+              "confidence" : 1,
+              "text" : "tango - alas of aming benele"
+            },
+            {
+              "confidence" : 1,
+              "text" : "tango - alas of aming binelí"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.33636343304078387,
+            0.30556755828068494,
+            0.4052703580269299,
+            0.028102530904102752
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "true e diduit descam a"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "true e dideit descam a"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "true e diduit descam a,"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.31139819205702518,
+            0.32407246555854174,
+            0.43084584379532981,
+            0.038164030054500864
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "1 the rich. A ten crichlo."
+            },
+            {
+              "confidence" : 1,
+              "text" : "1 the rich. A ten arichlo."
+            },
+            {
+              "confidence" : 1,
+              "text" : "> the rich. A ten crichlo."
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.2505976335408317,
+            0.36637095452618185,
+            0.50061632574025605,
+            0.027454149925102644
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "- anarned of Dravid ana. 2"
+            },
+            {
+              "confidence" : 1,
+              "text" : "- anarned of Draved ana. 2"
+            },
+            {
+              "confidence" : 1,
+              "text" : "anarned of Dravid ana. 2"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.25199717533857274,
+            0.38477998984253947,
+            0.50173328141752327,
+            0.048235530294879703
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "kiara, doglin have that plas."
+            },
+            {
+              "confidence" : 1,
+              "text" : "kiara, doglin have that pleas"
+            },
+            {
+              "confidence" : 1,
+              "text" : "kiara, doglin have that plas"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.24070979706319623,
+            0.41754121458300497,
+            0.51271982510563818,
+            0.044644510066380594
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "2 euppuse, became, i splin tkind"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "2 euppuse, became, i splin tkint"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "2 euppuse, became, I splin tkind"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.20152091094101918,
+            0.45203484795514448,
+            0.54372623878579085,
+            0.036337280861218235
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "→ afuck of her, dince I began writing"
+            },
+            {
+              "confidence" : 1,
+              "text" : "* afuck of her, dince I began writing"
+            },
+            {
+              "confidence" : 1,
+              "text" : "→ afuck of hen, dince I began writing"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.2019197378087548,
+            0.47590077602934433,
+            0.54809453292523336,
+            0.069145793356403251
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "eline to pose got better i"
+            },
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "eline to pose got better"
+            },
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "eline to pose got better?"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.22594594388813924,
+            0.54320297811741691,
+            0.5253619859004478,
+            0.041777656331819069
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "inded lovely - Lar are carrging"
+            },
+            {
+              "confidence" : 1,
+              "text" : "inded lovely - Las are carrging"
+            },
+            {
+              "confidence" : 1,
+              "text" : "inded lovely - Lan are carrging"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.19547897998404848,
+            0.5704214636987156,
+            0.55579444738978934,
+            0.043468175573598722
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "our any advice, dis plenty Jane"
+            },
+            {
+              "confidence" : 1,
+              "text" : "our any advice, dis plenty Janee"
+            },
+            {
+              "confidence" : 1,
+              "text" : "our any advice, des plenty Jane"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.18972605670176437,
+            0.59789089707660337,
+            0.55569935326138375,
+            0.041650581065972969
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "clottiạỊạhetter tan I expected bane"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "clottiạỊạhetter tan 2 expected bane"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "clottiạỊạhetter tan I expected Sane"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.18532024078923218,
+            0.63454704514377402,
+            0.56065133072653894,
+            0.056170082973956204
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "What of is and kuord gun vill?"
+            },
+            {
+              "confidence" : 1,
+              "text" : "Dak of is and kuord gun will?"
+            },
+            {
+              "confidence" : 1,
+              "text" : "Dad of is and kuord gun will?"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.42103253682535369,
+            0.67190935698196297,
+            0.32460657883845234,
+            0.039773680947043699
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "injury manny ther"
+            },
+            {
+              "confidence" : 1,
+              "text" : "injay manny ther"
+            },
+            {
+              "confidence" : 1,
+              "text" : "enjay manny ther"
+            }
+          ]
+        }
+      ],
+      "orientation_score" : 312.80000025033951,
+      "revision" : 3,
+      "usesLanguageCorrection" : true
+    },
+    {
+      "clockwise_rotation" : 180,
+      "file" : "05-038-contrast.png",
+      "lines" : [
+        {
+          "box" : [
+            0.2314103501415655,
+            0.13923265208139823,
+            0.52778781001671293,
+            0.046421870979579505
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "e triamed, lves onighs of leng as"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.366120210953221,
+            0.14999999366586536,
+            0.10382515053696156,
+            0.045833346656364293
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "cghh s"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.23126696152498527,
+            0.17045375954316122,
+            0.52817483819216693,
+            0.048912274635444342
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "the old homertiad, - telliu, zans"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.2311511331881422,
+            0.20315003118406583,
+            0.52420508945746092,
+            0.045478350576156901
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "• krand-ma any třovikles, ao 2"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.31488234209828364,
+            0.23138871368972536,
+            0.44984560753815589,
+            0.045139154043329799
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "Ewae wont ti do sir luj-ja"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.33978666832136029,
+            0.27205073384987499,
+            0.40953773783386416,
+            0.037378090739433767
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "kuijo - alas of auny benele"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.34213176555357366,
+            0.30679824578588999,
+            0.30821580627010275,
+            0.020292559830910939
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "e e didiit drcam a"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.3055921696403619,
+            0.30065138755307663,
+            0.44113741200097761,
+            0.061644382212305282
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "any ret. De fen cridlo."
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.24656736020285669,
+            0.35418677565562051,
+            0.50522321745317234,
+            0.042605492660922173
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "I dnamed o Grand ana. I"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.24820459402686867,
+            0.38607794771639425,
+            0.50546046005849521,
+            0.048285521050263625
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "kivro I ozlin have ttrat plao."
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.24454884712032393,
+            0.41757381414269323,
+            0.50888307881283112,
+            0.043387919985825585
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "2 enfpuse, hecanec, I oplin tkíni"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.20128643771249,
+            0.44872197852922024,
+            0.54422024785570133,
+            0.042021312037675118
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "→ afurk og her. dince & hegan voriting"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.23494920370686229,
+            0.4824960718544089,
+            0.52222369489467702,
+            0.045447830059127892
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "Eluno hoanght are cuven litter"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.19892746667391703,
+            0.50389821894425801,
+            0.54939105267721988,
+            0.04905147728824466
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "frun tke Affice. Yur daveaed are"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.22582633607802843,
+            0.54452888573966862,
+            0.5255194701532544,
+            0.042436361680229129
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "indued lovely- Lam are carnjing"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.19885036708415268,
+            0.57305846205477351,
+            0.29477615433432136,
+            0.04112479499381938
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "des plenty jarue"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.19139553209766025,
+            0.58235445508925832,
+            0.5563879850293264,
+            0.05583142426054355
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "cit aihate lhan 2 erfeted bune"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.18551107286072371,
+            0.63308413470405722,
+            0.56050062131448652,
+            0.049486415962959884
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "glad of it, and kicovd un zíll"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.41995926378840109,
+            0.66652073960932268,
+            0.32633785859848008,
+            0.053009750295677338
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "eyny weanuny ther"
+            }
+          ]
+        }
+      ],
+      "orientation_score" : 319.80000078678131,
+      "revision" : 3,
+      "usesLanguageCorrection" : false
+    },
+    {
+      "clockwise_rotation" : 180,
+      "file" : "05-038-contrast.png",
+      "lines" : [
+        {
+          "box" : [
+            0.2314103501415655,
+            0.13923265208139823,
+            0.52778781001671293,
+            0.046421870979579505
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "I tramed, lves aght of lung as"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "I tramed, lves aght of ling as"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "I tramed, lves aght of hung as"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.23126696152498527,
+            0.17045375954316122,
+            0.52817483819216693,
+            0.048912274635444342
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "the old homertiad, - tellin, zan"
+            },
+            {
+              "confidence" : 1,
+              "text" : "the old homertead, - tellin, zan"
+            },
+            {
+              "confidence" : 1,
+              "text" : "the old homertiad, - tellin, Jan"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.31488234209828364,
+            0.23138871368972536,
+            0.44984560753815589,
+            0.045139154043329799
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "wee want li do sir lugga"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "wee want li do sir lugge"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "wee want li do sir lujja"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.33978666832136029,
+            0.27205073384987499,
+            0.40953773783386416,
+            0.037378090739433767
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "knigo - alas of anny benche"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "knigo - alas of any benche"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "knigo - alas of anny benchi"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.34213176555357366,
+            0.30679824578588999,
+            0.30821580627010275,
+            0.020292559830910939
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "i e didit dream a"
+            },
+            {
+              "confidence" : 1,
+              "text" : "e e didit dream a"
+            },
+            {
+              "confidence" : 1,
+              "text" : "i e didid dream a"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.3055921696403619,
+            0.30065138755307663,
+            0.44113741200097761,
+            0.061644382212305282
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "any red. De pen allo."
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "any red. de pen allo."
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "any red. De pen ablo."
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.24656736020285669,
+            0.35418677565562051,
+            0.50522321745317234,
+            0.042605492660922173
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "I dramed a Grand ana. I"
+            },
+            {
+              "confidence" : 1,
+              "text" : "I draned a Grand ana. I"
+            },
+            {
+              "confidence" : 1,
+              "text" : "I dramed o Grand ana. I"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.24820459402686867,
+            0.38607794771639425,
+            0.50546046005849521,
+            0.048285521050263625
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "kimo I oglin have that plas."
+            },
+            {
+              "confidence" : 1,
+              "text" : "kimo I oglin have that plao."
+            },
+            {
+              "confidence" : 1,
+              "text" : "kimo I ozlin have that plas."
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.24454884712032393,
+            0.41757381414269323,
+            0.50888307881283112,
+            0.043387919985825585
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "2 enfpuse, hecame, I splin Akini"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "2 enfpuse, hecame, I splin Akin"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "2 enfpuse, hecame, I splin tini"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.20128643771249,
+            0.44872197852922024,
+            0.54422024785570133,
+            0.042021312037675118
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "→ a furt of her. dince & hegan veriting"
+            },
+            {
+              "confidence" : 1,
+              "text" : "→ a furt of her. dince & hugan veriting"
+            },
+            {
+              "confidence" : 1,
+              "text" : "→ a fuck of her. dince & hegan veriting"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.23494920370686229,
+            0.4824960718544089,
+            0.52222369489467702,
+            0.045447830059127892
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Eleno hought are caven litter"
+            },
+            {
+              "confidence" : 1,
+              "text" : "Eleno haaght are caven litter"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "Eleno hought are canen litter"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.19892746667391703,
+            0.50389821894425801,
+            0.54939105267721988,
+            0.04905147728824466
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "frun the Office. Yur dovesed are"
+            },
+            {
+              "confidence" : 1,
+              "text" : "frun the Office. Yun dovesed are"
+            },
+            {
+              "confidence" : 1,
+              "text" : "frun the Office. Yur davesed are"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.22582633607802843,
+            0.54452888573966862,
+            0.5255194701532544,
+            0.042436361680229129
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "indeed lovely- Lam are carnjing"
+            },
+            {
+              "confidence" : 1,
+              "text" : "indeed lovely- Lan are carnjing"
+            },
+            {
+              "confidence" : 1,
+              "text" : "indeed lovely- Lam are carning"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.19885036708415268,
+            0.57305846205477351,
+            0.29477615433432136,
+            0.04112479499381938
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "des plenty yarne"
+            },
+            {
+              "confidence" : 1,
+              "text" : "des plenty parce"
+            },
+            {
+              "confidence" : 1,
+              "text" : "des plenty jarce"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.19139553209766025,
+            0.58235445508925832,
+            0.5563879850293264,
+            0.05583142426054355
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "cut ate than 2 espected June"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "cut ate than 2 espected tune"
+            },
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "cut ate than 2 espected bune"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.18551107286072371,
+            0.63308413470405722,
+            0.56050062131448652,
+            0.049486415962959884
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "glad of it, and kicord un vill"
+            },
+            {
+              "confidence" : 1,
+              "text" : "glad of it, and kicord un zill"
+            },
+            {
+              "confidence" : 1,
+              "text" : "glad of it, and kord gun vill"
+            }
+          ]
+        }
+      ],
+      "orientation_score" : 280,
+      "revision" : 3,
+      "usesLanguageCorrection" : true
+    }
+  ]
+}

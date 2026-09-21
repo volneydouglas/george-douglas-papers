@@ -1,6 +1,6 @@
 # George Douglas Papers annotated transcription
 
-Version 1.0 • September 2026
+Version 1.1 • September 2026
 
 ## Purpose and scope
 
@@ -8,11 +8,11 @@ This edition offers a direct, annotated transcription of the six supplied PDFs o
 
 ## Preparation and review
 
-Prepared for Volney Douglas with AI assistance in September 2026, from visual reading of the supplied scans. Each scan received an initial reading; selected doubtful passages received a focused second reading. The page inventory identifies the review level. This edition has not received an independent human transcription check or repository approval. It is offered for scholarly review and correction, and does not replace the source images.
+Prepared for Volney Douglas with AI assistance in September 2026, from visual reading of the supplied scans. Each scan received an initial reading. Version 1.1 adds local OCR processing of all 193 pages containing the original 1,200 uncertainties, and applies selected image-checked corrections. OCR completion is not a complete new visual check; the item ledger records which passages were individually adjudicated. The page inventory identifies the review level. This edition has not received an independent human transcription check or repository approval. It is offered for scholarly review and correction, and does not replace the source images.
 
 ## Independence
 
-This transcription was prepared separately from the plain-English family edition, which modernized wording and summarized some repetitive forms. The other agent’s work was not consulted. Part of a pre-existing 25-page transcription was viewed during the initial inventory, before the request for independence; it has not been used for this transcription. The work is therefore not a blind experiment.
+The first edition was prepared separately from the plain-English family edition. For version 1.1, the other agent’s contextual review and the family edition were consulted to guide image checks; this revision is not a blinded comparison. Part of a pre-existing 25-page transcription was viewed during the initial inventory, before the request for independence; it has not been used for this transcription. The work is therefore not a blind experiment.
 
 ## Wording and layout
 
@@ -36,11 +36,11 @@ The letters preserve their writers’ assertions, beliefs, rumors and opinions. 
 
 ## References and corrections
 
-A page ID such as 05-025 means source 05, PDF scan page 25, counting the cover as page 1. A block ID such as 05-025-P02 adds the second transcript paragraph or block. These are editorial locators; they are not manuscript page numbers. Suggested citation: George Douglas Papers annotated transcription, version 1.0, 05-025-P02; corresponding source 05, scan page 25. For a correction, give that locator, the existing wording, a proposed reading, and the image or other evidence supporting it.
+A page ID such as 05-025 means source 05, PDF scan page 25, counting the cover as page 1. A block ID such as 05-025-P02 adds the second transcript paragraph or block. These are editorial locators; they are not manuscript page numbers. Suggested citation: George Douglas Papers annotated transcription, version 1.1, 05-025-P02; corresponding source 05, scan page 25. For a correction, give that locator, the existing wording, a proposed reading, and the image or other evidence supporting it.
 
 ## Files for reuse
 
-The package includes four searchable PDFs and four editable Word files, a complete UTF-8 transcript, structured JSON, an offline HTML reading copy, a page inventory, and an unresolved-readings register in TSV and HTML. The register includes tentative readings, unread text, loss and obstruction; structural markers and readable insertions or deletions are not unresolved items. Original source PDFs are identified by filename and SHA-256 checksum but are not duplicated in this package.
+The package includes four searchable PDFs and four editable Word files, a complete UTF-8 transcript, structured JSON, an offline HTML reading copy, a page inventory, and an unresolved-readings register in TSV and HTML. The register retains the original uncertainty IDs; resolved IDs are retired and new IDs use higher numbers. The review ledger preserves all 1,200 baseline items. The register includes tentative readings, unread text, loss and obstruction; structural markers and readable insertions or deletions are not unresolved items. Original source PDFs are identified by filename and SHA-256 checksum but are not duplicated in this package.
 
 ## Repository credit
 

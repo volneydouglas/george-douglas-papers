@@ -1,0 +1,2599 @@
+{
+  "best_clockwise_rotation" : 0,
+  "engine" : "Apple Vision",
+  "os" : "Version 27.0 (Build 26A428)",
+  "page_id" : "04-027",
+  "records" : [
+    {
+      "clockwise_rotation" : 0,
+      "file" : "04-027-original.png",
+      "lines" : [
+        {
+          "box" : [
+            0.22206801448647537,
+            0.68472404130623477,
+            0.50585985417688906,
+            0.070123918916504269
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Monday mornanig."
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.13657662893971345,
+            0.6683208078502243,
+            0.24008008004170756,
+            0.039234970468830177
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Dear zella."
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.053580083785457748,
+            0.57944440645605078,
+            0.89196992973350098,
+            0.10184577902009717
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "Amow sofr meti, mhile the like been"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.051221166129528817,
+            0.54544273573768032,
+            0.87876183806504549,
+            0.058244906048707135
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "no furiter additions, ysoterday was aạỊẠig"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.070514489184365731,
+            0.52888754072010058,
+            0.83992455120292564,
+            0.032465509552845218
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "ay. Uccarding to aunouneemment Cher"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.060933717492957055,
+            0.49808160126081025,
+            0.7617312085991168,
+            0.029793261413346261
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "vas dinner on the gronnd, And sues"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.055120669026015964,
+            0.45829698671953556,
+            0.90887720708875119,
+            0.04142856099340253
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "anoiher dinner. About the finsst even spread"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.05343510185417593,
+            0.42296511699203854,
+            0.83778628423239698,
+            0.036337207910994929
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "et Vylarana. Aemong visitons fresent ras"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.051258776749601574,
+            0.39903998488068204,
+            0.33835851128365746,
+            0.025606681020336364
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Nhite Vliman o"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.48191315325757844,
+            0.38119881009037448,
+            0.4596660340733103,
+            0.049360353613718821
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "totep Wäfe, (who vendęśł"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.050889689844374267,
+            0.34123410615394612,
+            0.83540088178131133,
+            0.060713878400829646
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "her love to you,) and Nillis Russald, They"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.050934360185888664,
+            0.29812211069854022,
+            0.82745163667658239,
+            0.070097082136637012
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "left- ofter preacking last night for Ennis,"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.057000254273279691,
+            0.25611182958413892,
+            0.84581070021160454,
+            0.060069473756614977
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "vhitě and famiký fi te mone vejt ava"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.054698899590398121,
+            0.24355442055956811,
+            0.34837818988055075,
+            0.040931949515766508
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "to Martin, where"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.53955116842283934,
+            0.24118547086867537,
+            0.31978929873420625,
+            0.047367825269520991
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "okas a jot of"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.2885477978462711,
+            0.20243372440337304,
+            0.56605159920494974,
+            0.057592715319632726
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "\"Mattins \"Medicine wagon,"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.04753182698966596,
+            0.16549755941397071,
+            0.87175195935429961,
+            0.075895533088074396
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Mrom Oak Cliff Were HhereIkree corlmad"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.07061069654141125,
+            0.13069454860735785,
+            0.82061066781924674,
+            0.043724055785221094
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "I peope, fett Barelay among thenumber"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.062858508169610652,
+            0.099655701837624622,
+            0.87430417525990545,
+            0.043410452913223097
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "who hindhy vencembered yon, the wife of"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.068503358517593718,
+            0.06741957489785344,
+            0.86299607985387028,
+            0.042781332698306418
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "9.C. Estes,ite preacher, B'ro, Stèuens, motte"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.058936105585936295,
+            0.031465827943227498,
+            0.75227980384414861,
+            0.036952716009753916
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "tife and Vistor, Bro, Mel lon and yom"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.057251921217353653,
+            0.0014534891020387963,
+            0.68511447775469203,
+            0.036337207910994929
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "and Tro, Holsemback, and wife."
+            }
+          ]
+        }
+      ],
+      "orientation_score" : 524.10000067949295,
+      "revision" : 3,
+      "usesLanguageCorrection" : false
+    },
+    {
+      "clockwise_rotation" : 90,
+      "file" : "04-027-original.png",
+      "lines" : [
+        {
+          "box" : [
+            0.69717872059482522,
+            0.56352772351478331,
+            0.061458191647291049,
+            0.21055430823149224
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Manday"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.69622092030566307,
+            0.26908396326251716,
+            0.052325601271500433,
+            0.25954199913556486
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "mornang."
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.66381857924286769,
+            0.61857063634759768,
+            0.047925263932607653,
+            0.24409176393158882
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Dear zella."
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.63882547473183515,
+            0.10453090467163428,
+            0.036219928049168737,
+            0.38656670118337533
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "on would like to"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.59166663812438824,
+            0.076502731370787336,
+            0.07083339562960933,
+            0.85792351330578387
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Amow of the mecti. While there has bee"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.5512368152639624,
+            0.085488974762546355,
+            0.049656583801679699,
+            0.85369148291830221
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "no furiter additionss feslerday was aẠạibig"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.52344676028864046,
+            0.29529458630025551,
+            0.048995253753092327,
+            0.64217747322359553
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "eay. Uccarding to announeem"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.54215115706549155,
+            0.085877862045911746,
+            0.021802339560955231,
+            0.1736641267097031
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "→ he"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.49007907251411886,
+            0.16398246233002534,
+            0.03950260039850173,
+            0.78268249930998535
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "was dinner on she ground. And suck"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.45511027949534705,
+            0.035778101151992758,
+            0.050896283492301297,
+            0.90736061223472775
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "anacher dinner. Obout the finest even spread"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.41652135965434134,
+            0.11430845983574212,
+            0.04646819202289193,
+            0.56932054394243747
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Among visitons frasent vera"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.38289102848194972,
+            0.070407475633792238,
+            0.051555374293651368,
+            0.87019583240692477
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Thite Virman and totp wåje, (who vened"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.34557093244232523,
+            0.1142298829422681,
+            0.054277917179623325,
+            0.82609149307685226
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Cer love to you) and Nellis Russdld, They"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.30261368050806231,
+            0.55730967521812891,
+            0.063322951848868381,
+            0.39118297153880943
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "left ofter preaching"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.30557726298252103,
+            0.1282636250388739,
+            0.057184642424238041,
+            0.43418316752215713
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Last night for Ennis,"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.23660830202125263,
+            0.091240141061935565,
+            0.085479559695391255,
+            0.85438503156817347
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "To tnanlin, vlere patiles o nes ae posh of"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.21765387533570996,
+            0.80305856098317663,
+            0.019448701261672807,
+            0.13621901342749487
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "rurim"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.20440276061279361,
+            0.14573236009999835,
+            0.052796800426799406,
+            0.54817674391637028
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "\"Maltinns\" Miedieine wagon."
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.18374408010274434,
+            0.79786683091142518,
+            0.030767653040070425,
+            0.11228160465079495
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "Sron"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.17422923109286179,
+            0.078116958189063834,
+            0.041317869247653044,
+            0.70450467005796125
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Dak Cliff were Hharelhree corloado"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.10311873264556781,
+            0.064649408079829662,
+            0.073091081045206313,
+            0.86866486224622796
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "S n deri de ence enet p ite tho cge op"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.061878590523274747,
+            0.72169701259004926,
+            0.045260360296134013,
+            0.21991567265414169
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "„.C. Gstes,'"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.06572731642062643,
+            0.060790023752114952,
+            0.042027140838873753,
+            0.66874633429679842
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Ite preacher, B'ro, Stèvens, molher"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.028792689182917029,
+            0.26682374563542899,
+            0.042680237522937189,
+            0.67085321518109042
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Wife and Vistor, Bro, Mellon and)"
+            }
+          ]
+        },
+        {
+          "box" : [
+            -2.2207970183588727e-08,
+            0.25763358882553289,
+            0.036337262040381117,
+            0.68129771403873285
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "and Bro, Holoemback, and wife."
+            }
+          ]
+        }
+      ],
+      "orientation_score" : 465.60000085830688,
+      "revision" : 3,
+      "usesLanguageCorrection" : false
+    },
+    {
+      "clockwise_rotation" : 180,
+      "file" : "04-027-original.png",
+      "lines" : [
+        {
+          "box" : [
+            0.2680275228061742,
+            0.24317127138579497,
+            0.50682671334488472,
+            0.066984437311470191
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Monday mornanng"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.61684408237190913,
+            0.28762905447246045,
+            0.24364731239266435,
+            0.045604979306392734
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Dearzzella,"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.073789937324949068,
+            0.32840489013789742,
+            0.66148728360371689,
+            0.080535703492396027
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "of counse youhile there has bees"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.50203838641500775,
+            0.34162567912084219,
+            0.21458146055032512,
+            0.072394891671942019
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "meating."
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.11764871496197508,
+            0.32406406692072642,
+            0.38528032087601211,
+            0.036916930787682545
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "on would like to"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.083578709699458548,
+            0.39342360550144939,
+            0.85753687745338569,
+            0.057394333968329936
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "no furcher additions, \"yesterday was a. \"fig"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.50544141021832567,
+            0.43587951090203092,
+            0.42409284028267602,
+            0.038291244563814275
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "loy. Accarding to a"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.077939375403211067,
+            0.43478179571466602,
+            0.39572931201698974,
+            0.029644724679936951
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "nouneement Cher"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.16962512221961587,
+            0.46736965982752954,
+            0.76767108531648676,
+            0.038541892110811715
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "was dinner on ihe ground, And suck"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.036259553108957558,
+            0.5029069175882922,
+            0.90458012843857338,
+            0.034883839590857502
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "anaiher dinner. Obout the finest even spread"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.10469628921569209,
+            0.53411226665220624,
+            0.84592091089609911,
+            0.071429670702796821
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "žt Selvona. Dmenp visitov frecent ven"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.056509838478282517,
+            0.56891269403480205,
+            0.4085168660681428,
+            0.049850332817094722
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Ep wägle, (who vaendo"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.11556185221013739,
+            0.5984774388745514,
+            0.82982386176321765,
+            0.060223164177368171
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "he lovs to you,) and sellis Russall, They"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.12166799606605129,
+            0.63472722295045259,
+            0.81586573846908739,
+            0.06127219168083986
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "left ofter preaching last night for Ennis,"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.15954811997713406,
+            0.66158358402824313,
+            0.77204225669314286,
+            0.10665304399053044
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Whiti and famil white ohas a jok o"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.099236647334062261,
+            0.69040694645863221,
+            0.45610685788380156,
+            0.023255874542623789
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "oing là moue miht aur"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.15053699839588996,
+            0.74271325292131019,
+            0.78101927632789503,
+            0.053247760889510665
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "ruming a \"Mattirns\" Miedicin wagore."
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.78749575585491938,
+            0.78734661756762303,
+            0.11967375421196491,
+            0.02731165982076178
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "From"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.078107287603562559,
+            0.78166881629498319,
+            0.69679189874800651,
+            0.041534316993810272
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Dak Cliff Were Hhare three corloado"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.12022902448151068,
+            0.82267436456885557,
+            0.80725187501916706,
+            0.040697782942392235
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "f feokle, fet itarelay among the number"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.25190840253747732,
+            0.95930227987361949,
+            0.69083968322574218,
+            0.040697765848901835
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "and Tro, Holoemback, and wife."
+            }
+          ]
+        }
+      ],
+      "orientation_score" : 434.00000041723251,
+      "revision" : 3,
+      "usesLanguageCorrection" : false
+    },
+    {
+      "clockwise_rotation" : 270,
+      "file" : "04-027-original.png",
+      "lines" : [
+        {
+          "box" : [
+            0.24488236930602214,
+            0.22558841876950175,
+            0.064947611187001153,
+            0.50241849560498952
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Monday mornanig."
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.28679765096392384,
+            0.13749855966077085,
+            0.047853733373275864,
+            0.24212902544525117
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Dear jella."
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.36167526538222416,
+            0.064639754645236969,
+            0.034909790358141013,
+            0.23142041027604421
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Amow of the"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.32703485564048945,
+            0.26908396336718321,
+            0.063953539255041048,
+            0.6717557448517234
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Of course you wanld dike been"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.35056567991862875,
+            0.28140018769037611,
+            0.058139536076290022,
+            0.21252456380527784
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "meating."
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.39658988323825939,
+            0.055164531305778586,
+            0.054527026312488347,
+            0.86495016320764839
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "no furcher additions, yesterday was aỊẠig"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.42915737081338134,
+            0.054303698070189421,
+            0.063971168341433682,
+            0.86246395391851693
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Lay. Pecarding to anmoncemenit ther"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.47238369794042984,
+            0.10687023162678522,
+            0.030523301595355934,
+            0.72709923801291088
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "s dinner on the ground, And fuek"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.50290694582374307,
+            0.057251909782644383,
+            0.034883782612556313,
+            0.90839695205164372
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "anoihe dinner. abont the finest evcen ppread"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.53559016995538966,
+            0.049390393534519128,
+            0.071227189762722354,
+            0.8459215098672106
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "terona Amenp bisitev precent ven"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.57122090988620911,
+            0.48473283267329714,
+            0.039244220896030746,
+            0.45610685788380145
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "tokp wage, (who vend"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.60127258414506357,
+            0.052971990419912185,
+            0.054425559353703856,
+            0.83111805864358446
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "her love to you,) and Nillis Rusvail, Thy"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.63037840241144061,
+            0.047268843090483736,
+            0.068775778123030817,
+            0.83106774507022818
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "left ofter preaching bast night for Ennis,"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.71118793272148173,
+            0.056102781982121597,
+            0.045166924428904243,
+            0.34152077926620772
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "to Marlin, where"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.67867903140251429,
+            0.056584116165425913,
+            0.081279894235509853,
+            0.85587491231062929
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "to tnn lin, yael iile anas de poh e"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.74053899134949397,
+            0.28297889476812066,
+            0.048337154374183178,
+            0.41200880775039872
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "\"Mattiins\"medicine"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.75416663978027076,
+            0.0546448207594048,
+            0.066666720606125107,
+            0.87431693334457805
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "Manoin pak chiff Wer Mhaneihe ie cortmande"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.81736552963238174,
+            0.47434610779912134,
+            0.049274527198614915,
+            0.41178024037429461
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "amoug the number"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.80200169919511066,
+            0.22963208416559122,
+            0.12181274778723628,
+            0.72483812206743747
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "Je Ftaclay ant pon, tho wnife of"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.89208367987892778,
+            0.0563029515582113,
+            0.044353802761451067,
+            0.22311383398054163
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "g.C. Estes,'"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.89592068014572834,
+            0.27031458949253717,
+            0.027412180939746289,
+            0.24569574867076327
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "he breacher"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.89141517351677824,
+            0.50857568799236597,
+            0.036147537117488748,
+            0.43077442292727242
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : ", 1ro, elecens imoite"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.92877904799663524,
+            0.057251916324175589,
+            0.039244229442775946,
+            0.64503815925156394
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Wife and Wistor, Bro, Mel lon and"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.96075579204338124,
+            0.059160306119471651,
+            0.037790741468205935,
+            0.6736641267097031
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "and Tro, Holsemback, and wife."
+            }
+          ]
+        }
+      ],
+      "orientation_score" : 414.50000154972076,
+      "revision" : 3,
+      "usesLanguageCorrection" : false
+    },
+    {
+      "clockwise_rotation" : 0,
+      "file" : "04-027-original.png",
+      "lines" : [
+        {
+          "box" : [
+            0.22206801448647537,
+            0.68472404130623477,
+            0.50585985417688906,
+            0.070123918916504269
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Monday morning."
+            },
+            {
+              "confidence" : 1,
+              "text" : "Monday Morning."
+            },
+            {
+              "confidence" : 1,
+              "text" : "Monday morning,"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.13657662893971345,
+            0.6683208078502243,
+            0.24008008004170756,
+            0.039234970468830177
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Dear fella."
+            },
+            {
+              "confidence" : 1,
+              "text" : "Dear zella."
+            },
+            {
+              "confidence" : 1,
+              "text" : "Dear Zella."
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.053580083785457748,
+            0.57944440645605078,
+            0.89196992973350098,
+            0.10184577902009717
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "Aman of mete, mile the like been"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "Aman of mati, mile the like been"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "Aman of met, mile the like been"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.051221166129528817,
+            0.54544273573768032,
+            0.87876183806504549,
+            0.058244906048707135
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "no furiter additions, yesterday was aỊẠig"
+            },
+            {
+              "confidence" : 1,
+              "text" : "no furiter additions, yesterday was aỊig"
+            },
+            {
+              "confidence" : 1,
+              "text" : "no furiter additions, yesterday was aạỊẠig"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.070514489184365731,
+            0.52888754072010058,
+            0.83992455120292564,
+            0.032465509552845218
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "ray. Uccording to announcement Cher"
+            },
+            {
+              "confidence" : 1,
+              "text" : "ay. Uccording to announcement Cher"
+            },
+            {
+              "confidence" : 1,
+              "text" : "af. Uccording to announcement Cher"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.060933717492957055,
+            0.49808160126081025,
+            0.7617312085991168,
+            0.029793261413346261
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "vas dinner on the ground, And sues"
+            },
+            {
+              "confidence" : 1,
+              "text" : "vas dinner on the ground, And ques"
+            },
+            {
+              "confidence" : 1,
+              "text" : "vas dinner on the ground, And sued"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.055120669026015964,
+            0.45829698671953556,
+            0.90887720708875119,
+            0.04142856099340253
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "anoiher dinner. About the finest even spread"
+            },
+            {
+              "confidence" : 1,
+              "text" : "anscher dinner. About the finest even spread"
+            },
+            {
+              "confidence" : 1,
+              "text" : "anoiher dinner. about the finest even spread"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.05343510185417593,
+            0.42296511699203854,
+            0.83778628423239698,
+            0.036337207910994929
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "at Vylarana. Among visitons present was"
+            },
+            {
+              "confidence" : 1,
+              "text" : "at Vylarana. Among visitons present ras"
+            },
+            {
+              "confidence" : 1,
+              "text" : "et Vylarana. Among visitons present was"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.051258776749601574,
+            0.39903998488068204,
+            0.33835851128365746,
+            0.025606681020336364
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "Mhite liman o"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "Nite liman o"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "Mhite liman c"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.48191315325757844,
+            0.38119881009037448,
+            0.4596660340733103,
+            0.049360353613718821
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "totep Wage, who vendeł"
+            },
+            {
+              "confidence" : 1,
+              "text" : "totep wage, who vendeł"
+            },
+            {
+              "confidence" : 1,
+              "text" : "totep Wafe, who vendeł"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.050889689844374267,
+            0.34123410615394612,
+            0.83540088178131133,
+            0.060713878400829646
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "her love to you,) and tillis Russaid, They"
+            },
+            {
+              "confidence" : 1,
+              "text" : "he love to you,) and tillis Russaid, They"
+            },
+            {
+              "confidence" : 1,
+              "text" : "he love to you,) and tellis Russaid, They"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.050934360185888664,
+            0.29812211069854022,
+            0.82745163667658239,
+            0.070097082136637012
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "left ofter preaching last night for Ennis,"
+            },
+            {
+              "confidence" : 1,
+              "text" : "left ofter preaching Last night for Ennis,"
+            },
+            {
+              "confidence" : 1,
+              "text" : "left-ofter preaching last night for Ennis,"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.057000254273279691,
+            0.25611182958413892,
+            0.84581070021160454,
+            0.060069473756614977
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "White and family i te move veget awa"
+            },
+            {
+              "confidence" : 1,
+              "text" : "White and family i te move veget ava"
+            },
+            {
+              "confidence" : 1,
+              "text" : "White and family i te move veget aw"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.054698899590398121,
+            0.24355442055956811,
+            0.34837818988055075,
+            0.040931949515766508
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "to Martin, where"
+            },
+            {
+              "confidence" : 1,
+              "text" : "To Martin, where"
+            },
+            {
+              "confidence" : 1,
+              "text" : "to Marlin, where"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.53955116842283934,
+            0.24118547086867537,
+            0.31978929873420625,
+            0.047367825269520991
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "okas a job of"
+            },
+            {
+              "confidence" : 1,
+              "text" : "o kas a job of"
+            },
+            {
+              "confidence" : 1,
+              "text" : "akas a job of"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.2885477978462711,
+            0.20243372440337304,
+            0.56605159920494974,
+            0.057592715319632726
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "\"Mattins \"Medicine wagon,"
+            },
+            {
+              "confidence" : 1,
+              "text" : "\"Mattins \"Medicine wagon."
+            },
+            {
+              "confidence" : 1,
+              "text" : "\"Maltins \"Medicine wagon,"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.04753182698966596,
+            0.16549755941397071,
+            0.87175195935429961,
+            0.075895533088074396
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Mom Oak Cliff Were there kree contrade"
+            },
+            {
+              "confidence" : 1,
+              "text" : "Mom Oak Cliff were there kree contrade"
+            },
+            {
+              "confidence" : 1,
+              "text" : "Mom Oak Cliff Were there kree contrad"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.07061069654141125,
+            0.13069454860735785,
+            0.82061066781924674,
+            0.043724055785221094
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "I peope, Let Barclay among the number"
+            },
+            {
+              "confidence" : 1,
+              "text" : "I peope, Let Barelay among the number"
+            },
+            {
+              "confidence" : 1,
+              "text" : "I peope, Jet Barclay among the number"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.062858508169610652,
+            0.099655701837624622,
+            0.87430417525990545,
+            0.043410452913223097
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "who hindly remembered you, the wife of"
+            },
+            {
+              "confidence" : 1,
+              "text" : "who hindly remembered yon, the wife of"
+            },
+            {
+              "confidence" : 1,
+              "text" : "who hindly remembered you, the rife of"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.068503358517593718,
+            0.06741957489785344,
+            0.86299607985387028,
+            0.042781332698306418
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "9. C. Estesite preacher, Bro, Stevens, mothe"
+            },
+            {
+              "confidence" : 1,
+              "text" : "9. C. Estesite preacher, Bro, Stevens, motte"
+            },
+            {
+              "confidence" : 1,
+              "text" : "9. C. Estesite preacher, Bro, Stevens, mote"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.058936105585936295,
+            0.031465827943227498,
+            0.75227980384414861,
+            0.036952716009753916
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Wife and sister, Bro, Mellon and you"
+            },
+            {
+              "confidence" : 1,
+              "text" : "wife and sister, Bro, Mellon and you"
+            },
+            {
+              "confidence" : 1,
+              "text" : "Wife and sister, Bro, Melton and you"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.057251921217353653,
+            0.0014534891020387963,
+            0.68511447775469203,
+            0.036337207910994929
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "and Tro, Holsemback, and wife."
+            },
+            {
+              "confidence" : 1,
+              "text" : "and Bro, Holsemback, and wife."
+            },
+            {
+              "confidence" : 1,
+              "text" : "and Tro, Holsemback, and wife,"
+            }
+          ]
+        }
+      ],
+      "orientation_score" : 535,
+      "revision" : 3,
+      "usesLanguageCorrection" : true
+    },
+    {
+      "clockwise_rotation" : 0,
+      "file" : "04-027-contrast.png",
+      "lines" : [
+        {
+          "box" : [
+            0.22214107398077393,
+            0.68510669392852575,
+            0.50029020150346537,
+            0.069604954851305689
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Monday morminng."
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.13551397667394391,
+            0.66410064069951846,
+            0.24211661176896773,
+            0.047651357843058517
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Dear zella."
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.49329130783211828,
+            0.63755183678815963,
+            0.39862437898675174,
+            0.037133201901106139
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "won would like to"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.061506736934119281,
+            0.57446055283863307,
+            0.88147619545050293,
+            0.099271767169704539
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "fomou sof ng tre thiy, rfile there has basemy"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.051296198577639208,
+            0.54650160848261531,
+            0.87473806993299186,
+            0.055746561382313597
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "no furtter additions, yssterday was aỊẠạig"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.066793880926767149,
+            0.52613891016923109,
+            0.84541987156142662,
+            0.034907600966917141
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "tof. Uccarding to aunouneament then"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.094990377938750176,
+            0.4946138303416675,
+            0.72972153353854874,
+            0.037539783389466841
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "is dinner on ihe grownd, And sued"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.060826039145646313,
+            0.46176642004418367,
+            0.89928480453416337,
+            0.036880319380243831
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "enocher dinner. @bont the finest even spread"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.056780367459774703,
+            0.42300714112127458,
+            0.36539465966940632,
+            0.039456540564265619
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "25 Vaplarana. Amas"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.41271502553182698,
+            0.41801788220443359,
+            0.48104909310981964,
+            0.053030545360744696
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "eg visitons frevent vras"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.05392838222647766,
+            0.38112367535306546,
+            0.87573002599055438,
+            0.053710413299629001
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "White Virman and tokp wage, (who vend"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.052818414204300411,
+            0.34131602006757278,
+            0.8314411436610647,
+            0.057630423559369759
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "her love to you,) and sillis Russdlil, They"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.052765926225714105,
+            0.2978782253686576,
+            0.8220047730809924,
+            0.070826404392051567
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "left after preaching last night for Ennis,"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.062816932838237929,
+            0.26072721090580664,
+            0.83611132141652356,
+            0.051904879193238385
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "nhite and family fhig to move nijht ura"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.054692815153000909,
+            0.24353482319804176,
+            0.34648014027424251,
+            0.040988889356617375
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "to Marlin, where"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.54131869268342236,
+            0.24931288544382413,
+            0.3086952756033795,
+            0.034736846969410706
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "ohas a fob of"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.29041826948608479,
+            0.20432240236245425,
+            0.5639107566586421,
+            0.053028639436569325
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "\"Maltines\"Miedieine wagor,"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.051434633737741584,
+            0.15110546125073798,
+            0.81701785940183391,
+            0.10208900229444784
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "moneil cak Clift were therethrea corlvo"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.066949583855062805,
+            0.067117719766841555,
+            0.20575325528819613,
+            0.044061280436440975
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "9.C. Estes,"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.055343503810392679,
+            0.030523255488371981,
+            0.7480916181420203,
+            0.039304974009689797
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Wife and Sistor, Bro, Mel ton and yam"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.057251898815545751,
+            0.0014534878764176362,
+            0.68702291950978289,
+            0.037790698734479933
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "and Bro, Holsemback, and wife."
+            }
+          ]
+        }
+      ],
+      "orientation_score" : 474.80000042915344,
+      "revision" : 3,
+      "usesLanguageCorrection" : false
+    },
+    {
+      "clockwise_rotation" : 0,
+      "file" : "04-027-contrast.png",
+      "lines" : [
+        {
+          "box" : [
+            0.22214107398077393,
+            0.68510669392852575,
+            0.50029020150346537,
+            0.069604954851305689
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Monday morning."
+            },
+            {
+              "confidence" : 1,
+              "text" : "Monday Morning."
+            },
+            {
+              "confidence" : 1,
+              "text" : "Monday morning,"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.13551397667394391,
+            0.66410064069951846,
+            0.24211661176896773,
+            0.047651357843058517
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Dear zella."
+            },
+            {
+              "confidence" : 1,
+              "text" : "Dear Zella."
+            },
+            {
+              "confidence" : 1,
+              "text" : "Dear jella."
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.49329130783211828,
+            0.63755183678815963,
+            0.39862437898675174,
+            0.037133201901106139
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "won would like to"
+            },
+            {
+              "confidence" : 1,
+              "text" : "wou would like to"
+            },
+            {
+              "confidence" : 1,
+              "text" : "won would like t"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.061506736934119281,
+            0.57446055283863307,
+            0.88147619545050293,
+            0.099271767169704539
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "famous of in the die, obile there has basemy"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "famous of in the die, ofile there has basemy"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "famous of in the die, obile there has basem"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.051296198577639208,
+            0.54650160848261531,
+            0.87473806993299186,
+            0.055746561382313597
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "no furiter additions, yesterday was aỊẠig"
+            },
+            {
+              "confidence" : 1,
+              "text" : "no furtter additions, yesterday was aỊẠig"
+            },
+            {
+              "confidence" : 1,
+              "text" : "no furiter additions, yesterday was aỊạig"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.066793880926767149,
+            0.52613891016923109,
+            0.84541987156142662,
+            0.034907600966917141
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "tof Uccording to aunoumeanent then"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "tof Occarding to aunoumeanent then"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "tof Uccording to aunoumeanent ther"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.094990377938750176,
+            0.4946138303416675,
+            0.72972153353854874,
+            0.037539783389466841
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "is dinner on the ground, And sued"
+            },
+            {
+              "confidence" : 1,
+              "text" : "is dinner on the ground, And sues"
+            },
+            {
+              "confidence" : 1,
+              "text" : "as dinner on the ground, And sued"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.060826039145646313,
+            0.46176642004418367,
+            0.89928480453416337,
+            0.036880319380243831
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "another dinner. About the finest even spread"
+            },
+            {
+              "confidence" : 1,
+              "text" : "another dinner. @bout the finest even spread"
+            },
+            {
+              "confidence" : 1,
+              "text" : "another dinner. about the finest even spread"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.056780367459774703,
+            0.42300714112127458,
+            0.36539465966940632,
+            0.039456540564265619
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "25 Vaplarana. Aman"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "25 Vaplarana. Amas"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "25 Velarana. Aman"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.41271502553182698,
+            0.41801788220443359,
+            0.48104909310981964,
+            0.053030545360744696
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "eg visitons fresent vas"
+            },
+            {
+              "confidence" : 1,
+              "text" : "eg visitons fresent was"
+            },
+            {
+              "confidence" : 1,
+              "text" : "eg visitons fresent ras"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.05392838222647766,
+            0.38112367535306546,
+            0.87573002599055438,
+            0.053710413299629001
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "White Virman and totp wage, who vend"
+            },
+            {
+              "confidence" : 1,
+              "text" : "White Virman and tokp wage, who vend"
+            },
+            {
+              "confidence" : 1,
+              "text" : "White Virman and totp wage, (who vend"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.052818414204300411,
+            0.34131602006757278,
+            0.8314411436610647,
+            0.057630423559369759
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "her love to you,) and sillis Russaid, They"
+            },
+            {
+              "confidence" : 1,
+              "text" : "her Love to you,) and sillis Russaid, They"
+            },
+            {
+              "confidence" : 1,
+              "text" : "her love to you,) and sillis Russail, They"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.052765926225714105,
+            0.2978782253686576,
+            0.8220047730809924,
+            0.070826404392051567
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "left after preaching last night for Ennis,"
+            },
+            {
+              "confidence" : 1,
+              "text" : "left ofter preaching last night for Ennis,"
+            },
+            {
+              "confidence" : 1,
+              "text" : "laft after preaching last night for Ennis,"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.062816932838237929,
+            0.26072721090580664,
+            0.83611132141652356,
+            0.051904879193238385
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "white and family phil to move night ura"
+            },
+            {
+              "confidence" : 1,
+              "text" : "white and family hig to move night ura"
+            },
+            {
+              "confidence" : 1,
+              "text" : "white and family phil to move night wa"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.054692815153000909,
+            0.24353482319804176,
+            0.34648014027424251,
+            0.040988889356617375
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "to Martin, where"
+            },
+            {
+              "confidence" : 1,
+              "text" : "to Marlin, where"
+            },
+            {
+              "confidence" : 1,
+              "text" : "To Martin, where"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.54131869268342236,
+            0.24931288544382413,
+            0.3086952756033795,
+            0.034736846969410706
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "o has a job of"
+            },
+            {
+              "confidence" : 1,
+              "text" : "o has a fob of"
+            },
+            {
+              "confidence" : 1,
+              "text" : "a has a job of"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.29041826948608479,
+            0.20432240236245425,
+            0.5639107566586421,
+            0.053028639436569325
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "\"Malties\" Midicine wagon,"
+            },
+            {
+              "confidence" : 1,
+              "text" : "\"Malties\" Midicine wagon."
+            },
+            {
+              "confidence" : 1,
+              "text" : "\"Malties \" Midicine wagon,"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.051434633737741584,
+            0.15110546125073798,
+            0.81701785940183391,
+            0.10208900229444784
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "mei cat Cliff were there three cordio"
+            },
+            {
+              "confidence" : 1,
+              "text" : "mei cat cliff were there three cordio"
+            },
+            {
+              "confidence" : 1,
+              "text" : "mei cat Cliff were there three corleo"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.066949583855062805,
+            0.067117719766841555,
+            0.20575325528819613,
+            0.044061280436440975
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "9. C. Estes,"
+            },
+            {
+              "confidence" : 1,
+              "text" : "9. C. Estes,'"
+            },
+            {
+              "confidence" : 1,
+              "text" : "9.C. Estes,"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.055343503810392679,
+            0.030523255488371981,
+            0.7480916181420203,
+            0.039304974009689797
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Wife and Sistan, Bro, Melton and fam"
+            },
+            {
+              "confidence" : 1,
+              "text" : "Wife and Sistan, Bro, Melton and yan"
+            },
+            {
+              "confidence" : 1,
+              "text" : "Wife and Sistan, Bro, Melton and yam"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.057251898815545751,
+            0.0014534878764176362,
+            0.68702291950978289,
+            0.037790698734479933
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "and Bro, Holsemback, and wife."
+            },
+            {
+              "confidence" : 1,
+              "text" : "and Bro, Holsemback, and wife,"
+            },
+            {
+              "confidence" : 1,
+              "text" : "and Bro, Holoemback, and wife."
+            }
+          ]
+        }
+      ],
+      "orientation_score" : 452,
+      "revision" : 3,
+      "usesLanguageCorrection" : true
+    }
+  ]
+}

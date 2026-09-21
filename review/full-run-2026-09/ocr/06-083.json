@@ -1,0 +1,1097 @@
+{
+  "best_clockwise_rotation" : 0,
+  "engine" : "Apple Vision",
+  "os" : "Version 27.0 (Build 26A428)",
+  "page_id" : "06-083",
+  "records" : [
+    {
+      "clockwise_rotation" : 0,
+      "file" : "06-083-original.png",
+      "lines" : [
+        {
+          "box" : [
+            0.35619468898429985,
+            0.43313952752115081,
+            0.11061947136297623,
+            0.020348850867523471
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "BgThe feise sanitg"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.48270934259495696,
+            0.44826366960787967,
+            0.052997961442028452,
+            0.019091769341678666
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Siengo"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.36061946900342956,
+            0.44476743693153187,
+            0.088495574382521369,
+            0.015988382110773358
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "уІтКв, и"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.35619468754279043,
+            0.46220929465965666,
+            0.13495575736451165,
+            0.013081410711108576
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "Sthin bes bita faw"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.3584070810516915,
+            0.4752906878359634,
+            0.17477875974396206,
+            0.017441880578073277
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "sina Si srato but 2 hooo"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.36027461760856216,
+            0.48624527496776382,
+            0.1710664060333712,
+            0.017976922955585173
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "wnait eveunt feroda to get"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.35820556555624739,
+            0.50275047142959273,
+            0.17531109787027921,
+            0.016009378488738291
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "Aas z jre sevaro do Sruet"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.36703047289707047,
+            0.51228384143738914,
+            0.16651875886011669,
+            0.017525994874823203
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Spisi a Shest Thread."
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.38661055639141656,
+            0.56356305852187227,
+            0.14475414746613663,
+            0.01935898688674953
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "ing genne, hesthes"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.45353982192117526,
+            0.57703487896386807,
+            0.077433629277118499,
+            0.011627916129559712
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "let let the"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.35339734125778727,
+            0.57346234991289058,
+            0.094394193038331131,
+            0.021057332075516411
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "Мiгn get bei"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.35840708020324014,
+            0.58720929230398666,
+            0.17477875974396212,
+            0.017441880578073277
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "x Pslonej bring neseto a"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.35338450852224973,
+            0.59790914873847933,
+            0.18068981424516145,
+            0.020656143827960216
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "I bit s had a Pittt. difi-"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.36436696362331378,
+            0.61086778827040278,
+            0.16346080004904473,
+            0.022037218557941607
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "1g malfapping hin."
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.37831858155378473,
+            0.62790696917557565,
+            0.13716814638559227,
+            0.010174433760371082
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "1.00 sards sun, Ih"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.35614802987106126,
+            0.63645388022195692,
+            0.18814642025288369,
+            0.022150379398510278
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "it of many patrcipad"
+            }
+          ]
+        }
+      ],
+      "orientation_score" : 141.70000147819519,
+      "revision" : 3,
+      "usesLanguageCorrection" : false
+    },
+    {
+      "clockwise_rotation" : 90,
+      "file" : "06-083-original.png",
+      "lines" : [
+        {
+          "box" : [
+            0.44892988707188791,
+            0.4613011379277967,
+            0.036356052225488211,
+            0.18220432014093002
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "Siango 3p him lae bista few"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.47674418155717246,
+            0.46902655047379904,
+            0.014534892525189969,
+            0.16814159268072049
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "senu l merete but 2 hvon"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.48624685380825089,
+            0.46876302758148625,
+            0.01790776768996355,
+            0.1687511454246271
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "wnait eveunte yerola to get"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.49974119265498945,
+            0.46391108645962942,
+            0.020384434354735415,
+            0.18034263956091945
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "Iesz jurr suse do S nut"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.51308138974851769,
+            0.46460177123433932,
+            0.015988382110773358,
+            0.16592920365963981
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Spris a Shart Thread."
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.59011627695500535,
+            0.57522124156725041,
+            0.01162791113359396,
+            0.064159288380985835
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "e nesito a"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.58587278866990955,
+            0.46291520226474359,
+            0.034278806346675683,
+            0.18471529130504094
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "Polrs hins or te gi"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.63648661668732032,
+            0.46421530417582813,
+            0.019983866717124266,
+            0.17759341736652201
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "I of mang prtreipatd"
+            }
+          ]
+        }
+      ],
+      "orientation_score" : 62.000001132488251,
+      "revision" : 3,
+      "usesLanguageCorrection" : false
+    },
+    {
+      "clockwise_rotation" : 180,
+      "file" : "06-083-original.png",
+      "lines" : [
+        {
+          "box" : [
+            0.50399837279884308,
+            0.52129228536120364,
+            0.13807640312621305,
+            0.016793634061624596
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "Sthen hes biFa few"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.4907820518779738,
+            0.50801212176960742,
+            0.15110608213436533,
+            0.016662027561067827
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "n I mrete вut з вu:onо"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.49037734435920038,
+            0.49355326227978069,
+            0.14927512222195266,
+            0.01826576414985337
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "„F'eveunt groada Ta gat"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.4930337096388237,
+            0.48191900319878067,
+            0.14896714380597692,
+            0.014415417894356741
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "37 jarre sunre do Srueto"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.49091511192105741,
+            0.47002906700179226,
+            0.13740615370851128,
+            0.015258577011517005
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "is a Shert Thread."
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.50579148599305035,
+            0.41023806379789929,
+            0.12302867818322982,
+            0.01736350664576225
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "et Ine ollnn gett b"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.4999999968134673,
+            0.39668218831682889,
+            0.13053097932235058,
+            0.011748044121667855
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "lonej bimg nesate."
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.49716899908867546,
+            0.38318788404109583,
+            0.13851391200799273,
+            0.015894696654207618
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "iT e had a Sittr, edefa"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.49080728617467445,
+            0.36762191244289888,
+            0.14673156196709319,
+            0.016975134160104988
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "malfapping kim."
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.49294380342476096,
+            0.35638677184100287,
+            0.13158452627187089,
+            0.016032808457042691
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "oo jards sum, Ih"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.49531505584307256,
+            0.34422668413954127,
+            0.14245273755944288,
+            0.016499927907106526
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "(mang ontrcipate"
+            }
+          ]
+        }
+      ],
+      "orientation_score" : 104.10000079870224,
+      "revision" : 3,
+      "usesLanguageCorrection" : false
+    },
+    {
+      "clockwise_rotation" : 270,
+      "file" : "06-083-original.png",
+      "lines" : [
+        {
+          "box" : [
+            0.54505813655837521,
+            0.36061947176866471,
+            0.018895354620652727,
+            0.10619468655116604
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "athi hase dantly"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.53624907931617938,
+            0.35832060635329765,
+            0.023044039956071738,
+            0.098729395083653415
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "117 771843"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.51361806513338071,
+            0.35659158176872807,
+            0.032871203039522401,
+            0.15369906082762586
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "a° sr hin bae bit a far"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.50958086500668998,
+            0.36036684494809756,
+            0.01505940340728229,
+            0.13780129812624786
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "•Я пчеtо виt з ваronо"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.49351846681998424,
+            0.3619433825998184,
+            0.021582764435702617,
+            0.14616945092405165
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "Bieieunt prada to get"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.4822041435887226,
+            0.36030705306575128,
+            0.013820248516113798,
+            0.14655319525271038
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "7 jpre sunre do Sruet"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.46909128215406887,
+            0.36924207585988911,
+            0.015718497830303213,
+            0.13781546023215674
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "nd Shert Hkread."
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.45325035148044235,
+            0.35542381578158222,
+            0.018790776848931823,
+            0.14715318925209353
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "qent invisters to dn"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.44331394901356785,
+            0.36061946856592764,
+            0.014534892525189969,
+            0.14601770246991463
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "jadinget fell Ltedresedzg"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.43144956006814883,
+            0.36006649661737311,
+            0.017573066307307705,
+            0.11590503059664758
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "à sun en Blany"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.39389534492401401,
+            0.36283185798797235,
+            0.015988380445451478,
+            0.14380531344883396
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "slonez hing neæetło a"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.37966021078898626,
+            0.35761075341142456,
+            0.021400782504098381,
+            0.15021873007015307
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "Sit s hae a lattt. clefi-"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.36983316995627408,
+            0.38252644347071285,
+            0.014234358551060922,
+            0.11765633881779614
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "mlfupping in"
+            }
+          ]
+        }
+      ],
+      "orientation_score" : 108.60000115633011,
+      "revision" : 3,
+      "usesLanguageCorrection" : false
+    },
+    {
+      "clockwise_rotation" : 0,
+      "file" : "06-083-original.png",
+      "lines" : [
+        {
+          "box" : [
+            0.35619468898429985,
+            0.43313952752115081,
+            0.11061947136297623,
+            0.020348850867523471
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "Bg The fese sanitg"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "Bg The fese santig"
+            },
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "Bg The fese sandyg"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.48270934259495696,
+            0.44826366960787967,
+            0.052997961442028452,
+            0.019091769341678666
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "Siengo"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "fiengo"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "Siengs"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.36061946900342956,
+            0.44476743693153187,
+            0.088495574382521369,
+            0.015988382110773358
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "уКв, и"
+            },
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "уКА, и"
+            },
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "уКВ, и"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.35619468754279043,
+            0.46220929465965666,
+            0.13495575736451165,
+            0.013081410711108576
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "St hin bes bi ta fawi"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "St hin bes biJa fawi"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "St hin bes bi ta faw"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.3584070810516915,
+            0.4752906878359634,
+            0.17477875974396206,
+            0.017441880578073277
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "sina S prato but 2 hono"
+            },
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "sina S prato but 2 hroo"
+            },
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "sina S prato bat 2 hroo"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.36027461760856216,
+            0.48624527496776382,
+            0.1710664060333712,
+            0.017976922955585173
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "wnait eveunt feroda to get"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "wnit eveunt feroda to get"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "wait eveunt feroda to get"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.35820556555624739,
+            0.50275047142959273,
+            0.17531109787027921,
+            0.016009378488738291
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "Aas z jre sevo do Sruet"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "Has z jre sevo do Sruet"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "Aas z jre sevo do Sret"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.36703047289707047,
+            0.51228384143738914,
+            0.16651875886011669,
+            0.017525994874823203
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Spisi a Shert Thread."
+            },
+            {
+              "confidence" : 1,
+              "text" : "Spisi a Shest Thread."
+            },
+            {
+              "confidence" : 1,
+              "text" : "Spisi a SherT Thread."
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.38661055639141656,
+            0.56356305852187227,
+            0.14475414746613663,
+            0.01935898688674953
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "ing gense, hesthes"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "ing gense. hesthes"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "ing genne, hesthes"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.45353982192117526,
+            0.57703487896386807,
+            0.077433629277118499,
+            0.011627916129559712
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "let let the"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "Pet let the"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "let let The"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.35339734125778727,
+            0.57346234991289058,
+            0.094394193038331131,
+            0.021057332075516411
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "linn get bei"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "Мги get bei"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "linn get bai"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.35840708020324014,
+            0.58720929230398666,
+            0.17477875974396212,
+            0.017441880578073277
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "x Bslonej bring neseto a"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "x Bslonej bing neseto a"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "x Bslonez bing neseto a"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.35338450852224973,
+            0.59790914873847933,
+            0.18068981424516145,
+            0.020656143827960216
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "I bit s had a Pittt. difi-"
+            },
+            {
+              "confidence" : 1,
+              "text" : "I bit s had a Pittt. dif i-"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "I bit s had a littt. difi-"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.36436696362331378,
+            0.61086778827040278,
+            0.16346080004904473,
+            0.022037218557941607
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "1g malfapping him."
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "1g malfapping himn."
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "1g malfapping hin."
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.37831858155378473,
+            0.62790696917557565,
+            0.13716814638559227,
+            0.010174433760371082
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "1.00 sards sun, Ih"
+            },
+            {
+              "confidence" : 1,
+              "text" : "1.00 sards sum, Ih"
+            },
+            {
+              "confidence" : 1,
+              "text" : "1.00 sards sun, Ih"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.35614802987106126,
+            0.63645388022195692,
+            0.18814642025288369,
+            0.022150379398510278
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "ist of many patrcipad"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "ist of mang patrcipad"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "ist of many patrciçad"
+            }
+          ]
+        }
+      ],
+      "orientation_score" : 132.80000025033951,
+      "revision" : 3,
+      "usesLanguageCorrection" : true
+    },
+    {
+      "clockwise_rotation" : 0,
+      "file" : "06-083-contrast.png",
+      "lines" : [
+
+      ],
+      "orientation_score" : 0,
+      "revision" : 3,
+      "usesLanguageCorrection" : false
+    },
+    {
+      "clockwise_rotation" : 0,
+      "file" : "06-083-contrast.png",
+      "lines" : [
+
+      ],
+      "orientation_score" : 0,
+      "revision" : 3,
+      "usesLanguageCorrection" : true
+    }
+  ]
+}

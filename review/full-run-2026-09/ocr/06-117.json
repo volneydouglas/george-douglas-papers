@@ -1,0 +1,783 @@
+{
+  "best_clockwise_rotation" : 180,
+  "engine" : "Apple Vision",
+  "os" : "Version 27.0 (Build 26A428)",
+  "page_id" : "06-117",
+  "records" : [
+    {
+      "clockwise_rotation" : 0,
+      "file" : "06-117-original.png",
+      "lines" : [
+        {
+          "box" : [
+            0.32931149957705141,
+            0.46629444903239081,
+            0.032719546231356533,
+            0.20397852280560658
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "n½ rave na 1tte neus pram ta."
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.35730336237607263,
+            0.46802325988777316,
+            0.017977544611150587,
+            0.1191860423368567
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "ail Reids i ivesd"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.35056179063569104,
+            0.58575581325539972,
+            0.024719114303588863,
+            0.091569770364200442
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Iruris Veale Lo."
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.37303368973667644,
+            0.47093023789933075,
+            0.042696661515669365,
+            0.21511627197265626
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "ait ting it will soon be s mar, ts"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.39048458937773312,
+            0.51113687715610234,
+            0.035197344693270627,
+            0.17226508645450367
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "the tatté. Ati is sumazen"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.41348313091502492,
+            0.47529069685254688,
+            0.026966321251609138,
+            0.2063953534294577
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "ese tat me have ihift Stul"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.43448858308558203,
+            0.479580385898423,
+            0.026296858354048325,
+            0.20512670180376835
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "in dris and calitised tive haret ei"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.45617976158173129,
+            0.48982558124110265,
+            0.04044946497136892,
+            0.19331395766314341
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "-y dung sean tedu vs sent"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.49213482131627662,
+            0.54069767950623693,
+            0.01797754807905716,
+            0.14244185503791362
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Brc- nanedl thersat Siirs"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.49549786244280913,
+            0.51335560884165821,
+            0.063587764393199575,
+            0.17521338967715994
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "te nen tọc sau vl ten tn tn y"
+            }
+          ]
+        }
+      ],
+      "orientation_score" : 152.70000064373016,
+      "revision" : 3,
+      "usesLanguageCorrection" : false
+    },
+    {
+      "clockwise_rotation" : 90,
+      "file" : "06-117-original.png",
+      "lines" : [
+        {
+          "box" : [
+            0.46774793614908505,
+            0.63796897411912945,
+            0.20543063893037683,
+            0.032788581848144482
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "n rave na 1zte neus pram ta."
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.46656976894861896,
+            0.62681818189793737,
+            0.12063953175264247,
+            0.015909090909090984
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "ant fear a wesd"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.58430232748347888,
+            0.62454545447357768,
+            0.094476740220013844,
+            0.022727272727272818
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "Sruris Veale Lo."
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.47238372041612242,
+            0.60224719126588122,
+            0.21366279153262868,
+            0.020224718614058057
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "alttring iti vrill ssan de ie muntii"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.47502024765669748,
+            0.57238337934944084,
+            0.20551163617302393,
+            0.03637010747736158
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "sivé the tatte. Ati is sumuzen"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.4840116286856247,
+            0.55727272742024037,
+            0.19767441693474269,
+            0.024749744588678513
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "l e Faline hære inkift Stul"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.48110464990228446,
+            0.53932584279536699,
+            0.20348837459788599,
+            0.02249233939430928
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "in dris and calitsed hve Tmaet tå"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.6482558140620992,
+            0.3662921356447294,
+            0.036337208467371318,
+            0.029213482249866862
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "їззи"
+            }
+          ]
+        }
+      ],
+      "orientation_score" : 129.20000004768372,
+      "revision" : 3,
+      "usesLanguageCorrection" : false
+    },
+    {
+      "clockwise_rotation" : 180,
+      "file" : "06-117-original.png",
+      "lines" : [
+        {
+          "box" : [
+            0.63616661699960042,
+            0.32678629079541754,
+            0.036766905351118595,
+            0.20692350499770229
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "m rave na este neus prane ta."
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.62696628372438723,
+            0.40552326188754428,
+            0.017977547212080558,
+            0.12645348044002758
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "ait heis a wesd"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.62471909590335784,
+            0.32122093198277979,
+            0.022471920360218389,
+            0.084302323285271208
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "sruris Veale Lo"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.58987622939525575,
+            0.31089781422780571,
+            0.037711056795987186,
+            0.21688869700712321
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "aitting it will soan te s muvt"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.5732266965272832,
+            0.31516568879969564,
+            0.033504766984419398,
+            0.20974183924057899
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "sișé the táttů. Ati is sumuzen"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.55503395454603355,
+            0.31530878323573364,
+            0.029647244540127904,
+            0.19935652788947611
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "e e tal we hare inhift Stel"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.53932582856879163,
+            0.31395348881539809,
+            0.024719130776145293,
+            0.20348837459788593
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "in dris and catitired tuve tavet ei"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.52135044038459222,
+            0.316773658537295,
+            0.022088521610606704,
+            0.18481513528262872
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "uvegguns. Ecnes snen were resest"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.41348314428815802,
+            0.38517441952156439,
+            0.01123595844615588,
+            0.023255812701057033
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "кани"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.36853932374310977,
+            0.31686046573406446,
+            0.026966296109286192,
+            0.033430231879739147
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "ňззи"
+            }
+          ]
+        }
+      ],
+      "orientation_score" : 166.00000023841858,
+      "revision" : 3,
+      "usesLanguageCorrection" : false
+    },
+    {
+      "clockwise_rotation" : 270,
+      "file" : "06-117-original.png",
+      "lines" : [
+        {
+          "box" : [
+            0.32970693900884512,
+            0.32740356201915188,
+            0.20259736902573527,
+            0.035456775318492562
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "nz rave na veté neus prane ta."
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.32267441516849832,
+            0.35056176923357496,
+            0.2093023322610294,
+            0.02247196630998094
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "ait heas a wverd truns Vlale tor."
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.31238688199333009,
+            0.37086838892783036,
+            0.21530795826631433,
+            0.027612826607444019
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "altting it will soan de e murti"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.31672105074015344,
+            0.39139360835407655,
+            0.20954426484949451,
+            0.028892648870294746
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "sivé the táttlů. Ati is sumazen"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.31831395211684277,
+            0.41573030969422808,
+            0.2005813957663144,
+            0.022471964576027625
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "ese tat ime hare irhifit Stel"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.31529326978347588,
+            0.43381528978206596,
+            0.20222889619715073,
+            0.024736513658003334
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "in åris andt calitivred tuc hareé si"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.32703488315734669,
+            0.54831460374272656,
+            0.023255814944996567,
+            0.017977534207430756
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "riel"
+            }
+          ]
+        }
+      ],
+      "orientation_score" : 154.20000004768372,
+      "revision" : 3,
+      "usesLanguageCorrection" : false
+    },
+    {
+      "clockwise_rotation" : 180,
+      "file" : "06-117-original.png",
+      "lines" : [
+        {
+          "box" : [
+            0.63616661699960042,
+            0.32678629079541754,
+            0.036766905351118595,
+            0.20692350499770229
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "m rave na este neus prane ta."
+            },
+            {
+              "confidence" : 1,
+              "text" : "n rave na este neus prane ta."
+            },
+            {
+              "confidence" : 1,
+              "text" : "m rave na este neus prane La."
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.62696628372438723,
+            0.40552326188754428,
+            0.017977547212080558,
+            0.12645348044002758
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "ait heis a werd"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "ait heis a wesd"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "ait hes a werd"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.62471909590335784,
+            0.32122093198277979,
+            0.022471920360218389,
+            0.084302323285271208
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "trunis Vele Lo"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "trunis Vele Lor"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "trunis Vele Lo."
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.58987622939525575,
+            0.31089781422780571,
+            0.037711056795987186,
+            0.21688869700712321
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "althing it will sean te s murt,"
+            },
+            {
+              "confidence" : 1,
+              "text" : "althing it will sean te a murt,"
+            },
+            {
+              "confidence" : 1,
+              "text" : "althing it will sean te s murt"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.5732266965272832,
+            0.31516568879969564,
+            0.033504766984419398,
+            0.20974183924057899
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "s ișé the táktů. Ati is sumuzen"
+            },
+            {
+              "confidence" : 1,
+              "text" : "s ișé the táktů. Ati is sumuzen."
+            },
+            {
+              "confidence" : 1,
+              "text" : "sișé the táktů. Ati is sumuzen"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.55503395454603355,
+            0.31530878323573364,
+            0.029647244540127904,
+            0.19935652788947611
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "e e tal we hare inhift Stel"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "e e ital we hare inhift Stel"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "l e tal we hare inhift Stel"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.53932582856879163,
+            0.31395348881539809,
+            0.024719130776145293,
+            0.20348837459788593
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "in dris and catitired ture havet ei"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "in dris and catitired ture havet ti"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "in dris and catitred ture havet ei"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.52135044038459222,
+            0.316773658537295,
+            0.022088521610606704,
+            0.18481513528262872
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "uvegns. Senes snen were resent"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "uvegns. Seves snen were resent"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "uvegns. Senes snen mere resent"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.41348314428815802,
+            0.38517441952156439,
+            0.01123595844615588,
+            0.023255812701057033
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "кани"
+            },
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "пани"
+            },
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "кати"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.36853932374310977,
+            0.31686046573406446,
+            0.026966296109286192,
+            0.033430231879739147
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "Бзди"
+            },
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "\"зри"
+            },
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "\"зди"
+            }
+          ]
+        }
+      ],
+      "orientation_score" : 121.90000009536743,
+      "revision" : 3,
+      "usesLanguageCorrection" : true
+    },
+    {
+      "clockwise_rotation" : 180,
+      "file" : "06-117-contrast.png",
+      "lines" : [
+
+      ],
+      "orientation_score" : 0,
+      "revision" : 3,
+      "usesLanguageCorrection" : false
+    },
+    {
+      "clockwise_rotation" : 180,
+      "file" : "06-117-contrast.png",
+      "lines" : [
+
+      ],
+      "orientation_score" : 0,
+      "revision" : 3,
+      "usesLanguageCorrection" : true
+    }
+  ]
+}

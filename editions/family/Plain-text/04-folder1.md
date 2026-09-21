@@ -14,7 +14,7 @@ Cousin George, dear sir,
 
 Having a chance to send you a note, I take pleasure in telling you that I am in good health and fine spirits. Our regiment left Alexandria, Louisiana, a week ago yesterday, for [destination indistinct]. I was detailed to go down Red River and join the command at [Walker's Bend?], but it has not passed. I expect it today. The engine [Sabine?] is laid up, and I cannot leave. Our field [officers?] have not [arrived] yet.
 
-[Name or opening word indistinct] has gone to Ellis on furlough; also [name indistinct]. All are well on furlough. I suppose you have heard of Uncle Alfred's death. He died on May 5 from a wound received on April 18.
+[Name or opening word indistinct] has gone to Ellis on furlough; also [name indistinct]. All are well on furlough. I suppose you have heard of Uncle Alfred's death. He died on June 5 from a wound received on May 18.
 
 The gentleman is waiting for me, and my pen is too bad to write. Please write to me at Houston immediately. Let me know how you are all getting along. If you have [news?], send it [unclear]. I wish I could come and see you, but I cannot leave here.
 
@@ -651,7 +651,7 @@ I may survive this trouble, or I may not. Either way, my physical strength will 
 
 I ask only that you get the business into good order. Know how much money is on hand, how much more is likely to come in, and what expenses must be met. Then, if we think it best, you can visit me. You would not get much from the people here; they are not your sort.
 
-Allie leaves tomorrow for [Gunter?] to run a dormitory. I am staying with Dr. Bird.
+Allie leaves tomorrow for Gunter to run a dormitory. I am staying with Dr. Bird.
 
 Papa
 

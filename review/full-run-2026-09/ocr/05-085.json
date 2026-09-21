@@ -1,0 +1,671 @@
+{
+  "best_clockwise_rotation" : 270,
+  "engine" : "Apple Vision",
+  "os" : "Version 27.0 (Build 26A428)",
+  "page_id" : "05-085",
+  "records" : [
+    {
+      "clockwise_rotation" : 0,
+      "file" : "05-085-original.png",
+      "lines" : [
+        {
+          "box" : [
+            0.052135634817741291,
+            0.66970900603796535,
+            0.04766005309992323,
+            0.20567188078950838
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Ma Emina Billa"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.1019607803367365,
+            0.78052325496771957,
+            0.045098046914762324,
+            0.10174418875642133
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "confontin"
+            }
+          ]
+        }
+      ],
+      "orientation_score" : 14.700000107288361,
+      "revision" : 3,
+      "usesLanguageCorrection" : false
+    },
+    {
+      "clockwise_rotation" : 90,
+      "file" : "05-085-original.png",
+      "lines" : [
+        {
+          "box" : [
+            0.27548208312963052,
+            0.19291633900735716,
+            0.024482403537468167,
+            0.068967249701517575
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "У їV"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.70732854216037144,
+            0.90176834527566485,
+            0.16679010667218275,
+            0.041563847942538756
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Emina Bills"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.77773412347883253,
+            0.83942483080039265,
+            0.106301077692455,
+            0.064711546923775121
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Confortin"
+            }
+          ]
+        }
+      ],
+      "orientation_score" : 19.900000035762787,
+      "revision" : 3,
+      "usesLanguageCorrection" : false
+    },
+    {
+      "clockwise_rotation" : 180,
+      "file" : "05-085-original.png",
+      "lines" : [
+        {
+          "box" : [
+            0.89477864758365511,
+            0.12328424607711441,
+            0.054771154115823895,
+            0.21127500871370075
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Mo Emina Billo"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.8428968267582212,
+            0.11684628552439391,
+            0.058013137336921483,
+            0.1034103712468285
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Com foutin"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.6630099911303039,
+            0.66547999386574719,
+            0.23143878485299607,
+            0.048403715397383973
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "Lio AiTri for"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.71619176456991995,
+            0.70782200902809977,
+            0.19970055330589198,
+            0.046060828917279473
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "Ri fauit m"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.53854827895757951,
+            0.70525299161053945,
+            0.16251379089686824,
+            0.029854553688760666
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "cu: 1t Dha"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.52347454531289439,
+            0.73915601796923247,
+            0.20942663136833273,
+            0.046829640673671014
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "anel Mihen"
+            }
+          ]
+        }
+      ],
+      "orientation_score" : 31.200000405311584,
+      "revision" : 3,
+      "usesLanguageCorrection" : false
+    },
+    {
+      "clockwise_rotation" : 270,
+      "file" : "05-085-original.png",
+      "lines" : [
+        {
+          "box" : [
+            0.12263328221467151,
+            0.048797413535163758,
+            0.21563185909553356,
+            0.058764773523121483
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Mas Emina Billo"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.10982252840718797,
+            0.099209992108691414,
+            0.1086452520928582,
+            0.058405653532113133
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Confostino"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.66720765890076461,
+            0.12541635283203956,
+            0.045508798678971507,
+            0.24423050440354399
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "Liu diși fonate"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.67661505385146692,
+            0.40446576973943038,
+            0.029632881140018941,
+            0.1073990530869342
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "avlre"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.70890131069536977,
+            0.081493252134007155,
+            0.048270059935149656,
+            0.19838133904108135
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "Di prit on"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.69943415556769406,
+            0.32872634168643489,
+            0.035328190426351269,
+            0.17945494014976082
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : ":It thut a"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.73611359439901747,
+            0.27488851129651504,
+            0.051498216831415755,
+            0.2118217807898175
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "anal gihen"
+            }
+          ]
+        }
+      ],
+      "orientation_score" : 37.200000405311584,
+      "revision" : 3,
+      "usesLanguageCorrection" : false
+    },
+    {
+      "clockwise_rotation" : 270,
+      "file" : "05-085-original.png",
+      "lines" : [
+        {
+          "box" : [
+            0.12263328221467151,
+            0.048797413535163758,
+            0.21563185909553356,
+            0.058764773523121483
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "Mas Emina Billo"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "Nas Emina Billo"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "Mas Emina Billa"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.10982252840718797,
+            0.099209992108691414,
+            0.1086452520928582,
+            0.058405653532113133
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "Con fostino"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "Com fostino"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "Con postino"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.66720765890076461,
+            0.12541635283203956,
+            0.045508798678971507,
+            0.24423050440354399
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "Liu diși forate"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "Liu diși foneti"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "Liu diși fonete"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.67661505231822849,
+            0.40446576973943038,
+            0.029632882673257366,
+            0.1073990530869342
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "av lre"
+            },
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "nv lre"
+            },
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "pv lre"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.70890131069536977,
+            0.081493252134007155,
+            0.048270059935149656,
+            0.19838133904108135
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "Di prit on"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "Di puit on"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "Di prit o"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.69943415556769406,
+            0.32872634168643489,
+            0.035328190426351269,
+            0.17945494014976082
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : ":It chit ai"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : ":It chut ai"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : ":It chit as"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.73611359439901747,
+            0.27488851129651504,
+            0.051498216831415755,
+            0.2118217807898175
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "anal nihen"
+            },
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "anal gihen"
+            },
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "anal nihee"
+            }
+          ]
+        }
+      ],
+      "orientation_score" : 30.200000166893005,
+      "revision" : 3,
+      "usesLanguageCorrection" : true
+    },
+    {
+      "clockwise_rotation" : 270,
+      "file" : "05-085-contrast.png",
+      "lines" : [
+        {
+          "box" : [
+            0.12354650531849165,
+            0.050980367393015591,
+            0.21802326950612944,
+            0.06078436372075624
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "A Emina Bello"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.11744981674633767,
+            0.09734144225520347,
+            0.10321968544717772,
+            0.063268170682925673
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Confontin"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.67587208745808725,
+            0.19019608300365132,
+            0.031976755025685755,
+            0.16274509160707629
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "Лai fonяl"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.67797317256524037,
+            0.41587401089329601,
+            0.02574545624171809,
+            0.091703731772953989
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "pv lre"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.70588203315471443,
+            0.079563141684153349,
+            0.048770214583712779,
+            0.12224262415650866
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "Ri pari"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.70111172234673447,
+            0.32634712897364426,
+            0.032754858207089343,
+            0.13707583217227359
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : ":It thu"
+            }
+          ]
+        }
+      ],
+      "orientation_score" : 20.70000034570694,
+      "revision" : 3,
+      "usesLanguageCorrection" : false
+    },
+    {
+      "clockwise_rotation" : 270,
+      "file" : "05-085-contrast.png",
+      "lines" : [
+        {
+          "box" : [
+            0.12354650531849165,
+            0.050980367393015591,
+            0.21802326950612944,
+            0.06078436372075624
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "A Emina Bello"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "A Emina Bella"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "I Emina Bello"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.11744981674633767,
+            0.09734144225520347,
+            0.10321968544717772,
+            0.063268170682925673
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Comfortin"
+            },
+            {
+              "confidence" : 1,
+              "text" : "comfortin"
+            },
+            {
+              "confidence" : 1,
+              "text" : "Compoutin"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.70588203315471443,
+            0.079563141684153349,
+            0.048770214583712779,
+            0.12224262415650866
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "Ri pari"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "Di pari"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "Ri Pari"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.67587208745808725,
+            0.19019608300365132,
+            0.031976755025685755,
+            0.16274509160707629
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "Mai fore"
+            },
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "Mai pons"
+            },
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "Nai fore"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.70111172234673447,
+            0.32634712897364426,
+            0.032754858207089343,
+            0.13707583217227359
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "•It the"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : ":It the"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "→It the"
+            }
+          ]
+        }
+      ],
+      "orientation_score" : 22.100000083446503,
+      "revision" : 3,
+      "usesLanguageCorrection" : true
+    }
+  ]
+}

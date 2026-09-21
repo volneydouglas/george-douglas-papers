@@ -74,7 +74,7 @@ H. D. Winniford, Walter Roper, and M. F. Roper acknowledged execution in Howard 
 
 John and A. E. McCrary acknowledged the deed in Floyd County on November 10, 1891, before notary [C. O. B.?] McLain. A. E. was examined separately from her husband and likewise confirmed her willing agreement.
 
-Filed May 28, 1896, at 11:30 a.m.; recorded May 29, 1896, at 1:40 p.m., Ellis County deed records, volume 92, page 514. T. F. Thompson, county clerk, through Maude L. Burks [surname uncertain], deputy. The page 8 docket gives the same filing and recording dates, is signed through A. Hassell, and lists a recording fee of $2.50 [faint].
+Filed May 28, 1896, at 11:30 a.m.; recorded May 29, 1896, at 1:40 p.m., Ellis County deed records, volume 92, page 514. T. F. Thompson, county clerk, through Maude L. Burks [surname uncertain], deputy. [The page 8 docket reads volume 91, while the page 11 certificate reads 92; this disagreement is preserved.] The page 8 docket gives the same filing and recording dates, is signed through A. Hassell, and lists a recording fee of $2.50 [faint].
 
 ## Pages 12-15
 ### L. A. Jetton to Lizzie: family news and Rebecca's estate, March 20, 1883
@@ -435,7 +435,7 @@ Please write often and give me all the news. Tell Mary Orr it is time she answer
 
 [Page 62 labels this a Civil War letter from sisters Laura and Lizzie. Page 63 begins in the middle of a letter. Some of its names and several passages are faded. The account below is the writer's report, not an independently verified account of the death.]
 
-I have a horrible story to tell: the murder of Mrs. [Claunch?] by her daughter. Mrs. C. is a sister of Mr. [Jennings?] and lives on Thomas [or Thomason?] Creek. It seems they quarreled a few days earlier. The girl ran away and went to [a named man's home, unclear], but he got mad and went back home. [A faint passage about the husband going to the Brazos and leaving the girl, aged seventeen, and a three-year-old child; some relationships and wording are unclear.] One of the men went to hunt cattle.
+I have a horrible story to tell: the murder of Mrs. Claunch by her daughter. Mrs. C. is a sister of Mr. [Jennings?] and lives on Thomas [or Thomason?] Creek. It seems they quarreled a few days earlier. The girl ran away and went to [a named man's home, unclear], but he got mad and went back home. [A faint passage about the husband going to the Brazos and leaving the girl, aged seventeen, and a three-year-old child; some relationships and wording are unclear.] One of the men went to hunt cattle.
 
 The evidence is circumstantial. A large single-edged weapon was left in the house. The girl showed my sisters [words unclear] before evidence arose against her. She says she was in the henhouse, heard her mother scream, and saw a man [description unclear] run in and [strike?] her mother, then leave without saying a word and ride away on a roan horse. She did not notice which way he went. Mrs. [Brigdeton?] was the next to arrive after it happened. By the fire was the little child, who was asked who had struck her mother. The child said, “It was Mother.”
 

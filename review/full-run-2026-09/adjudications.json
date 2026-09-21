@@ -1,0 +1,719 @@
+[
+  {
+    "item": "04-023-U001",
+    "page_id": "04-023",
+    "paragraph_id": "04-023-P02",
+    "before": "[[lost: reproduced portion ends]]",
+    "replacement": null,
+    "outcome": "duplicate_witness",
+    "reason": "The upper repeated header and opening lines match 04-021; scan 23 stops within furlough while scan 21 preserves the following text.",
+    "date": "2026-09-20",
+    "reviewer": "Codex AI-assisted image review",
+    "human_verified": false,
+    "evidence": {
+      "image": "evidence/04-023-U001.png",
+      "rotation_counterclockwise": 0,
+      "box_after_rotation": [
+        0,
+        0,
+        2104,
+        2671
+      ],
+      "sha256": "5acab808d5168185917080069810a23219423b9c66abf8ebf2cc16880903038d"
+    },
+    "witness_note": "04-023-P02: the clipped opening continues in 04-021-P03, beginning with the rest of furlough and I will write you a few lines. The loss marker describes scan 23 and remains."
+  },
+  {
+    "item": "04-024-U001",
+    "page_id": "04-024",
+    "paragraph_id": "04-024-P02",
+    "before": "[[lost: reproduced portion ends]]",
+    "replacement": null,
+    "outcome": "duplicate_witness",
+    "reason": "The top strip matches the first lines and folds of 04-022; the latter preserves the continuation after Started.",
+    "date": "2026-09-20",
+    "reviewer": "Codex AI-assisted image review",
+    "human_verified": false,
+    "evidence": {
+      "image": "evidence/04-024-U001.png",
+      "rotation_counterclockwise": 0,
+      "box_after_rotation": [
+        0,
+        0,
+        2046,
+        2688
+      ],
+      "sha256": "da042658a45a0613998c9f95c644030a78bd05d38f8ff4d2d5d7f01d2a95ffdd"
+    },
+    "witness_note": "04-024-P02: the clipped upper passage continues in 04-022-P02 with to the Command. Scan 22 preserves the rest of the account; retain the scan-24 loss marker."
+  },
+  {
+    "item": "04-044-U004",
+    "page_id": "04-044",
+    "paragraph_id": "04-044-P04",
+    "before": "[[Rusk?]]",
+    "replacement": "Hood",
+    "outcome": "image_supported",
+    "reason": "The county heading is the same Hood acknowledgment as the cropped counterpart on 04-043; the capital H and two o loops are visible in the pilot county crop.",
+    "date": "2026-09-20",
+    "reviewer": "Codex AI-assisted image review",
+    "human_verified": false,
+    "evidence": {
+      "image": "evidence/04-044-U004.png",
+      "rotation_counterclockwise": 0,
+      "box_after_rotation": [
+        0,
+        0,
+        1640,
+        2428
+      ],
+      "sha256": "892d5c1d99e07a4e25bb4ccc7f794b9820c26a53de944d7cb813f4a446816c88"
+    }
+  },
+  {
+    "item": "04-045-U001",
+    "page_id": "04-045",
+    "paragraph_id": "04-045-P01",
+    "before": "[[Paid?]]",
+    "replacement": null,
+    "outcome": "unresolved",
+    "reason": "The fee-panel word is very faint. The proposed Paid remains plausible but the final letters do not justify removing the uncertainty marker.",
+    "date": "2026-09-20",
+    "reviewer": "Codex AI-assisted image review",
+    "human_verified": false,
+    "evidence": {
+      "image": "evidence/04-045-U001.png",
+      "rotation_counterclockwise": 90,
+      "box_after_rotation": [
+        0,
+        0,
+        3061,
+        1817
+      ],
+      "sha256": "4a30dca10e29f1b4d6e57bb7f4e1e505acbf083b372d49a224c77536696fad8e"
+    }
+  },
+  {
+    "item": "04-054-U001",
+    "page_id": "04-054",
+    "paragraph_id": "04-054-P02",
+    "before": "[[illegible]]",
+    "replacement": "Gunter",
+    "outcome": "image_supported",
+    "reason": "The destination shows a capital G, joined un, crossed t and ending er. These letters are visible in the second paragraph after for; the separate letter mentioning Gunter corroborates but does not supply them.",
+    "date": "2026-09-20",
+    "reviewer": "Codex AI-assisted image review",
+    "human_verified": false,
+    "evidence": {
+      "image": "evidence/04-054-U001.png",
+      "rotation_counterclockwise": 0,
+      "box_after_rotation": [
+        0,
+        0,
+        1853,
+        3119
+      ],
+      "sha256": "6e528fd5dbe0112e3df42dd1dc7935f00cb9368910eaa555502c6e01916a09ba"
+    }
+  },
+  {
+    "item": "04-091-U003",
+    "page_id": "04-091",
+    "paragraph_id": "04-091-P01",
+    "before": "[[near?]]",
+    "replacement": null,
+    "outcome": "unresolved",
+    "reason": "The accident line is crossed by a dense fold shadow. The proposed near is not secure from the visible marks.",
+    "date": "2026-09-20",
+    "reviewer": "Codex AI-assisted image review",
+    "human_verified": false,
+    "evidence": {
+      "image": "evidence/04-091-U003.png",
+      "rotation_counterclockwise": 0,
+      "box_after_rotation": [
+        0,
+        0,
+        2150,
+        2801
+      ],
+      "sha256": "2cfc6e3b33026ca3add3a8b7b41fd79f266dd012362822e766e0d51b9c1e5248"
+    }
+  },
+  {
+    "item": "04-091-U004",
+    "page_id": "04-091",
+    "paragraph_id": "04-091-P01",
+    "before": "[[Palmer?]]",
+    "replacement": null,
+    "outcome": "unresolved",
+    "reason": "The place in the accident line remains under a dark fold. Palmer is a contextual candidate, not a recovered reading.",
+    "date": "2026-09-20",
+    "reviewer": "Codex AI-assisted image review",
+    "human_verified": false,
+    "evidence": {
+      "image": "evidence/04-091-U004.png",
+      "rotation_counterclockwise": 0,
+      "box_after_rotation": [
+        0,
+        0,
+        2150,
+        2801
+      ],
+      "sha256": "2cfc6e3b33026ca3add3a8b7b41fd79f266dd012362822e766e0d51b9c1e5248"
+    }
+  },
+  {
+    "item": "05-032-U001",
+    "page_id": "05-032",
+    "paragraph_id": "05-032-P01",
+    "before": "[[agent?]]",
+    "replacement": null,
+    "outcome": "unresolved",
+    "reason": "The slip has a longer, irregularly formed word resembling agitant. The legal document can explain the role but does not establish the exact spelling on this later slip.",
+    "date": "2026-09-20",
+    "reviewer": "Codex AI-assisted image review",
+    "human_verified": false,
+    "evidence": {
+      "image": "evidence/05-032-U001.png",
+      "rotation_counterclockwise": 0,
+      "box_after_rotation": [
+        0,
+        0,
+        1813,
+        3135
+      ],
+      "sha256": "adec17b35440b31c0d43048161a389d87717dc5b4067839e4dd4beeb3f09610f"
+    }
+  },
+  {
+    "item": "05-038-U001",
+    "page_id": "05-038",
+    "paragraph_id": "05-038-P01",
+    "before": "[[George?]]",
+    "replacement": null,
+    "outcome": "unresolved",
+    "reason": "The end of Uncle and following name are under a solid dark stain; George cannot be certified from this image.",
+    "date": "2026-09-20",
+    "reviewer": "Codex AI-assisted image review",
+    "human_verified": false,
+    "evidence": {
+      "image": "evidence/05-038-U001.png",
+      "rotation_counterclockwise": 0,
+      "box_after_rotation": [
+        0,
+        0,
+        1982,
+        2595
+      ],
+      "sha256": "dca3c8b3289d6f5beff928e8cae61577afa76357b72c98f876e3258bea3be2cf"
+    }
+  },
+  {
+    "item": "05-044-U001",
+    "page_id": "05-044",
+    "paragraph_id": "05-044-P01",
+    "before": "[[Chadens?]]",
+    "replacement": "Chadsey's",
+    "outcome": "image_supported",
+    "reason": "The surname after Mrs H. has visible Chad, a descending s/sey sequence and possessive ending. Compare the same hand in 05-037, already image-checked in the pilot.",
+    "date": "2026-09-20",
+    "reviewer": "Codex AI-assisted image review",
+    "human_verified": false,
+    "evidence": {
+      "image": "evidence/05-044-U001.png",
+      "rotation_counterclockwise": 0,
+      "box_after_rotation": [
+        0,
+        0,
+        1786,
+        2406
+      ],
+      "sha256": "33d9304fe6beef9ac88022368354d4d12462e8da331045629675e5b9d062a0cd"
+    }
+  },
+  {
+    "item": "05-052-U002",
+    "page_id": "05-052",
+    "paragraph_id": "05-052-P01",
+    "before": "[[Timmons?]]",
+    "replacement": "Timmons",
+    "outcome": "image_supported",
+    "reason": "The surname is split at the line end after Tim, with mons at the beginning of the next line. Together the surviving letters read Timmons.",
+    "date": "2026-09-20",
+    "reviewer": "Codex AI-assisted image review",
+    "human_verified": false,
+    "evidence": {
+      "image": "evidence/05-052-U002.png",
+      "rotation_counterclockwise": 180,
+      "box_after_rotation": [
+        0,
+        0,
+        1770,
+        2376
+      ],
+      "sha256": "7bf2f5ea91df79b6fb6e63016f7cb63e64a82e0cd25cc2bd2795f116b7c5b3ed"
+    }
+  },
+  {
+    "item": "05-053-U002",
+    "page_id": "05-053",
+    "paragraph_id": "05-053-P01",
+    "before": "[[Timmons?]]",
+    "replacement": "Timmons",
+    "outcome": "image_supported",
+    "reason": "The ending of the name after Mrs on the Hattie line matches the legible Timmons of 05-044 and 05-052, including initial T and the joined double m.",
+    "date": "2026-09-20",
+    "reviewer": "Codex AI-assisted image review",
+    "human_verified": false,
+    "evidence": {
+      "image": "evidence/05-053-U002.png",
+      "rotation_counterclockwise": 0,
+      "box_after_rotation": [
+        0,
+        0,
+        1773,
+        2404
+      ],
+      "sha256": "7d72e9e26271dee398c4c261a4c074b872f6f6a74867539465b45fda57e24042"
+    }
+  },
+  {
+    "item": "05-064-U001",
+    "page_id": "05-064",
+    "paragraph_id": "05-064-P02",
+    "before": "[[flee?]]",
+    "replacement": null,
+    "outcome": "unresolved",
+    "reason": "The word before door has overlapping loops and may not be flee. The wider poetic line does not justify removing this uncertainty.",
+    "date": "2026-09-20",
+    "reviewer": "Codex AI-assisted image review",
+    "human_verified": false,
+    "evidence": {
+      "image": "evidence/05-064-U001.png",
+      "rotation_counterclockwise": 0,
+      "box_after_rotation": [
+        0,
+        0,
+        1937,
+        3201
+      ],
+      "sha256": "ed00f42b2dac6b5124ba6745d16ce72a7ea3762b9d7e3d89b989b2e81593284c"
+    }
+  },
+  {
+    "item": "05-064-U002",
+    "page_id": "05-064",
+    "paragraph_id": "05-064-P02",
+    "before": "[[door?]]",
+    "replacement": "door",
+    "outcome": "image_supported",
+    "reason": "The end of the poem line preserves d, two round o letters and final r. OCR also flagged this reading, but acceptance rests on the image.",
+    "date": "2026-09-20",
+    "reviewer": "Codex AI-assisted image review",
+    "human_verified": false,
+    "evidence": {
+      "image": "evidence/05-064-U002.png",
+      "rotation_counterclockwise": 0,
+      "box_after_rotation": [
+        0,
+        0,
+        1937,
+        3201
+      ],
+      "sha256": "ed00f42b2dac6b5124ba6745d16ce72a7ea3762b9d7e3d89b989b2e81593284c"
+    }
+  },
+  {
+    "item": "05-073-U001",
+    "page_id": "05-073",
+    "paragraph_id": "05-073-P01",
+    "before": "[[14?]]",
+    "replacement": null,
+    "outcome": "unresolved",
+    "reason": "The clear 14 is on the later identifying slip. The receipt date after Oct is much fainter and cannot be certified from the slip or repeated OCR hits.",
+    "date": "2026-09-20",
+    "reviewer": "Codex AI-assisted image review",
+    "human_verified": false,
+    "evidence": {
+      "image": "evidence/05-073-U001.png",
+      "rotation_counterclockwise": 0,
+      "box_after_rotation": [
+        0,
+        0,
+        2152,
+        2817
+      ],
+      "sha256": "ddd1c7c2b82181f8d8bfa5267813376f80e8c83f1bd27cf8947573a43e928ada"
+    }
+  },
+  {
+    "item": "05-073-U004",
+    "page_id": "05-073",
+    "paragraph_id": "05-073-P02",
+    "before": "[[26.75?]]",
+    "replacement": null,
+    "outcome": "unresolved",
+    "reason": "The cash figure remains too faint to settle all digits; do not infer an amount from the identifying note.",
+    "date": "2026-09-20",
+    "reviewer": "Codex AI-assisted image review",
+    "human_verified": false,
+    "evidence": {
+      "image": "evidence/05-073-U004.png",
+      "rotation_counterclockwise": 0,
+      "box_after_rotation": [
+        0,
+        0,
+        2152,
+        2817
+      ],
+      "sha256": "ddd1c7c2b82181f8d8bfa5267813376f80e8c83f1bd27cf8947573a43e928ada"
+    }
+  },
+  {
+    "item": "05-078-U001",
+    "page_id": "05-078",
+    "paragraph_id": "05-078-P01",
+    "before": "[[Of?]]",
+    "replacement": "Of",
+    "outcome": "image_supported",
+    "reason": "The partly worn opening still preserves the rounded O and descending f, also visible on the duplicate sermon scan 02-003.",
+    "date": "2026-09-20",
+    "reviewer": "Codex AI-assisted image review",
+    "human_verified": false,
+    "evidence": {
+      "image": "evidence/05-078-U001.png",
+      "rotation_counterclockwise": 0,
+      "box_after_rotation": [
+        0,
+        0,
+        1796,
+        3130
+      ],
+      "sha256": "096a4995c8c60cb46d6a680397b57f93c6aab7e42dc91c865eaabf116b49d51e"
+    }
+  },
+  {
+    "item": "05-078-U003",
+    "page_id": "05-078",
+    "paragraph_id": "05-078-P02",
+    "before": "[[greatness?]]",
+    "replacement": null,
+    "outcome": "unresolved",
+    "reason": "The uncertain word after His goodness is faint near the fold; the clear greatness earlier in the paragraph does not prove this separate word.",
+    "date": "2026-09-20",
+    "reviewer": "Codex AI-assisted image review",
+    "human_verified": false,
+    "evidence": {
+      "image": "evidence/05-078-U003.png",
+      "rotation_counterclockwise": 0,
+      "box_after_rotation": [
+        0,
+        0,
+        1796,
+        3130
+      ],
+      "sha256": "096a4995c8c60cb46d6a680397b57f93c6aab7e42dc91c865eaabf116b49d51e"
+    }
+  },
+  {
+    "item": "05-078-U004",
+    "page_id": "05-078",
+    "paragraph_id": "05-078-P02",
+    "before": "[[lost: torn edge]]",
+    "replacement": null,
+    "outcome": "unresolved",
+    "reason": "The end of Sympath is physically absent at the lower tear. A likely completion cannot be transcribed as visible.",
+    "date": "2026-09-20",
+    "reviewer": "Codex AI-assisted image review",
+    "human_verified": false,
+    "evidence": {
+      "image": "evidence/05-078-U004.png",
+      "rotation_counterclockwise": 0,
+      "box_after_rotation": [
+        0,
+        0,
+        1796,
+        3130
+      ],
+      "sha256": "096a4995c8c60cb46d6a680397b57f93c6aab7e42dc91c865eaabf116b49d51e"
+    }
+  },
+  {
+    "item": "05-137-U001",
+    "page_id": "05-137",
+    "paragraph_id": "05-137-P01",
+    "before": "[[obscured: overlying sheet]]",
+    "replacement": null,
+    "outcome": "duplicate_witness",
+    "reason": "The same handwriting, ruled folds and sequence of covenant lines identify the underlying deed as the leaf visible on 05-135; the later acknowledgment covers its lower portion.",
+    "date": "2026-09-20",
+    "reviewer": "Codex AI-assisted image review",
+    "human_verified": false,
+    "evidence": {
+      "image": "evidence/05-137-U001.png",
+      "rotation_counterclockwise": 0,
+      "box_after_rotation": [
+        0,
+        0,
+        2150,
+        3312
+      ],
+      "sha256": "50db9ce2df92b9ab2de85b508b87d50c58565bcfe467eddfba8d409620cc60e1"
+    },
+    "witness_note": "05-137-P01: the clipped acreage wording is preserved on the same deed in 05-135-P01 as thirty acres more or less."
+  },
+  {
+    "item": "05-137-U002",
+    "page_id": "05-137",
+    "paragraph_id": "05-137-P01",
+    "before": "[[obscured: overlying sheet]]",
+    "replacement": null,
+    "outcome": "duplicate_witness",
+    "reason": "The same handwriting, ruled folds and sequence of covenant lines identify the underlying deed as the leaf visible on 05-135; the later acknowledgment covers its lower portion.",
+    "date": "2026-09-20",
+    "reviewer": "Codex AI-assisted image review",
+    "human_verified": false,
+    "evidence": {
+      "image": "evidence/05-137-U002.png",
+      "rotation_counterclockwise": 0,
+      "box_after_rotation": [
+        0,
+        0,
+        2150,
+        3312
+      ],
+      "sha256": "50db9ce2df92b9ab2de85b508b87d50c58565bcfe467eddfba8d409620cc60e1"
+    },
+    "witness_note": "05-137-P01: the deed text hidden by the separate acknowledgment continues in 05-135-P02, beginning unto the Said Lizzie Douglas her heirs and assigns forever. The obstruction remains marked in scan 137."
+  },
+  {
+    "item": "05-155-U002",
+    "page_id": "05-155",
+    "paragraph_id": "05-155-P04",
+    "before": "[[A. Lasswell?]]",
+    "replacement": "A. Lasswell",
+    "outcome": "image_supported",
+    "reason": "The sideways filing stamp has an A followed by a tall L and joined asswell; the original letters support the deputy name.",
+    "date": "2026-09-20",
+    "reviewer": "Codex AI-assisted image review",
+    "human_verified": false,
+    "evidence": {
+      "image": "evidence/05-155-U002.png",
+      "rotation_counterclockwise": 0,
+      "box_after_rotation": [
+        0,
+        0,
+        2292,
+        3411
+      ],
+      "sha256": "a4043a4c12319d8486e6334f59328fa3805f3680dc7a6bd9aac0097eb4e07f8f"
+    }
+  },
+  {
+    "item": "05-157-U001",
+    "page_id": "05-157",
+    "paragraph_id": "05-157-P04",
+    "before": "[[Mills?]]",
+    "replacement": "Wise",
+    "outcome": "image_supported",
+    "reason": "The deputy signature at the bottom reads H. C. Wise, matching the same clerk on 04-045. The preceding confident E also requires correction to C.",
+    "date": "2026-09-20",
+    "reviewer": "Codex AI-assisted image review",
+    "human_verified": false,
+    "evidence": {
+      "image": "evidence/05-157-U001.png",
+      "rotation_counterclockwise": 0,
+      "box_after_rotation": [
+        0,
+        0,
+        2299,
+        3415
+      ],
+      "sha256": "7e5ea012d3b5e72207dbf183c4b2eb4e2b9389af233b876ce5a8a63db678ae0f"
+    }
+  },
+  {
+    "item": "05-158-U001",
+    "page_id": "05-158",
+    "paragraph_id": "05-158-P01",
+    "before": "[[County of Ellis?]]",
+    "replacement": null,
+    "outcome": "unresolved",
+    "reason": "The county heading is too washed out to recover the full phrase, even though Ellis is named in the body. Keep the uncertainty.",
+    "date": "2026-09-20",
+    "reviewer": "Codex AI-assisted image review",
+    "human_verified": false,
+    "evidence": {
+      "image": "evidence/05-158-U001.png",
+      "rotation_counterclockwise": 0,
+      "box_after_rotation": [
+        0,
+        0,
+        2253,
+        3383
+      ],
+      "sha256": "e816523c8aebe69f8162e8ef230b241043ed9f3378d5dab7dfbb1abf03af4866"
+    }
+  },
+  {
+    "item": "06-032-U004",
+    "page_id": "06-032",
+    "paragraph_id": "06-032-P02",
+    "before": "[[have?]]",
+    "replacement": null,
+    "outcome": "unresolved",
+    "reason": "OCR repeatedly recognizes have elsewhere in the main letter. It does not establish the uncertain occurrence in the narrow marginal passage.",
+    "date": "2026-09-20",
+    "reviewer": "Codex AI-assisted image review",
+    "human_verified": false,
+    "evidence": {
+      "image": "evidence/06-032-U004.png",
+      "rotation_counterclockwise": 180,
+      "box_after_rotation": [
+        0,
+        0,
+        2204,
+        3404
+      ],
+      "sha256": "97cbfe6eac37fcce227c3e1e559cd98ab08dbfafacc3b3a29ff105d8752ce806"
+    }
+  },
+  {
+    "item": "06-071-U001",
+    "page_id": "06-071",
+    "paragraph_id": "06-071-P01",
+    "before": "[[Bats?]]",
+    "replacement": null,
+    "outcome": "unresolved",
+    "reason": "The short possessive after aunt may be Bets, but the vowel and punctuation are not secure. No expansion to Bettie is justified.",
+    "date": "2026-09-20",
+    "reviewer": "Codex AI-assisted image review",
+    "human_verified": false,
+    "evidence": {
+      "image": "evidence/06-071-U001.png",
+      "rotation_counterclockwise": 180,
+      "box_after_rotation": [
+        0,
+        0,
+        2273,
+        3449
+      ],
+      "sha256": "6bdc61ba5b17325e44dedbb02b6143e936590ba0b05680aa86a65503830c90c3"
+    }
+  },
+  {
+    "item": "06-071-U002",
+    "page_id": "06-071",
+    "paragraph_id": "06-071-P02",
+    "before": "[[Foythe?]]",
+    "replacement": "Fayette",
+    "outcome": "image_supported",
+    "reason": "At the start of the final paragraph the capital F, descending y and two t strokes support Fayette, not Foythe.",
+    "date": "2026-09-20",
+    "reviewer": "Codex AI-assisted image review",
+    "human_verified": false,
+    "evidence": {
+      "image": "evidence/06-071-U002.png",
+      "rotation_counterclockwise": 180,
+      "box_after_rotation": [
+        0,
+        0,
+        2273,
+        3449
+      ],
+      "sha256": "6bdc61ba5b17325e44dedbb02b6143e936590ba0b05680aa86a65503830c90c3"
+    }
+  },
+  {
+    "item": "06-102-U008",
+    "page_id": "06-102",
+    "paragraph_id": "06-102-P01",
+    "before": "[[and?]]",
+    "replacement": "and",
+    "outcome": "image_supported",
+    "reason": "The word after this week has a joined a, n and tall final d; the original image supports and. Other occurrences elsewhere on the page are not used as proof.",
+    "date": "2026-09-20",
+    "reviewer": "Codex AI-assisted image review",
+    "human_verified": false,
+    "evidence": {
+      "image": "evidence/06-102-U008.png",
+      "rotation_counterclockwise": 180,
+      "box_after_rotation": [
+        0,
+        0,
+        2200,
+        3400
+      ],
+      "sha256": "cdc9a58beee6bfdc2254244fd348baf4ba7422408d57c0d42769d33d14980d61"
+    }
+  },
+  {
+    "item": "06-103-U001",
+    "page_id": "06-103",
+    "paragraph_id": "06-103-P02",
+    "before": "[[wole?]]",
+    "replacement": null,
+    "outcome": "unresolved",
+    "reason": "The word before it with white rock appears to end in le. Wall expresses the likely action, but would normalize an uncertain original spelling; retain the marker.",
+    "date": "2026-09-20",
+    "reviewer": "Codex AI-assisted image review",
+    "human_verified": false,
+    "evidence": {
+      "image": "evidence/06-103-U001.png",
+      "rotation_counterclockwise": 180,
+      "box_after_rotation": [
+        0,
+        0,
+        2200,
+        3400
+      ],
+      "sha256": "601988d1cba920058ad6ac5acbdadcfe1d315ca601ed5c31551761d812f736af"
+    }
+  },
+  {
+    "item": "06-112-U003",
+    "page_id": "06-112",
+    "paragraph_id": "06-112-P02",
+    "before": "[[gave?]]",
+    "replacement": null,
+    "outcome": "unresolved",
+    "reason": "The word before Saturday night resembles gave but is not secure. Common-word OCR hits do not resolve the phrase.",
+    "date": "2026-09-20",
+    "reviewer": "Codex AI-assisted image review",
+    "human_verified": false,
+    "evidence": {
+      "image": "evidence/06-112-U003.png",
+      "rotation_counterclockwise": 180,
+      "box_after_rotation": [
+        0,
+        0,
+        2299,
+        3468
+      ],
+      "sha256": "7f0dffb4f2dd9ec5f01e0573aa86666bfd8853cb99e7accdd6b0cf86ff94eabe"
+    }
+  },
+  {
+    "item": "06-116-U026",
+    "page_id": "06-116",
+    "paragraph_id": "06-116-P02",
+    "before": "[[religion?]]",
+    "replacement": "religion",
+    "outcome": "image_supported",
+    "reason": "In the line about an old negro getting religion, the letters of religion and its descending g are recoverable in the native crop. Surrounding prose remains substantially uncertain.",
+    "date": "2026-09-20",
+    "reviewer": "Codex AI-assisted image review",
+    "human_verified": false,
+    "evidence": {
+      "image": "evidence/06-116-U026.png",
+      "rotation_counterclockwise": 180,
+      "box_after_rotation": [
+        0,
+        0,
+        2273,
+        3449
+      ],
+      "sha256": "2d4c8e7cfc367353f2c0c50b4d2fe5f595f776fd201dbc17a6c4c8fac4c9ac86"
+    }
+  }
+]

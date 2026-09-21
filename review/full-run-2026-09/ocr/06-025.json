@@ -1,0 +1,2521 @@
+{
+  "best_clockwise_rotation" : 90,
+  "engine" : "Apple Vision",
+  "os" : "Version 27.0 (Build 26A428)",
+  "page_id" : "06-025",
+  "records" : [
+    {
+      "clockwise_rotation" : 0,
+      "file" : "06-025-original.png",
+      "lines" : [
+        {
+          "box" : [
+            0.62459249325439403,
+            0.38766358949811131,
+            0.11505342434700472,
+            0.016823983925826624
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "different"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.46769790671239503,
+            0.38895735035976509,
+            0.16192307771041342,
+            0.016509453501731719
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "dago so Aue"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.16094744557634402,
+            0.40350839974594865,
+            0.65592860923019647,
+            0.022666200537081016
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "ae like Ms Baus ond Ahunt Pane lanes spand"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.14337693734425649,
+            0.42452523635849893,
+            0.67350501037759269,
+            0.026482070108104883
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Spent a night with as lait aveelt. they roee bate"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.16753827901890705,
+            0.44483245510871827,
+            0.64294142693623124,
+            0.027911376067530691
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "vey avell and theis Childron wase all well Bunt"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.14338704812713346,
+            0.47121040822633387,
+            0.67348567090619482,
+            0.023435525124804957
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Save is very muck brokers and loak, ald and feckle"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.17865646759973236,
+            0.49326642530396148,
+            0.64048450601279794,
+            0.027063687457916541
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Mr Boas laoks prittiy suck Its sast heas far"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.15440464475166321,
+            0.51633271138216597,
+            0.6646847030491505,
+            0.025792267456763107
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "the last five spears Marughes meat io shencguille"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.17621324639582384,
+            0.53764253503807979,
+            0.63652352369263021,
+            0.02889009277556287
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "last avcels ond ther pieturs taken to-send to"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.17439292676393503,
+            0.56686042753461074,
+            0.64900664071119263,
+            0.02180240075393125
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "satenyar she was gainy to tunite to you"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.15428203034840593,
+            0.5841313467895608,
+            0.66717874067395744,
+            0.031108489786547677
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "this earuung Lat same of hes beaus coming iv"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.18543046846108532,
+            0.60901159047643971,
+            0.63796908184162615,
+            0.02180239964693842
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "She mill hove to defer coniting untill on ather"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.1519552079745046,
+            0.62722766631939386,
+            0.66738021594701569,
+            0.030003118708738397
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Fiave Ofell Cautin I twas way sinch surfresed."
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.14094207674763454,
+            0.65234116534754905,
+            0.67390144260605145,
+            0.029076570144449754
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Iwken I saw the honey you sent me I neva.."
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.1455713465343485,
+            0.67640985620931615,
+            0.66248447455248782,
+            0.025804100103040684
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "dseomed of sack a Thing as your And selling the"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.14776467775561519,
+            0.69956957141563503,
+            0.67364598919833962,
+            0.025395786907530415
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Saddle but as you say maney never camesamip"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.15436792272634481,
+            0.71805908951259312,
+            0.66253629787138679,
+            0.027843957990667301
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "I swas vey glad to get it, Chaslie onic fumily"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.15435208655996024,
+            0.74272203491318101,
+            0.66258747474555935,
+            0.025670146222593337
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "are all getting on finet, Little tolmu is a dmeet"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.15452539064224244,
+            0.76453484518828019,
+            0.66225164671019965,
+            0.024709378296181805
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "littte thing and talks quite plaim She fanars"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.15443336585440032,
+            0.78159992350744822,
+            0.66246432702518199,
+            0.032590588233668782
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "her gran sna meyy much bharlis is still mnytro"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.73707972651421683,
+            0.80583589259519495,
+            0.087463271165462264,
+            0.033018868258714917
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "and"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.4216335511322295,
+            0.85174416420148824,
+            0.39072848502661633,
+            0.023255857975761018
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "ng pi anane sent Sae thalade S"
+            }
+          ]
+        }
+      ],
+      "orientation_score" : 694.10000032186508,
+      "revision" : 3,
+      "usesLanguageCorrection" : false
+    },
+    {
+      "clockwise_rotation" : 90,
+      "file" : "06-025-original.png",
+      "lines" : [
+        {
+          "box" : [
+            0.38790294614507265,
+            0.53812144988872168,
+            0.018638969505518133,
+            0.21274528267734993
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "emo go evey dei"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.40424249497233283,
+            0.18082598881397427,
+            0.026085343806465489,
+            0.65614845430756286
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "ae hike Mr Baur owl Abunt Tane lanes sefand"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.42596030580641436,
+            0.18090064450579768,
+            0.026502313685846102,
+            0.67572290836344329
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Spent a niight witt as lasit aveels they roe bake"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.44502391000219832,
+            0.18732445421463806,
+            0.0277255473964379,
+            0.64071916544847751
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "vey svell and theis Childron ware all well funt"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.47093021272868912,
+            0.18101547203591961,
+            0.023255853547789807,
+            0.67328915170937231
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Sane is very mack broker and laak, old and feelle"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.49231972306832411,
+            0.18080236489563817,
+            0.027137025732393572,
+            0.63839320345253203
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "M'r Boas lacks prith, much Ite same has far"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.45850523239074775,
+            0.32086717596061576,
+            0.0811313091151879,
+            0.2078714665331256
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "lacthe frits ."
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.51889532897776625,
+            0.17880795848493869,
+            0.023255853547789807,
+            0.66445914771003411
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "the last five years. Maruphes went io steadguitle"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.53820183017492029,
+            0.18955607521282858,
+            0.026451861380977326,
+            0.63411303904870919
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "last avcels oudtther pieturs taken to-sevd to"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.56686044518739043,
+            0.17660046516450678,
+            0.021802363116175227,
+            0.64679908584096424
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "satenyar she was gainy to tunite to you"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.58414564735865193,
+            0.17633148539778232,
+            0.031108664691413601,
+            0.6672005043130792
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "this eareung hat same of hes heaus eming iv"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.60655699443380418,
+            0.176387914686155,
+            0.028447149523592841,
+            0.64062726255654234
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "She mill hove to defer soniting un till on ather"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.62988146178857152,
+            0.18073677104185915,
+            0.026834110430486668,
+            0.66504423405781121
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "tiave Well lautin I was way sanch surfneed."
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.65237686024081942,
+            0.18294865456810905,
+            0.02889753508830728,
+            0.65395528283249671
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Anken I sow te chomey yon sent ne I neva"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.67372611166336027,
+            0.1939737518949961,
+            0.030884515249791411,
+            0.65845286814596204
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "dseamed of sack a Thing as your Ma selling the"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.69909018824829194,
+            0.1784945053403415,
+            0.02714840119063533,
+            0.66942373546792266
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Saddlle but as you say meaney never camesamip"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.71950541879372443,
+            0.1808883539936923,
+            0.026397558955072453,
+            0.66471120728293243
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "I swas vey glad to get it, Claslie oniit fumily"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.74271103332585664,
+            0.18304246773567046,
+            0.02711980313806428,
+            0.66039893612436573
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "are all getting on finely Sittle Alana is a dieet"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.76453485855692149,
+            0.17660045919269252,
+            0.027616323735640602,
+            0.67108165070953774
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "little thiny and talks quite plain She funans"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.78197672491913817,
+            0.17880796076017125,
+            0.033430271071192119,
+            0.6666666487098688
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "her grav ona very much bharlie is Still mny tine"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.80959300476620621,
+            0.17439295618074779,
+            0.027616315986690787,
+            0.64679908584096424
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "and friend Iswauld go sec hin oftew pour"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.83575581181008329,
+            0.17660044316340162,
+            0.023255818124019445,
+            0.099337747006529975
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "fellau"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.85174418285425324,
+            0.22958057463919268,
+            0.023255819231012276,
+            0.10816777120726562
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "и тaн."
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.8234189564540646,
+            0.28995176727926364,
+            0.052080850717430516,
+            0.55949640231961617
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "Lut D han dlte coen tře firhati teien"
+            }
+          ]
+        }
+      ],
+      "orientation_score" : 730.5000005364418,
+      "revision" : 3,
+      "usesLanguageCorrection" : false
+    },
+    {
+      "clockwise_rotation" : 180,
+      "file" : "06-025-original.png",
+      "lines" : [
+        {
+          "box" : [
+            0.17872446506351958,
+            0.57234666465256845,
+            0.65591503389094219,
+            0.022697673450011613
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "we like Mr Baur oad Auut Tane lames sepand"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.17863622741404972,
+            0.54565650353471762,
+            0.67588387310031439,
+            0.028294367909223794
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Spent a night witte us lait aueelt they roce bate"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.18505255549019867,
+            0.52577731949486717,
+            0.64299949922081856,
+            0.029572697759574051
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "vey avell and their Childron wase all well Aunt"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.17872887720066855,
+            0.50392767627888024,
+            0.67565120686920788,
+            0.023218364128870017
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Sane is neey muck brokes andd loak, old and feckle"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.17861956466768905,
+            0.47933613295146305,
+            0.64054952757819394,
+            0.02646611723454273
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Mn Boar lacks pritty snuck lis saie has far"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.17880795135307134,
+            0.457848837265032,
+            0.66225164671019965,
+            0.021837755890689592
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Hhe last five years Marughes went io hendguitl"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.1851014691760087,
+            0.4321647276928785,
+            0.63643393722763131,
+            0.028674099657055474
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "last aucels oudther pieturs take to-sevd to"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.17880795765117244,
+            0.40975043574373304,
+            0.64238408384129531,
+            0.022054556006964599
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "steerlyou she rwas gaing to tunite to yon"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.1741479825693607,
+            0.38332474735144895,
+            0.66717432330166038,
+            0.031060262537251693
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "this eaneung Lat sane of hes beaus eming iv"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.17429004874056356,
+            0.36494805804345631,
+            0.64480378032256735,
+            0.026468010192268854
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "She mill hove to defer doniting untill on ather"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.1763560350978417,
+            0.34183096195361706,
+            0.66721801219108556,
+            0.026878204168584219
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "time W'ell Cautin I twas wey wrnch surpneed"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.18076943060958908,
+            0.31730504718601926,
+            0.65171896117194394,
+            0.028871791970224714
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Awken I saw the oney yon sent mee I neva."
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.18749819897703496,
+            0.29486491188398778,
+            0.66475354941251097,
+            0.030136252307504385
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "dreamed of suck a Thing as your Mea selling the"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.17410903110130738,
+            0.27231070837900651,
+            0.67375114420716575,
+            0.02721039610966236
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Saddle but as you day meavey never camesamip"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.17868018653851755,
+            0.25264216743910495,
+            0.66252676281167255,
+            0.026405945532694153
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "I was vey glad to get it, Claslie orict fumily"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.18085608513700063,
+            0.23018597553566333,
+            0.66037350929846084,
+            0.02559552494343531
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "are all getting on finely Fittle Alama is a dmeet"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.17652555685262883,
+            0.20681618838264881,
+            0.66684937708586167,
+            0.027498344868611801
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "littte thing and talbs uite plaim She fanans"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.17880795360855908,
+            0.18456181085213608,
+            0.66445914771003423,
+            0.027647491118552248
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "her gran sna mey much bharlie is still myBno"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.41388982760319076,
+            0.18374999531294711,
+            0.22728363602748508,
+            0.078750008147467132
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "finltke yeetho"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.17428124510606002,
+            0.16246712339680636,
+            0.64257548535070064,
+            0.025633837965014949
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "and friend Iswauld go see hin oftow panr"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.74613686625251741,
+            0.12209302375172493,
+            0.1037527557399982,
+            0.016038143005193906
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "and svell"
+            }
+          ]
+        }
+      ],
+      "orientation_score" : 705.90000015497208,
+      "revision" : 3,
+      "usesLanguageCorrection" : false
+    },
+    {
+      "clockwise_rotation" : 270,
+      "file" : "06-025-original.png",
+      "lines" : [
+        {
+          "box" : [
+            0.58342026073004438,
+            0.24162797624928689,
+            0.043505519749602151,
+            0.29529630117256456
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "conovoz ene go cvey tun"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.57233317261674166,
+            0.1631517186531215,
+            0.022704531270545725,
+            0.65372611817699133
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "we like Mr Baur owl tbuut Tone lane spand"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.54754105830347277,
+            0.14559433257724119,
+            0.02502719261448394,
+            0.67128716626213591
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Spent a siight witt us lasit aucelt they roe bate"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.52580128152302608,
+            0.17412426017853333,
+            0.029337620084810223,
+            0.63639159509805265
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "vey avell and theeis Childron wase all well Aunt"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.50390513728530995,
+            0.14340699712588634,
+            0.024762530556544204,
+            0.67347543553136036
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Sane is very muck broker and laak, old and feckle"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.48110463357962568,
+            0.18101546705380045,
+            0.023255849119818428,
+            0.63796908184162615
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "M's Boas laoks prittiy mmuch Ite sait heas far"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.45664257483301479,
+            0.1588342923495013,
+            0.024532618110289228,
+            0.66025445572801744
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "the last five years Marphes weat to theacguille"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.4355126685015604,
+            0.17639073945732631,
+            0.024584151947145472,
+            0.63834735974735213
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "last wvcels oudther pietur taken to-send to"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.40973851179876603,
+            0.17871994899352261,
+            0.022503562258622434,
+            0.63595411362946819
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "ateerl you she roas goiny to tonite to you"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.38495983326934152,
+            0.15660655801334578,
+            0.027916614357565872,
+            0.66693120621414381
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "this eareung hat sane of hos heaux cming iv"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.36637570345258652,
+            0.19197323721215609,
+            0.025039496839703745,
+            0.63153070784835619
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "She mill hove to defer soniting un till on ather"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.34269423566150736,
+            0.15428926323034997,
+            0.025682138275837263,
+            0.66494926055342563
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "time H'ell lautin I toas wey snch surfreed."
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.31997158355792532,
+            0.16545782088197969,
+            0.022413381088354278,
+            0.64704026359430167
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Iwken I saw Mie hroney yon sent mee I neva"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.29768388438776155,
+            0.14996066341546777,
+            0.023559239321646108,
+            0.65594870288710827
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "dseamed of swck a thing as your tha detling the"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.27377819885761606,
+            0.15205426936379107,
+            0.027086190408008137,
+            0.67162784263294351
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "saddle but as you say meaney never camesasnips"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.25436044532368596,
+            0.15452539777853702,
+            0.024709341765418724,
+            0.66445914771003423
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "I swas vey glad to get it, Chaskie onsit fumily"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.23016523971085789,
+            0.15655957384776964,
+            0.02565925452021478,
+            0.66038013535690654
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "are all getting on finel, Little folma is a dmeet"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.20583943276972136,
+            0.15217266057454071,
+            0.030797136985349305,
+            0.66695059955593561
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "littte thiny and talbs yuits plain She fonans"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.18434995084815364,
+            0.15442414226565948,
+            0.034050094064279696,
+            0.66689769882915928
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "her graw ana very mmuch bhoslie is ttill myBro"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.16279067911421269,
+            0.17880797134781246,
+            0.02761631598669087,
+            0.6490065868407987
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "and friend Iswauld go see hin oftor ponr"
+            }
+          ]
+        }
+      ],
+      "orientation_score" : 707.70000022649765,
+      "revision" : 3,
+      "usesLanguageCorrection" : false
+    },
+    {
+      "clockwise_rotation" : 90,
+      "file" : "06-025-original.png",
+      "lines" : [
+        {
+          "box" : [
+            0.38790294614507265,
+            0.53812144988872168,
+            0.018638969505518133,
+            0.21274528267734993
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "emo go every dei"
+            },
+            {
+              "confidence" : 1,
+              "text" : "ema go every dei"
+            },
+            {
+              "confidence" : 1,
+              "text" : "emo go every dai"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.40424249497233283,
+            0.18082598881397427,
+            0.026085343806465489,
+            0.65614845430756286
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "we like Mr Four owl Aunt Jane lanes shand"
+            },
+            {
+              "confidence" : 1,
+              "text" : "We like Mr Four owl Aunt Jane lanes shand"
+            },
+            {
+              "confidence" : 1,
+              "text" : "we like Mr Four owl Aunt Tane lanes shand"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.42596030580641436,
+            0.18090064450579768,
+            0.026502313685846102,
+            0.67572290836344329
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Spent a night witt as last aveels. they roe bake"
+            },
+            {
+              "confidence" : 1,
+              "text" : "Spent a night witt as last aveels they roe bake"
+            },
+            {
+              "confidence" : 1,
+              "text" : "spent a night witt as last aveels. they roe bake"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.44502391000219832,
+            0.18732445421463806,
+            0.0277255473964379,
+            0.64071916544847751
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "mey sell and theis Children were all well Aunt"
+            },
+            {
+              "confidence" : 1,
+              "text" : "vey sell and theis Children were all well Aunt"
+            },
+            {
+              "confidence" : 1,
+              "text" : "mey sell and theis Children were all well Bunt"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.47093021272868912,
+            0.18101547203591961,
+            0.023255853547789807,
+            0.67328915170937231
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Sane is very much broker and loak, old and feelle"
+            },
+            {
+              "confidence" : 1,
+              "text" : "Sane is very mack broker and loak, old and feelle"
+            },
+            {
+              "confidence" : 1,
+              "text" : "Sane is very much broker and loak, old and feell"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.49231972306832411,
+            0.18080236489563817,
+            0.027137025732393572,
+            0.63839320345253203
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "M's Boas lacks prith, much Ite same has far"
+            },
+            {
+              "confidence" : 1,
+              "text" : "Mr Boas lacks prith, much Ite same has far"
+            },
+            {
+              "confidence" : 1,
+              "text" : "Mr Baas lacks prith, much Ite same has far"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.51889532897776625,
+            0.17880795848493869,
+            0.023255853547789807,
+            0.66445914771003411
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "the last five years. Maripher went is steadille"
+            },
+            {
+              "confidence" : 1,
+              "text" : "the last five years Maripher went is steadille"
+            },
+            {
+              "confidence" : 1,
+              "text" : "the last five years. Maripher went is steadilla"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.53820183017492029,
+            0.18955607521282858,
+            0.026451861380977326,
+            0.63411303904870919
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "last reels out the pieture taken to sevd to"
+            },
+            {
+              "confidence" : 1,
+              "text" : "last reels out the pilture taken to sevd to"
+            },
+            {
+              "confidence" : 1,
+              "text" : "last reels out the pieturs taken to sevd to"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.56686044518739043,
+            0.17660046516450678,
+            0.021802363116175227,
+            0.64679908584096424
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "seen you she was going to turite to you"
+            },
+            {
+              "confidence" : 1,
+              "text" : "seen you she was going to tunite to you"
+            },
+            {
+              "confidence" : 1,
+              "text" : "seen you she was going to tunit to you"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.58414564735865193,
+            0.17633148539778232,
+            0.031108664691413601,
+            0.6672005043130792
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "this caneung hat same of her beans eming in"
+            },
+            {
+              "confidence" : 1,
+              "text" : "this careung hat same of her beans eming in"
+            },
+            {
+              "confidence" : 1,
+              "text" : "this caneung hat same of her beaus eming in"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.60655699443380418,
+            0.176387914686155,
+            0.028447149523592841,
+            0.64062726255654234
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "the mill hove to defer soniting un till on ather"
+            },
+            {
+              "confidence" : 1,
+              "text" : "She mill hove to defer soniting un till on ather"
+            },
+            {
+              "confidence" : 1,
+              "text" : "the mill hove to defer soniting untill on ather"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.62988146178857152,
+            0.18073677104185915,
+            0.026834110430486668,
+            0.66504423405781121
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "tiave Well lautin I was way sanch surpreed."
+            },
+            {
+              "confidence" : 1,
+              "text" : "tiave Well Cautin I was way sanch surpreed."
+            },
+            {
+              "confidence" : 1,
+              "text" : "tiare Well lautin I was way sanch surpreed."
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.65237686024081942,
+            0.18294865456810905,
+            0.02889753508830728,
+            0.65395528283249671
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Anken I saw He homey you sent me I neva."
+            },
+            {
+              "confidence" : 1,
+              "text" : "Anken I saw He homey you sent me I neva"
+            },
+            {
+              "confidence" : 1,
+              "text" : "Anken I saw te homey you sent me I neva."
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.67372611166336027,
+            0.1939737518949961,
+            0.030884515249791411,
+            0.65845286814596204
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "dreamed of sack a Thing as your Ma selling the"
+            },
+            {
+              "confidence" : 1,
+              "text" : "dreamed of suck a Thing as your Ma selling the"
+            },
+            {
+              "confidence" : 1,
+              "text" : "dreamed of sack a Thing as your Aa selling the"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.69909018824829194,
+            0.1784945053403415,
+            0.02714840119063533,
+            0.66942373546792266
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Saddle but as you say meaney never comes arip"
+            },
+            {
+              "confidence" : 1,
+              "text" : "Saddle but as you say meaney never comes asip"
+            },
+            {
+              "confidence" : 1,
+              "text" : "Saddle but as you say Meaney never comes arip"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.71950541879372443,
+            0.1808883539936923,
+            0.026397558955072453,
+            0.66471120728293243
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "I swas vey glad to get it, blastic anit fumily"
+            },
+            {
+              "confidence" : 1,
+              "text" : "I swas wey glad to get it, blastic anit fumily"
+            },
+            {
+              "confidence" : 1,
+              "text" : "I swas vey glad to get it, blastie anit fumily"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.74271103332585664,
+            0.18304246773567046,
+            0.02711980313806428,
+            0.66039893612436573
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "are all getting on finely Little Alana is a dicet"
+            },
+            {
+              "confidence" : 1,
+              "text" : "are all getting on finely Little flana is a dicet"
+            },
+            {
+              "confidence" : 1,
+              "text" : "are all getting on finely Little flama is a dicet"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.76453485855692149,
+            0.17660045919269252,
+            0.027616323735640602,
+            0.67108165070953774
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "little thing and talks quite plain the funans"
+            },
+            {
+              "confidence" : 1,
+              "text" : "little thing and talks quite plain She funans"
+            },
+            {
+              "confidence" : 1,
+              "text" : "little thing and talks quite plain the fanans"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.78197672491913817,
+            0.17880796076017125,
+            0.033430271071192119,
+            0.6666666487098688
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "her grow ana very much bharlie is Still any tine"
+            },
+            {
+              "confidence" : 1,
+              "text" : "her grav ana very much bharlie is Still any tine"
+            },
+            {
+              "confidence" : 1,
+              "text" : "her grow ana very much bharlie is still any tine"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.80959300476620621,
+            0.17439295618074779,
+            0.027616315986690787,
+            0.64679908584096424
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "and friend I swauld go see him ofter pour"
+            },
+            {
+              "confidence" : 1,
+              "text" : "and friend I swauld go see him ofter four"
+            },
+            {
+              "confidence" : 1,
+              "text" : "and friend I swauld go see him ofter poor"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.83575581181008329,
+            0.17660044316340162,
+            0.023255818124019445,
+            0.099337747006529975
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "fellau"
+            },
+            {
+              "confidence" : 1,
+              "text" : "fellan"
+            },
+            {
+              "confidence" : 1,
+              "text" : "fellou"
+            }
+          ]
+        }
+      ],
+      "orientation_score" : 704,
+      "revision" : 3,
+      "usesLanguageCorrection" : true
+    },
+    {
+      "clockwise_rotation" : 90,
+      "file" : "06-025-contrast.png",
+      "lines" : [
+        {
+          "box" : [
+            0.38936551407041858,
+            0.53620421791191297,
+            0.016006020287476663,
+            0.21454494439282468
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "ema go evey dai"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.40441420407734141,
+            0.18085258751441213,
+            0.024876809853560999,
+            0.65609803161890445
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "we like M.r Baur owd Auut Tane lanes sspand"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.42460740687922321,
+            0.18084434486179668,
+            0.028266388665640407,
+            0.67367502534063317
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Spent a sight witt wd lasit aveelt they roe bate"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.44366533489018484,
+            0.18729524979851064,
+            0.02905999181994301,
+            0.64074723192368166
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "vey avell and theis Childron wase all well Bunt"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.47093021272465169,
+            0.1810154725034816,
+            0.023255853547789807,
+            0.6732891517093722
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Sane is very mack broker and laak, old and feelle"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.49327558257131449,
+            0.18085895452851508,
+            0.025601078726424753,
+            0.63827705888335717
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Mr Boas laoks pritty snuch Its samt has far"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.45830058183018191,
+            0.31949940049986436,
+            0.081335961092231013,
+            0.20923923583337922
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "lache prtsy"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.51889533001531363,
+            0.18101546527624646,
+            0.021802363116175227,
+            0.66225164671019976
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "the last five pears Marughes ment so tendfuille"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.52083332934573823,
+            0.45569620146756462,
+            0.041666674046618835,
+            0.10759494037409323
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "Saleye"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.5381786840774796,
+            0.18954344984284344,
+            0.028577367303264878,
+            0.63633438473976722
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Past weels oud theer pieture taken to-sevd to"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.56686044518739043,
+            0.17880796839621194,
+            0.021802363116175227,
+            0.64459158484112977
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "steerlqar she was gaing to tunit to yon"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.58413064204515863,
+            0.1763520628857661,
+            0.031140018049119478,
+            0.66715929346177194
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Hhis eareung hat same of hes heaus eming in"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.60658539881263385,
+            0.17641143928636638,
+            0.028393247829089696,
+            0.63837235561010586
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "the mill hove to defer soniting un till on ather"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.62993525479511225,
+            0.18077153440351967,
+            0.026775612501785395,
+            0.66500679413407437
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "tiave Well lautin I was way sianch surpneeed."
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.65235946779680976,
+            0.18079566018524251,
+            0.028897095612156698,
+            0.65390108921626766
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Anken I sow the honey yon sent me I neva."
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.67366805072731251,
+            0.19397086822634468,
+            0.030972166941460655,
+            0.65845960194519526
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "dseomed of sack a Thing as your Ma selling the"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.69907106975297628,
+            0.17634592330578969,
+            0.025733666577729353,
+            0.67157224838647389
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Saddle but as you say maney never camesasips"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.71950541979073634,
+            0.18088831079464207,
+            0.026404716770661363,
+            0.66472208910249342
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "I swas vey glad to get it, Claslie anict fumily"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.74272196500077048,
+            0.18085180800423639,
+            0.027119798710093068,
+            0.66039893612436562
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "are all getting on finely Little Ablanu is a dieet"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.76453485855692149,
+            0.17880796243819463,
+            0.027616323735640602,
+            0.66887414970970327
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "littte thing and talks quits plain She fanon's"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.78052323550949787,
+            0.17660045691943094,
+            0.034883760395813868,
+            0.66887414970970327
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "her gran ona very muck blaslie is ttill mnyBno"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.8081395164817271,
+            0.17439295618074779,
+            0.029069804204319816,
+            0.64679908584096424
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "and friend Iswauld go sec him oftere porr"
+            }
+          ]
+        }
+      ],
+      "orientation_score" : 715.80000019073486,
+      "revision" : 3,
+      "usesLanguageCorrection" : false
+    },
+    {
+      "clockwise_rotation" : 90,
+      "file" : "06-025-contrast.png",
+      "lines" : [
+        {
+          "box" : [
+            0.38936551407041858,
+            0.53620421791191297,
+            0.016006020287476663,
+            0.21454494439282468
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "ema go evey dai"
+            },
+            {
+              "confidence" : 1,
+              "text" : "eme go evey dai"
+            },
+            {
+              "confidence" : 1,
+              "text" : "ena go evey dai"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.40441420407734141,
+            0.18085258751441213,
+            0.024876809853560999,
+            0.65609803161890445
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "we like Mr Bour owl Aunt Tave lanes spand"
+            },
+            {
+              "confidence" : 1,
+              "text" : "we like Mr Bour owl Aunt Tave lanes sopand"
+            },
+            {
+              "confidence" : 1,
+              "text" : "we like Mr Bour owl Aunt Tave Canes sopand"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.42460740687922321,
+            0.18084434486179668,
+            0.028266388665640407,
+            0.67367502534063317
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Spent a sight witt as last aweels they roe bate"
+            },
+            {
+              "confidence" : 1,
+              "text" : "Spent a sight witt as last aweels they ros bate"
+            },
+            {
+              "confidence" : 1,
+              "text" : "spent a sight witt as last aweels they ros bate"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.44366533489018484,
+            0.18729524979851064,
+            0.02905999181994301,
+            0.64074723192368166
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "vey avell and theis Childron ware all well Bunt"
+            },
+            {
+              "confidence" : 1,
+              "text" : "vey avell and theis Childron wase all well Bunt"
+            },
+            {
+              "confidence" : 1,
+              "text" : "vey avell and theis Childrow ware all well Bunt"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.47093021272465169,
+            0.1810154725034816,
+            0.023255853547789807,
+            0.6732891517093722
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Sane is very much brokers and loak, old and feelle"
+            },
+            {
+              "confidence" : 1,
+              "text" : "Sane is very much brokers and loak, old and feell"
+            },
+            {
+              "confidence" : 1,
+              "text" : "Sane is very much broker and loak, old and feelle"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.49327558257131449,
+            0.18085895452851508,
+            0.025601078726424753,
+            0.63827705888335717
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Mr Boar lacks pritty such Its sant has far"
+            },
+            {
+              "confidence" : 1,
+              "text" : "Mr Boar lacks pritty such Its samt has far"
+            },
+            {
+              "confidence" : 1,
+              "text" : "Mr Boar lacks pritty much Its samt has far"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.45830058183018191,
+            0.31949940049986436,
+            0.081335961092231013,
+            0.20923923583337922
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "late party"
+            },
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "late puts"
+            },
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "late prit"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.51889533001531363,
+            0.18101546527624646,
+            0.021802363116175227,
+            0.66225164671019976
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "the last five pears Marghes went so tenguilla"
+            },
+            {
+              "confidence" : 1,
+              "text" : "the last five pears Marghes went so tenguille"
+            },
+            {
+              "confidence" : 1,
+              "text" : "the last five pears Marghes went so tenduilla"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.5381786840774796,
+            0.18954344984284344,
+            0.028577367303264878,
+            0.63633438473976722
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "last weets ond the pisture taken to-send to"
+            },
+            {
+              "confidence" : 1,
+              "text" : "last weets ond the pieture taken to-send to"
+            },
+            {
+              "confidence" : 1,
+              "text" : "last weets ond the pilture taken to-send to"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.56686044518739043,
+            0.17880796839621194,
+            0.021802363116175227,
+            0.64459158484112977
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "steelyar she was going to tunit to you"
+            },
+            {
+              "confidence" : 1,
+              "text" : "steelyar she was going to tunite to you"
+            },
+            {
+              "confidence" : 1,
+              "text" : "steergar she was going to tunit to you"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.58413064204515863,
+            0.1763520628857661,
+            0.031140018049119478,
+            0.66715929346177194
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "this careung hat same of her beans eming in"
+            },
+            {
+              "confidence" : 1,
+              "text" : "this caneung hat same of her beans eming in"
+            },
+            {
+              "confidence" : 1,
+              "text" : "this eareung hat same of her beans eming in"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.60658539881263385,
+            0.17641143928636638,
+            0.028393247829089696,
+            0.63837235561010586
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "the mill hove to defer soniting un till on ather"
+            },
+            {
+              "confidence" : 1,
+              "text" : "She mill hove to defer soniting un till on ather"
+            },
+            {
+              "confidence" : 1,
+              "text" : "the mill hove to defer soniting untill on ather"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.62993525479511225,
+            0.18077153440351967,
+            0.026775612501785395,
+            0.66500679413407437
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "time Well lautin I was way sianch surpreed."
+            },
+            {
+              "confidence" : 1,
+              "text" : "time Well lautin I was way sinch surpreed."
+            },
+            {
+              "confidence" : 1,
+              "text" : "time Well lautin I was way sianch surpree."
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.65235946779680976,
+            0.18079566018524251,
+            0.028897095612156698,
+            0.65390108921626766
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Aken I saw the honey you sent me I neva."
+            },
+            {
+              "confidence" : 1,
+              "text" : "Aken I saw the honey you sent me I neva"
+            },
+            {
+              "confidence" : 1,
+              "text" : "Aken I saw the homey you sent me I neva."
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.67366805072731251,
+            0.19397086822634468,
+            0.030972166941460655,
+            0.65845960194519526
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "dreamed of sack a Thing as your Ma selling the"
+            },
+            {
+              "confidence" : 1,
+              "text" : "dreamed of suck a Thing as your Ma selling the"
+            },
+            {
+              "confidence" : 1,
+              "text" : "dreamed of sack a Thing as your Mo selling the"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.69907106975297628,
+            0.17634592330578969,
+            0.025733666577729353,
+            0.67157224838647389
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Saddle but as you say maney never cameramips"
+            },
+            {
+              "confidence" : 1,
+              "text" : "Saddle but as you say maney never camerasips"
+            },
+            {
+              "confidence" : 1,
+              "text" : "Saddle but as you say taney never cameramips"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.71950541979073634,
+            0.18088831079464207,
+            0.026404716770661363,
+            0.66472208910249342
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "I swas vey glad to get it, blastic anit fumily"
+            },
+            {
+              "confidence" : 1,
+              "text" : "I swas vey glad to get it, blastic anit fumity"
+            },
+            {
+              "confidence" : 1,
+              "text" : "I swas vey glad to get it, blastie anit fumily"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.74272196500077048,
+            0.18085180800423639,
+            0.027119798710093068,
+            0.66039893612436562
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "are all getting on finely Little Alana is a dicet"
+            },
+            {
+              "confidence" : 1,
+              "text" : "are all getting on finely Little flana is a dicet"
+            },
+            {
+              "confidence" : 1,
+              "text" : "are all getting on finety Little Alana is a dicet"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.76453485855692149,
+            0.17880796243819463,
+            0.027616323735640602,
+            0.66887414970970327
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "little thing and talks quite plain the fanons"
+            },
+            {
+              "confidence" : 1,
+              "text" : "little thing and talks quite plain the fanan's"
+            },
+            {
+              "confidence" : 1,
+              "text" : "little thing and talks quite plain the fanans"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.78052323550949787,
+            0.17660045691943094,
+            0.034883760395813868,
+            0.66887414970970327
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "her gran ona very much bharlie is still my Bro"
+            },
+            {
+              "confidence" : 1,
+              "text" : "her gran ona very much bharlie is Still my Bro"
+            },
+            {
+              "confidence" : 1,
+              "text" : "her gran ona very much bharlie is still my Bre"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.8081395164817271,
+            0.17439295618074779,
+            0.029069804204319816,
+            0.64679908584096424
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "and friend Iswauld go see him after porr"
+            },
+            {
+              "confidence" : 1,
+              "text" : "and friend Iswauld go see him after pare"
+            },
+            {
+              "confidence" : 1,
+              "text" : "and friend Iswauld go see him after parr"
+            }
+          ]
+        }
+      ],
+      "orientation_score" : 699.70000010728836,
+      "revision" : 3,
+      "usesLanguageCorrection" : true
+    }
+  ]
+}

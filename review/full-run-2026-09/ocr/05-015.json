@@ -1,0 +1,705 @@
+{
+  "best_clockwise_rotation" : 180,
+  "engine" : "Apple Vision",
+  "os" : "Version 27.0 (Build 26A428)",
+  "page_id" : "05-015",
+  "records" : [
+    {
+      "clockwise_rotation" : 0,
+      "file" : "05-015-original.png",
+      "lines" : [
+        {
+          "box" : [
+            0.094364164775064846,
+            0.91989391134466536,
+            0.87977951267343435,
+            0.044349414472001025
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "I eapet to bes in Deznz is Me full K mile eu Juu"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.61481481422921436,
+            0.90255591081095343,
+            0.37037037152136909,
+            0.021964856230031859
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "I am nur prun kukěanz,"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.6796296272502943,
+            0.87060702802703438,
+            0.24444444893333916,
+            0.027648785624641237
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "aтo Bads"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.095744676265428694,
+            0.74583333305938271,
+            0.36170213625533032,
+            0.037500000609376638
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Nattanis Dauglacs"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.2296296374538378,
+            0.70766773130599048,
+            0.38333331883075039,
+            0.055511182108626267
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "Rio oah Tice Offien"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.3900748797204675,
+            0.68972824414676093,
+            0.14045522654857745,
+            0.039082396144684228
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Lexas."
+            }
+          ]
+        }
+      ],
+      "orientation_score" : 54.200000286102295,
+      "revision" : 3,
+      "usesLanguageCorrection" : false
+    },
+    {
+      "clockwise_rotation" : 90,
+      "file" : "05-015-original.png",
+      "lines" : [
+        {
+          "box" : [
+            0.91989024455145152,
+            0.025856301567333762,
+            0.047256411835789325,
+            0.87793229796493133
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "I exaret tu hes in Dezas iss te fult kuile du fue"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.89886661364150722,
+            0.012754642968386465,
+            0.027176377110587846,
+            0.36890605607974802
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "l am nur prunu kukě, aunči"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.87047496502269406,
+            0.075473289338985228,
+            0.030292105750915788,
+            0.24184288755210981
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "Famo Bads"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.74295732202118192,
+            0.54501822759901053,
+            0.047117001713274376,
+            0.3450876457385279
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Nattanis Dauglaco"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.71220928947519746,
+            0.37962962358397301,
+            0.045058165114527648,
+            0.39259260686497588
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Reo oak Tist Offie"
+            }
+          ]
+        }
+      ],
+      "orientation_score" : 60.000000238418579,
+      "revision" : 3,
+      "usesLanguageCorrection" : false
+    },
+    {
+      "clockwise_rotation" : 180,
+      "file" : "05-015-original.png",
+      "lines" : [
+        {
+          "box" : [
+            0.022049469326526849,
+            0.036399340719598605,
+            0.87996802553382769,
+            0.039458731873728614
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "I expet te hes in Zixas in the full k vile eu fuu"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.010854065646874758,
+            0.0706375599262139,
+            0.36907548768457232,
+            0.029267981410407429
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "l am uur frunikukant"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.54749001021424826,
+            0.2126100051972446,
+            0.33658940146265592,
+            0.040026830788999268
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Vattaniit Dauglaco"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.38333332777401741,
+            0.23255811193392351,
+            0.38518519508377358,
+            0.059593075761398939
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "KeO oak Tive Officn"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.46599020775516792,
+            0.27412113074871769,
+            0.14005291971801009,
+            0.033156114645278456
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "Txas."
+            }
+          ]
+        }
+      ],
+      "orientation_score" : 68.500000238418579,
+      "revision" : 3,
+      "usesLanguageCorrection" : false
+    },
+    {
+      "clockwise_rotation" : 270,
+      "file" : "05-015-original.png",
+      "lines" : [
+        {
+          "box" : [
+            0.033791899679246715,
+            0.092510705046720876,
+            0.04633974648131349,
+            0.88719323307822051
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "I sopevt te hea in Denna in Mi fule K mile su Juu"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.072584525803889868,
+            0.61649303327824989,
+            0.027084222616859902,
+            0.37074674462592294
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "I am fuur frunikukzannz"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.099560457914039571,
+            0.69220592636598632,
+            0.028576689406324893,
+            0.24730225541683892
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "umo Bads"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.2128012208476924,
+            0.10863123634019656,
+            0.038524679482554475,
+            0.34943099322969706
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "NaManiit Dauglaco"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.23982556875360148,
+            0.22592592344244522,
+            0.046511653132332048,
+            0.3944444520410354
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Re oak Tart Offien"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.27253955742072183,
+            0.39346421492071315,
+            0.036032314117724118,
+            0.13740461858372577
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "Lxas."
+            }
+          ]
+        }
+      ],
+      "orientation_score" : 55.40000057220459,
+      "revision" : 3,
+      "usesLanguageCorrection" : false
+    },
+    {
+      "clockwise_rotation" : 180,
+      "file" : "05-015-original.png",
+      "lines" : [
+        {
+          "box" : [
+            0.022049469326526849,
+            0.036399340719598605,
+            0.87996802553382769,
+            0.039458731873728614
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "I expeł te hes in Pixas in the full k vile eu fuu"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "I expeł te hes in Pixas in the full K vile eu fuu"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "I expeł te hes in Pixas in the full k vile eu Juu"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.010854065646874758,
+            0.0706375599262139,
+            0.36907548768457232,
+            0.029267981410407429
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "l am uur frunn kakant"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "l am uur frunn kutant"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "l am uur frunn kukant"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.54749001021424826,
+            0.2126100051972446,
+            0.33658940146265592,
+            0.040026830788999268
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "Vakant Dauglaco"
+            },
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "Vakant Dauglaso"
+            },
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "Vakanț Dauglaco"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.38333332777401741,
+            0.23255811193392351,
+            0.38518519508377358,
+            0.059593075761398939
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "KeO oak Tave Officn"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "KeO oak Tie Officn"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "KeO oak Tir Officn"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.46599020775516792,
+            0.27412113074871769,
+            0.14005291971801009,
+            0.033156114645278456
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "Texas."
+            },
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "Tras."
+            },
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "Texaa."
+            }
+          ]
+        }
+      ],
+      "orientation_score" : 41.700000166893005,
+      "revision" : 3,
+      "usesLanguageCorrection" : true
+    },
+    {
+      "clockwise_rotation" : 180,
+      "file" : "05-015-contrast.png",
+      "lines" : [
+        {
+          "box" : [
+            0.024074064541700045,
+            0.039244126140399738,
+            0.87407409295045191,
+            0.033430352378577055
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "I iapet t he in Dizas in Mi fule Kuile su pu"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.010730580761630752,
+            0.06963301501312591,
+            0.36931863384674135,
+            0.032206407370277912
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "l am uur frunukukzani"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.073718981003813064,
+            0.099939855590320037,
+            0.23952462376984945,
+            0.028588733734033256
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "Tumo Bass"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.5492531059606871,
+            0.21294443992180634,
+            0.33484996166345782,
+            0.039872897699618104
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "VaManik Dauglaa"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.38693794466163023,
+            0.23648760392537416,
+            0.37797596109860299,
+            0.054641071599893398
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "Ro oak Tară Officn"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.46371326038719196,
+            0.27236381385540887,
+            0.14268532498548092,
+            0.036293133379171505
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "ixas."
+            }
+          ]
+        }
+      ],
+      "orientation_score" : 64.100000321865082,
+      "revision" : 3,
+      "usesLanguageCorrection" : false
+    },
+    {
+      "clockwise_rotation" : 180,
+      "file" : "05-015-contrast.png",
+      "lines" : [
+        {
+          "box" : [
+            0.024074064541700045,
+            0.039244126140399738,
+            0.87407409295045191,
+            0.033430352378577055
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "I iapet t he in Dizas in Mi fule Kuile su pu"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "I iapet t he in Dizas in Mi full Kuile su pu"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "I iapet t he in Dizas in Mi fale Kuile su pu"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.010730580761630752,
+            0.06963301501312591,
+            0.36931863384674135,
+            0.032206407370277912
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "l am aur prunu kakzani"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "l am aur prunu kazani"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "l am aur prunu kakzanč"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.073718981003813064,
+            0.099939855590320037,
+            0.23952462376984945,
+            0.028588733734033256
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "Tumo Bass"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "tumo Bass"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "Tumo Basa"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.5492531059606871,
+            0.21294443992180634,
+            0.33484996166345782,
+            0.039872897699618104
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "VaManik Dauglaa"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "VaManis Dauglaa"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "VaManik Dauglas"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.38693794466163023,
+            0.23648760392537416,
+            0.37797596109860299,
+            0.054641071599893398
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "Ro oak Tară Officn"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "RO oak Tară Officn"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "Ro oak Tară Offic"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.46371326038719196,
+            0.27236381385540887,
+            0.14268532498548092,
+            0.036293133379171505
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "Texas."
+            },
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "Tixas."
+            },
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "exas."
+            }
+          ]
+        }
+      ],
+      "orientation_score" : 46.5,
+      "revision" : 3,
+      "usesLanguageCorrection" : true
+    }
+  ]
+}

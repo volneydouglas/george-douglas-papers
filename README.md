@@ -2,11 +2,11 @@
 
 An independent family project prepared for Volney Douglas from scans supplied by Abilene Christian University Special Collections and Archives. The collection is the George Douglas Papers, 1830–1939, Center for Restoration Studies MS 5.
 
-**Private review edition · September 2026 · v1.0-review**
+**Private review edition · September 2026 · revision 1.1**
 
-Both editions account for all **387 pages of the six supplied source PDFs**. This is complete coverage of the supplied scans, including covers, later labels, envelopes, duplicates and fragments. It does not mean every word has been recovered. The annotated transcript contains **1,200 marked unresolved readings** and has not received an independent human transcription check or ACU approval.
+Both editions account for all **387 pages of the six supplied source PDFs**. This is complete coverage of the supplied scans, including covers, later labels, envelopes, duplicates and fragments. It does not mean every word has been recovered. The annotated transcript contains **1,175 marked unresolved readings** and has not received an independent human transcription check or ACU approval.
 
-**New review addendum:** [50-item image pilot](review/image-pilot-2026-09/) with a printable report, source crops and corrected draft excerpts. It supports 16 literal readings, verifies 12 clearer-witness links and partly recovers two names. The original edition exports remain intact; these selected results are not a recovery estimate for the rest of the collection.
+**Revision 1.1:** [Complete uncertainty processing run](review/full-run-2026-09/) covering all 1,200 original items on 193 pages. Supported corrections are now applied throughout both editions and their download packages. There are 81 focused image decisions including the earlier pilot: 28 resolved readings, two partial recoveries and 16 clearer-witness references. The remaining 1,119 items were machine-processed without a fresh individual image adjudication. All uncertain passages remain marked; see the audit for exact scope.
 
 ## Start reading
 
@@ -39,7 +39,8 @@ A locator such as `05-025-P02` means source PDF 05, scan page 25, transcript blo
 - [Structured transcript data](editions/annotated/Supporting-files/Transcripts.json)
 - [Review status and remaining work](REVIEW-STATUS.md)
 - [Contextual review of the 1,200 unresolved readings, September 2026](review/uncertain-text-review-2026-09.md)
-- [Image review of 50 selected items, with evidence and corrected excerpts](review/image-pilot-2026-09/)
+- [Complete processing run, applied corrections and item ledger](review/full-run-2026-09/)
+- [Historical image pilot of 50 selected items](review/image-pilot-2026-09/)
 - [Research digest for the family history](research/digest-for-the-names-we-carry.md) and [facts table](research/facts.csv)
 - [How to propose a correction](CONTRIBUTING.md)
 
@@ -47,7 +48,7 @@ The original source PDFs are identified by filename and SHA-256 checksum in the 
 
 ## Preparation and attribution
 
-These editions were prepared with AI assistance. All supplied scan pages received an initial image reading; selected passages received focused review. The published guide explains the method, limitations, uncertainty notation and independence from the other agent's version. The plain-English edition and direct transcript have not yet been systematically reconciled with each other or with that other version.
+These editions were prepared with AI assistance. All supplied scan pages received an initial image reading; selected passages received focused review. The published guide explains the method, limitations, uncertainty notation and independence from the other agent's version. Revision 1.1 applies selected comparisons between the family and annotated editions and another agent's contextual review. It is not a blinded comparison, and a systematic reconciliation of every passage remains unfinished.
 
 This is an independent family contribution, with thanks to ACU for preserving the collection and providing scans. It is not an ACU publication or an endorsed scholarly edition. Historical assertions and language in the letters remain attributable to their writers.
 
@@ -55,4 +56,4 @@ This is an independent family contribution, with thanks to ACU for preserving th
 
 This repository is being kept private while the material is reviewed and reuse terms are clarified. No public website is deployed. See [rights and publication status](RIGHTS.md). An invitation to ACU to review the contribution has not yet been sent.
 
-Use the `v1.0-review` tag for this initial snapshot. The document editions themselves identify their version as 1.0. Future revisions should record corrected readings and preserve earlier releases; see [the change log](CHANGELOG.md).
+Current document editions identify themselves as version/revision 1.1. The `v1.0-review` tag preserves the original snapshot for comparison; the intervening pilot remains in the review history. See [the change log](CHANGELOG.md) for applied corrections and limits.

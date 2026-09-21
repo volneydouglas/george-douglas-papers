@@ -1,0 +1,18 @@
+[
+  {
+    "file": "George-Douglas-University-Transcription-Edition.zip",
+    "files": 32,
+    "bytes": 2080681,
+    "sha256": "e6b7d0fa70c986df50b14e9324d75c38d5be29dcb6d6ac61cf82ced00d41fc22",
+    "zip_integrity": "passed",
+    "all_payload_checksums_verified": true
+  },
+  {
+    "file": "George-Douglas-Independent-Family-Edition.zip",
+    "files": 23,
+    "bytes": 1403321,
+    "sha256": "976f9682d3387520e42f08a5b5a9feff2dac600e7ec72ed3b6e1d65100a9c51b",
+    "zip_integrity": "passed",
+    "all_payload_checksums_verified": true
+  }
+]

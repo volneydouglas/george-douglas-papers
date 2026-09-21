@@ -1,0 +1,82 @@
+{
+  "date": "2026-09-20",
+  "annotated": {
+    "source_scan_pages": 387,
+    "transcript_blocks": 971,
+    "unresolved_items": 1175,
+    "edition_pdf_pages": {
+      "I": 13,
+      "II": 44,
+      "III": 71,
+      "IV": 58
+    },
+    "source_checksums_verified": true,
+    "docx_text_matches_master": true,
+    "pdf_transcript_text_matches_master": true,
+    "html_and_text_match_master": true,
+    "html_anchors_verified": true,
+    "review_levels": {
+      "initial_image_reading": 308,
+      "selected_passages_image_adjudicated_2026_09": 41,
+      "uncertainty_annotation": 11,
+      "focused_image_review": 27
+    },
+    "visual_review": "Passed; see visual-review.json",
+    "html_filters": "Case-folding, zero-result query and reset passed on all 387 articles and 1175 uncertainty rows."
+  },
+  "family": {
+    "source_pages": 387,
+    "entries": 161,
+    "source_coverage": "Each page accounted for exactly once",
+    "volumes": [
+      {
+        "file": "01-Guide-and-Church-Papers.pdf",
+        "pages": 10,
+        "visual_review": "See visual-review.json: changed pages inspected; unchanged bodies compared with previously inspected edition",
+        "pdf_paragraphs_match_docx": true,
+        "word_contents_links": 12,
+        "pdf_link_annotations": 12,
+        "pdf_bookmarks": 18,
+        "broken_links": 0,
+        "sha256": "9c02032b0b54dc1f5db01d8f1d95c56af6e51fcadd47535d5a8e258fad2facae"
+      },
+      {
+        "file": "02-Folder-1.pdf",
+        "pages": 31,
+        "visual_review": "See visual-review.json: changed pages inspected; unchanged bodies compared with previously inspected edition",
+        "pdf_paragraphs_match_docx": true,
+        "word_contents_links": 37,
+        "pdf_link_annotations": 37,
+        "pdf_bookmarks": 39,
+        "broken_links": 0,
+        "sha256": "b6a70b0ce726d742e1b3a14dac7f53bc9a87ff9c63ebf17af5d27de49ddd54b1"
+      },
+      {
+        "file": "03-Folder-2.pdf",
+        "pages": 48,
+        "visual_review": "See visual-review.json: changed pages inspected; unchanged bodies compared with previously inspected edition",
+        "pdf_paragraphs_match_docx": true,
+        "word_contents_links": 79,
+        "pdf_link_annotations": 79,
+        "pdf_bookmarks": 81,
+        "broken_links": 0,
+        "sha256": "5602f8dd5ba65d1727f27c0034105a2acab8f679ee5c823f6291a272aa3fd2b7"
+      },
+      {
+        "file": "04-Folder-3.pdf",
+        "pages": 38,
+        "visual_review": "See visual-review.json: changed pages inspected; unchanged bodies compared with previously inspected edition",
+        "pdf_paragraphs_match_docx": true,
+        "word_contents_links": 33,
+        "pdf_link_annotations": 34,
+        "pdf_bookmarks": 35,
+        "broken_links": 0,
+        "sha256": "b6e247cab2b580afcc4521ee5f90ac47bcd324f1db702a7ab7ab409827b6a186"
+      }
+    ],
+    "total_reading_pages": 127
+  },
+  "html_filter_checks": "passed",
+  "visual_review": "visual-review.json",
+  "font_encoding_visual_check": "font-repair-visual-check.json"
+}

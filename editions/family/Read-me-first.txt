@@ -1,11 +1,19 @@
-GEORGE DOUGLAS PAPERS — INDEPENDENT FAMILY READING EDITION
+GEORGE DOUGLAS PAPERS — FAMILY READING EDITION
+Revision 1.1, September 2026
 
 Start with 01-Guide-and-Church-Papers.pdf.
 
-Four PDFs are ready to read and share; four matching Word documents are editable. All 387 pages of the six supplied primary PDFs are accounted for. Illegible passages remain marked. The existing transcription PDF is excluded. The archival finding aid describes additional folders not supplied among the local scans.
+Four searchable PDFs and four editable Word documents account for all 387
+pages of the six supplied source PDFs. Unread passages remain marked. The
+Plain-text folder contains the same source-organized readings in Markdown.
+Source-ledger.json records page coverage. Folders 4–7 listed in the finding aid
+were not supplied and are outside this edition.
 
-Read the independence note and editorial conventions in Volume I before comparing readings. Scan-page references accompany every entry. Source-ledger.json provides a machine-readable coverage index.
+Read the method and comparison note in Volume I. The first family reading
+was prepared separately; revision 1.1 incorporates selected image-supported
+corrections after comparison with the annotated edition and contextual review.
+It is AI-assisted and has not been independently human verified. Consult
+Review-summary.txt for exactly what was processed, checked and changed.
 
-The Plain-text folder contains the same readings as Markdown text, organized by source file, for comparison and searching.
-
-Prepared for Volney Douglas, September 2026. Original source PDFs were not altered.
+Prepared for Volney Douglas. Original source PDFs remain unchanged. Nothing
+has been sent to the family or university. SHA256SUMS.txt verifies package files.

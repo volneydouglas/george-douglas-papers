@@ -1,0 +1,2571 @@
+{
+  "best_clockwise_rotation" : 90,
+  "engine" : "Apple Vision",
+  "os" : "Version 27.0 (Build 26A428)",
+  "page_id" : "05-058",
+  "records" : [
+    {
+      "clockwise_rotation" : 0,
+      "file" : "05-058-original.png",
+      "lines" : [
+        {
+          "box" : [
+            0.36503386231984553,
+            0.86366151795154367,
+            0.094302851359049478,
+            0.045662438691552065
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "efong"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.22985079235837463,
+            0.82607182587064698,
+            0.47513010660807292,
+            0.053098934799877484
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Just tefore the bitlle peoker"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.26592271151618385,
+            0.79904844499748584,
+            0.38258643256293401,
+            0.035019480766941724
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Jam linking mist of you"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.22933278697063175,
+            0.77144694962185301,
+            0.54522267659505208,
+            0.031020283105954727
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "While ufar the fiedd sveise wakehani"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.23768245150376022,
+            0.72277603596383155,
+            0.39203806559244792,
+            0.056885417223372148
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "W.th the enrenig naitsenn"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.19737401432412702,
+            0.69887449457336848,
+            0.51978078206380207,
+            0.055138867885912268
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "bačmădes brave anainet ase kingur"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.19410609844577317,
+            0.66704534523790848,
+            0.58830776638454862,
+            0.044544278488032663
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Killed witt long ble of hame and ifudl"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.20038910724446521,
+            0.63662790750988396,
+            0.59143968370225697,
+            0.040818195437910543
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Her well theg knm that on the meraet"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.20212927724768784,
+            0.59896376440672916,
+            0.49062540690104173,
+            0.042172654944272803
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "lome mag sleef beneath the rod"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.26737441598081596,
+            0.53305959323503704,
+            0.59350273980034718,
+            0.057718261162044593
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "blumz Hasewell petter gar maynesen"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.41021654623637976,
+            0.50796634608436131,
+            0.43458411322699658,
+            0.04034288131182473
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Poress mie te gen heant agan"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.39299610068194774,
+            0.47965116305566691,
+            0.57003892686631952,
+            0.036517990960015179
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Bal oli gur will nd foget me petter"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.4256081227158553,
+            0.45452053135657144,
+            0.47171868218315977,
+            0.033790877802455044
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "9f 9m numtered wwith therlarn"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.18458903798914814,
+            0.38834155441978424,
+            0.41293606228298607,
+            0.033491416159356135
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Ok 9 lung he vee you Jlether"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.21772175235286581,
+            0.35775214359816732,
+            0.40895436604817703,
+            0.035041002491813411
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "And the loving cnesat home"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.17898832256990127,
+            0.33706467644677207,
+            0.53307393391927083,
+            0.023400439551813701
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "But Jill never leave our buunen"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.19625057565675991,
+            0.30486332297022745,
+            0.3858140055338542,
+            0.029328433237660989
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Jill in hasor 9emm eme"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.15317070712656125,
+            0.26795432973559197,
+            0.4837623087565105,
+            0.038471274114959875
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Jell thore traiteis ell mapt yo"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.17693623865504732,
+            0.24221478033772759,
+            0.52353990342881951,
+            0.027155245121438742
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "That lein crivet worde ave knud i"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.14730100046852385,
+            0.20470789831439218,
+            0.48742150200737849,
+            0.037110542183491635
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Sneven battle kill The sellchen"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.17876601991651783,
+            0.17058276752122625,
+            0.46540228949652773,
+            0.039252795192534995
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Ry the hel p they give the fve"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.33791773905880818,
+            0.11339277357733935,
+            0.349698723687066,
+            0.038333835886485534
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "lohuns Hare well sie"
+            }
+          ]
+        }
+      ],
+      "orientation_score" : 490.00000059604645,
+      "revision" : 3,
+      "usesLanguageCorrection" : false
+    },
+    {
+      "clockwise_rotation" : 90,
+      "file" : "05-058-original.png",
+      "lines" : [
+        {
+          "box" : [
+            0.86171061736648735,
+            0.52654564666456927,
+            0.047036435078230299,
+            0.11103205362955726
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "fong"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.82775043853450392,
+            0.28545326990005349,
+            0.047458587001212194,
+            0.48228658040364591
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Just tefore The battle sethen"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.79383285653759927,
+            0.31852954799864919,
+            0.040906910872578028,
+            0.41387108696831598
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Jam kinting mest of you"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.77186720360003835,
+            0.23119744610222071,
+            0.037685985786602538,
+            0.53555599636501727
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "hile afor the freka pveise vatetian"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.73583103508711789,
+            0.28360303702761436,
+            0.037156052850372157,
+            0.46998006184895835
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : ".N hereneny mpientiriona 1a"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.69777556608915758,
+            0.24636532620947671,
+            0.051819844032401474,
+            0.55609032524956603
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "baănădee brave anuinet ase tjingun s"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.67005812086654826,
+            0.21789884361050904,
+            0.03779073655111076,
+            0.58754862467447921
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Hilled with thing hie of hame and itudl"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.63466775425477451,
+            0.20578443834839155,
+            0.046826892428928013,
+            0.59228474934895825
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Hes well they Anm that on the marned"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.59895073805544974,
+            0.30337235384817629,
+            0.042188078214477787,
+            0.49063056098090274
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Some mag sleef beneath the rock"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.53761983998905893,
+            0.13928355080158505,
+            0.050094832235307751,
+            0.59119500054253471
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "bluma Karewell fother you may never"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.51162789440743639,
+            0.1556420300160607,
+            0.033430257642249273,
+            0.43385213216145846
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Porees mie te gunn heant agan"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.48041310529417453,
+            0.034836588257577183,
+            0.0366130768758543,
+            0.56841552734375
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Bal ali yor will nod fonget me pletter"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.45450064435883392,
+            0.09890751300147127,
+            0.035326323501308543,
+            0.4716793823242188
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "9f I'm mumtered wwith therlan"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.38780945918055232,
+            0.40234231935051568,
+            0.035639062252013021,
+            0.41124077690972227
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Oh I lang tå vee yon Jeatter"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.35923428317958017,
+            0.37334335466302637,
+            0.033539743565801361,
+            0.40700059678819456
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "And the loving anisat hame"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.33575579691122309,
+            0.28599222098148525,
+            0.024709342526361533,
+            0.531128404405382
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "But Jll neven leave our tunner"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.3018037608541112,
+            0.41969760533325673,
+            0.03311001443941991,
+            0.38615027533637158
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Jill in haor 9 ean erme"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.2661528120163944,
+            0.3456224024643233,
+            0.03887392869636197,
+            0.50125851101345487
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "Jell thore traitrs lt mapt yo"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.23347513069880013,
+            0.29756904528219685,
+            0.037345974797237808,
+            0.52554239908854161
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "That thein crinel wards ave teme)i"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.20320408157087277,
+            0.36527581274420262,
+            0.038096078395052718,
+            0.4874371337890625
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Ineney hattle kill The nilfden"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.1666631091966557,
+            0.3555987378738904,
+            0.04515202207549493,
+            0.46391035291883675
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "By. the hel p they gine the fre"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.1133516642458792,
+            0.31049471029495512,
+            0.036883849211988562,
+            0.34975348578559018
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "lohung Hare well sie"
+            }
+          ]
+        }
+      ],
+      "orientation_score" : 495.00000059604645,
+      "revision" : 3,
+      "usesLanguageCorrection" : false
+    },
+    {
+      "clockwise_rotation" : 180,
+      "file" : "05-058-original.png",
+      "lines" : [
+        {
+          "box" : [
+            0.54324787259618079,
+            0.088116682920821532,
+            0.11329733106825091,
+            0.045436213858685126
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "efong"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.2912140320808641,
+            0.12426096216253268,
+            0.47481272379557299,
+            0.046506723558922602
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Just tafore The baittle Mothen"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.34577401655317397,
+            0.16598880719267262,
+            0.38634684244791662,
+            0.034569887379508724
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Jam bimting mest of you"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.2447542824668916,
+            0.19599252379168308,
+            0.52414201524522575,
+            0.033624940052949692
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "While ufar the feedd gvene wakela"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.28350141092358616,
+            0.22286899066660493,
+            0.47467366536458333,
+            0.052144479198044547
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "ZiV heenenp napienrsne ts"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.30794590829786395,
+            0.25064061054764608,
+            0.49264546712239576,
+            0.048107444548092904
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "bannadee brave anaind ase tjřngu"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.23391066605316724,
+            0.28235737687856466,
+            0.56538492838541665,
+            0.058379070478094652
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "Hilled milte thng kli of kame ciidl stra"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.50119216583006343,
+            0.31461330252281583,
+            0.29340555826822912,
+            0.050687486259498371
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Her well theg Arrm"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.30336215382774401,
+            0.35737771308185273,
+            0.49450151231553818,
+            0.042225608382849833
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "elome mag sleefi beneath the rod"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.13917731307832973,
+            0.40902613110587049,
+            0.58951097276475695,
+            0.054207028441168204
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "bhama Hasewell fetter gon ma neser"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.15486403310464122,
+            0.45073206774836128,
+            0.43313781738281243,
+            0.040658341909126983
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Pæess mie te gan heant agan"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.035019450448298309,
+            0.48255810193601667,
+            0.56809339735243047,
+            0.034883796476803841
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Pat olit yon will ad foget me pletter"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.098917155910465404,
+            0.51026945733848739,
+            0.47352603488498263,
+            0.033754138408806256
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "of I'm numtesed with therlain"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.40245195952712343,
+            0.57672780481413821,
+            0.4090692477756076,
+            0.033451338114825369
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "ok I kang ti se you flatter"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.3713892652403375,
+            0.60548392068826751,
+            0.40899295383029516,
+            0.035226344271481191
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "And the lowng oues at home"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.28404669053599857,
+            0.63808136094551959,
+            0.53307393391927094,
+            0.023255882769279479
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "But Jill neven leave our tuuner"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.46490799854482628,
+            0.6648101255616925,
+            0.33879306369357637,
+            0.028611379278635329
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Jill in hasor 9eu ev"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.42942913673947752,
+            0.69598721586079515,
+            0.41525539822048613,
+            0.031088936585889737
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "Jell thore toritis ll a"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.3285385232848454,
+            0.72993645741480528,
+            0.49272579616970485,
+            0.03124665027827167
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Thal lein crivel words ave leno"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.36138283730138016,
+            0.75719816105625926,
+            0.48754021538628473,
+            0.038099768149912117
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Sneveny battle kill The nildden"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.35361573451237377,
+            0.78682444992994671,
+            0.46590542263454865,
+            0.046370330734632481
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "By the hel p they gine The fre"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.31072924785234224,
+            0.8512491885950626,
+            0.34929724799262152,
+            0.033465948468614726
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "lohung Jrare well sie"
+            }
+          ]
+        }
+      ],
+      "orientation_score" : 438.20000088214874,
+      "revision" : 3,
+      "usesLanguageCorrection" : false
+    },
+    {
+      "clockwise_rotation" : 270,
+      "file" : "05-058-original.png",
+      "lines" : [
+        {
+          "box" : [
+            0.090567833029040354,
+            0.33390068209773105,
+            0.045185082785130351,
+            0.12015804714626732
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "efong"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.12467341523451098,
+            0.23171641473735693,
+            0.046138020099494387,
+            0.34702501085069448
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Gust tafoe the battle"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.13836254405255777,
+            0.60073545719128729,
+            0.022104695068663055,
+            0.11757393731011279
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Aolhen"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.1634461370048787,
+            0.26516314353418646,
+            0.047271284100230432,
+            0.35053782145182288
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Jam tinking mest of f"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.20058137767445366,
+            0.22957199692718766,
+            0.027616314231657474,
+            0.53891048855251744
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "While afar the fiebd gvense vahetan"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.2232502870553936,
+            0.24002817316682812,
+            0.050777149042284503,
+            0.47847530788845483
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "H.lh hheeneng năgienră.?"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.2565328879112872,
+            0.19781890137820857,
+            0.036561681263482415,
+            0.47789574517144096
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "İbainadee brave annind ase tjrn"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.28583686851643647,
+            0.19200815321644094,
+            0.047167852347960726,
+            0.59059170193142363
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Filled will thmg tle of hame and ifud"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.32122090693989569,
+            0.20038911085098987,
+            0.042151204389126118,
+            0.59143968370225697
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Hen well tey Aam that on the marses"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.35416664585652385,
+            0.20111732401496907,
+            0.041666703042303965,
+            0.49162011040581599
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Pome maz tleef deneath the nod"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.40963526846028714,
+            0.2694608269100276,
+            0.05338227254636646,
+            0.59132710774739572
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "bhuma Harewell fotter go may neser"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.45151432978078815,
+            0.4101628585218311,
+            0.039330879451821288,
+            0.43464470757378471
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Pæces mie te gann krant agan"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.48255811911799984,
+            0.35214009539238122,
+            0.036337248326138605,
+            0.61284044053819453
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Pat olt ga will nd fozel me pltter"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.50843826308949036,
+            0.42560139933430974,
+            0.037129960447599197,
+            0.47362019856770832
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "9f 9m numtesed wwith therlan"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.57829767628241247,
+            0.18664844394675206,
+            0.032756650428076073,
+            0.41078623453776042
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Ok 9 kang ti see you feether"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.60901161513301416,
+            0.22178988626112084,
+            0.030523281192305074,
+            0.40661478678385421
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "And the loving cnisat lome"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.63941685999829923,
+            0.18279756686045401,
+            0.023450234636145373,
+            0.52742916531033002
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "But Jill neven leave our luunen"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.66569766319500356,
+            0.1945525374514252,
+            0.02761630157926187,
+            0.35408559163411457
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Jill in haror 9 emm en"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.69494904416908876,
+            0.15342929997233867,
+            0.031296117981868044,
+            0.38002424452039929
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Jell thve traikis l"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.72819766153199494,
+            0.17704280259867311,
+            0.027616304742360764,
+            0.39105058458116315
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "That Mein criset worda ån"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.76056229131096142,
+            0.14751973285280406,
+            0.036046026555657584,
+            0.42090304904513887
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Ineven hattle hill The nel"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.78283339380909156,
+            0.17806843943552342,
+            0.052911249163929641,
+            0.46491058349609382
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "By the hel p they gine Mhe fre"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.84166665076783898,
+            0.33519554030765042,
+            0.041666693553007228,
+            0.3519552951388889
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "lohans Jare well, zc"
+            }
+          ]
+        }
+      ],
+      "orientation_score" : 462.00000041723251,
+      "revision" : 3,
+      "usesLanguageCorrection" : false
+    },
+    {
+      "clockwise_rotation" : 90,
+      "file" : "05-058-original.png",
+      "lines" : [
+        {
+          "box" : [
+            0.86171061736648735,
+            0.52654564666456927,
+            0.047036435078230299,
+            0.11103205362955726
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "fong"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "fong."
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "fong"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.82775043853450392,
+            0.28545326990005349,
+            0.047458587001212194,
+            0.48228658040364591
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Just before The battle sethen"
+            },
+            {
+              "confidence" : 1,
+              "text" : "Just before The battle Methen"
+            },
+            {
+              "confidence" : 1,
+              "text" : "Just before The battle sothen"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.79383285653759927,
+            0.31852954799864919,
+            0.040906910872578028,
+            0.41387108696831598
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Jam hinting mist of you"
+            },
+            {
+              "confidence" : 1,
+              "text" : "Jam hinting mist of you"
+            },
+            {
+              "confidence" : 1,
+              "text" : "Jam hinting mist of you."
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.77186720360003835,
+            0.23119744610222071,
+            0.037685985786602538,
+            0.53555599636501727
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "While afor the fred seise vatation"
+            },
+            {
+              "confidence" : 1,
+              "text" : "While afor the fred seise vatatian"
+            },
+            {
+              "confidence" : 1,
+              "text" : "While afor the fred seise vatatin"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.69777556608915758,
+            0.24636532620947671,
+            0.051819844032401474,
+            0.55609032524956603
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "baănădee brave anuine are tjingun s"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "baănădee brave anuine are tjingun i"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "baănădee brave annine are tjingun s"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.67005812086654826,
+            0.21789884361050904,
+            0.03779073655111076,
+            0.58754862467447921
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Hilled with thing tie of have and tual"
+            },
+            {
+              "confidence" : 1,
+              "text" : "Hilled with thing tie of have and itud"
+            },
+            {
+              "confidence" : 1,
+              "text" : "Hilled with thing bie of have and itud"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.63466775425477451,
+            0.20578443834839155,
+            0.046826892428928013,
+            0.59228474934895825
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Hen well they Ana that on the marned"
+            },
+            {
+              "confidence" : 1,
+              "text" : "Hes well they Ana that on the marned"
+            },
+            {
+              "confidence" : 1,
+              "text" : "Hen well they Ann that on the marned"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.59895073805544974,
+            0.30337235384817629,
+            0.042188078214477787,
+            0.49063056098090274
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Some mag sleef beneath the rock"
+            },
+            {
+              "confidence" : 1,
+              "text" : "Some mag sleef beneath the rook"
+            },
+            {
+              "confidence" : 1,
+              "text" : "Some maq sleef beneath the rock"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.53761983998905893,
+            0.13928355080158505,
+            0.050094832235307751,
+            0.59119500054253471
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "blume Kare well pother you may never"
+            },
+            {
+              "confidence" : 1,
+              "text" : "blume Have well pother you may never"
+            },
+            {
+              "confidence" : 1,
+              "text" : "blume Kare well fetter you may never"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.51162789440743639,
+            0.1556420300160607,
+            0.033430257642249273,
+            0.43385213216145846
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Pores mie to gun heart agan"
+            },
+            {
+              "confidence" : 1,
+              "text" : "Pores mie te gun heart agan"
+            },
+            {
+              "confidence" : 1,
+              "text" : "Poses mie to gun heart agan"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.48041310529417453,
+            0.034836588257577183,
+            0.0366130768758543,
+            0.56841552734375
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Bal ali yor will not fanget me pletter"
+            },
+            {
+              "confidence" : 1,
+              "text" : "Bal alt yor will not fanget me pletter"
+            },
+            {
+              "confidence" : 1,
+              "text" : "Bal ali yor will not fanget me pletter-"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.45450064435883392,
+            0.09890751300147127,
+            0.035326323501308543,
+            0.4716793823242188
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "9f I'm numbered with the slan"
+            },
+            {
+              "confidence" : 1,
+              "text" : "9f I'm numbered with the vlan"
+            },
+            {
+              "confidence" : 1,
+              "text" : "9f I'm numbered with theolan"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.38780945918055232,
+            0.40234231935051568,
+            0.035639062252013021,
+            0.41124077690972227
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Oh I long te see you flatter"
+            },
+            {
+              "confidence" : 1,
+              "text" : "Oh I long te see you feather"
+            },
+            {
+              "confidence" : 1,
+              "text" : "Oh I long te see you flather"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.35923428317958017,
+            0.37334335466302637,
+            0.033539743565801361,
+            0.40700059678819456
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "And the loving ones at have"
+            },
+            {
+              "confidence" : 1,
+              "text" : "And the loving ones at home"
+            },
+            {
+              "confidence" : 1,
+              "text" : "And the loving ones at hame"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.33575579691122309,
+            0.28599222098148525,
+            0.024709342526361533,
+            0.531128404405382
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "But Jill never leave our tunner"
+            },
+            {
+              "confidence" : 1,
+              "text" : "But Jill never leave our bummer"
+            },
+            {
+              "confidence" : 1,
+              "text" : "But Jill never leave our turner"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.3018037608541112,
+            0.41969760533325673,
+            0.03311001443941991,
+            0.38615027533637158
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Jill in havor Jean erne"
+            },
+            {
+              "confidence" : 1,
+              "text" : "Jill in havor 9 can ene"
+            },
+            {
+              "confidence" : 1,
+              "text" : "Jill in havor 9 can eme"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.2661528120163944,
+            0.3456224024643233,
+            0.03887392869636197,
+            0.50125851101345487
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Jell there traits all mast yo"
+            },
+            {
+              "confidence" : 1,
+              "text" : "Jell there traits all mant yo"
+            },
+            {
+              "confidence" : 1,
+              "text" : "Jell there traits all mast yor"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.23347513069880013,
+            0.29756904528219685,
+            0.037345974797237808,
+            0.52554239908854161
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "That their crinel words ave tened i"
+            },
+            {
+              "confidence" : 1,
+              "text" : "That their criel words ave tened i"
+            },
+            {
+              "confidence" : 1,
+              "text" : "That their crinel words ave tened?"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.20320408157087277,
+            0.36527581274420262,
+            0.038096078395052718,
+            0.4874371337890625
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Ineney kattle kill The nelleen"
+            },
+            {
+              "confidence" : 1,
+              "text" : "Ineney hattle kill The nelleen"
+            },
+            {
+              "confidence" : 1,
+              "text" : "Ineney kattle kill The nelldin"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.1666631091966557,
+            0.3555987378738904,
+            0.04515202207549493,
+            0.46391035291883675
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "By the help they give the fre"
+            },
+            {
+              "confidence" : 1,
+              "text" : "By the help they give the bre"
+            },
+            {
+              "confidence" : 1,
+              "text" : "By. the help they give the fre"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.1133516642458792,
+            0.31049471029495512,
+            0.036883849211988562,
+            0.34975348578559018
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "lohung Have well. sic"
+            },
+            {
+              "confidence" : 1,
+              "text" : "loung Have well. sic"
+            },
+            {
+              "confidence" : 1,
+              "text" : "loung Have well. sie"
+            }
+          ]
+        }
+      ],
+      "orientation_score" : 489,
+      "revision" : 3,
+      "usesLanguageCorrection" : true
+    },
+    {
+      "clockwise_rotation" : 90,
+      "file" : "05-058-contrast.png",
+      "lines" : [
+        {
+          "box" : [
+            0.86289974988576312,
+            0.53440746227717784,
+            0.044130031149185678,
+            0.10129985385470919
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "efong"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.82630465781109508,
+            0.29310665809818903,
+            0.050079328306081083,
+            0.47668891059027774
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Just tefone the ibattle pother"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.7633792993173687,
+            0.27760610212405212,
+            0.073516769788751546,
+            0.49704694959852436
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "vte apa ik pleeis v"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.72350811753498001,
+            0.30470093479393456,
+            0.053954587844671553,
+            0.45550526936848956
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "H.Ih Meenenig nolian."
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.69925489171386002,
+            0.15733790421628102,
+            0.042225725417508797,
+            0.64269219292534707
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "baănådee drave anaineh ase tjsngrr s→g VS"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.67005812086914374,
+            0.21789884518478264,
+            0.03779073655111076,
+            0.58560309516059028
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Filled with ting tle of home and ifudl"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.63261110066319026,
+            0.20730255979593459,
+            0.0532293809982477,
+            0.59113267686631943
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Her well theg Anm that on the marnes"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.59881313686337667,
+            0.30335017498410477,
+            0.043768836886530882,
+            0.49067450629340281
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Some may sleef teneath the rod"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.53689771498840144,
+            0.13919805354923487,
+            0.052291400397001753,
+            0.59134589301215279
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "bhume Jarewell pletter yo mazneser"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.51162789440743639,
+            0.15758755740676,
+            0.033430257642249273,
+            0.43190660264756953
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Pæces mie te gann heant agan"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.48005470918284421,
+            0.036701350624886775,
+            0.03820374869983989,
+            0.56663757324218755
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Bol oli yor will nod fonzet me flitter"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.4545030808830467,
+            0.098908920873133743,
+            0.035317405143978187,
+            0.47358625623914929
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "9\/ Im mumtered wwith therlan"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.38694016290958233,
+            0.40048416369881557,
+            0.034945587613689377,
+            0.41298417833116319
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Oh 9 kang te ree gon Jeether"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.36069895053313838,
+            0.37335844729952483,
+            0.032075072204691024,
+            0.40890119764539923
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "And the loving oneset home"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.3372092852109092,
+            0.28793774921350856,
+            0.023255853510614655,
+            0.52918287489149307
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "But Jill veven leave our luuner"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.30185930617303292,
+            0.41775901360214263,
+            0.034434998608742551,
+            0.38808383517795131
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Jill in havor 9 eam eone"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.27301306705502559,
+            0.43923184524151593,
+            0.030136313999865605,
+            0.40736853705512155
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "Jell thre torihis lina"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.24273254518211415,
+            0.45719843868494225,
+            0.027616309487009133,
+            0.36575876871744784
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "That tein crivel worde"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.24173533705130726,
+            0.29820440612046517,
+            0.029388408755781664,
+            0.15812342325846351
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "ave knas :"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.20180137128709258,
+            0.36329950152843549,
+            0.040082999525180907,
+            0.48953799777560758
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Snevey hattle kill The nilfeden"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.16432243568615312,
+            0.3553875739713217,
+            0.049431894153702471,
+            0.46623236762152775
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Bythe hel p thy gine Mhe bre"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.11127217326297198,
+            0.30258274832578325,
+            0.041976976157420909,
+            0.35787021213107639
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "lohuns Jare well, sie"
+            }
+          ]
+        }
+      ],
+      "orientation_score" : 421.60000109672546,
+      "revision" : 3,
+      "usesLanguageCorrection" : false
+    },
+    {
+      "clockwise_rotation" : 90,
+      "file" : "05-058-contrast.png",
+      "lines" : [
+        {
+          "box" : [
+            0.86289974988576312,
+            0.53440746227717784,
+            0.044130031149185678,
+            0.10129985385470919
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "etong"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "fong"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "tong"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.82630465781109508,
+            0.29310665809818903,
+            0.050079328306081083,
+            0.47668891059027774
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Just before the battle Mother"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "Just before the battle pother"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "Just before the battle pothen"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.7633792993173687,
+            0.27760610212405212,
+            0.073516769788751546,
+            0.49704694959852436
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "ste apa ike pleas ve"
+            },
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "ste apa ik pleas ve"
+            },
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "ste apa ike pleas v"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.72350811753498001,
+            0.30470093479393456,
+            0.053954587844671553,
+            0.45550526936848956
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "H.Ih teeneng nolan .."
+            },
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "H.Ih teeneng nolan ."
+            },
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "H.Ih heereng nolan ."
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.69925489171386002,
+            0.15733790421628102,
+            0.042225725417508797,
+            0.64269219292534707
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "baümădee drave anaineh ase kjsngr ssg VS"
+            },
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "baümădee drave anaineh ase kjsngr ssg AS"
+            },
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "baümădee drave anaineh ase kjsngr ssg NS"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.67005812086914374,
+            0.21789884518478264,
+            0.03779073655111076,
+            0.58560309516059028
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Filled with thing ble of home and stud"
+            },
+            {
+              "confidence" : 1,
+              "text" : "Filled witt thing ble of home and stud"
+            },
+            {
+              "confidence" : 1,
+              "text" : "Filled with thing ble of home and studl"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.63261110066319026,
+            0.20730255979593459,
+            0.0532293809982477,
+            0.59113267686631943
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Her well theg Anm that on the marves"
+            },
+            {
+              "confidence" : 1,
+              "text" : "Hes well theg Anm that on the marves"
+            },
+            {
+              "confidence" : 1,
+              "text" : "Her well theg Anm that on the marnes"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.59881313686337667,
+            0.30335017498410477,
+            0.043768836886530882,
+            0.49067450629340281
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Lome may sleef beneath the rod"
+            },
+            {
+              "confidence" : 1,
+              "text" : "Pome may sleef beneath the rod"
+            },
+            {
+              "confidence" : 1,
+              "text" : "Lome mag sleef beneath the rod"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.53689771498840144,
+            0.13919805354923487,
+            0.052291400397001753,
+            0.59134589301215279
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "Chome Haremell pletter yo maz neser"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "Chome Haremell pletter yo maz nesen"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "Chome Haremell pletter yo maz never"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.51162789440743639,
+            0.15758755740676,
+            0.033430257642249273,
+            0.43190660264756953
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "Poes mie te gann heart agan"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "Poes mie te genn heart agan"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "Poes mie te gann keant agan"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.48005470918284421,
+            0.036701350624886775,
+            0.03820374869983989,
+            0.56663757324218755
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Bol oli yor will nod fonget me flitter"
+            },
+            {
+              "confidence" : 1,
+              "text" : "Bol ali yor will nod fonget me flitter"
+            },
+            {
+              "confidence" : 1,
+              "text" : "Bal oli yor will nod fonget me flitter"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.4545030808830467,
+            0.098908920873133743,
+            0.035317405143978187,
+            0.47358625623914929
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "9\/ Im mumtered with theolan"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "9\/ Im mumtered with therlan"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "I\/ Im mumtered with theolan"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.38694016290958233,
+            0.40048416369881557,
+            0.034945587613689377,
+            0.41298417833116319
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "Oh 9 kang te ree gon feether"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "Oh 9 kang te ree gou feether"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "Oh 9 kang te see gon feether"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.36069895053313838,
+            0.37335844729952483,
+            0.032075072204691024,
+            0.40890119764539923
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "And the hoving ores et home"
+            },
+            {
+              "confidence" : 1,
+              "text" : "And the hoving ores at home"
+            },
+            {
+              "confidence" : 1,
+              "text" : "And the hoving ores et hame"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.3372092852109092,
+            0.28793774921350856,
+            0.023255853510614655,
+            0.52918287489149307
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "But Jill veven leave our lunner"
+            },
+            {
+              "confidence" : 1,
+              "text" : "But Jill veven leave our bunner"
+            },
+            {
+              "confidence" : 1,
+              "text" : "But Jill veven leave our baunen"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.30185930617303292,
+            0.41775901360214263,
+            0.034434998608742551,
+            0.38808383517795131
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Jill in havor 9 cam eine"
+            },
+            {
+              "confidence" : 1,
+              "text" : "Jill in havor 9 cam eime"
+            },
+            {
+              "confidence" : 1,
+              "text" : "Jill in havor 9 cam erme"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.27301306705502559,
+            0.43923184524151593,
+            0.030136313999865605,
+            0.40736853705512155
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "Jell thre tihi cli sna"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "Jell thre tihi cli na"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "Jell thre tihi li sna"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.24273254518211415,
+            0.45719843868494225,
+            0.027616309487009133,
+            0.36575876871744784
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "That tein crivel worde"
+            },
+            {
+              "confidence" : 1,
+              "text" : "That tein crivel words"
+            },
+            {
+              "confidence" : 1,
+              "text" : "That tein crinel worde"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.24173533705130726,
+            0.29820440612046517,
+            0.029388408755781664,
+            0.15812342325846351
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "ave knees :"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "ave knas :"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "ive knas :"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.20180137128709258,
+            0.36329950152843549,
+            0.040082999525180907,
+            0.48953799777560758
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "Snevey hatle kill The nilfden"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "Snevey hatle bill The nilfden"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "Snevey hatle kill The nilfeden"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.16432243568615312,
+            0.3553875739713217,
+            0.049431894153702471,
+            0.46623236762152775
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "By the hel p thy gine the bre"
+            },
+            {
+              "confidence" : 1,
+              "text" : "By thi hel p thy gine the bre"
+            },
+            {
+              "confidence" : 1,
+              "text" : "By the hel p thy gine The bre"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.11127217326297198,
+            0.30258274832578325,
+            0.041976976157420909,
+            0.35787021213107639
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "Chung Jare well, sie"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "Chung Jare well, zie"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "Chung Jare well. sie"
+            }
+          ]
+        }
+      ],
+      "orientation_score" : 350.50000077486038,
+      "revision" : 3,
+      "usesLanguageCorrection" : true
+    }
+  ]
+}

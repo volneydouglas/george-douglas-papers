@@ -1,0 +1,1671 @@
+{
+  "best_clockwise_rotation" : 90,
+  "engine" : "Apple Vision",
+  "os" : "Version 27.0 (Build 26A428)",
+  "page_id" : "05-059",
+  "records" : [
+    {
+      "clockwise_rotation" : 0,
+      "file" : "05-059-original.png",
+      "lines" : [
+        {
+          "box" : [
+            0.23077162992088021,
+            0.91370299891671225,
+            0.51044414995054321,
+            0.052478479187543225
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Hhark: S heanthe lugte sennching"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.24938978581725907,
+            0.88850895151248688,
+            0.43805815733553505,
+            0.041841756136570263
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Tin the signat for the fighl"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.21627615448506723,
+            0.85669460084572158,
+            0.53396629366240278,
+            0.039505137778045762
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Na anag bad poolect ga potten"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.21753567291252029,
+            0.82467639432799711,
+            0.42500144729286815,
+            0.049906758590057887
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "As Hhe ever does the vight"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.18220258302525691,
+            0.78895346372638175,
+            0.43858887504610378,
+            0.045788064988378618
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Jin tke bettle eryf freedon"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.18476216257514377,
+            0.76207505799313557,
+            0.46125380880331279,
+            0.039803978383116334
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Ihou et sweblo nfyr the căn"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.13883483827324797,
+            0.71992924634963673,
+            0.68159995672528839,
+            0.067522856892807015
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "oh ges meilk naltgianrsindtionnslanleöd"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.20849442061402956,
+            0.69267879395007492,
+            0.44190635189989602,
+            0.045826853784604937
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "Grouill nolly enek thenen"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.52899034410931522,
+            0.66734246002000863,
+            0.40246916021911883,
+            0.040793357722266554
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "bhong Zarewell fitten se"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.062867992254083155,
+            0.60165633845702926,
+            0.79748679230653163,
+            0.039572648556574164
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "Aillen ly seyuest Dec ittpea Star banni beançe"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.79724409403003105,
+            0.57558139617762172,
+            0.1220472442234023,
+            0.029069766107288841
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "pllae"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.060479485938326756,
+            0.19592744104640347,
+            0.19008354874639555,
+            0.031810321037673006
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "ро ао усоня"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.31692913333817069,
+            0.27180232599922227,
+            0.10433070956381607,
+            0.02034883657713682
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "CAzo!"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.48191829357420812,
+            0.26269077716406586,
+            0.41012275270126408,
+            0.037918214654507287
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "fejals destia pes aens"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.47191924039675659,
+            0.22838062692484762,
+            0.39656656289816927,
+            0.039345190813875441
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "Птіін анів, двожк"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.47806313145600471,
+            0.19648977642102261,
+            0.44157150988926702,
+            0.040925366483976822
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "sgariнатрeт лт Lell"
+            }
+          ]
+        }
+      ],
+      "orientation_score" : 207.80000150203705,
+      "revision" : 3,
+      "usesLanguageCorrection" : false
+    },
+    {
+      "clockwise_rotation" : 90,
+      "file" : "05-059-original.png",
+      "lines" : [
+        {
+          "box" : [
+            0.91883004662982781,
+            0.26273178777150352,
+            0.046810340428295794,
+            0.50174408613868027
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Hank: Sheanthe bugle senndng"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.88849505589766231,
+            0.29296936442009713,
+            0.041098917087485365,
+            0.45558916345686362
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Sis the sigral for the fight-"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.85671965476093925,
+            0.24975754826907792,
+            0.039455030234390454,
+            0.530029296875
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "New anag bad pgolact -gon potten"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.82300379088168241,
+            0.35522790203285259,
+            0.054398253524671536,
+            0.42754386934599653
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "As Hae ever does the vigti"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.78694054235950484,
+            0.37681723697937319,
+            0.051629006815447465,
+            0.44138853539724709
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Jis the battle eryf freedon"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.76076862331758155,
+            0.35790297390971193,
+            0.041031142028663647,
+            0.45536342506244976
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "Iou et sveblo afzr the sav"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.73198649732105359,
+            0.18289714746236652,
+            0.037161599806349921,
+            0.66381109016647666
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Bh ges well valEziarvsindioundlandead"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.69449240945576085,
+            0.34208410421042634,
+            0.041706423483853894,
+            0.44361455041451514
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Grouill nolly pench therin"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.66719498220599072,
+            0.066565571681502345,
+            0.041857984456766806,
+            0.40434969136643306
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "bheng Zarewell fltten ze"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.60024101668242047,
+            0.13768545023955137,
+            0.040951043957297317,
+            0.79748764365527758
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "Asillen ty sequast Dee itea Shar brni beanze"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.57412790360276111,
+            0.080708662030905987,
+            0.030523262416570773,
+            0.1220472442234023
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "felkne"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.27325581122015519,
+            0.59055118448580823,
+            0.020348842617829266,
+            0.10629920795751735
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "CA÷o"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.2597945163428827,
+            0.088171433904438601,
+            0.038923618440484586,
+            0.43004274163634992
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "lgala deuselia sos garense"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.22922485091875558,
+            0.12937391197437076,
+            0.040033915830054917,
+            0.39892460245942873
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "tonisțiiv, auil, gloves"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.19852766171633646,
+            0.08020894219468333,
+            0.03877654268169628,
+            0.43991318076465269
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "angariranpe, грut Lille"
+            }
+          ]
+        }
+      ],
+      "orientation_score" : 237.90000128746033,
+      "revision" : 3,
+      "usesLanguageCorrection" : false
+    },
+    {
+      "clockwise_rotation" : 180,
+      "file" : "05-059-original.png",
+      "lines" : [
+        {
+          "box" : [
+            0.26051556640099521,
+            0.03166055894820663,
+            0.50404380831084028,
+            0.050257464580279132
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Hark: Sbeanthe bugle sennding"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.28914440306433664,
+            0.070494988845556383,
+            0.45726340625419126,
+            0.040022341863370947
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Tis the sigrat for the fighl-"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.2477720819857841,
+            0.10238425399896711,
+            0.53201444568552181,
+            0.039455126885469261
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "New mag bad pgolact gor feotten"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.35525611598530693,
+            0.12017161707595836,
+            0.42515626178790566,
+            0.055388609945821288
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "dn dhe ever does the cright"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.37718052967982146,
+            0.16354758965381888,
+            0.43663676511576249,
+            0.043351600024781334
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Jis the battle ery of freedom"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.35019985497464196,
+            0.19860611799931349,
+            0.4609886464131237,
+            0.038042125868023358
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "Vbon it svetlo afyr the eăr"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.18513968392386654,
+            0.21870407590837526,
+            0.67548334342727334,
+            0.065508512495438098
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "ak ger milt naltgiarneindiannslenteid"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.3459000184907246,
+            0.26070599067834543,
+            0.44182567023412356,
+            0.041301404117877194
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Go ovill noleg fenek therin"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.062860716349957629,
+            0.29159314982369744,
+            0.41370919027041975,
+            0.036874186681172039
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "Phrg Zarewell ftten e"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.13181705578526839,
+            0.35880295728573186,
+            0.80132604770905991,
+            0.038326773866244279
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Ysillen ly sezuast Dee 9łpea Sa buni beanze"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.73936154507028695,
+            0.77141911692199316,
+            0.19831620572462616,
+            0.030182212473188974
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "фт ав уважо."
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.66292239828333233,
+            0.80061804813061377,
+            0.28626421490452314,
+            0.026338143850826445
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "3 ct teTh в вene"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.11023621723499698,
+            0.70203484418711715,
+            0.60826772272331009,
+            0.030523334904879906
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "12zopegadentia do arens"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.11992260504923838,
+            0.73256612462454873,
+            0.24840769951947259,
+            0.037339863660122097
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "„ анів. двожь."
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.080464697657688919,
+            0.76133797003162773,
+            0.43947928760184751,
+            0.036986937715435264
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "super rаsрe pat Lelle"
+            }
+          ]
+        }
+      ],
+      "orientation_score" : 229.80000108480453,
+      "revision" : 3,
+      "usesLanguageCorrection" : false
+    },
+    {
+      "clockwise_rotation" : 270,
+      "file" : "05-059-original.png",
+      "lines" : [
+        {
+          "box" : [
+            0.10610463285229604,
+            0.22047244537179211,
+            0.034883755874935835,
+            0.52952755776597704
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Naw mag bad pøolect ga potten"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.1234169752179872,
+            0.21957395479156816,
+            0.050465750675397741,
+            0.41907046076565846
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Ae Lee ever does the righi"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.16604144082912772,
+            0.18455414756428812,
+            0.040668232329573228,
+            0.43793363120934481
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Jis tke battle ery of freedon"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.19674153778169681,
+            0.18476429827231633,
+            0.041236835156559293,
+            0.45928267450291704
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Ihon it sveblo vppr the căn"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.22861612819913391,
+            0.15501705208269489,
+            0.045727383212635475,
+            0.66419668566003887
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Bhe ges meilt val Dgiarvaund aunelandead"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.26405831997227514,
+            0.21242351807193816,
+            0.038221783611572469,
+            0.44336300960426167
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Goouill nolly penieh theren"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.29360463542491999,
+            0.52165354971240185,
+            0.033430261075827028,
+            0.40944881193627614
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "Pohurg Innewell ftter se"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.35732287420029485,
+            0.064824378558152485,
+            0.041006642490365841,
+            0.79355526379761265
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "Yrillen by sezuast Dec itpek Sar bani bearje"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.39534883478356747,
+            0.80708661453991948,
+            0.029069772147981288,
+            0.11023622111701148
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "Jllne"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.70930232226329681,
+            0.30905511971156507,
+            0.018895355369585976,
+            0.10236220298406906
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "LAZ0"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.72687488164635483,
+            0.078654409556969118,
+            0.040904364506592295,
+            0.26724475647758517
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "уррd вастіді"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.7718023170786309,
+            0.08070866082411654,
+            0.029069781209019929,
+            0.17322834980845969
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "Ваf уважо"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.70003982658083808,
+            0.48354286252821721,
+            0.039335554399286488,
+            0.40676942096759316
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "ezaa densitia jo aprens"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.73401161811324533,
+            0.56692914193879251,
+            0.033430252014788331,
+            0.30118108921296605
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "ійнц. анів, двожь"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.76598836378143342,
+            0.48031496503025317,
+            0.033430248994442135,
+            0.24606298684050598
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "dunger каrpelт 2"
+            }
+          ]
+        }
+      ],
+      "orientation_score" : 200.90000087022781,
+      "revision" : 3,
+      "usesLanguageCorrection" : false
+    },
+    {
+      "clockwise_rotation" : 90,
+      "file" : "05-059-original.png",
+      "lines" : [
+        {
+          "box" : [
+            0.91883004662982781,
+            0.26273178777150352,
+            0.046810340428295794,
+            0.50174408613868027
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "Hank: Shean the bugle sunnd'ng"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "Hank: Shean the bugle sunndng"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "Hank: Shean the bugle senndng"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.88849505589766231,
+            0.29296936442009713,
+            0.041098917087485365,
+            0.45558916345686362
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Sis the signal for the fight-"
+            },
+            {
+              "confidence" : 1,
+              "text" : "Sis the sigral for the fight-"
+            },
+            {
+              "confidence" : 1,
+              "text" : "Sis the signat for the fight-"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.85671965476093925,
+            0.24975754826907792,
+            0.039455030234390454,
+            0.530029296875
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "New anag bad pgolact -gon potten"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "New anag bad pgolact gon plotten"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "New anag bad pgolact gon potten"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.82300379088168241,
+            0.35522790203285259,
+            0.054398253524671536,
+            0.42754386934599653
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "As Hae ever does the vigti"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "As Hae ever does the vighi"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "As Hae ever doer the vigti"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.78694054235950484,
+            0.37681723697937319,
+            0.051629006815447465,
+            0.44138853539724709
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Jin the battle ery f freedon"
+            },
+            {
+              "confidence" : 1,
+              "text" : "Iis the battle ery f freedon"
+            },
+            {
+              "confidence" : 1,
+              "text" : "Jin the battle erg f freedon"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.76076862331758155,
+            0.35790297390971193,
+            0.041031142028663647,
+            0.45536342506244976
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "You et svetlo afgr the sav"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "Hou et svetlo afgr the sav"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "You et svetlo afgr the săv"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.73198649732105359,
+            0.18289714746236652,
+            0.037161599806349921,
+            0.66381109016647666
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "Bh ges well val Ey arvind onndlandead"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "Bh ges well val Dz arvind onndlandead"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "Bh ges well val Ey arvind oundlandead"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.69449240945576085,
+            0.34208410421042634,
+            0.041706423483853894,
+            0.44361455041451514
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "Grovill nolly pench therin"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "Grovill nolly pench therein"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "Grovill nolly pench theren"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.66719498220599072,
+            0.066565571681502345,
+            0.041857984456766806,
+            0.40434969136643306
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "bhang Zarewell fitten ze"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "bheng Zarewell fitten ze"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "bhang Zarewell fetten ze"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.60024101668242047,
+            0.13768545023955137,
+            0.040951043957297317,
+            0.79748764365527758
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "Arillen ty sennest Dee itek Shar brni beanze"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "Arillen ty sennest Dee itse Shar brni beanze"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "Asillen ty sennest Dee itek Shar brni beanze"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.57412790360276111,
+            0.080708662030905987,
+            0.030523262416570773,
+            0.1220472442234023
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "falkne"
+            },
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "fellan"
+            },
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "fellae"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.27325581122015519,
+            0.59055118448580823,
+            0.020348842617829266,
+            0.10629920795751735
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "CA÷o"
+            },
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "CAzo"
+            },
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "CA÷o"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.2597945163428827,
+            0.088171433904438601,
+            0.038923618440484586,
+            0.43004274163634992
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "egaa deuselia sos garen se"
+            },
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "egaa deuselia sos garen e"
+            },
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "egaa deuselia sos geren e"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.22922485091875558,
+            0.12937391197437076,
+            0.040033915830054917,
+            0.39892460245942873
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "tomisiv, aril, gloves"
+            },
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "tomișiv, aril, gloves"
+            },
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "tomisiv, aril, glaves"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.19852766171633646,
+            0.08020894219468333,
+            0.03877654268169628,
+            0.43991318076465269
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "dugar ranse, put Lille"
+            },
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "anger ranse, put Lille"
+            },
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "dugar manse, put Lille"
+            }
+          ]
+        }
+      ],
+      "orientation_score" : 167.80000078678131,
+      "revision" : 3,
+      "usesLanguageCorrection" : true
+    },
+    {
+      "clockwise_rotation" : 90,
+      "file" : "05-059-contrast.png",
+      "lines" : [
+        {
+          "box" : [
+            0.91631221616543213,
+            0.2625219502185242,
+            0.050633872206590547,
+            0.50206160647674691
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Hank: Shearthe bugle sennding"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.88669957963566082,
+            0.29286307498720165,
+            0.044238038414164627,
+            0.45584135915076773
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Jis the sigrat for the fighl-"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.85671965607141454,
+            0.25170892810454826,
+            0.039430076133987857,
+            0.52807777633994435
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "New anag bad fogolact gon potten"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.82290998906784518,
+            0.35522097990962509,
+            0.054589480704385296,
+            0.42755919362342398
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "As Hae ever does the vrigti"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.78694054469186869,
+            0.37681355571386022,
+            0.051694826200097133,
+            0.4414776323179318
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Jis the bettle eny y freden"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.76081557588169058,
+            0.35987369478169817,
+            0.040945234321358659,
+            0.45339114471566522
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "Ion et sveblo afyn the săv"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.73210931380979816,
+            0.1828977486742005,
+            0.037026871222875846,
+            0.66380840514350858
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Bh ges well valEjiarvsindioundlandead"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.69594571592018839,
+            0.34407450194227052,
+            0.040236790974934933,
+            0.44162412979060484
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "brouill nollg penak thenen"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.66870808410756755,
+            0.066652340454566028,
+            0.038834083297379141,
+            0.40226126740418788
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "bheng Zunewell ftter ze"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.60023648796741591,
+            0.13768545979566449,
+            0.040955572966442033,
+            0.79748764365527769
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "Asillen ty sequast Dee itea Shar brni beanze"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.57412790361487354,
+            0.080708662369926132,
+            0.030523262416570773,
+            0.1220472442234023
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "fellne"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.26417645112087196,
+            0.088330202378302691,
+            0.03499045413539037,
+            0.42971457943895852
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "figalsdrisetia ds aprana"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.2311046414072134,
+            0.12795275929207095,
+            0.033430253524961456,
+            0.31496062708514949
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "finи. aнil, gвожeь."
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.19990626870996847,
+            0.080201389242837262,
+            0.037447754957330492,
+            0.43992686783295332
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "duger raтpeт yoм. Ldle"
+            }
+          ]
+        }
+      ],
+      "orientation_score" : 235.60000115633011,
+      "revision" : 3,
+      "usesLanguageCorrection" : false
+    },
+    {
+      "clockwise_rotation" : 90,
+      "file" : "05-059-contrast.png",
+      "lines" : [
+        {
+          "box" : [
+            0.91631221616543213,
+            0.2625219502185242,
+            0.050633872206590547,
+            0.50206160647674691
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "Hank: Shearthe bugle sending"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "Hark: Shearthe bugle sending"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "Hank: Shearthe bugle sunding"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.88669957963566082,
+            0.29286307498720165,
+            0.044238038414164627,
+            0.45584135915076773
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "Dis the signat for the fight-"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "Sis the signat for the fight-"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "Jin the signat for the fight-"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.85671965607141454,
+            0.25170892810454826,
+            0.039430076133987857,
+            0.52807777633994435
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "New anag bad pegalact gon potten"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "New anag bad pegalact gon potter"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "New anag bad pegalact gen potten"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.82290998906784518,
+            0.35522097990962509,
+            0.054589480704385296,
+            0.42755919362342398
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "As Har ever does the vighi"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "As Har ever coes the vighi"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "As Hae ever does the vighi"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.78694054469186869,
+            0.37681355571386022,
+            0.051694826200097133,
+            0.4414776323179318
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "Jin the bettle eny y freden"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "Jin the bettle eny y predom"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "Jin the bettle eny y fredon"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.73210931380979816,
+            0.1828977486742005,
+            0.037026871222875846,
+            0.66380840514350858
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "Bh ges well val Dj arrindioundlandead"
+            },
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "Bh ges well val Dj araundioundlandead"
+            },
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "Bh ges well val Dj araindioundlandead"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.69594571592018839,
+            0.34407450194227052,
+            0.040236790974934933,
+            0.44162412979060484
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "bravill nolly penat theren"
+            },
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "bravill nolly penat Theren"
+            },
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "bravill nolly penet theren"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.66870808410756755,
+            0.066652340454566028,
+            0.038834083297379141,
+            0.40226126740418788
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "Cheng Zunewell fetter se"
+            },
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "Chang Zunewell fetter se"
+            },
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "Cheng Zunewell fetter ze"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.57412790361487354,
+            0.080708662369926132,
+            0.030523262416570773,
+            0.1220472442234023
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "fallan"
+            },
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "fallae"
+            },
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "falle"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.26417645112087196,
+            0.088330202378302691,
+            0.03499045413539037,
+            0.42971457943895852
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "Segas desetia de aprense"
+            },
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "Segas desetia de aprens"
+            },
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "Segas desetia do aprens"
+            }
+          ]
+        }
+      ],
+      "orientation_score" : 94.000000953674316,
+      "revision" : 3,
+      "usesLanguageCorrection" : true
+    }
+  ]
+}

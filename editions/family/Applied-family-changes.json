@@ -1,0 +1,58 @@
+[
+  {
+    "file": "04-folder1.md",
+    "before": "He died on May 5 from a wound received on April 18.",
+    "after": "He died on June 5 from a wound received on May 18."
+  },
+  {
+    "file": "04-folder1.md",
+    "before": "Allie leaves tomorrow for [Gunter?]",
+    "after": "Allie leaves tomorrow for Gunter"
+  },
+  {
+    "file": "05-folder2.md",
+    "before": "by [B.?] Hawkins, Clerk.",
+    "after": "[uncertain abbreviation] F. Hawkins, Clerk."
+  },
+  {
+    "file": "05-folder2.md",
+    "before": "Bardsdale, California, September 29, 1893.",
+    "after": "Bardsdale, California, [written “Sat 29, 1893”; the month is not established]."
+  },
+  {
+    "file": "05-folder2.md",
+    "before": "Bardsdale, September 29, 1893",
+    "after": "Bardsdale, [written “Sat, 29th, 1893”; month uncertain]"
+  },
+  {
+    "file": "05-folder2.md",
+    "before": "[Reese?] Guthrie",
+    "after": "[given name unread] Guthrie"
+  },
+  {
+    "file": "05-folder2.md",
+    "before": "by [A. Lasswell?], deputy",
+    "after": "by A. Lasswell, deputy"
+  },
+  {
+    "file": "05-folder2.md",
+    "before": "through H. C. [Ware?], deputy",
+    "after": "through H. C. Wise, deputy"
+  },
+  {
+    "file": "06-folder3.md",
+    "before": "Mrs. [Claunch?] by her daughter.",
+    "after": "Mrs. Claunch by her daughter."
+  },
+  {
+    "file": "06-folder3.md",
+    "before": "The page 8 docket gives the same filing and recording dates,",
+    "after": "[The page 8 docket reads volume 91, while the page 11 certificate reads 92; this disagreement is preserved.] The page 8 docket gives the same filing and recording dates,"
+  },
+  {
+    "file": "05-folder2.md",
+    "before": "[Reading note: The envelope's August postmark differs from the date on the following letter.]",
+    "after": "[Reading note: The envelope has an August postmark. The following letter’s heading does not establish a month; its date is not reconciled with the envelope.]",
+    "reason": "Withdraw the month comparison after correcting Sep to literal Sat."
+  }
+]

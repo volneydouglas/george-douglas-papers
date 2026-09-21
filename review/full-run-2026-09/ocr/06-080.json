@@ -1,0 +1,501 @@
+{
+  "best_clockwise_rotation" : 270,
+  "engine" : "Apple Vision",
+  "os" : "Version 27.0 (Build 26A428)",
+  "page_id" : "06-080",
+  "records" : [
+    {
+      "clockwise_rotation" : 0,
+      "file" : "06-080-original.png",
+      "lines" : [
+        {
+          "box" : [
+            0.49292554139913108,
+            0.57918091491961654,
+            0.020889913624730638,
+            0.037534202124317906
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "a efz"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.48015312292837764,
+            0.46784250477432865,
+            0.021083257938253497,
+            0.10935976750408349
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "asit menf t oon, al"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.45604256668763499,
+            0.49379906429065445,
+            0.023568391799926758,
+            0.090862469177421357
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "Sas.ur. tiur ave de"
+            }
+          ]
+        }
+      ],
+      "orientation_score" : 9.6000003814697266,
+      "revision" : 3,
+      "usesLanguageCorrection" : false
+    },
+    {
+      "clockwise_rotation" : 90,
+      "file" : "06-080-original.png",
+      "lines" : [
+        {
+          "box" : [
+            0.46277064799265355,
+            0.44819332452835714,
+            0.18998636752966147,
+            0.077000091815816907
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "ogitt l ge n dati die lut et ie"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.46947674293804936,
+            0.50108930651817662,
+            0.13953488616680426,
+            0.017429230130951989
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "u t site nunfr E oen a"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.49370298369159021,
+            0.51810329218644513,
+            0.1564013608771449,
+            0.030404730500846022
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "jur ait i saur tier mve de"
+            }
+          ]
+        }
+      ],
+      "orientation_score" : 17.700000703334808,
+      "revision" : 3,
+      "usesLanguageCorrection" : false
+    },
+    {
+      "clockwise_rotation" : 180,
+      "file" : "06-080-original.png",
+      "lines" : [
+        {
+          "box" : [
+            0.41394335334871585,
+            0.50581395352069936,
+            0.010893249511718717,
+            0.026162791156275844
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "the vi"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.45098039124061434,
+            0.41279069778927735,
+            0.013071897112090003,
+            0.01453488397570879
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "tare"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.47947620349058073,
+            0.45319896125687953,
+            0.016079887028398188,
+            0.032697056436730487
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "A‹5, „Á"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.49476162557225029,
+            0.4095972790782364,
+            0.024636905768821993,
+            0.12123511071728255
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "t ite nener $ am al"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.51813268007747171,
+            0.41533661643114217,
+            0.024345494138783508,
+            0.090880979552205976
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "sasnz Fiar ane de"
+            }
+          ]
+        }
+      ],
+      "orientation_score" : 11.4000004529953,
+      "revision" : 3,
+      "usesLanguageCorrection" : false
+    },
+    {
+      "clockwise_rotation" : 270,
+      "file" : "06-080-original.png",
+      "lines" : [
+        {
+          "box" : [
+            0.34202961675378052,
+            0.51428896258467449,
+            0.057372350106630998,
+            0.031745374613794786
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "nundree. Bar"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.38734044914288823,
+            0.55202242378939315,
+            0.14692105156878232,
+            0.047076665944066454
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "nas pusti sracteei di a the vis"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.41238540446429439,
+            0.53074078446833561,
+            0.11426316753740218,
+            0.027810017815951715
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "tue invasnei, pis uss, tur"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.42968258947888543,
+            0.49160739308031043,
+            0.055978944834315314,
+            0.039749352685336303
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "Hi 1i80!"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.50411896120669597,
+            0.52228581348064118,
+            0.038340792581995298,
+            0.014620596787025208
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "Ln PAниn."
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.40843023363227837,
+            0.48362068969430416,
+            0.12209302101376274,
+            0.01767241379310347
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "t sit meue t o al"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.45292200769369056,
+            0.45569155444528375,
+            0.053975187999499685,
+            0.026919632944567451
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "iese ve de"
+            }
+          ]
+        }
+      ],
+      "orientation_score" : 41.500000655651093,
+      "revision" : 3,
+      "usesLanguageCorrection" : false
+    },
+    {
+      "clockwise_rotation" : 270,
+      "file" : "06-080-original.png",
+      "lines" : [
+        {
+          "box" : [
+            0.34202961675378052,
+            0.51428896258467449,
+            0.057372350106630998,
+            0.031745374613794786
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "nundre. Bar"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "nundre. Bac"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "nendre. Bar"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.38734044914288823,
+            0.55202242378939315,
+            0.14692105156878232,
+            0.047076665944066454
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "nas puti seacteei di a the vis"
+            },
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "nas puti seacleei di a the vis"
+            },
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "nas puti seaclei di a the vis"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.42426707640559097,
+            0.55348304164988915,
+            0.096216822957800818,
+            0.016180058183341228
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "кі ми лар"
+            },
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "кі ми ар"
+            },
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "кі ми ор"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.41238540446429439,
+            0.53074078446833561,
+            0.11426316753740218,
+            0.027810017815951715
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "tue invasnei, pis uss, tur"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "tue invasnei, pis ess, tur"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "tue invasnei, pis iss, tur"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.42968258947888543,
+            0.49160739308031043,
+            0.055978944834315314,
+            0.039749352685336303
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "Hi Hi80 !"
+            },
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "Hi đi80 !"
+            },
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "Hi Hi80 1"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.50411896120669597,
+            0.52228581348064118,
+            0.038340792581995298,
+            0.014620596787025208
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "Ln PAre n."
+            },
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "Ln Pare n."
+            },
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "Ln PAr un."
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.40843023363227837,
+            0.48362068969430416,
+            0.12209302101376274,
+            0.01767241379310347
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "t sit mene t on al"
+            },
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "t sit mene t on at"
+            },
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "t sit nene t on al"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.45292200769369056,
+            0.45569155444528375,
+            0.053975187999499685,
+            0.026919632944567451
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "iase ove de"
+            },
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "tiare ve de"
+            },
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "iase ve dle"
+            }
+          ]
+        }
+      ],
+      "orientation_score" : 33.700000762939453,
+      "revision" : 3,
+      "usesLanguageCorrection" : true
+    },
+    {
+      "clockwise_rotation" : 270,
+      "file" : "06-080-contrast.png",
+      "lines" : [
+
+      ],
+      "orientation_score" : 0,
+      "revision" : 3,
+      "usesLanguageCorrection" : false
+    },
+    {
+      "clockwise_rotation" : 270,
+      "file" : "06-080-contrast.png",
+      "lines" : [
+
+      ],
+      "orientation_score" : 0,
+      "revision" : 3,
+      "usesLanguageCorrection" : true
+    }
+  ]
+}

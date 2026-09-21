@@ -1,0 +1,1031 @@
+{
+  "best_clockwise_rotation" : 90,
+  "engine" : "Apple Vision",
+  "os" : "Version 27.0 (Build 26A428)",
+  "page_id" : "06-022",
+  "records" : [
+    {
+      "clockwise_rotation" : 0,
+      "file" : "06-022-original.png",
+      "lines" : [
+        {
+          "box" : [
+            0.31138998648655103,
+            0.4550390983976087,
+            0.36155085901166917,
+            0.022632165184872766
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "but in it Dear cousin qou dant"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.31377775627170257,
+            0.4723336726604227,
+            0.34781781039090853,
+            0.018113163187136849
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "know how mvel, I shauld litke"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.34923380638361973,
+            0.48299720423617409,
+            0.31273536197503121,
+            0.025433140271698962
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "ts see my ald borne and"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.31377360373163832,
+            0.5013602767623726,
+            0.3500349318267213,
+            0.017960493488961893
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "frierds asice mare, I thâught-when."
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.33856502772172403,
+            0.57558137691923728,
+            0.32735425114848005,
+            0.017441897498734704
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "dide befare noro 9 will clese gote"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.40088985186427439,
+            0.58772377724073754,
+            0.26546332883748303,
+            0.021514643793520749
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "my lave to all the family"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.34570700316457398,
+            0.59209657470455945,
+            0.056955780610847828,
+            0.015956642204670191
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "anot"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.33408072004698819,
+            0.60465114419460431,
+            0.32959640696780002,
+            0.015988409309073415
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "reccive a partiare of it gnur self."
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.53587444048932087,
+            0.62209301652777382,
+            0.11883407842009552,
+            0.0087209437064361683
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "Hrilí davro."
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.42152466234858182,
+            0.63372092360717303,
+            0.12107623423941555,
+            0.017441873965055921
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "• Djanre Truly"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.3533077611683802,
+            0.64363372135573416,
+            0.086747704313800911,
+            0.027965115324170453
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "sbaybiy"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.3139013438673886,
+            0.66279069418141057,
+            0.071748882369856604,
+            0.021802332930783486
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "Gerten"
+            }
+          ]
+        }
+      ],
+      "orientation_score" : 189.10000020265579,
+      "revision" : 3,
+      "usesLanguageCorrection" : false
+    },
+    {
+      "clockwise_rotation" : 90,
+      "file" : "06-022-original.png",
+      "lines" : [
+        {
+          "box" : [
+            0.45930232257164644,
+            0.32511211124703299,
+            0.015988377370509343,
+            0.098654703739117777
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "faut in"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.45573950396211588,
+            0.42128018646595955,
+            0.020326477660415621,
+            0.26281826898536742
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "it Dear cousin ayou dant"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.47119506922039828,
+            0.33167990562577732,
+            0.018013647104122121,
+            0.3546281873422612
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "know how mweh I sheuld litke"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.4830247924500603,
+            0.3357189528234612,
+            0.026878726748546022,
+            0.31511938853185972
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "to see my ald horne and"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.50145347876235513,
+            0.3340807225388398,
+            0.01744187956831289,
+            0.34977578164877787
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "frienrds asies anare, I tháught-when"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.5188953406434661,
+            0.32959641162536257,
+            0.039244202413233897,
+            0.35650224910673778
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "paçetr y e ale thit ve ss I dehen"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.54636203323366617,
+            0.36507623843091574,
+            0.02056002700931181,
+            0.32115522270410335
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Tinks of you oftener and avont"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.56359051076171351,
+            0.34294530495789388,
+            0.013968835286051862,
+            0.30514307593260837
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "ó See you warse thar & eva"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.57680044197270253,
+            0.33169622877277527,
+            0.01581132285883502,
+            0.32316470275989673
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "dadk hefare. noto 9 will clase grie"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.58897977859911088,
+            0.33166240084157506,
+            0.017297272956749432,
+            0.27390966398097205
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "my love to all thé fasnily"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.59447674304183595,
+            0.60313901341064735,
+            0.010174420689583963,
+            0.049327355331171607
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "anol"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.60345945972439385,
+            0.3338713820817899,
+            0.018837802138367832,
+            0.3300346194507856
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "receive a partiure of it gour self."
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.62124921145989065,
+            0.34503251111138067,
+            0.011355285779009461,
+            0.12385451079713017
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "apritt danso."
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.61746699710808084,
+            0.45311271483219295,
+            0.068128314617798003,
+            0.22886016624159899
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "- Pgauens Trch sbangflit vren"
+            }
+          ]
+        }
+      ],
+      "orientation_score" : 246.70000058412552,
+      "revision" : 3,
+      "usesLanguageCorrection" : false
+    },
+    {
+      "clockwise_rotation" : 180,
+      "file" : "06-022-original.png",
+      "lines" : [
+        {
+          "box" : [
+            0.32045256522306392,
+            0.5211286162389861,
+            0.36359124434621709,
+            0.02090020409482074
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "faut in it Dear cousin you dant"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.33183856485207613,
+            0.51162790681100057,
+            0.35201793746809779,
+            0.014534884137916704
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "know how mvel I should ltke"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.33570766311599437,
+            0.48728111449240263,
+            0.30640545687528359,
+            0.02814968436361065
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "to see my ald horne and"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.3318385647814916,
+            0.47965116267893348,
+            0.35201793746809779,
+            0.015988372327578215
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "friends asice anare, I thäught-when"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.33392395223936799,
+            0.41933227932695516,
+            0.31421183674391728,
+            0.017609080192485305
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "to dee you warse thar & eva"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.331838558846349,
+            0.40540540520482715,
+            0.32286996720274214,
+            0.016157461809635731
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "dide hefare. noro J aill clase gite"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.32925046210270209,
+            0.38859810458595079,
+            0.32121631324615757,
+            0.021710712957326295
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "my love to all the fanviily andt"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.33166110625028306,
+            0.37630257283948454,
+            0.3299642517865245,
+            0.018546051200212244
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "reccive a partias of it yuur self"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.34304932449604331,
+            0.36627907013707006,
+            0.12331839005873557,
+            0.013081394827604065
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "afarití davso."
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.45497202226260625,
+            0.31360427722737394,
+            0.2247163803737523,
+            0.068407881273926274
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "oggawet Twnih shoyg hit eore"
+            }
+          ]
+        }
+      ],
+      "orientation_score" : 214.20000028610229,
+      "revision" : 3,
+      "usesLanguageCorrection" : false
+    },
+    {
+      "clockwise_rotation" : 270,
+      "file" : "06-022-original.png",
+      "lines" : [
+        {
+          "box" : [
+            0.5227877635128827,
+            0.31600762037113594,
+            0.01882258369275458,
+            0.35904753143255164
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "put in it Dear cousin you dant"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.51017440890733123,
+            0.31390134791907121,
+            0.015988394740605649,
+            0.3542600932874177
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "knon hou muveh I skaveld ltke"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.48717186633028781,
+            0.34886713547628645,
+            0.029779597819201642,
+            0.31772440444752437
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "to see my ald horne and"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.47965115307520911,
+            0.31614350180853878,
+            0.015988391378651545,
+            0.34977578164877776
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "frierids asiee onare, I shaught-when"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.46802325254872573,
+            0.32062780598356277,
+            0.011627913361850817,
+            0.1367712972817533
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "I aanlol soan"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.41934940931127684,
+            0.35186119182312636,
+            0.019049219743345391,
+            0.30978739715963866
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "to see you warse than I ever"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.38710163026291283,
+            0.34260264427934128,
+            0.040272704862959974,
+            0.32827551092296681
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "shandy bead te aae the pil dly mate"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.39134192415029784,
+            0.34982982676741869,
+            0.016538338711623135,
+            0.055521530594453639
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "anot"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.37471915236148984,
+            0.33583202875377238,
+            0.022858309269511712,
+            0.33045012375404093
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "reccive a partiars of itt squur self."
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.36621382132185443,
+            0.53312168390127046,
+            0.013505490770351125,
+            0.12218689961788232
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "apasití danso."
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.32762476103909882,
+            0.35303944785657115,
+            0.050775711740926321,
+            0.1925544115679233
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "\" gawss Trnclh sbanybiy"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.31976743967955157,
+            0.31614349841539857,
+            0.011627911120548062,
+            0.065022421835122191
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "gelten"
+            }
+          ]
+        }
+      ],
+      "orientation_score" : 192.30000060796738,
+      "revision" : 3,
+      "usesLanguageCorrection" : false
+    },
+    {
+      "clockwise_rotation" : 90,
+      "file" : "06-022-original.png",
+      "lines" : [
+        {
+          "box" : [
+            0.45930232257164644,
+            0.32511211124703299,
+            0.015988377370509343,
+            0.098654703739117777
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "fut in"
+            },
+            {
+              "confidence" : 1,
+              "text" : "faut in"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "fat in"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.45573950396211588,
+            0.42128018646595955,
+            0.020326477660415621,
+            0.26281826898536742
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "it Dear cousin you dant"
+            },
+            {
+              "confidence" : 1,
+              "text" : "it Dear cousin you dont"
+            },
+            {
+              "confidence" : 1,
+              "text" : "it Dear cousin ayou dant"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.47119506922039828,
+            0.33167990562577732,
+            0.018013647104122121,
+            0.3546281873422612
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "know how much I should litke"
+            },
+            {
+              "confidence" : 1,
+              "text" : "know how muel I should litke"
+            },
+            {
+              "confidence" : 1,
+              "text" : "know how much I should like"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.4830247924500603,
+            0.3357189528234612,
+            0.026878726748546022,
+            0.31511938853185972
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "to see my ald horns and"
+            },
+            {
+              "confidence" : 1,
+              "text" : "to see my ald horne and"
+            },
+            {
+              "confidence" : 1,
+              "text" : "to see my ald borne and"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.50145347876235513,
+            0.3340807225388398,
+            0.01744187956831289,
+            0.34977578164877787
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "friends aries anare, I thaught-when"
+            },
+            {
+              "confidence" : 1,
+              "text" : "friends aries anare, I thraught-when"
+            },
+            {
+              "confidence" : 1,
+              "text" : "friends aries anase, I thaught-when"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.5188953406434661,
+            0.32959641162536257,
+            0.039244202413233897,
+            0.35650224910673778
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "page a le that me as dele"
+            },
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "page a le that me sa dele"
+            },
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "page a le that me as dela"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.54636203323366617,
+            0.36507623843091574,
+            0.02056002700931181,
+            0.32115522270410335
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Tinks of you oftener and avant"
+            },
+            {
+              "confidence" : 1,
+              "text" : "Tinks of you oftener and avant."
+            },
+            {
+              "confidence" : 1,
+              "text" : "Tink of you oftener and avant"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.56359051076171351,
+            0.34294530495789388,
+            0.013968835286051862,
+            0.30514307593260837
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "ó See you worse than I eve"
+            },
+            {
+              "confidence" : 1,
+              "text" : "ó see you worse than I eve"
+            },
+            {
+              "confidence" : 1,
+              "text" : "ó See you worse than & eve"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.57680044197270253,
+            0.33169622877277527,
+            0.01581132285883502,
+            0.32316470275989673
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "dock hefare. noto 9 will clase grie"
+            },
+            {
+              "confidence" : 1,
+              "text" : "dock befare. noto 9 will clase grie"
+            },
+            {
+              "confidence" : 1,
+              "text" : "dick hefare. noto 9 will clase grie"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.58897977859911088,
+            0.33166240084157506,
+            0.017297272956749432,
+            0.27390966398097205
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "my love to all the family"
+            },
+            {
+              "confidence" : 1,
+              "text" : "my lave to all the family"
+            },
+            {
+              "confidence" : 1,
+              "text" : "my love to all the fasily"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.59447674304183595,
+            0.60313901341064735,
+            0.010174420689583963,
+            0.049327355331171607
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "anot"
+            },
+            {
+              "confidence" : 1,
+              "text" : "anol"
+            },
+            {
+              "confidence" : 1,
+              "text" : "andl"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.60345945972439385,
+            0.3338713820817899,
+            0.018837802138367832,
+            0.3300346194507856
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "receive a partiere of it your self."
+            },
+            {
+              "confidence" : 1,
+              "text" : "receive a partiese of it your self."
+            },
+            {
+              "confidence" : 1,
+              "text" : "receive a parties of it your self."
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.62124921145989065,
+            0.34503251111138067,
+            0.011355285779009461,
+            0.12385451079713017
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "aprilt danso."
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "aprilt sanso."
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "aprilt darro."
+            }
+          ]
+        }
+      ],
+      "orientation_score" : 229.20000022649765,
+      "revision" : 3,
+      "usesLanguageCorrection" : true
+    },
+    {
+      "clockwise_rotation" : 90,
+      "file" : "06-022-contrast.png",
+      "lines" : [
+
+      ],
+      "orientation_score" : 0,
+      "revision" : 3,
+      "usesLanguageCorrection" : false
+    },
+    {
+      "clockwise_rotation" : 90,
+      "file" : "06-022-contrast.png",
+      "lines" : [
+
+      ],
+      "orientation_score" : 0,
+      "revision" : 3,
+      "usesLanguageCorrection" : true
+    }
+  ]
+}

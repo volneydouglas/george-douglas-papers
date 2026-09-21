@@ -1,0 +1,1291 @@
+{
+  "best_clockwise_rotation" : 0,
+  "engine" : "Apple Vision",
+  "os" : "Version 27.0 (Build 26A428)",
+  "page_id" : "06-084",
+  "records" : [
+    {
+      "clockwise_rotation" : 0,
+      "file" : "06-084-original.png",
+      "lines" : [
+        {
+          "box" : [
+            0.39292217711249144,
+            0.43805380552673223,
+            0.1735520241477273,
+            0.012644298777860774
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "we herrd farinet we he"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.38361386534190717,
+            0.44513502395361371,
+            0.18352643099698157,
+            0.017243976593017685
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "add Compreary heri S freomis"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.37528090084944149,
+            0.49709301135799322,
+            0.20674156882546163,
+            0.015988395354327056
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "is aur gffonstant emplergene"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.37656440763404908,
+            0.50390329489644325,
+            0.19963826959783382,
+            0.026715792487649326
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "I home a siuting if in"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.37903204691148468,
+            0.51947216579569955,
+            0.19262886740944601,
+            0.024913010316736539
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "aa huipen To gét a chaneąś"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.37528090012184978,
+            0.53779068629630133,
+            0.20449437921697444,
+            0.014534906499526157
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "Ligy ie l janaio hasr entrie!"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.38651685238537331,
+            0.54941859346472643,
+            0.19550562078302552,
+            0.017441882526173402
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "deserted us thy neves comie"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.37303370915749495,
+            0.56104650025113911,
+            0.2044943792169745,
+            0.014534906499526046
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "abveit ns no mes Han st-"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.3906858321563067,
+            0.5738158483729795,
+            0.19613664106889206,
+            0.015600995456471201
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "- aingess, Ofhis has heen a"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.401933788986306,
+            0.58664592354920975,
+            0.17161353371360083,
+            0.019099908716538327
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "hennlifel slay zrey cheas"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.39775281052057465,
+            0.59883719923401968,
+            0.18426965886896307,
+            0.015988392549402541
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "wines slighit furn shaatt"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.38340535322735442,
+            0.60644897207627491,
+            0.19719966541637074,
+            0.023618157330681289
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Dent lonh fer letters Toe"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.39967373385960997,
+            0.62168161300559122,
+            0.17386586969549006,
+            0.019424151252297794
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "often me mnay get vnt"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.37977528005705258,
+            0.63517440740264175,
+            0.19775281039151277,
+            0.017441883087158216
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "of rolls. Keef oud sf imis-"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.37703492004100553,
+            0.64727922030234608,
+            0.21658548528497873,
+            0.020106865377987115
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "cheif-dönti fuget home Lat"
+            }
+          ]
+        }
+      ],
+      "orientation_score" : 277.10000026226044,
+      "revision" : 3,
+      "usesLanguageCorrection" : false
+    },
+    {
+      "clockwise_rotation" : 90,
+      "file" : "06-084-original.png",
+      "lines" : [
+        {
+          "box" : [
+            0.43773922102193463,
+            0.45781331758307386,
+            0.014632972268497246,
+            0.16308810147372155
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "herare fusimet we heel."
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.44767441661567992,
+            0.45617977474115512,
+            0.01162791083840764,
+            0.062921350652521246
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "confruary"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.44912790607423797,
+            0.5258426964379932,
+            0.010174420300652021,
+            0.031460675326260734
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "hers"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.45058139329408026,
+            0.55505618129097112,
+            0.010174422544591555,
+            0.069662919477982865
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "9 fromis"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.45754346217982794,
+            0.45574270575514175,
+            0.01439622093649473,
+            0.09522317366166555
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "lo. S wanild"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.45877173085565431,
+            0.55134257348859828,
+            0.017308431513169242,
+            0.074370540272105878
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "comno dl an."
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.47238371737027152,
+            0.45617977708821766,
+            0.015988378524780245,
+            0.11460673939098021
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "sompright slay"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.4854651137447849,
+            0.45617977561632617,
+            0.015988376280840655,
+            0.076404495239257852
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Mayg mutt"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.49659256043706324,
+            0.45905322715878183,
+            0.017406281863941886,
+            0.086037951382723743
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "ofponetant"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.57631916625672486,
+            0.55869503151407152,
+            0.012225615557502234,
+            0.051080821644176155
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "bem aą"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.60029069628594955,
+            0.46292134783114725,
+            0.014534886304069961,
+            0.04719101298939099
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "Shigh is"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.60029069677834745,
+            0.55955056167920569,
+            0.01162790859446805,
+            0.042696630304509875
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "shaath"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.61337209218085798,
+            0.50337078624698206,
+            0.013081396888284136,
+            0.031460675326260734
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "fes"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.61116630501147606,
+            0.53645403366790145,
+            0.014237715216243951,
+            0.075428078391335251
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "Lipteas Toe"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.62499999751139623,
+            0.50561797776444073,
+            0.015988376841825525,
+            0.087640450217506993
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "nay get vat"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.63662790341050002,
+            0.49438202170702916,
+            0.017441867379581311,
+            0.12584270130504271
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Keef out of mis-"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.64970929485689455,
+            0.40224719104877715,
+            0.015988385256599069,
+            0.21797753073952419
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "wcheik donti furget home fal"
+            }
+          ]
+        }
+      ],
+      "orientation_score" : 114.80000066757202,
+      "revision" : 3,
+      "usesLanguageCorrection" : false
+    },
+    {
+      "clockwise_rotation" : 180,
+      "file" : "06-084-original.png",
+      "lines" : [
+        {
+          "box" : [
+            0.41573033780499485,
+            0.5116279068475188,
+            0.20224718960848725,
+            0.01454856367672186
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "1o mawonpranghd slay Esfain"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.41797752795910853,
+            0.4985294115690726,
+            0.20000000000000001,
+            0.016005472295424483
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "wi lle Masy matt eday. Speninng"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.4202247189969357,
+            0.45784883709337554,
+            0.19999999999999996,
+            0.015988372353946456
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "cons hupen to got e chanes"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.41507129379921975,
+            0.44082393019184918,
+            0.21027730768377134,
+            0.02168622185202207
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "diss ia 4 janmo hare estrisa"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.41460939541864233,
+            0.42571462233706769,
+            0.19533676147460938,
+            0.027938959458295054
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "dearted is thg neves come"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.41999170173342382,
+            0.42003443219441838,
+            0.20498048262162638,
+            0.016750008078182499
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "abeit us no mus Han ét.-"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.41103351554152784,
+            0.40948448293255479,
+            0.19818317760120735,
+            0.015649573943194217
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "- aingess, I his has been a"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.4243554470606889,
+            0.35676522840395741,
+            0.17136023781516335,
+            0.018484177308924044
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "oflen me nnag geł vat"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.42181927214651566,
+            0.34292665207775541,
+            0.18994860562411225,
+            0.021835207097670617
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "of solls. Keef out sf mis."
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.41096016288389053,
+            0.33134530285881414,
+            0.20948018854314626,
+            0.018268000658820727
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "- chek dintt fueget home fak"
+            }
+          ]
+        }
+      ],
+      "orientation_score" : 157.00000083446503,
+      "revision" : 3,
+      "usesLanguageCorrection" : false
+    },
+    {
+      "clockwise_rotation" : 270,
+      "file" : "06-084-original.png",
+      "lines" : [
+        {
+          "box" : [
+            0.53742203878275863,
+            0.43297578279968529,
+            0.028101857129265273,
+            0.14571065729314625
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "cno вin у sene"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.54651162652176255,
+            0.37977528106648539,
+            0.013081398010253986,
+            0.053932585282759238
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "wehaet"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.52662277549707581,
+            0.444430594704463,
+            0.018014503927791803,
+            0.1357277748801492
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Annt lo. S woriled"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.52761627809541922,
+            0.41123595551015424,
+            0.0087209320068359908,
+            0.033707864934747866
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "coi"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.52906976676253958,
+            0.37528089968967326,
+            0.0087209314458510656,
+            0.029213482249866862
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "Mcn"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.50914609822738754,
+            0.45567385947741423,
+            0.017235996021944033,
+            0.12416213989257807
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "io mesonpranghet"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.49715937328981602,
+            0.50980311372656473,
+            0.021216242173138722,
+            0.069621686068448096
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "vill May"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.49734275993028471,
+            0.43592670260793864,
+            0.019328949872185197,
+            0.077995952259410473
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "mist eley."
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.49187335554557621,
+            0.45822302993345931,
+            0.008250619663911718,
+            0.043314361572265647
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "etont"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.46075581090628942,
+            0.46741573297066441,
+            0.014534889669979345,
+            0.10561797402121809
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "oa hripen To"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.44129374529196813,
+            0.49052079328679887,
+            0.023508673275218273,
+            0.091803491765802603
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "Liggie K fian"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.43749999795455402,
+            0.50786517180420665,
+            0.0087209350922528572,
+            0.074157298694957352
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "slesertoel nes"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.42587209093216161,
+            0.5033707900907235,
+            0.01017442310557648,
+            0.074157298694957352
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "abveit ss"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.41075155074808317,
+            0.46707371863629965,
+            0.013980449227725733,
+            0.11078322670676499
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "angess, ghis"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.40116278973786113,
+            0.40224719154948008,
+            0.0087209320068359353,
+            0.033707864934747866
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "chear"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.38798458330518554,
+            0.5166567623102033,
+            0.0083653862336102724,
+            0.065415441339666147
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "mme 24"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.38302919242387296,
+            0.44154978696990144,
+            0.016168961244470925,
+            0.042898101806640665
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "furn"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.38808139445276596,
+            0.39550561886908797,
+            0.011627908594468106,
+            0.040449437228116114
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "Shanth"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.37017437534418646,
+            0.47104580736943313,
+            0.020071642258587985,
+            0.10520311528986148
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "bunt look fo"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.37312832986008176,
+            0.38361536545906327,
+            0.015492162143482868,
+            0.075458110462535477
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "litTers Toąłą"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.35797214116816656,
+            0.40178437671414013,
+            0.015858620475320273,
+            0.12879472212357956
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "me vnay get vat"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.34528633353448801,
+            0.38613254170349409,
+            0.017880353366627411,
+            0.18965544267134227
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "f solls, Keeps oud of mis-"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.33430231970830204,
+            0.37977528558726925,
+            0.013081406986012178,
+            0.20674156882546157
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "- chef dirtt furget hor Lod"
+            }
+          ]
+        }
+      ],
+      "orientation_score" : 162.10000091791153,
+      "revision" : 3,
+      "usesLanguageCorrection" : false
+    },
+    {
+      "clockwise_rotation" : 0,
+      "file" : "06-084-original.png",
+      "lines" : [
+        {
+          "box" : [
+            0.38361386534190717,
+            0.44513502395361371,
+            0.18352643099698157,
+            0.017243976593017685
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "add Comperry her: § fromis"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "add Comperry her: § freemis"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "add comperry her: § freemis"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.37528090084944149,
+            0.49709301135799322,
+            0.20674156882546163,
+            0.015988395354327056
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "is our offenstant emplorens"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "is our offenstant emplorene"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "is our offerstant emplorens"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.37656440763404908,
+            0.50390329489644325,
+            0.19963826959783382,
+            0.026715792487649326
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "I home a sitting if i"
+            },
+            {
+              "confidence" : 1,
+              "text" : "I home a sitting if in"
+            },
+            {
+              "confidence" : 1,
+              "text" : "I home a sitting if ir"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.37903204691148468,
+            0.51947216579569955,
+            0.19262886740944601,
+            0.024913010316736539
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "a hapen To get a chaneś"
+            },
+            {
+              "confidence" : 1,
+              "text" : "a hupen To get a chaneś"
+            },
+            {
+              "confidence" : 1,
+              "text" : "a hapen to get a chaneś"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.37528090012184978,
+            0.53779068629630133,
+            0.20449437921697444,
+            0.014534906499526157
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "diggie l jarao hear entries"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "diggie 4 jarao hear entries"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "diggie l jarao hass entries"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.38651685238537331,
+            0.54941859346472643,
+            0.19550562078302552,
+            0.017441882526173402
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "deserted us they never come"
+            },
+            {
+              "confidence" : 1,
+              "text" : "deserted as they never come"
+            },
+            {
+              "confidence" : 1,
+              "text" : "deserted us they never conse"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.37303370915749495,
+            0.56104650025113911,
+            0.2044943792169745,
+            0.014534906499526046
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "abruit us no mer Han st -"
+            },
+            {
+              "confidence" : 1,
+              "text" : "abruit us no mes Han st -"
+            },
+            {
+              "confidence" : 1,
+              "text" : "abruit us no mer Han st-"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.3906858321563067,
+            0.5738158483729795,
+            0.19613664106889206,
+            0.015600995456471201
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "- wing ess, Jhis has been a"
+            },
+            {
+              "confidence" : 1,
+              "text" : "- wingess, Jhis has been a"
+            },
+            {
+              "confidence" : 1,
+              "text" : "- wing ess, Jhis has heen a"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.401933788986306,
+            0.58664592354920975,
+            0.17161353371360083,
+            0.019099908716538327
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "hennliful slay sre chear"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "hennliful slay zey chear"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "hennliful slay sey chear"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.39775281052057465,
+            0.59883719923401968,
+            0.18426965886896307,
+            0.015988392549402541
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "wines sighit furn shatt"
+            },
+            {
+              "confidence" : 1,
+              "text" : "wines slight furn shatt"
+            },
+            {
+              "confidence" : 1,
+              "text" : "wines slighit furn shaatt"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.38340535322735442,
+            0.60644897207627491,
+            0.19719966541637074,
+            0.023618157330681289
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Dent lost for letters Toe"
+            },
+            {
+              "confidence" : 1,
+              "text" : "Dent lout for letters Toe"
+            },
+            {
+              "confidence" : 1,
+              "text" : "Dent lost for letters Tou"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.39967373385960997,
+            0.62168161300559122,
+            0.17386586969549006,
+            0.019424151252297794
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "often we may get unt"
+            },
+            {
+              "confidence" : 1,
+              "text" : "often me may get unt"
+            },
+            {
+              "confidence" : 1,
+              "text" : "often we say get unt"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.37977528005705258,
+            0.63517440740264175,
+            0.19775281039151277,
+            0.017441883087158216
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "of rolls. Keep oud of mis-"
+            },
+            {
+              "confidence" : 1,
+              "text" : "of rolls. Keep ond of mis-"
+            },
+            {
+              "confidence" : 1,
+              "text" : "of rolls. Keep oud of mis"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.37703492004100553,
+            0.64727922030234608,
+            0.21658548528497873,
+            0.020106865377987115
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "chef dont fuge home Lot."
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "chef dont fuget home Lat"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "chef dirt fuget home Lat"
+            }
+          ]
+        }
+      ],
+      "orientation_score" : 223.5,
+      "revision" : 3,
+      "usesLanguageCorrection" : true
+    },
+    {
+      "clockwise_rotation" : 0,
+      "file" : "06-084-contrast.png",
+      "lines" : [
+
+      ],
+      "orientation_score" : 0,
+      "revision" : 3,
+      "usesLanguageCorrection" : false
+    },
+    {
+      "clockwise_rotation" : 0,
+      "file" : "06-084-contrast.png",
+      "lines" : [
+
+      ],
+      "orientation_score" : 0,
+      "revision" : 3,
+      "usesLanguageCorrection" : true
+    }
+  ]
+}

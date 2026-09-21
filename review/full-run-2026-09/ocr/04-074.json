@@ -1,0 +1,2407 @@
+{
+  "best_clockwise_rotation" : 180,
+  "engine" : "Apple Vision",
+  "os" : "Version 27.0 (Build 26A428)",
+  "page_id" : "04-074",
+  "records" : [
+    {
+      "clockwise_rotation" : 0,
+      "file" : "04-074-original.png",
+      "lines" : [
+        {
+          "box" : [
+            0.24415390335906154,
+            0.84104304703544275,
+            0.57327082453547296,
+            0.052096070700544672
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "it as enidence in the-"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.22343610401745143,
+            0.79394377802746252,
+            0.59167440878378386,
+            0.051280767549344186
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Suit peneding in the Fsvris"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.23137235878410223,
+            0.77210768950132957,
+            0.31042170344172304,
+            0.03546351921267632
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Taf bugimussi"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.25096525790914131,
+            0.74127907024420958,
+            0.53667952254011819,
+            0.031976743248419925
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "thin Lill Bered Kanrar"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.1980411128591007,
+            0.69444777775586974,
+            0.60931007179054042,
+            0.047371729408822394
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "1o Oheik on Red Datt fur"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.21405463171151282,
+            0.64907678185905038,
+            0.56827016469594582,
+            0.052199582355778484
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "what hunde he ananrau"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.26421481720190376,
+            0.61939002752241679,
+            0.4466795555320946,
+            0.044970873700893921
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "haw. mnony dase as"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.23428420139381265,
+            0.58023255975323373,
+            0.19682156949429899,
+            0.057116271228325188
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "a\/tarney"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.26254826478172782,
+            0.55081300853659976,
+            0.52123551652238187,
+            0.040756759023278688
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Shis all bemý allendiet"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.25289575280372695,
+            0.52317073211108789,
+            0.52702702702702697,
+            0.033515314551872954
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "cvite me the ameunt"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.19337015257146331,
+            0.48333333335440065,
+            0.58011052312077704,
+            0.037499999999999978
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : ".af The. Căpes. Noi ti it cniT"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.22930859046821409,
+            0.4536250398719327,
+            0.52012431376689194,
+            0.033312166415578992
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "lontput douri fugures"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.21400415956806448,
+            0.41903046147250622,
+            0.55649084142736482,
+            0.031542528354055577
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "yea you canteynake lhâmm"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.20604939461933172,
+            0.38154194400985275,
+            0.53992919921875004,
+            0.043786521849593529
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "initti ce fencil hegible."
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.21546961498264705,
+            0.3458333333530702,
+            0.55801104571368243,
+            0.037499999999999978
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "Itose yueput ceun au"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.37451737442326249,
+            0.31666666656847176,
+            0.40540540540540537,
+            0.032170542275033354
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "litte frim Dallas"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.23938223226457117,
+            0.27906976763360014,
+            0.47683399097339524,
+            0.036377387318184629
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "e dosattnou fust"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.21786501762251204,
+            0.2419027765441546,
+            0.57199040593327699,
+            0.042507190239138626
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "what they we as had Do"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.19889501445250282,
+            0.20000000002083329,
+            0.58011052312077704,
+            0.037500000000000089
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "gruss, aua gruss uare"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.18993321206913411,
+            0.17844497566212825,
+            0.25641619708086993,
+            0.032140372051456145
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "-runt doe"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.45345248748323869,
+            0.18447514973565926,
+            0.26287381558804895,
+            0.025984297341447471
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "a lusniss"
+            }
+          ]
+        }
+      ],
+      "orientation_score" : 271.00000083446503,
+      "revision" : 3,
+      "usesLanguageCorrection" : false
+    },
+    {
+      "clockwise_rotation" : 90,
+      "file" : "04-074-original.png",
+      "lines" : [
+        {
+          "box" : [
+            0.84218200766298268,
+            0.17853594233314052,
+            0.052420205217066806,
+            0.5774637088260135
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "it as evidence in the-"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.79427898046819634,
+            0.18476520515843486,
+            0.052445897048081891,
+            0.59006796347128387
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Suit- pending in the 7errn"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.77434378119051883,
+            0.46118983712369765,
+            0.035159573128553001,
+            0.30737835858319251
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Tap businissi"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.74127905252018078,
+            0.21235521805396351,
+            0.033430270063198653,
+            0.53474903003589525
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Then Lill Bered Karnar"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.69505604268993793,
+            0.18183935382754757,
+            0.046976880329411275,
+            0.61434926625844599
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Is Oheik on Red Datt fur"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.64909493858391465,
+            0.21765733223561401,
+            0.052177993650358911,
+            0.56637682115709465
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "veliat punds se mayrave"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.63003207680690365,
+            0.56424678858372146,
+            0.033670809986145467,
+            0.18825518633868243
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "hamn"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.61624320943161015,
+            0.28740420604848516,
+            0.055510333301575288,
+            0.25322800095016884
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "onytase as"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.58144458226553219,
+            0.57260329425732692,
+            0.056239442902851877,
+            0.19719825538429059
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "altanuy"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.56042668806758678,
+            0.55319301396780141,
+            0.033451996780023308,
+            0.18365623680320953
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Shis all"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.54916672289958246,
+            0.21014882740377927,
+            0.042562323469456653,
+            0.33656649202913846
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "bemg allendiet"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.52761626023964714,
+            0.22972972432992622,
+            0.026162829825548628,
+            0.56370658255912165
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "1= covite me the aineunt-"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.48826958657535618,
+            0.22576796512107034,
+            0.03434847079641451,
+            0.56391159470016894
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "af te Čapes, Vritiitonet,"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.45320039727517647,
+            0.25058213519883299,
+            0.032389316713906879,
+            0.52400318042652028
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "Imnthut dom pegunes"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.41845535192848998,
+            0.23137117471762569,
+            0.034036627048399382,
+            0.554722999366554
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : ")er you cantenaks (hm"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.37967159149771734,
+            0.25594315537215795,
+            0.048317879777613704,
+            0.53221574113175674
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "iiti a pencil legible."
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.34834701001025831,
+            0.22765408386034824,
+            0.038448203482279009,
+            0.52921426309121622
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "Ihose yueput doun a"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.30762965482711513,
+            0.21999745098757928,
+            0.055208978420350607,
+            0.55508914432010137
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "yuvar litter grem Dallas"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.27549203076564543,
+            0.26784034487840369,
+            0.041719762290396367,
+            0.4930496133340373
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "e desut prvu Just"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.238706701509353,
+            0.20796583075582797,
+            0.04707975310038745,
+            0.56865610483530404
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "what they were, had Lo"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.20348835357421363,
+            0.21814673461882639,
+            0.036337246158258701,
+            0.55984553156672301
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "gruss, and gruss worte"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.18168603786487458,
+            0.51930502211216512,
+            0.027616296163419402,
+            0.26061775826119093
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "cwwnt dion"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.18558514096242834,
+            0.2834224936255012,
+            0.025036236522643557,
+            0.20332026301203554
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "Aersiniss"
+            }
+          ]
+        }
+      ],
+      "orientation_score" : 282.70000076293945,
+      "revision" : 3,
+      "usesLanguageCorrection" : false
+    },
+    {
+      "clockwise_rotation" : 180,
+      "file" : "04-074-original.png",
+      "lines" : [
+        {
+          "box" : [
+            0.17693208927458517,
+            0.10564028190116925,
+            0.57880371093750005,
+            0.050446037354508033
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "it as evidence in the-"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.18076671035504199,
+            0.15153493182003697,
+            0.59237766575168915,
+            0.055333219698774139
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Siit pending in the Heviis"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.46318210696061413,
+            0.187743604729949,
+            0.30348213814400338,
+            0.036415940571606686
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Tat bugimissi"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.20849420981585975,
+            0.22383717456400132,
+            0.54054054054054046,
+            0.034883790675217519
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Then Lill Bered Karnan"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.19051667717319098,
+            0.25567636271309724,
+            0.58822377797719605,
+            0.043934693375254019
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "to check on Red Dalé fur-"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.21591794257655675,
+            0.29757902130369795,
+            0.56607652818834464,
+            0.053206311977975651
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "eetiat punds he anantrave"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.28730587584989914,
+            0.33695648965466996,
+            0.45461026578336144,
+            0.042956515056331024
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "hau moni dase as"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.56953852177930631,
+            0.35935169193077621,
+            0.19597794816300673,
+            0.058397321003239244
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "aItornu"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.21012204047003424,
+            0.40531758905823434,
+            0.5258217311549831,
+            0.044184766939985076
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "This all berg allendiel"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.22779921825816227,
+            0.44476740431800765,
+            0.56370658255912165,
+            0.024709376668542338
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Li uvite me the ainennt"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.22381498816693865,
+            0.47445790624075923,
+            0.56781032252956076,
+            0.037300530100256468
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "of the tăpes. Vriteit out,"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.25052012756982672,
+            0.51166765811351023,
+            0.52041447819890196,
+            0.037210858352785259
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "lont hut doori fuguaes"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.2236088933647942,
+            0.54599271351622836,
+            0.5645363967483108,
+            0.035676891047780046
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "y er you cantomate Mhům"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.25576124034760805,
+            0.56945302044001744,
+            0.53046488993876684,
+            0.04989745287391234
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "mitti ae pencil legible."
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.20386420757035953,
+            0.60108345023511411,
+            0.57028544657939184,
+            0.051211006660771496
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "Ikiose yeneput chaun in"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.2367151586027825,
+            0.63692677880863724,
+            0.5437575551625845,
+            0.051394209822988146
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "yunr littu frem Salla"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.27781303322192885,
+            0.68304683994529736,
+            0.4887033823374155,
+            0.037648050571844838
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "e dovattnu fust"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.20830086764088646,
+            0.71724040606750805,
+            0.56795753272804061,
+            0.037525394098545495
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "what they weas, had ts"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.21621620189252258,
+            0.75872089336148141,
+            0.5617760900548987,
+            0.036337283374817342
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "gruss, and guuss worte"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.26833976361828715,
+            0.78779066372143436,
+            0.51158302100929054,
+            0.029069835383717657
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "vwunt da au tursinisse"
+            }
+          ]
+        }
+      ],
+      "orientation_score" : 315.00000047683716,
+      "revision" : 3,
+      "usesLanguageCorrection" : false
+    },
+    {
+      "clockwise_rotation" : 270,
+      "file" : "04-074-original.png",
+      "lines" : [
+        {
+          "box" : [
+            0.10422236861368522,
+            0.24395065740312816,
+            0.05255939514656377,
+            0.57360853040540538
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "it as evidence in the"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.14986732444921466,
+            0.22477615292297326,
+            0.058223730567994153,
+            0.59460904508023649
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Siit pending in the Hevrn"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.18890476193286257,
+            0.22950305987674835,
+            0.035294835160418259,
+            0.32857570338893571
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Tat bugimiss.."
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.22383719057704887,
+            0.25096525434362937,
+            0.033430270063198708,
+            0.54054054054054057
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Then Lill Bered Farsar"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.25620337995928422,
+            0.21743161888856699,
+            0.043193153443375265,
+            0.58250006598395276
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "1o check on Red Daté fur"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.29941858581502745,
+            0.21428572306669713,
+            0.047965153639878688,
+            0.56949806007179049
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "wtiait hunds he man haus"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.33257092115513082,
+            0.21915371104902914,
+            0.04855656197400593,
+            0.42798207875844596
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Is hau ingny dase"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.3592683284032146,
+            0.22717752055211016,
+            0.060669305072567403,
+            0.2247169783308699
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "altanus"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.40552323827378794,
+            0.2625482696657544,
+            0.045058174443438792,
+            0.52895751953125003
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "This all besg altendiek"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.44186044347819559,
+            0.19691118564822629,
+            0.029069807471298614,
+            0.57528960356841219
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "ti crite me the aneunt"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.47448846756313756,
+            0.20631270392298284,
+            0.037377582332952186,
+            0.56421743032094596
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "nf The tăpes. Vritiêt out"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.51334499087245333,
+            0.22159363440116486,
+            0.030996167562841404,
+            0.52587125211148655
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "dont hut douni puouaes"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.54383647807080415,
+            0.20595887766744703,
+            0.039426108879771604,
+            0.5666579787795607
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "jer you cantemate Chem"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.56918846580581495,
+            0.20599825870847777,
+            0.050215784708658839,
+            0.53616398991765213
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "initti ce peneil legíble."
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.6121255637901637,
+            0.22567321102718962,
+            0.038486623376365547,
+            0.55056798986486488
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Itose yuepsit doun au"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.63700112658723296,
+            0.22045353971932569,
+            0.0553272526438644,
+            0.56429252005912167
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "yunr litter fuem Dallas"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.67918770026518138,
+            0.22945492067820406,
+            0.042418447354944822,
+            0.49271197344805751
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "edosattnoe just"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.711674399099129,
+            0.21952746174728932,
+            0.047347434749448247,
+            0.5724919499577702
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "what they weni, had to"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.75619797592362614,
+            0.2179672006759944,
+            0.040152604017800408,
+            0.56407563080658785
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "gruss, and gress worke"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.78924417065963759,
+            0.20656371557221276,
+            0.029069798167158933,
+            0.51544400601773643
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "vwunt de au tusisuss"
+            }
+          ]
+        }
+      ],
+      "orientation_score" : 314.70000040531158,
+      "revision" : 3,
+      "usesLanguageCorrection" : false
+    },
+    {
+      "clockwise_rotation" : 180,
+      "file" : "04-074-original.png",
+      "lines" : [
+        {
+          "box" : [
+            0.17693208927458517,
+            0.10564028190116925,
+            0.57880371093750005,
+            0.050446037354508033
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "it as evidence in the-"
+            },
+            {
+              "confidence" : 1,
+              "text" : "it as evidence in the."
+            },
+            {
+              "confidence" : 1,
+              "text" : "it as evidence in the"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.18076671035504199,
+            0.15153493182003697,
+            0.59237766575168915,
+            0.055333219698774139
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Siit pending in the Herri"
+            },
+            {
+              "confidence" : 1,
+              "text" : "Siit pending in the Hesii"
+            },
+            {
+              "confidence" : 1,
+              "text" : "Siit pending in the Herris"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.46318210696061413,
+            0.187743604729949,
+            0.30348213814400338,
+            0.036415940571606686
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "Tat businessi"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "Tat business."
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "Tat businesse"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.20849420981585975,
+            0.22383717456400132,
+            0.54054054054054046,
+            0.034883790675217519
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "Thin Lill Bered Karnan"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "Then Lill Bered Karnan"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "Thin Lill Bered Karnar"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.19051667717319098,
+            0.25567636271309724,
+            0.58822377797719605,
+            0.043934693375254019
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "to check on Red Dalé fur-"
+            },
+            {
+              "confidence" : 1,
+              "text" : "to check on Red Daté fur-"
+            },
+            {
+              "confidence" : 1,
+              "text" : "to check an Red Dalé fur-"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.21591794257655675,
+            0.29757902130369795,
+            0.56607652818834464,
+            0.053206311977975651
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "retiat funes he anan trave"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "retiat funds he anan trave"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "retiat funes he aran trave"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.28730587584989914,
+            0.33695648965466996,
+            0.45461026578336144,
+            0.042956515056331024
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "hau moni dase as"
+            },
+            {
+              "confidence" : 1,
+              "text" : "hau îoni dase as"
+            },
+            {
+              "confidence" : 1,
+              "text" : "hau mon dase as"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.56953852177930631,
+            0.35935169193077621,
+            0.19597794816300673,
+            0.058397321003239244
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "aItornu"
+            },
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "aIlornu"
+            },
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "allornu"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.21012204047003424,
+            0.40531758905823434,
+            0.5258217311549831,
+            0.044184766939985076
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "This all berg allendel"
+            },
+            {
+              "confidence" : 1,
+              "text" : "This all berg allendek"
+            },
+            {
+              "confidence" : 1,
+              "text" : "This all berg allendee"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.22779921825816227,
+            0.44476740431800765,
+            0.56370658255912165,
+            0.024709376668542338
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "Li uvite me the ainennt"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "Li uvite me the anennt"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "Li uvite me the aineunt"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.22381498816693865,
+            0.47445790624075923,
+            0.56781032252956076,
+            0.037300530100256468
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "of the tăpes. Vritiit out,"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "of the tăpes. Vritiît out,"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "of the tapes. Vritiit out,"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.25052012756982672,
+            0.51166765811351023,
+            0.52041447819890196,
+            0.037210858352785259
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "lont hut door fuguaes"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "lant hut door fuguaes"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "lent hut door fuguaes"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.2236088933647942,
+            0.54599271351622836,
+            0.5645363967483108,
+            0.035676891047780046
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "y er you cant mate Chům"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "y er you cant mate Chêm"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "y er you cant mate Chim"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.25576124034760805,
+            0.56945302044001744,
+            0.53046488993876684,
+            0.04989745287391234
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "miti ae pencil legible."
+            },
+            {
+              "confidence" : 1,
+              "text" : "mitti ae pencil legible."
+            },
+            {
+              "confidence" : 1,
+              "text" : "miti ae pencil legible ."
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.20386420757035953,
+            0.60108345023511411,
+            0.57028544657939184,
+            0.051211006660771496
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "Thiose yeput chaun in"
+            },
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "Iliase yeput chaun in"
+            },
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "Thiose yeput chaun în"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.2367151586027825,
+            0.63692677880863724,
+            0.5437575551625845,
+            0.051394209822988146
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "yunr litte frem Salla"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "yunr litte frem salla"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "yuvr litte frem Salla"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.27781303322192885,
+            0.68304683994529736,
+            0.4887033823374155,
+            0.037648050571844838
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "e donat tnu just"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "e donat tru just"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "e donat hnu just"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.20830086764088646,
+            0.71724040606750805,
+            0.56795753272804061,
+            0.037525394098545495
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "what thy weas, had ts"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "what thy weas, håd ts"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "what thy wens, had ts"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.21621620189252258,
+            0.75872089336148141,
+            0.5617760900548987,
+            0.036337283374817342
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "gruss, and gress wort"
+            },
+            {
+              "confidence" : 1,
+              "text" : "gruss, and gress work"
+            },
+            {
+              "confidence" : 1,
+              "text" : "gruss, and gress warte"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.26833976361828715,
+            0.78779066372143436,
+            0.51158302100929054,
+            0.029069835383717657
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "vuunt da au tusinisse"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "vuunt da au tusisisse"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "ewent da au tusinisse"
+            }
+          ]
+        }
+      ],
+      "orientation_score" : 229.00000029802322,
+      "revision" : 3,
+      "usesLanguageCorrection" : true
+    },
+    {
+      "clockwise_rotation" : 180,
+      "file" : "04-074-contrast.png",
+      "lines" : [
+        {
+          "box" : [
+            0.17853358586693269,
+            0.10394018620532752,
+            0.57757053684543924,
+            0.053602810991488781
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "it as enidence in the-"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.18072976846639813,
+            0.15153546044537569,
+            0.59237839157516892,
+            0.055361039076394225
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "siit pendino in the Fevrís"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.46705752065251216,
+            0.19062919562828606,
+            0.29956269135346281,
+            0.033521202521595517
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Tay busimiss."
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.21235521630005863,
+            0.22383717458839558,
+            0.53474903003589525,
+            0.034883790675217519
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Then tell Bered Karnar"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.19821683655383612,
+            0.25357341159842206,
+            0.59287544869087838,
+            0.051946292660100757
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Io ohsik on Red Date fur"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.21578744536351732,
+            0.29736104203076619,
+            0.56627269847972983,
+            0.051644658654685927
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "vtiat pusds he may have"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.28537247798541249,
+            0.33410031237458249,
+            0.49509567673141891,
+            0.045561788915618684
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Ishaw inony dase as"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.57085521875806056,
+            0.36007719022395324,
+            0.1967814842430321,
+            0.057852991615853666
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "altarny"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.20832931208956865,
+            0.40543434276826562,
+            0.52550104914484796,
+            0.04173544286712394
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "This all bemý alłendet"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.22771699312109117,
+            0.44444531284079047,
+            0.50406701990076019,
+            0.027622770293941334
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "cosite m the cneunt"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.22563865130584781,
+            0.47448081293412148,
+            0.56414385821368251,
+            0.037362491018403721
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "af the tăpes, Vritiitoutz"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.25449669087950605,
+            0.51452765561565639,
+            0.52209221917229742,
+            0.033863793349847571
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "Amniput doum puguais"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.2255746402858094,
+            0.54354413771856225,
+            0.56081147065033776,
+            0.039758784596512942
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : ") er you cản têmahe Chem"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.25569960722272289,
+            0.56938193312775121,
+            0.53058214342271959,
+            0.049997987204450811
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "mitti ae pencil legible."
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.22929499530282629,
+            0.60704743406886719,
+            0.53172689901815884,
+            0.046055736386679147
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Ihiose yme put doum în"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.21783284771881845,
+            0.64577244136248702,
+            0.4948876293285473,
+            0.043118200844865506
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "un littr fum Datlas"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.27992277623416389,
+            0.68313950268123091,
+            0.4787644834776183,
+            0.036337272519987862
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "e dosatanou fust"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.20807862278641079,
+            0.71502551001923709,
+            0.56833845808699335,
+            0.044419181637647687
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "what thiy wese, had tes"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.21621620189339999,
+            0.75872089337799831,
+            0.5617760900548987,
+            0.036337283374817453
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "gruss, and guuss worte"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.28185327241170016,
+            0.78779066372121553,
+            0.49613901499155405,
+            0.029069835383717546
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "vuunt de ou dusiness"
+            }
+          ]
+        }
+      ],
+      "orientation_score" : 303.90000021457672,
+      "revision" : 3,
+      "usesLanguageCorrection" : false
+    },
+    {
+      "clockwise_rotation" : 180,
+      "file" : "04-074-contrast.png",
+      "lines" : [
+        {
+          "box" : [
+            0.17853358586693269,
+            0.10394018620532752,
+            0.57757053684543924,
+            0.053602810991488781
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "it as enidence in the-"
+            },
+            {
+              "confidence" : 1,
+              "text" : "it as enidenc in the-"
+            },
+            {
+              "confidence" : 1,
+              "text" : "it as enidence in the:"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.18072976846639813,
+            0.15153546044537569,
+            0.59237839157516892,
+            0.055361039076394225
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "siet hendno in the Ferrís"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "siet hendno in the Ferrí"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "sit hendno in the Ferrís"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.46705752065251216,
+            0.19062919562828606,
+            0.29956269135346281,
+            0.033521202521595517
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "Tay busimiss."
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "Tay busimess."
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "Tay businiss."
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.21235521630005863,
+            0.22383717458839558,
+            0.53474903003589525,
+            0.034883790675217519
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Then Lill Bered Kansas"
+            },
+            {
+              "confidence" : 1,
+              "text" : "Then Lill Bered Varnar"
+            },
+            {
+              "confidence" : 1,
+              "text" : "Then Lill Bered Harnar"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.19821683655383612,
+            0.25357341159842206,
+            0.59287544869087838,
+            0.051946292660100757
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Io ohsi k on Red Dat fur"
+            },
+            {
+              "confidence" : 1,
+              "text" : "Io ohs. k on Red Dat fur"
+            },
+            {
+              "confidence" : 1,
+              "text" : "Io ohsi k on Red Date fur"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.21578744536351732,
+            0.29736104203076619,
+            0.56627269847972983,
+            0.051644658654685927
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "wtiat pusds he may have"
+            },
+            {
+              "confidence" : 1,
+              "text" : "wtiat pusds he may haue"
+            },
+            {
+              "confidence" : 1,
+              "text" : "vtiat pusds he may have"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.28537247798541249,
+            0.33410031237458249,
+            0.49509567673141891,
+            0.045561788915618684
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Is haw inony dase as"
+            },
+            {
+              "confidence" : 1,
+              "text" : "Is haw înony dase as"
+            },
+            {
+              "confidence" : 1,
+              "text" : "is haw inony dase as"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.57085521875806056,
+            0.36007719022395324,
+            0.1967814842430321,
+            0.057852991615853666
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "altorny"
+            },
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "altarny"
+            },
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "altörny"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.20832931208956865,
+            0.40543434276826562,
+            0.52550104914484796,
+            0.04173544286712394
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "This all bemý alłendut"
+            },
+            {
+              "confidence" : 1,
+              "text" : "This all bemý alłendet"
+            },
+            {
+              "confidence" : 1,
+              "text" : "This all beng alłendet"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.22771699312109117,
+            0.44444531284079047,
+            0.50406701990076019,
+            0.027622770293941334
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "cosite m the cinemnt"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "cosite m the cineunt"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "cosite m the cinennt"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.22563865130584781,
+            0.47448081293412148,
+            0.56414385821368251,
+            0.037362491018403721
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "af the tăpes, Vri tait outz"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "af the tăpes, Vri tit outz"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "af the tapes, Vri tit outz"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.25449669087950605,
+            0.51452765561565639,
+            0.52209221917229742,
+            0.033863793349847571
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "Ami put dom puguais"
+            },
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "Ami put dom pugunis"
+            },
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "Ani put dom puguais"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.2255746402858094,
+            0.54354413771856225,
+            0.56081147065033776,
+            0.039758784596512942
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : ") er you cản têma he Chem"
+            },
+            {
+              "confidence" : 1,
+              "text" : ") en you cản têma he Chem"
+            },
+            {
+              "confidence" : 1,
+              "text" : ") er you cản têma te Chem"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.25569960722272289,
+            0.56938193312775121,
+            0.53058214342271959,
+            0.049997987204450811
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "mitti ae pencil legible."
+            },
+            {
+              "confidence" : 1,
+              "text" : "mitti ce pencil legible."
+            },
+            {
+              "confidence" : 1,
+              "text" : "mitti ae pencil legible ."
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.22929499530282629,
+            0.60704743406886719,
+            0.53172689901815884,
+            0.046055736386679147
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "Itiose ym put coum în"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "Itiose ym put coun în"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "Itiose ym put coum in"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.21783284771881845,
+            0.64577244136248702,
+            0.4948876293285473,
+            0.043118200844865506
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "un liete fuem Datlas"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "un liete frem Datlas"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "un liete fum Datlas"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.27992277623416389,
+            0.68313950268123091,
+            0.4787644834776183,
+            0.036337272519987862
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "e dosat hnou fust"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "e dosat hnou just"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "e dosat arou fust"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.20807862278641079,
+            0.71502551001923709,
+            0.56833845808699335,
+            0.044419181637647687
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "what thiy wese, had tes"
+            },
+            {
+              "confidence" : 1,
+              "text" : "what they wese, had tes"
+            },
+            {
+              "confidence" : 1,
+              "text" : "what thiy weae, had tes"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.21621620189339999,
+            0.75872089337799831,
+            0.5617760900548987,
+            0.036337283374817453
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "gruss, and guess worte"
+            },
+            {
+              "confidence" : 1,
+              "text" : "gruss, and guess wort"
+            },
+            {
+              "confidence" : 1,
+              "text" : "gruss, and guess worke"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.28185327241170016,
+            0.78779066372121553,
+            0.49613901499155405,
+            0.029069835383717546
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "vuwnt de ou dusiness"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "vuwnt de eu dusiness"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "vuwnt de ou dusiniss"
+            }
+          ]
+        }
+      ],
+      "orientation_score" : 257.80000019073486,
+      "revision" : 3,
+      "usesLanguageCorrection" : true
+    }
+  ]
+}

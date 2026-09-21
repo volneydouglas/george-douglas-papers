@@ -1,0 +1,41 @@
+[
+  {
+    "page_id": "04-021",
+    "source_filename": "ACU CRS MS5 - 04 - Folder 1, Correspondence and Loan Papers.pdf",
+    "source_sha256": "5c93172385acbe177e2cfb2f190f58fbd534ee5a468be3843ad6dc6ae91ed2bb",
+    "embedded_image": "Im21.jpg",
+    "size": [
+      2062,
+      2715
+    ],
+    "image": "evidence/04-021-support.png",
+    "sha256": "ab756240af35c62cd996c20a45281c4727f3ee7319a13fe80288f45d22aa8137",
+    "processing": "Full native embedded image converted to RGB; no crop, rotation, resizing or contrast change."
+  },
+  {
+    "page_id": "04-022",
+    "source_filename": "ACU CRS MS5 - 04 - Folder 1, Correspondence and Loan Papers.pdf",
+    "source_sha256": "5c93172385acbe177e2cfb2f190f58fbd534ee5a468be3843ad6dc6ae91ed2bb",
+    "embedded_image": "Im22.tif",
+    "size": [
+      1992,
+      2632
+    ],
+    "image": "evidence/04-022-support.png",
+    "sha256": "f659abbbc869a50a85c9584ed08d112bffdb4b35913f0a4c52de30f7991199e2",
+    "processing": "Full native embedded image converted to RGB; no crop, rotation, resizing or contrast change."
+  },
+  {
+    "page_id": "05-135",
+    "source_filename": "ACU CRS MS5 - 05 - Folder 2, Correspondence and Legal Papers.pdf",
+    "source_sha256": "84e92f46ff5208da786ecda5bb9b497766d054a596b8383e760626a975286cbf",
+    "embedded_image": "Im136.jpg",
+    "size": [
+      2266,
+      3392
+    ],
+    "image": "evidence/05-135-support.png",
+    "sha256": "4d7cbe092e683adf9f517fa363452ca668543f8cab150927d86c8fcc7bfb2468",
+    "processing": "Full native embedded image converted to RGB; no crop, rotation, resizing or contrast change."
+  }
+]

@@ -1,14 +1,14 @@
 GEORGE DOUGLAS PAPERS ANNOTATED TRANSCRIPTION
-Version 1.0 • September 2026
+Version 1.1 • September 2026
 
 PURPOSE AND SCOPE
 This edition offers a direct, annotated transcription of the six supplied PDFs of the George Douglas Papers, 1830–1939, Center for Restoration Studies MS 5, Abilene Christian University Special Collections and Archives. It accounts for all 387 scan pages, including repository covers, later identifying slips, envelopes, duplicate images and fragments. Some damaged passages remain only partly transcribed. Folders 4–7 described in the finding aid were not supplied as manuscript scans and are outside this edition.
 
 PREPARATION AND REVIEW
-Prepared for Volney Douglas with AI assistance in September 2026, from visual reading of the supplied scans. Each scan received an initial reading; selected doubtful passages received a focused second reading. The page inventory identifies the review level. This edition has not received an independent human transcription check or repository approval. It is offered for scholarly review and correction, and does not replace the source images.
+Prepared for Volney Douglas with AI assistance in September 2026, from visual reading of the supplied scans. Each scan received an initial reading. Version 1.1 adds local OCR processing of all 193 pages containing the original 1,200 uncertainties, and applies selected image-checked corrections. OCR completion is not a complete new visual check; the item ledger records which passages were individually adjudicated. The page inventory identifies the review level. This edition has not received an independent human transcription check or repository approval. It is offered for scholarly review and correction, and does not replace the source images.
 
 INDEPENDENCE
-This transcription was prepared separately from the plain-English family edition, which modernized wording and summarized some repetitive forms. The other agent’s work was not consulted. Part of a pre-existing 25-page transcription was viewed during the initial inventory, before the request for independence; it has not been used for this transcription. The work is therefore not a blind experiment.
+The first edition was prepared separately from the plain-English family edition. For version 1.1, the other agent’s contextual review and the family edition were consulted to guide image checks; this revision is not a blinded comparison. Part of a pre-existing 25-page transcription was viewed during the initial inventory, before the request for independence; it has not been used for this transcription. The work is therefore not a blind experiment.
 
 WORDING AND LAYOUT
 Original wording, spelling, grammar, abbreviations and recoverable punctuation are retained. No silent expansion or modernization is intended. Handwritten capitalization, punctuation and word division sometimes require judgment. Superscripts are lowered to the baseline. Ordinary line wrapping is reflowed; verse lines, addresses and separate text blocks are distinguished. Underlining and decorative features are not systematically encoded. This is a direct reading transcript, not a facsimile or a fully diplomatic edition.
@@ -26,10 +26,10 @@ DOCUMENTARY STATEMENTS
 The letters preserve their writers’ assertions, beliefs, rumors and opinions. Transcription does not establish those statements as historical fact. Historical racial language and other offensive wording remain where legible. The original scans are the evidence against which this typescript should be checked.
 
 REFERENCES AND CORRECTIONS
-A page ID such as 05-025 means source 05, PDF scan page 25, counting the cover as page 1. A block ID such as 05-025-P02 adds the second transcript paragraph or block. These are editorial locators; they are not manuscript page numbers. Suggested citation: George Douglas Papers annotated transcription, version 1.0, 05-025-P02; corresponding source 05, scan page 25. For a correction, give that locator, the existing wording, a proposed reading, and the image or other evidence supporting it.
+A page ID such as 05-025 means source 05, PDF scan page 25, counting the cover as page 1. A block ID such as 05-025-P02 adds the second transcript paragraph or block. These are editorial locators; they are not manuscript page numbers. Suggested citation: George Douglas Papers annotated transcription, version 1.1, 05-025-P02; corresponding source 05, scan page 25. For a correction, give that locator, the existing wording, a proposed reading, and the image or other evidence supporting it.
 
 FILES FOR REUSE
-The package includes four searchable PDFs and four editable Word files, a complete UTF-8 transcript, structured JSON, an offline HTML reading copy, a page inventory, and an unresolved-readings register in TSV and HTML. The register includes tentative readings, unread text, loss and obstruction; structural markers and readable insertions or deletions are not unresolved items. Original source PDFs are identified by filename and SHA-256 checksum but are not duplicated in this package.
+The package includes four searchable PDFs and four editable Word files, a complete UTF-8 transcript, structured JSON, an offline HTML reading copy, a page inventory, and an unresolved-readings register in TSV and HTML. The register retains the original uncertainty IDs; resolved IDs are retired and new IDs use higher numbers. The review ledger preserves all 1,200 baseline items. The register includes tentative readings, unread text, loss and obstruction; structural markers and readable insertions or deletions are not unresolved items. Original source PDFs are identified by filename and SHA-256 checksum but are not duplicated in this package.
 
 REPOSITORY CREDIT
 Original documents and scans: George Douglas Papers, 1830–1939, Center for Restoration Studies MS 5, Abilene Christian University Special Collections and Archives, Brown Library, Abilene Christian University, Abilene, Texas. Collection address printed in the supplied files: https://digitalcommons.acu.edu/george_douglas. This contribution acknowledges the repository’s work in preserving and scanning the collection. No repository endorsement or transfer of copyright is asserted.
@@ -328,7 +328,7 @@ EDITORIAL NOTE: The parenthetical question mark follows the initial in the ident
 Source: ACU CRS MS5 - 02 - L. Douglas Sermon Notes, 16 Feb 1883.pdf | PDF scan page 3
 
 02-003-P01
-[[Of?]] all the thoughts enclosed in the language of Inspiration [[lost: left edge]] its laws its precepts its promises what is there that conveys more, to our minds and hearts than is expressed in this short sentence? Jesus wept. Let us look a moment at the character of Jesus: who, and what is he? If we accept the truths of the Bible, he is the son of God, The King of the Jews, The bright and morning star! A ruler of the Jews came to Jesus and said, "we know thou art a teacher come from God for no man can do the miracles that thou doest, except God be with him." Look then at the power of this man: by his word water is turned into wine. The blind receive their sight, the lame walk. By His word the tempest is stilled, and He walks the waves of the wild Galilee. By His word the dead are called back to life again. Truly He was the son of God.
+Of all the thoughts enclosed in the language of Inspiration [[lost: left edge]] its laws its precepts its promises what is there that conveys more, to our minds and hearts than is expressed in this short sentence? Jesus wept. Let us look a moment at the character of Jesus: who, and what is he? If we accept the truths of the Bible, he is the son of God, The King of the Jews, The bright and morning star! A ruler of the Jews came to Jesus and said, "we know thou art a teacher come from God for no man can do the miracles that thou doest, except God be with him." Look then at the power of this man: by his word water is turned into wine. The blind receive their sight, the lame walk. By His word the tempest is stilled, and He walks the waves of the wild Galilee. By His word the dead are called back to life again. Truly He was the son of God.
 
 02-003-P02
 But it is not from the Bible alone that we have testimony in regard to the greatness of this man. Renan in his Life of Christ says "All ages will proclaim that among the sons of men there were none born greater than Jesus." His goodness, [[greatness?]], his omnipotent power, we cannot doubt. We stand in awe as we contemplate them, and our hearts acknowledge him as King of Kings and Lord of Lords. But while we contemplate all of this glorious majesty our eye falls upon this simple sentence Jesus wept. What do we learn by this? by these two short words. We learn that He had a heart that could be touched by the sorrows and Suffering of our frail humanity: that Sympath[[lost: torn edge]]
@@ -471,7 +471,7 @@ Cousin George Dear Sir
 having a chance of Sending you a note I take pleasure in informing you that I am in good health & fine spirits. Our Regt left Alexandria La Yesterday week for [[illegible]]. I was detailed to go down on Red River & join the Command at [[Walkers?]] Bend - but it has not passed I expect them Every [[illegible]] The Sabine laying up - I cant leave - Our field & [[illegible]] yet.
 
 04-002-P04
-All at home to Eliza & family - also [[illegible]] well on [[illegible]] furlough I suppose you have heard of the death of Uncle [[Alfred?]] he died on the 5th of June from a wound Recd on the 18th of May - The Gentleman awaits on me & [[illegible]] you a too bad [[illegible]]. Please write to me all the news immediately Let me know how you are all getting along I have been going to [[illegible]] - Wish I could come & see you but I could [[illegible]].
+All at home to Eliza & family - also [[illegible]] well on [[illegible]] furlough I suppose you have heard of the death of Uncle Alfred he died on the 5th of June from a wound Recd on the 18th of May - The Gentleman awaits on me & [[illegible]] you a too bad [[illegible]]. Please write to me all the news immediately Let me know how you are all getting along I have been going to [[illegible]] - Wish I could come & see you but I could [[illegible]].
 
 04-002-P05
 [[illegible: closing]]
@@ -823,7 +823,7 @@ Source: ACU CRS MS5 - 04 - Folder 1, Correspondence and Loan Papers.pdf | PDF sc
 Sept 18th 1863
 
 04-017-P02
-Cousin George. I have written Several times to you but Silence has been the result. My uncertain Whereabouts perhaps have been the Cause — for I cannot think you so ungenerous as not to have Written to me Since Sept last year. I have thought my letters of last Spring may have Contained something not acceptable — if so I cannot conceive what it was — for if you are like the majority of Soldiers — your Feelings could hardly be ruffled — I will try you another Effort and if Silence is the response I may know Something is wrong in [[Denmark?]], & will call off my hounds. But as I am floating in rather a dull atmosphere I will not promise to be very interesting but trust I may for a while relieve you of the monotony of the Camps.
+Cousin George. I have written Several times to you but Silence has been the result. My uncertain Whereabouts perhaps have been the Cause — for I cannot think you so ungenerous as not to have Written to me Since Sept last year. I have thought my letters of last Spring may have Contained something not acceptable — if so I cannot conceive what it was — for if you are like the majority of Soldiers — your Feelings could hardly be ruffled — I will try you another Effort and if Silence is the response I may know Something is wrong in Denmark, & will call off my hounds. But as I am floating in rather a dull atmosphere I will not promise to be very interesting but trust I may for a while relieve you of the monotony of the Camps.
 
 04-017-P03
 I am home on a detail after Clothing for our Co. having reached Sat Evening. I find things moving on in this vicinity about like they did before the War began save the absence of Young men. Plenty Seems Smiling at every door — and were it not for absent ones I believe the people here would be happy. [[illegible]] quite warm weathering Carried on in North Carolina. As yet I have visited but Little. I have visited Waxahachie twice — a very important case being under Consideration in the Court — To wit; The murder of a Mrs Claunch by her Daughter — The case has not yet been decided but from the evidence I have heard believe she will come clear — but not in the Eyes of the people — as innocent of the offence. From Waxa on Monday I went to Red Oak Camp Ground — Camp meeting being on hand — and have remained till Tuesday — The meeting not so largely attended as in former years — Especially by the Sterner Sex — but there has been no discount on the other Side. The eating part received marked attention on my part. I indulge freely in those Substantials that keep Soul & body together — but did not Labor very hard to make myself agreeable — or to create a Contagious Sometimes Called a “palpitation of the heart” — My observation teaches me That the germs of this malady are in an [[illegible]] State and only need Sunshine to bring them to bloom, Expand & Captivate —
@@ -953,7 +953,7 @@ Thair is only four of old Co “I” left that is able for duty. one to evry 7 i
 04-023-P05
 I am in hopes you will get to See Lafayette he can tell you all the news I would like to go home very much I tried to get [[deleted: illegible]] a furlough But failed. I Shall try and get on the Retired list as I am not able for field Service if I Should Succeed I think I will get home by next fall. If I get retired I would only Remain at home for 3 months I dont think I would go home to Stay as long as [[any?]] Stays in this army as we have been to gether all the time I think I aught to Stay with him Should he get Sick or wounded I would be here to help
 
-EDITORIAL NOTE: The top of the scan repeats the heading and opening of scan 21. The main body continues scan 22. The word before “Stays” and portions of the crowded bottom line are uncertain.
+EDITORIAL NOTE: The top of the scan repeats the heading and opening of scan 21. The main body continues scan 22. The word before “Stays” and portions of the crowded bottom line are uncertain. Image review September 2026. 04-023-P02: the clipped opening continues in 04-021-P03, beginning with the rest of furlough and I will write you a few lines. The loss marker describes scan 23 and remains.
 
 ====================================================================
 04-024 | manuscript
@@ -973,7 +973,7 @@ At the expiration of my furlough I Started [[lost: reproduced portion ends]]
 Lafayette has just Returned from the [[illegible]] Texas Squire gets a furlough they intended going to gether But Squire will not get off for a few days and Lafayette wants to Start to morrow so they will hardly go to gether. I will go with Lafayette as far as Meridian. I have not heard from our cousins (the Jetton boys) lately Jeppe is in prison Billy & Charly were well when last heard from. The Six Texas Boys were all well when last heard from. It is very Cold and I am Smoked nearly to death So I will Close for the present you will excuse hurty and badly written letter I will try and do better in the future Remember my Compliments to all the Boys and except of my Best wishes for your Selves. write often and I will do the Same hoping that we may Soon all meet again. I Remain as ever your true Brother
 James [[illegible]]
 
-EDITORIAL NOTE: The top strip repeats part of scan 22. The remaining text concludes the letter. The surname or initials after James cannot be read confidently.
+EDITORIAL NOTE: The top strip repeats part of scan 22. The remaining text concludes the letter. The surname or initials after James cannot be read confidently. Image review September 2026. 04-024-P02: the clipped upper passage continues in 04-022-P02 with to the Command. Scan 22 preserves the rest of the account; retain the scan-24 loss marker.
 
 ====================================================================
 04-025 | envelope
@@ -1483,7 +1483,7 @@ At the Same time and Place Personally appeared Laura Robinson wife of the said T
 04-043-P04
 To certify which I hereto set My hand and official Seal the 26th day of February A D 1875
 No 76
-[[S. M.?]] Hancock N P E C
+Wm L Hancock N P E C
 Texas Precinct No 8
 [[seal]]
 
@@ -1492,7 +1492,7 @@ Texas Precinct No 8
 
 04-043-P06
 The State of Texas
-County of [[Rusk?]]
+County of Hood
 
 04-043-P07
 Personally appeared before me the undersigned authority [[Jeppe?]] Douglas to me well known who acknowledged to me that he signed sealed and delivered the foregoing quit claim deed for the purposes and intentions within Set forth & Expressed and that he does not wish to retract the Same or any Part thereof.
@@ -1500,7 +1500,7 @@ Personally appeared before me the undersigned authority [[Jeppe?]] Douglas to me
 04-043-P08
 In testimony whereof I hereto Set my and affix my Official Seal at Office in [[illegible]] on the 9th day [[lost: reproduced portion ends]]
 
-EDITORIAL NOTE: Overlapping reproduction of the acknowledgment begun on scan 42. The lower acknowledgment continues on scan 44. Portions hidden by the fold have not been silently supplied from that other image.
+EDITORIAL NOTE: Overlapping reproduction of the acknowledgment begun on scan 42. The lower acknowledgment continues on scan 44. Portions hidden by the fold have not been silently supplied from that other image. Image review September 2026. 04-043-P03: hearing of their said Husbands they the said Laura Robinson and Susanna Bell acknowledged. The fold in 04-043 hides this span. Scan 04-044 shows the same handwriting before and after it and exposes the intervening words. Retain the obstruction marker on 04-043 and supply a cited witness note; these words were not recovered from the fold itself. 04-043-P08: Continuation includes March A. D. 1875. Matching handwriting and the same date line establish the overlap. The later scan exposes March A. D. 1875 below the cropped ending. Keep the loss marker and link 04-044-P06; do not invent the connector still at the torn edge.
 
 ====================================================================
 04-044 | manuscript
@@ -1513,7 +1513,7 @@ Been examined by Me Privily and apart and out of hearing of their said Husbands 
 04-044-P02
 To certify which I hereto Set My hand and official Seal the 26th day of February A D 1875
 No 76
-[[S. M.?]] Hancock N P E C
+Wm L Hancock N P E C
 Texas Precinct No 8
 
 04-044-P03
@@ -1521,7 +1521,7 @@ Texas Precinct No 8
 
 04-044-P04
 The State of Texas
-County [[Rusk?]]
+County Hood
 
 04-044-P05
 Personally appeared before me the undersigned authority [[Jeppe?]] Douglas to me well known who acknowledged to me that he signed sealed and delivered the foregoing quit claim deed for the purposes and intentions within Set forth & Expressed and that he does not wish to retract the Same or any Part thereof.
@@ -1536,7 +1536,7 @@ Notary Public
 In [[illegible]] County
 State of Texas
 
-EDITORIAL NOTE: Further overlapping scan of the acknowledgments. This image reveals wording concealed by the fold on scan 43. The lower county, place, and notary’s name remain unresolved.
+EDITORIAL NOTE: Further overlapping scan of the acknowledgments. This image reveals wording concealed by the fold on scan 43. The lower county, place, and notary’s name remain unresolved. Image review September 2026. 04-044-P01: Opening is preserved in 04-043-P03. The names, clause order and repeated lower lines identify this as the same acknowledgment. The preceding image preserves At the Same time and Place Personally appeared Laura Robinson ... wife of the said J. M. Bell. Preserve the crop boundary and cite that witness instead of implying the words are visible on scan 44.
 
 ====================================================================
 04-045 | recording endorsements
@@ -1743,9 +1743,9 @@ Source: ACU CRS MS5 - 04 - Folder 1, Correspondence and Loan Papers.pdf | PDF sc
 I only ask that you get the business in good shape, know how much money is on hand, and how much more is likely to come in, and what has to be met; so if we deem it expedient you can make me a visit. You would not get much out of these people, they are not your sort.
 
 04-054-P02
-Allie leaves tomorrow for [[illegible]] to run a Dormitory. I am staying with Dr Bird. Papa.
+Allie leaves tomorrow for Gunter to run a Dormitory. I am staying with Dr Bird. Papa.
 
-EDITORIAL NOTE: Additional closing page. The destination after “for” is unclear in the scan and has not been inferred.
+EDITORIAL NOTE: Additional closing page. Image review supports Gunter as the destination.
 
 ====================================================================
 04-055 | envelope
@@ -2085,21 +2085,21 @@ Source: ACU CRS MS5 - 04 - Folder 1, Correspondence and Loan Papers.pdf | PDF sc
 04-079-P01
 Palestine, Sept. 8th 1851
 Dear Father,
-Your letter of August 16th came to hand a few days ago, and I was much gratified to hear from you all again. I have just been writing to sister Rebecca, and scolded a good deal with [[her?]] for none of you writing to me, but I see from your letter that the fault lay entirely with the mail, so I shall not send it. I am glad to hear of the good health of the Family, and it gives me some hopes that health may be enjoyed in [[Burky?]], as well as other places. This County although reputed to be one of the healthiest in the State, has been very sickly for two months past, more so than I ever saw it in Ellis Co. I think that Old Mr Benson is nearly willing to try the [[illegible]] again for he has not bettered himself so far as health is concerned, by moving down here.
+Your letter of August 16th came to hand a few days ago, and I was much gratified to hear from you all again. I have just been writing to sister Rebecca, and scolded a good deal with [[her?]] for none of you writing to me, but I see from your letter that the fault lay entirely with the mail, so I shall not send it. I am glad to hear of the good health of the Family, and it gives me some hopes that health may be enjoyed in Brushy, as well as other places. This County although reputed to be one of the healthiest in the State, has been very sickly for two months past, more so than I ever saw it in Ellis Co. I think that Old Mr Benson is nearly willing to try the [[illegible]] again for he has not bettered himself so far as health is concerned, by moving down here.
 There has been a great many deaths in the county, & five Doctors living in this place have had their hands full of practice, tho' now it is becoming [[margin]] more healthy [[/margin]]
 
-EDITORIAL NOTE: Heavy show-through from the reverse interferes with several readings. The place name following “enjoyed in” is unresolved.
+EDITORIAL NOTE: Heavy show-through from the reverse interferes with several readings. The place name following “enjoyed in” reads Brushy after image review.
 
 ====================================================================
 04-080 | manuscript
 Source: ACU CRS MS5 - 04 - Folder 1, Correspondence and Loan Papers.pdf | PDF scan page 80
 
 04-080-P01
-My own health never was better than it has been since I have been in this place. I still get plenty of work to do. I quit working for Mr Dale about a month ago & have been picking up little jobs round ever since. Were it not so expensive to live here I could make a tolerably fair living. I am now helping [[Hedlie?]] a large Livery Stable, my wages are $1,50 cts pr day, but after subtracting $10 pr month for board & washing, the amount is considerably diminished.
+My own health never was better than it has been since I have been in this place. I still get plenty of work to do. I quit working for Mr Dale about a month ago & have been picking up little jobs round ever since. Were it not so expensive to live here I could make a tolerably fair living. I am now helping build a large Livery Stable, my wages are $1,50 cts pr day, but after subtracting $10 pr month for board & washing, the amount is considerably diminished.
 There is going to be a very good opening for carpenters here this coming Winter and Spring, and I am somewhat at a loss whether to continue journeywork or turn out undertaker, I think I could get plenty to do either way.
 The Christian Church at this place have resolved to build a house of worship as soon as lumber can be procured. It will be 56 ft long & 34 wide and will present a very neat appearance when finished. It has not rained here for so long that I forget when it did rain last, every thing is very much parched up. Corn crops are tolerably good, but Cotton will not make more than a half crop
 
-EDITORIAL NOTE: The surname before “a large Livery Stable” is uncertain. Show-through is visible throughout.
+EDITORIAL NOTE: Image review reads the verb build before “a large Livery Stable”; the earlier proposed surname has been withdrawn. Show-through is visible throughout.
 
 ====================================================================
 04-081 | manuscript
@@ -2651,13 +2651,13 @@ Power of attorney
 05-024-P02
 Filed Oct 29th 1852 at
 2½ Oclock P.M.
-By [[A?]] Hawkins Clk
+[[By?]] F Hawkins Clk
 C.C.E.C.
 
 05-024-P03
 fee $0.90 paid
 
-EDITORIAL NOTE: The clerk’s given-name initial is tentative.
+EDITORIAL NOTE: The initial before Hawkins reads F. The preceding abbreviation is uncertain and may be Benj; it is not silently expanded.
 
 ====================================================================
 05-025 | power of attorney
@@ -2856,7 +2856,7 @@ To Miss Lizzie Douglas
 from Niece
 Sarah Gail (Douglas) Headrick
 Bardsdale, Calif
-[[Sat?]] 29, 1893
+Sat 29, 1893
 
 05-035-P02
 [[separate block: envelope]]
@@ -2876,7 +2876,7 @@ EDITORIAL NOTE: The later label, the envelope postmark, and the date of the foll
 Source: ACU CRS MS5 - 05 - Folder 2, Correspondence and Legal Papers.pdf | PDF scan page 36
 
 05-036-P01
-Bardsdale, Sep, 29th, 1893.
+Bardsdale, Sat, 29th, 1893.
 
 05-036-P02
 My Dear Aunt:—I finished up my morning work pretty well this forenoon, so now I will take time to write to you. I am still better—haven’t had a “break down” since I wrote last.
@@ -2890,14 +2890,14 @@ I try to keep the door opening in to the hall closed, so as to have the room rea
 05-036-P05
 [[margin]] This afternoon I made 4 glasses of preserves out of the last quart of my black berries—I haven’t much fruit left. Wont I have a siege filling my jars by and By. [[/margin]]
 
-EDITORIAL NOTE: The top-margin addition is inverted in the scan and is transcribed after the main text.
+EDITORIAL NOTE: The top-margin addition is inverted in the scan and is transcribed after the main text. Image review September 2026. The heading reads Sat literally. The earlier Sep and its expansion to September have been withdrawn; the month is not established by this heading.
 
 ====================================================================
 05-037 | manuscript
 Source: ACU CRS MS5 - 05 - Folder 2, Correspondence and Legal Papers.pdf | PDF scan page 37
 
 05-037-P01
-says “togezzer” (together) with the store. One day he came from the P.O. & said “Grandma [[Chadens?]] house isn’t togezzer is it Mamma?” “Ours is though” He noticed that her Post Office doesn’t join her dwelling, while our store does—dont you think him quite observant? Mr. Headrick has been down with his back, for two weeks, till he could scarcely move, but is much better now—last week he wasn’t able to help me work, at all, so I did it (a small washing) alone as you know I am better, I sat & rinsed them in a bucket. Used all the rain water, so I didn’t get it done this week. Mrs. [[Scholl?]] started back to Kansas the 19th. Her son & children went with her. She said [[illegible]]
+says “togezzer” (together) with the store. One day he came from the P.O. & said “Grandma Chadsey's house isn’t togezzer is it Mamma?” “Ours is though” He noticed that her Post Office doesn’t join her dwelling, while our store does—dont you think him quite observant? Mr. Headrick has been down with his back, for two weeks, till he could scarcely move, but is much better now—last week he wasn’t able to help me work, at all, so I did it (a small washing) alone as you know I am better, I sat & rinsed them in a bucket. Used all the rain water, so I didn’t get it done this week. Mrs. [[Scholl?]] started back to Kansas the 19th. Her son & children went with her. She said [[illegible]]
 
 EDITORIAL NOTE: The last line is faint and cut by the lower scan boundary. The quoted child’s pronunciation is retained.
 
@@ -2956,12 +2956,12 @@ it eaten—While we were eating in came a Life Insurance Agent & tried to get me
 Source: ACU CRS MS5 - 05 - Folder 2, Correspondence and Legal Papers.pdf | PDF scan page 44
 
 05-044-P01
-you her kindest regards, & you dont know how glad she was to get out of these mountains; but I just guess you do, as you were just as glad. One day Elmo came in & said, “I wouldn’t live in Mrs. H. [[Chadens?]] house, would you, Mamma, with a barn pieced on?” He also said he thought the cause of his stomach hurting him lately was, that his Papa didn’t clean him good one day when I was away”—Now you & Ellen shake your sides.
+you her kindest regards, & you dont know how glad she was to get out of these mountains; but I just guess you do, as you were just as glad. One day Elmo came in & said, “I wouldn’t live in Mrs. H. Chadsey's house, would you, Mamma, with a barn pieced on?” He also said he thought the cause of his stomach hurting him lately was, that his Papa didn’t clean him good one day when I was away”—Now you & Ellen shake your sides.
 
 05-044-P02
 Last monday week, I went up to Mrs. Timmons & found her abed with nervous prostration—her back was something like Mr. H’s.
 
-EDITORIAL NOTE: The opening appears to continue a different leaf from the preceding scan. Source order is retained; the surname is uncertain.
+EDITORIAL NOTE: The opening appears to continue a different leaf from the preceding scan. Source order is retained. Image review supports Chadsey’s as the surname.
 
 ====================================================================
 05-045 | manuscript
@@ -3058,16 +3058,16 @@ EDITORIAL NOTE: Page is inverted in the supplied scan. A name or phrase followin
 Source: ACU CRS MS5 - 05 - Folder 2, Correspondence and Legal Papers.pdf | PDF scan page 52
 
 05-052-P01
-gotten out of it; but on she came, and instead of letting me use the pattern, I had cut, after fitting that black spencer, insisted on my using one of Kate [[Cenesto?]], and put the whole responsibility on me, and after my doing my utmost, and at the same time looking after the children, keeping them out of the ditch & from running off, at the same time putting up with Marlin’s tormenting Elmo, chewing his ear, and the like racketting, & the responsibility of the store, after all these annoyances, the dress didn’t fit any where but to Mrs. [[Timmons?]] & Hattie were both completely outdone & seemed, to blame me, and I was surely sick—couldn’t compose my nerves, so as to sleep, for some time. If ever I devoutly thanked my Maker for quiet & rest, it was that night.
+gotten out of it; but on she came, and instead of letting me use the pattern, I had cut, after fitting that black spencer, insisted on my using one of Kate [[Cenesto?]], and put the whole responsibility on me, and after my doing my utmost, and at the same time looking after the children, keeping them out of the ditch & from running off, at the same time putting up with Marlin’s tormenting Elmo, chewing his ear, and the like racketting, & the responsibility of the store, after all these annoyances, the dress didn’t fit any where but to Mrs. Timmons & Hattie were both completely outdone & seemed, to blame me, and I was surely sick—couldn’t compose my nerves, so as to sleep, for some time. If ever I devoutly thanked my Maker for quiet & rest, it was that night.
 
-EDITORIAL NOTE: Page is inverted and begins mid-sentence; its opening does not continue the preceding scan. Two names remain uncertain.
+EDITORIAL NOTE: Page is inverted and begins mid-sentence; its opening does not continue the preceding scan. Timmons is supported by image review; the other marked name remains uncertain.
 
 ====================================================================
 05-053 | manuscript
 Source: ACU CRS MS5 - 05 - Folder 2, Correspondence and Legal Papers.pdf | PDF scan page 53
 
 05-053-P01
-You dont know how I would like to have one of our preachers come in here. I was talking with Mrs. [[Wigart?]] on the subject of religion, & she doesn’t think water baptism, at all, essential to salvation; but still she thinks perhaps, sometime, she will be immersed—adding, she always had an idea if she ever did, the spirit would descend on her, in the shape of a dove, just as it did on Christ. Now you & Ellen, please just dont hurt yourselves laughing at the woeful disappointment, she is going to realize. Last week Mr. H. went over the mountains & worked three days. Hattie stayed with me. Mrs. [[Timmons?]] came down one day, with a dress for Hattie for me to cut & fit. She had tried before, to ring me into it; but I
+You dont know how I would like to have one of our preachers come in here. I was talking with Mrs. [[Wigart?]] on the subject of religion, & she doesn’t think water baptism, at all, essential to salvation; but still she thinks perhaps, sometime, she will be immersed—adding, she always had an idea if she ever did, the spirit would descend on her, in the shape of a dove, just as it did on Christ. Now you & Ellen, please just dont hurt yourselves laughing at the woeful disappointment, she is going to realize. Last week Mr. H. went over the mountains & worked three days. Hattie stayed with me. Mrs. Timmons came down one day, with a dress for Hattie for me to cut & fit. She had tried before, to ring me into it; but I
 
 EDITORIAL NOTE: This page’s final words appear to continue into scan page 52. The supplied page order is retained.
 
@@ -3285,7 +3285,7 @@ Through my frenzied brain, the stormy passions tore
 The years to come all desolated
 To the thorn and rockwaste fated
 Dull despair to sorrow mated
-Spread their pall upon the soul and bid hope [[flee?]] [[door?]]
+Spread their pall upon the soul and bid hope [[flee?]] door
 Clouds above—the darkness falling
 Night’s deep’ning gloom in mist appalling
 Future years to conflict calling
@@ -3298,7 +3298,7 @@ Tomorrow in the fields elysian
 We’ll dream again the dreams dreamed on life’s
 Sunrise shore
 
-EDITORIAL NOTE: Lineation follows the manuscript verse. Two words at the end of the fourth line of the second stanza are uncertain.
+EDITORIAL NOTE: Lineation follows the manuscript verse. Image review supports door in the second stanza; the preceding marked word remains tentative.
 
 ====================================================================
 05-065 | manuscript
@@ -3621,7 +3621,7 @@ EDITORIAL NOTE: Identifying slip also reproduced in source 02, scan page 2. The 
 Source: ACU CRS MS5 - 05 - Folder 2, Correspondence and Legal Papers.pdf | PDF scan page 78
 
 05-078-P01
-[[Of?]] all the thoughts enclosed in the language of Inspiration [[lost: left edge]] its laws its precepts its promises what is there that conveys more, to our minds and hearts than is expressed in this short sentence? Jesus wept. Let us look a moment at the character of Jesus: who, and what is he? If we accept the truths of the Bible, he is the son of God, The King of the Jews, The bright and morning star! A ruler of the Jews came to Jesus and said, "we know thou art a teacher come from God for no man can do the miracles that thou doest, except God be with him." Look then at the power of this man: by his word water is turned into wine. The blind receive their sight, the lame walk. By His word the tempest is stilled, and He walks the waves of the wild Galilee. By His word the dead are called back to life again. Truly He was the son of God.
+Of all the thoughts enclosed in the language of Inspiration [[lost: left edge]] its laws its precepts its promises what is there that conveys more, to our minds and hearts than is expressed in this short sentence? Jesus wept. Let us look a moment at the character of Jesus: who, and what is he? If we accept the truths of the Bible, he is the son of God, The King of the Jews, The bright and morning star! A ruler of the Jews came to Jesus and said, "we know thou art a teacher come from God for no man can do the miracles that thou doest, except God be with him." Look then at the power of this man: by his word water is turned into wine. The blind receive their sight, the lame walk. By His word the tempest is stilled, and He walks the waves of the wild Galilee. By His word the dead are called back to life again. Truly He was the son of God.
 
 05-078-P02
 But it is not from the Bible alone that we have testimony in regard to the greatness of this man. Renan in his Life of Christ says "All ages will proclaim that among the sons of men there were none born greater than Jesus." His goodness, [[greatness?]], his omnipotent power, we cannot doubt. We stand in awe as we contemplate them, and our hearts acknowledge him as King of Kings and Lord of Lords. But while we contemplate all of this glorious majesty our eye falls upon this simple sentence Jesus wept. What do we learn by this? by these two short words. We learn that He had a heart that could be touched by the sorrows and Suffering of our frail humanity: that Sympath[[lost: torn edge]]
@@ -4621,7 +4621,7 @@ James McKee
 Notary Public in and for the said County of Ventura State of California
 My Commission Expires Aug 31st 1897.
 
-EDITORIAL NOTE: Acknowledgment attached over the earlier deed. Its 1893 date is distinct from the 1886 date in the deed.
+EDITORIAL NOTE: Acknowledgment attached over the earlier deed. Its 1893 date is distinct from the 1886 date in the deed. Image review September 2026. 05-137-P01: the clipped acreage wording is preserved on the same deed in 05-135-P01 as thirty acres more or less. 05-137-P01: the deed text hidden by the separate acknowledgment continues in 05-135-P02, beginning unto the Said Lizzie Douglas her heirs and assigns forever. The obstruction remains marked in scan 137.
 
 ====================================================================
 05-138 | envelope and identifying slip
@@ -4776,11 +4776,11 @@ Erath Co Texas]]
 05-142-P03
 [[separate block: recording certificate]]
 THE STATE OF TEXAS,
-County of [[Ellis?]]
+County of Ellis
 I, [[J. R. Champion?]] Clerk of the County Court of said County, do hereby certify that the above instrument of writing, dated on the [[blank]] day of [[June 4?]] 1891, with its Certificate of Authentication, was filed for record in my office, this [[4?]] day of [[Jan.?]] A. D. 1894, at 12:30 o'clock P M., and duly recorded the [[4?]] day of [[January?]] A. D. 1894, at 3 o'clock P M., in the records of said County, in Vol. [[46?]] on Pages 358.
 WITNESS my hand and the seal of the County Court of said County, at office in [[Waxahachie?]] the day and year last above written.
 [[J. R. Champion?]]
-Clerk County Court [[Ellis?]] County
+Clerk County Court Ellis County
 By [[illegible]] Deputy.
 
 EDITORIAL NOTE: Printed singular pronouns are amended to plural by hand. They are rendered in their amended reading. The recording certificate is unusually faint; uncertain entries remain bracketed. Separate sheets overlap.
@@ -4872,7 +4872,7 @@ THE STATE OF TEXAS,
 County of Navarro
 BEFORE ME, A. O. Walker Clerk of the County Court in and for Navarro County, Texas, on this day personally appeared Walter Roper and Mary Roper wife of Walter Roper Known to me to be the persons whose names are subscribed to the foregoing instrument, and acknowledged to me that they executed the same for the purposes and consideration therein expressed. And the said Mary Roper wife of the said Walter Roper, having [[illegible: remainder in shadow and cropped]]
 
-EDITORIAL NOTE: Continuation of 05-145 with an overlapping repeat at the top. Several signatures and acknowledgment text are in deep shadow. The acknowledgments are more fully visible on 05-147–149; they are transcribed from those scans rather than silently filling this image’s gaps.
+EDITORIAL NOTE: Continuation of 05-145 with an overlapping repeat at the top. Several signatures and acknowledgment text are in deep shadow. The acknowledgments are more fully visible on 05-147–149; they are transcribed from those scans rather than silently filling this image’s gaps. Image review September 2026. 05-146-P01: Survey description continues from 05-145-P03. The same lines beginning 18 varas an Elm recur on both scans. The preceding image exposes the survey text above that point, including the cedar bearing. Retain the cropped-top marker and link the earlier scan; this does not count as newly reading the same survey twice. 05-146-P03: 2nd, verified on 05-147-P01. The shaded date on scan 146 is consistent with 2nd; scan 147 exposes the same dated line and clearly reads 2nd. Record the witness explicitly rather than claiming all three characters are clear in the shaded scan. 05-146-P03: Jany, verified on 05-147-P01. The date line, seal and A. O. Walker signature align across the scans. The clearer copy shows the abbreviation Jany. Preserve that abbreviation in a supplied witness note, not the expanded January. 05-146-P04: Remainder of Mary Roper’s acknowledgment is visible on 05-147-P02. The printed and inserted handwritten names align exactly. The clearer scan exposes the remainder beginning been examined by me privily and apart from her husband and its dated signature. The shadow/crop marker remains on scan 146, with a reference to the complete acknowledgment.
 
 ====================================================================
 05-147 | legal acknowledgments
@@ -4907,7 +4907,7 @@ A D White J. P. & Ex-officio N. P. Floyd County Tex
 [[separate block: exposed underlying acknowledgment]]
 [[obscured: overlying sheet]] of the Said E L Winniford having been Examined by me privily and apart from her husband and having the Same by Me fully explained to her, She the Said Milly Winniford acknowledged such instrument to me to be her act and deed and She declared that she had [[deleted: illegible]] willingly Signed the Same for the purpose and Consideration therein Expressed [[lost: cropped bottom]]
 
-EDITORIAL NOTE: Several attached acknowledgments overlap. The last fragment is the lower part of 05-149. The first fragment does not reveal the acknowledging party in this scan.
+EDITORIAL NOTE: Several attached acknowledgments overlap. The last fragment is the lower part of 05-149. The first fragment does not reveal the acknowledging party in this scan. Image review September 2026. 05-147-P04: Covered opening appears on 05-149-P02. The exposed continuation of the Said E L Winniford matches the uncovered acknowledgment in scan 149. The name of the notary remains partly unresolved there; do not import the earlier Raept Sudris guess as certain text. 05-147-P04: Continuation and closing visible on 05-149-P02–P03. The text ending consideration therein Expressed is followed in the uncovered scan by and that She did not wish to retract it and the dated closing. Retain the crop marker and cite the fuller witness.
 
 ====================================================================
 05-148 | legal acknowledgments
@@ -4934,7 +4934,7 @@ A D White J. P. & Ex-officio N. P. Floyd County Tex
 Given under my hand [[illegible: shadow]]
 Day of April A D 1891 [[lost: cropped bottom]]
 
-EDITORIAL NOTE: The Alice E. McCrary acknowledgment repeats 05-147. Underlying handwritten text is shown without the overlying sheets on 05-149.
+EDITORIAL NOTE: The Alice E. McCrary acknowledgment repeats 05-147. Underlying handwritten text is shown without the overlying sheets on 05-149. Image review September 2026. 05-148-P03: Covered opening appears on 05-149-P02. The lower exposed words and their line breaks match the same underlying sheet shown fully in 05-149. Keep the obstruction marker and link that witness; this duplicates the finding for 05-147-U002. 05-148-P03: and Seal this Fourth, verified on 05-149-P03. The obscured closing aligns with the uncovered scan. Brightening scan 148 does not independently recover every letter; scan 149 visibly supplies and Seal this Fourth. 05-148-P03: Closing signature and commission note continue on 05-149-P03. The complete underlying sheet carries the date, notary’s signature, office and commission-expiry note. Preserve uncertainties in those elements, including the given name and expiry reading, rather than filling the cropped area with confident guesses.
 
 ====================================================================
 05-149 | manuscript
@@ -4945,16 +4945,16 @@ Oklahoma Territory }
 Oklahoma County } ss
 
 05-149-P02
-Before me [[Raept Sudris?]] a notary Public for Said Territory and County on this day personally appeared E L. Winniford & Millie Winniford wife of E L Winniford Known to me to be the Persons whose names are Subscribed to the foregoing Instrument and acknowledged to me that they Executed the Same for the purpose and Consideration therein Expressed and the Said Millie Winniford wife of the Said E L Winniford having been Examined by me privily and apart from her husband and having the Same by Me fully explained to her, She the Said Milly Winniford acknowledged such instrument to me to be her act and deed and She declared that she had [[deleted: illegible]] willingly Signed the Same for the purpose and Consideration therein Expressed and that She did not wish to retract it
+Before me [[illegible: given name]] Guthrie a notary Public for Said Territory and County on this day personally appeared E L. Winniford & Millie Winniford wife of E L Winniford Known to me to be the Persons whose names are Subscribed to the foregoing Instrument and acknowledged to me that they Executed the Same for the purpose and Consideration therein Expressed and the Said Millie Winniford wife of the Said E L Winniford having been Examined by me privily and apart from her husband and having the Same by Me fully explained to her, She the Said Milly Winniford acknowledged such instrument to me to be her act and deed and She declared that she had [[deleted: illegible]] willingly Signed the Same for the purpose and Consideration therein Expressed and that She did not wish to retract it
 
 05-149-P03
 Given under my hand and Seal this Fourth Day of April A D 1891
-[[Raept Sudris?]]
+[[illegible: given name]] Guthrie
 Notary Public
 Commission Expires
 [[1-1-91?]]
 
-EDITORIAL NOTE: Notary’s name and commission-expiration notation remain uncertain. Millie and Milly are retained as they appear. The expiration notation should not be reconciled silently with the acknowledgment date.
+EDITORIAL NOTE: Notary’s name and commission-expiration notation remain uncertain. Millie and Milly are retained as they appear. The expiration notation should not be reconciled silently with the acknowledgment date. Image review September 2026. 05-149-P02: Guthrie is legible; the notary given name remains unread. 05-149-P03: Guthrie is legible; the notary given name remains unread.
 
 ====================================================================
 05-150 | identifying slip
@@ -5102,7 +5102,7 @@ this 28 day of May 1896
 at 11:30 o'clock A M.
 T F Thompson
 Clerk County Court, Ellis Co. Texas
-By [[A. Lasswell?]] Deputy.
+By A. Lasswell Deputy.
 92 p 576
 1.00
 .15
@@ -5159,9 +5159,9 @@ I, J. M. PHILLIPS, Clerk of the District Court in and for said County, do hereby
 To certify which, witness my official seal and signature, at office in Waxahachie, on this the day and date last above written.
 J. M. Phillips
 Clerk District Court Ellis County Texas.
-Per H. E. [[Mills?]] Deputy.
+Per H. C. Wise Deputy.
 
-EDITORIAL NOTE: Conclusion of the deed whose opening is scanned next, at 05-158. Docket and printed certificate give differing page references and times; both are retained as read. Deputy signature is uncertain.
+EDITORIAL NOTE: Conclusion of the deed whose opening is scanned next, at 05-158. Docket and printed certificate give differing page references and times; both are retained as read. Image review supports the deputy signature H. C. Wise.
 
 ====================================================================
 05-158 | manuscript
@@ -5346,13 +5346,13 @@ Lizzie Douglas
 Filed for Record this the 28 [[deleted: illegible]] day of May A. D. 1896 at 11:30 o'clock A M
 T. F. Thompson County Clerk
 By A Lasswell Deputy.
-Recorded May 29 A. D. 1896 in Ellis County Record of Deeds Book [[91?]] Page 574
+Recorded May 29 A. D. 1896 in Ellis County Record of Deeds Book 91 Page 574
 T. F. Thompson County Clerk
 By A Lasswell Deputy.
 Recording Fee, $[[2.75?]]
 This Deed Should be Immediately Filed with the County Clerk for Record.
 
-EDITORIAL NOTE: The acknowledgment and sideways docket precede the opening deed in the scan sequence. The final digit of the record-book number is uncertain.
+EDITORIAL NOTE: The acknowledgment and sideways docket precede the opening deed in the scan sequence. The docket’s record-book number reads 91 after image review. Image review September 2026. The docket reads volume 91; the separate recording certificate on 06-011 reads 92. Both readings are preserved.
 
 ====================================================================
 06-009 | legal document
@@ -6200,9 +6200,9 @@ EDITORIAL NOTE: The period identification is on the later slip; the following te
 Source: ACU CRS MS5 - 06 - Folder 3, Correspondence and Legal Papers.pdf | PDF scan page 63
 
 06-063-P01
-I have a horrible tale to recount this week tis the murder of Mrs [[Stinnet?]] by her daughter. Mrs [[S?]] is a sister to Mr [[Simons?]] was here in the spring [[illegible]] creek. It seems that they quarreled a few days before when the girl run away and went to [[illegible]] near Fathers, but he got mad and went back home. The children had all gone out to the water melon patch except this girl [[inserted: illegible]] aged 15 years and small child aged 3 year. Her husband had gone to hunt cattle. The evidence is [[illegible]] there was [[illegible]] a severe struggle between them, [[illegible]] was that the girl showed no [[illegible]] of bruises. The girls evidence comes first. She says she was in the [[illegible]] house, and heard her Mother scream [[illegible]] a [[deleted: illegible]] [[illegible]] run in and [[illegible]] her Mother dead [[illegible]] run off and stood by the [[illegible]] while [[illegible]]. She did not notice which [[inserted: way]] he went. Mrs Douglas was the first one to get there after it happened, and [[illegible]] poor crying little child & asked it who kilt her Mother – [[illegible]] the child said it was Mollie. Search was made and the girls dress was found concealed, all bloody. [[illegible]] bail. three days was given her to give [[five?]] hundred dollars bond she could not so her [[illegible]] went to [[Wax?]] jail. There was a stick found [[illegible]] in the [[illegible]] which was used, from appearances. I have not heard [[illegible]] in her favor, only as her Mother lay in the coffin she went and [[illegible]] wept a great deal if she was only alive she would never disobey her again. If she is realy guilty her repentance came to late to save her the murderers fate in this world
+I have a horrible tale to narrate this week tis the murder of Mrs Claunch by her daughter. Mrs C is a sister to Mr [[Simons?]] [[was here in the spring?]] [[illegible]] creek. It seems that they quarreled a few days before when the girl run away and went to [[illegible]] near Fathers, but he got mad and went back home. The children had all gone out to the water melon patch except this girl [[inserted: illegible]] aged 15 years and small child aged 3 year. Her husband had gone to hunt cattle. The evidence is [[illegible]] there was [[illegible]] a severe struggle between them, [[illegible]] was that the girl showed no [[illegible]] of bruises. The girls evidence comes first. She says she was in the [[illegible]] house, and heard her Mother scream [[illegible]] a [[deleted: illegible]] [[illegible]] run in and [[illegible]] her Mother dead [[illegible]] run off and stood by the [[illegible]] while [[illegible]]. She did not notice which [[inserted: way]] he went. Mrs Douglas was the first one to get there after it happened, and [[illegible]] poor crying little child & asked it who kilt her Mother – [[illegible]] the child said it was Mollie. Search was made and the girls dress was found concealed, all bloody. [[illegible]] bail. three days was given her to give [[five?]] hundred dollars bond she could not so her [[illegible]] went to [[Wax?]] jail. There was a stick found [[illegible]] in the [[illegible]] which was used, from appearances. I have not heard [[illegible]] in her favor, only as her Mother lay in the coffin she went and [[illegible]] wept a great deal if she was only alive she would never disobey her again. If she is realy guilty her repentance came to late to save her the murderers fate in this world
 
-EDITORIAL NOTE: A very pale, incomplete account of an alleged killing. Names, the witness account, and much of the lower half are not securely legible. This is a writer’s report; the transcript does not establish the allegation as fact. A clearer scan or the physical original is needed to resolve the many gaps.
+EDITORIAL NOTE: A very pale, incomplete account of an alleged killing. Names, the witness account, and much of the lower half are not securely legible. This is a writer’s report; the transcript does not establish the allegation as fact. A clearer scan or the physical original is needed to resolve the many gaps. Image review September 2026. Whole-line review also questions previously unbracketed wording around the first location clause. The remaining narrative requires further image or human review; this revision does not certify all surrounding words.
 
 ====================================================================
 06-064 | manuscript
@@ -6306,7 +6306,7 @@ Source: ACU CRS MS5 - 06 - Folder 3, Correspondence and Legal Papers.pdf | PDF s
 Last Sunday morning a party of 8 or 10 men passed Mrs Campbells — aunt [[Bats?]] house — with one of the Stileses. Jim Floyd was one of the party. a young man who was at Mrs Campbells asked Floyd what they were going to do with him. He replied, they were going to take the left hand road with him. The same day Jennie Bell saw a party enter the big thicket at their wood yard. They either took him in there and hung him, or went in to hunt him, after he made his escape. One thing is very certain to my mind, that is if they ever captured him, he never made his escape. Perhaps they merited death, but I dread the consequences of this mob law. We know not, but this is the beginning of terrible times. I hate the thought that Brushy [[deleted: should]] should be the place of the beginning of such things. I would feel a great deal better if I knew that man was not hanging over in that thicket.
 
 06-071-P02
-[[Foythe?]] has not yet returned; the last news from them, Bob was having the chills, and was trying to get a furlough to come with F.
+Fayette has not yet returned; the last news from them, Bob was having the chills, and was trying to get a furlough to come with F.
 
 EDITORIAL NOTE: Continuation of the letter begun on scan page 69. The writer distinguishes belief from knowledge in her account of the suspected hanging.
 
@@ -6761,7 +6761,7 @@ EDITORIAL NOTE: Faded letter opening; several names and clauses remain unresolve
 Source: ACU CRS MS5 - 06 - Folder 3, Correspondence and Legal Papers.pdf | PDF scan page 102
 
 06-102-P01
-come down to lay in her supply: and they will make it convenient to put up at the same hotel. This depends though on circumstances. I am still a visitor [[illegible]] school [[illegible]] and Lizzie Graves are the only girls of my age [[illegible]] is rather dull. It [[ever?]] makes [[illegible]] of the old Liberty Spring. We go there [[illegible]] every day to eat our dinner, and it always causes a sinking of my heart to look at the familiar objects round it. I never can forget all that [[merry troop of S S?]]. Miss Beckett lives in this neighbourhood yet I believe she is the only other that is here. The rest are scattered (as it were) to the four winds. We are having rather a wet week this week, [[and?]] (for the consequence) plenty of fleas. They are about as thick as flies down at Sabine, though we have the advantage of a convenient leaf carpet which is a great help. The children are beginning to come in the house and are shaking the floor so I will have to stop. I heard this morning of the death of Parson Justins wife she died yesterday I have not heard what was the cause. [[Mrs Justin and Fannie?]] [[bitten?]] by a rather [[inserted: sudden]] gadding mania. I think she is [[illegible]] a little to gay, again my ear strikes.
+come down to lay in her supply: and they will make it convenient to put up at the same hotel. This depends though on circumstances. I am still a visitor [[illegible]] school [[illegible]] and Lizzie Graves are the only girls of my age [[illegible]] is rather dull. It [[ever?]] makes [[illegible]] of the old Liberty Spring. We go there [[illegible]] every day to eat our dinner, and it always causes a sinking of my heart to look at the familiar objects round it. I never can forget all that [[merry troop of S S?]]. Miss Beckett lives in this neighbourhood yet I believe she is the only other that is here. The rest are scattered (as it were) to the four winds. We are having rather a wet week this week, and (for the consequence) plenty of fleas. They are about as thick as flies down at Sabine, though we have the advantage of a convenient leaf carpet which is a great help. The children are beginning to come in the house and are shaking the floor so I will have to stop. I heard this morning of the death of Parson Justins wife she died yesterday I have not heard what was the cause. [[Mrs Justin and Fannie?]] [[bitten?]] by a rather [[inserted: sudden]] gadding mania. I think she is [[illegible]] a little to gay, again my ear strikes.
 
 06-102-P02
 Saturday evening 5 P M At home. I left you yesterday at books. Bro Goodwin and the boys took down the stove, and moved the benches round generally, putting two deep against the back wall, and three deep all along the sides, forming as large a space in the center of the room as possible, then began the bustle of spelling. There being two divisions, I fear two concerned ones could not pay much attention to the other
@@ -7011,12 +7011,12 @@ Source: ACU CRS MS5 - 06 - Folder 3, Correspondence and Legal Papers.pdf | PDF s
 been here to hear her talk about the big meeting. She said she must go home early this morning to engage in the same employment that I did. We agreed that we did not wish to “worship the Lord next Sunday in our dirty clothes” ha ha. You ought to have heard us laughing last night. Lizzie
 
 06-116-P02
-Saturday 6th This morning Mother, Laura and I went over to [[Lis's?]] [[illegible]] Bro Goodman preached [[illegible]] a literary [[illegible]] discourse. He [[illegible]] may [[illegible]] What a [[illegible]] to be [[illegible]] for a [[illegible]] preacher, but to [[illegible]] some [[illegible]] to [[illegible]] in public. [[illegible]] was like [[illegible]] in his conversation, and he [[illegible]] the same way. The congregation was [[illegible]] grown [[illegible]] with two children. [[illegible]] find that to [[illegible]] and [[illegible]], to have [[illegible]] or other [[illegible]] an [[illegible]] sermon, or [[illegible]] of [[illegible]] of an old negro getting [[religion?]], interlarded with a few elegant phrases concerning “rotten eggs” and “brick bats”. [[illegible]] is a very [[illegible]] preacher. [[illegible]] from the [[illegible]]. But, one thing from this [[illegible]] of [[illegible]]. Do you [[illegible]] still doing with your neighbors [[illegible]] quarrels—i. e. [[illegible]] religious [[illegible]] with theirs, [[illegible]] but “thou canst [[illegible]] man [[illegible]]”. Dont you [[illegible]] it seems [[illegible]] the [[obscured: ink blot]] [[illegible]]. The methodists [[illegible]] their big meeting [[illegible]] Sunday [[illegible]] and [[illegible]] at [[illegible]] weeks. They have now [[illegible]] at [[illegible]] somewhere near Cedar Hill.
+Saturday 6th This morning Mother, Laura and I went over to [[Lis's?]] [[illegible]] Bro Goodman preached [[illegible]] a [[literary?]] [[illegible]] discourse. He [[illegible]] may [[illegible]] What a [[illegible]] to be [[illegible]] for a [[illegible]] preacher, but to [[illegible]] some [[illegible]] to [[illegible]] in public. [[illegible]] was like [[illegible]] in his conversation, and he [[illegible]] the same way. The congregation was [[illegible]] grown [[illegible]] with two children. [[illegible]] find that to [[illegible]] and [[illegible]], to have [[illegible]] or other [[illegible]] an [[illegible]] sermon, or [[illegible]] of [[illegible]] of an old negro getting religion, interlarded with a few elegant phrases concerning “rotten eggs” and “brick bats”. [[illegible]] is a very [[illegible]] preacher. [[illegible]] from the [[illegible]]. But, one thing from this [[illegible]] of [[illegible]]. Do you [[illegible]] still doing with your neighbors [[illegible]] quarrels—i. e. [[illegible]] religious [[illegible]] with theirs, [[illegible]] but “thou canst [[illegible]] man [[illegible]]”. Dont you [[illegible]] it seems [[illegible]] the [[obscured: ink blot]] [[illegible]]. The methodists [[illegible]] their big meeting [[illegible]] Sunday [[illegible]] and [[illegible]] at [[illegible]] weeks. They have now [[illegible]] at [[illegible]] somewhere near Cedar Hill.
 
 06-116-P03
 [[illegible]] has [[illegible]] River on to the 24th [[illegible]] all well [[illegible]] River. [[illegible]] will [[illegible]] be scarcely [[illegible]] to [[illegible]] till [[illegible]] again consequently the [[illegible]] George [[illegible]] (if [[illegible]]) [[illegible]] George [[illegible]] the [[illegible]]. We hope [[illegible]] to [[illegible]] and [[illegible]] I remain Lizzie
 
-EDITORIAL NOTE: Closing page of the letter begun on scan page 114. The opening paragraph is comparatively clear; much of the Saturday continuation is extremely faded. This is a partial transcription. Adjacent unread spans have not been assigned word counts. A new photograph of this leaf or consultation of the physical original is a priority.
+EDITORIAL NOTE: Closing page of the letter begun on scan page 114. The opening paragraph is comparatively clear; much of the Saturday continuation is extremely faded. This is a partial transcription. Adjacent unread spans have not been assigned word counts. A new photograph of this leaf or consultation of the physical original is a priority. Image review September 2026. Whole-line inspection raises doubts about the surrounding sentence framework in P02, including the earlier literary discourse wording. P02 and P03 remain provisional as whole passages; the marked gaps are not the only potential errors.
 
 ====================================================================
 06-117 | manuscript

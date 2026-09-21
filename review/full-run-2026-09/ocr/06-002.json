@@ -1,0 +1,457 @@
+{
+  "best_clockwise_rotation" : 180,
+  "engine" : "Apple Vision",
+  "os" : "Version 27.0 (Build 26A428)",
+  "page_id" : "06-002",
+  "records" : [
+    {
+      "clockwise_rotation" : 0,
+      "file" : "06-002-original.png",
+      "lines" : [
+        {
+          "box" : [
+            0.54266958251269981,
+            0.42441860368960793,
+            0.026258208910899916,
+            0.013081397417295748
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "Econ"
+            }
+          ]
+        }
+      ],
+      "orientation_score" : 1.2000000476837158,
+      "revision" : 3,
+      "usesLanguageCorrection" : false
+    },
+    {
+      "clockwise_rotation" : 90,
+      "file" : "06-002-original.png",
+      "lines" : [
+        {
+          "box" : [
+            0.42877906863146847,
+            0.46389496758526905,
+            0.013081397417295748,
+            0.035010940803203661
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "aze"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.42450551082010995,
+            0.56972588032433513,
+            0.019909801054906806,
+            0.097122490147560026
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Reccord"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.44220584467773999,
+            0.60644878864145324,
+            0.019830768521516995,
+            0.073342858452643989
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : ", Дeco"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.47714626357083811,
+            0.53953955929320285,
+            0.020420471964447962,
+            0.093717821556283276
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "ugla"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.49292546194091358,
+            0.54890247787644508,
+            0.02074897954981425,
+            0.12996024456834743
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "rque Dougla"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.52154310352503142,
+            0.55274796357776768,
+            0.018108431608016784,
+            0.077990952927654789
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "1887"
+            }
+          ]
+        }
+      ],
+      "orientation_score" : 25.900000035762787,
+      "revision" : 3,
+      "usesLanguageCorrection" : false
+    },
+    {
+      "clockwise_rotation" : 180,
+      "file" : "06-002-original.png",
+      "lines" : [
+        {
+          "box" : [
+            0.42583245646815121,
+            0.53876826517707399,
+            0.04784323170406346,
+            0.014219746345339845
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Sal"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.5507413188107787,
+            0.5535479527247571,
+            0.11486402182401212,
+            0.021830839333893737
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "If Raccord"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.56810751113191571,
+            0.53453575318870872,
+            0.11555162017901666,
+            0.020830917578012587
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "no, Dece"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.57077021229696301,
+            0.5065808491806949,
+            0.062450293138145097,
+            0.013366470820065035
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "glas"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.55527373069471853,
+            0.48414948288788784,
+            0.12841123264971133,
+            0.020786384226744614
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "qo Dougla"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.54490406294763316,
+            0.45822794329819816,
+            0.08476608024921406,
+            0.022106508860041729
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "81887"
+            }
+          ]
+        }
+      ],
+      "orientation_score" : 27.200000047683716,
+      "revision" : 3,
+      "usesLanguageCorrection" : false
+    },
+    {
+      "clockwise_rotation" : 270,
+      "file" : "06-002-original.png",
+      "lines" : [
+        {
+          "box" : [
+            0.552325577331508,
+            0.33479212264365754,
+            0.023255822023030448,
+            0.15098468552231281
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "efetfReccond"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.53131278510541302,
+            0.31357278232883479,
+            0.027647239144807934,
+            0.14077229429511329
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "pnd, Dacl"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.49266226019754722,
+            0.35788808543380657,
+            0.049493441584471221,
+            0.14192019724783844
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "Doaglas"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.48189214909497591,
+            0.31636908001571873,
+            0.027564393012223021,
+            0.19029382737119194
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Georqua Douplas"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.46030871933847373,
+            0.36920168289239441,
+            0.01663571029952976,
+            0.075764737952200067
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "1887"
+            }
+          ]
+        }
+      ],
+      "orientation_score" : 25.600000083446503,
+      "revision" : 3,
+      "usesLanguageCorrection" : false
+    },
+    {
+      "clockwise_rotation" : 180,
+      "file" : "06-002-original.png",
+      "lines" : [
+        {
+          "box" : [
+            0.42583245646815121,
+            0.53876826517707399,
+            0.04784323170406346,
+            0.014219746345339845
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Sal"
+            },
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "Sa"
+            },
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "al"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.5507413188107787,
+            0.5535479527247571,
+            0.11486402182401212,
+            0.021830839333893737
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "If Raccord"
+            },
+            {
+              "confidence" : 1,
+              "text" : "if Raccord"
+            },
+            {
+              "confidence" : 1,
+              "text" : "If laccord"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.56810751113191571,
+            0.53453575318870872,
+            0.11555162017901666,
+            0.020830917578012587
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "no, Dece"
+            },
+            {
+              "confidence" : 1,
+              "text" : "no, Deco"
+            },
+            {
+              "confidence" : 1,
+              "text" : "no, Decel"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.57077021229696301,
+            0.5065808491806949,
+            0.062450293138145097,
+            0.013366470820065035
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "glas"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "glar"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "gLas"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.55527373069471853,
+            0.48414948288788784,
+            0.12841123264971133,
+            0.020786384226744614
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "go Dougla"
+            },
+            {
+              "confidence" : 1,
+              "text" : "qo Dougla"
+            },
+            {
+              "confidence" : 1,
+              "text" : "quo Dougla"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.54490406294763316,
+            0.45822794329819816,
+            0.08476608024921406,
+            0.022106508860041729
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "81887"
+            },
+            {
+              "confidence" : 1,
+              "text" : "51887"
+            },
+            {
+              "confidence" : 1,
+              "text" : "91887"
+            }
+          ]
+        }
+      ],
+      "orientation_score" : 28,
+      "revision" : 3,
+      "usesLanguageCorrection" : true
+    },
+    {
+      "clockwise_rotation" : 180,
+      "file" : "06-002-contrast.png",
+      "lines" : [
+
+      ],
+      "orientation_score" : 0,
+      "revision" : 3,
+      "usesLanguageCorrection" : false
+    },
+    {
+      "clockwise_rotation" : 180,
+      "file" : "06-002-contrast.png",
+      "lines" : [
+
+      ],
+      "orientation_score" : 0,
+      "revision" : 3,
+      "usesLanguageCorrection" : true
+    }
+  ]
+}

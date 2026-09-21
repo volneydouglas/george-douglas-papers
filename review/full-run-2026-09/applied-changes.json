@@ -1,0 +1,260 @@
+[
+  {
+    "item": "02-003-U001",
+    "paragraph_id": "02-003-P01",
+    "before": "[[Of?]]",
+    "after": "Of",
+    "evidence_review": "image-pilot-2026-09"
+  },
+  {
+    "item": "04-002-U007",
+    "paragraph_id": "04-002-P04",
+    "before": "[[Alfred?]]",
+    "after": "Alfred",
+    "evidence_review": "image-pilot-2026-09"
+  },
+  {
+    "item": "04-017-U003",
+    "paragraph_id": "04-017-P02",
+    "before": "[[Denmark?]]",
+    "after": "Denmark",
+    "evidence_review": "image-pilot-2026-09"
+  },
+  {
+    "item": "04-043-U002",
+    "paragraph_id": "04-043-P04",
+    "before": "[[S. M.?]]",
+    "after": "Wm L",
+    "evidence_review": "image-pilot-2026-09"
+  },
+  {
+    "item": "04-043-U003",
+    "paragraph_id": "04-043-P06",
+    "before": "[[Rusk?]]",
+    "after": "Hood",
+    "evidence_review": "image-pilot-2026-09"
+  },
+  {
+    "item": "04-044-U003",
+    "paragraph_id": "04-044-P02",
+    "before": "[[S. M.?]]",
+    "after": "Wm L",
+    "evidence_review": "image-pilot-2026-09"
+  },
+  {
+    "item": "04-044-U004",
+    "paragraph_id": "04-044-P04",
+    "before": "[[Rusk?]]",
+    "after": "Hood",
+    "evidence_review": "full-run-2026-09"
+  },
+  {
+    "item": "04-054-U001",
+    "paragraph_id": "04-054-P02",
+    "before": "[[illegible]]",
+    "after": "Gunter",
+    "evidence_review": "full-run-2026-09"
+  },
+  {
+    "item": "04-079-U002",
+    "paragraph_id": "04-079-P01",
+    "before": "[[Burky?]]",
+    "after": "Brushy",
+    "evidence_review": "image-pilot-2026-09"
+  },
+  {
+    "item": "04-080-U001",
+    "paragraph_id": "04-080-P01",
+    "before": "[[Hedlie?]]",
+    "after": "build",
+    "evidence_review": "image-pilot-2026-09"
+  },
+  {
+    "item": "05-024-U001",
+    "paragraph_id": "05-024-P02",
+    "before": "[[A?]]",
+    "after": "F",
+    "evidence_review": "image-pilot-2026-09"
+  },
+  {
+    "item": null,
+    "paragraph_id": "05-024-P02",
+    "before": "By F Hawkins",
+    "after": "[[By?]] F Hawkins",
+    "reason": "The initial F is secure; the preceding abbreviation may be Benj rather than By. Preserve uncertainty instead of silently choosing the full name.",
+    "evidence_review": "full-run-2026-09"
+  },
+  {
+    "item": "05-035-U001",
+    "paragraph_id": "05-035-P01",
+    "before": "[[Sat?]]",
+    "after": "Sat",
+    "evidence_review": "image-pilot-2026-09"
+  },
+  {
+    "item": null,
+    "paragraph_id": "05-036-P01",
+    "before": "Bardsdale, Sep, 29th, 1893.",
+    "after": "Bardsdale, Sat, 29th, 1893.",
+    "reason": "The manuscript heading has the terminal tall t and no descending p; read Sat literally, as on the separate identifying slip. Do not expand this to a month or reconcile its calendar date.",
+    "evidence_review": "full-run-2026-09"
+  },
+  {
+    "item": "05-037-U001",
+    "paragraph_id": "05-037-P01",
+    "before": "[[Chadens?]]",
+    "after": "Chadsey's",
+    "evidence_review": "image-pilot-2026-09"
+  },
+  {
+    "item": "05-044-U001",
+    "paragraph_id": "05-044-P01",
+    "before": "[[Chadens?]]",
+    "after": "Chadsey's",
+    "evidence_review": "full-run-2026-09"
+  },
+  {
+    "item": "05-052-U002",
+    "paragraph_id": "05-052-P01",
+    "before": "[[Timmons?]]",
+    "after": "Timmons",
+    "evidence_review": "full-run-2026-09"
+  },
+  {
+    "item": "05-053-U002",
+    "paragraph_id": "05-053-P01",
+    "before": "[[Timmons?]]",
+    "after": "Timmons",
+    "evidence_review": "full-run-2026-09"
+  },
+  {
+    "item": "05-064-U002",
+    "paragraph_id": "05-064-P02",
+    "before": "[[door?]]",
+    "after": "door",
+    "evidence_review": "full-run-2026-09"
+  },
+  {
+    "item": "05-078-U001",
+    "paragraph_id": "05-078-P01",
+    "before": "[[Of?]]",
+    "after": "Of",
+    "evidence_review": "full-run-2026-09"
+  },
+  {
+    "item": "05-142-U002",
+    "paragraph_id": "05-142-P03",
+    "before": "[[Ellis?]]",
+    "after": "Ellis",
+    "evidence_review": "image-pilot-2026-09"
+  },
+  {
+    "item": "05-142-U012",
+    "paragraph_id": "05-142-P03",
+    "before": "[[Ellis?]]",
+    "after": "Ellis",
+    "evidence_review": "image-pilot-2026-09"
+  },
+  {
+    "item": "05-149-U001",
+    "paragraph_id": "05-149-P02",
+    "before": "[[Raept Sudris?]]",
+    "after": "[[illegible: given name]] Guthrie",
+    "evidence_review": "image-pilot-2026-09"
+  },
+  {
+    "item": "05-149-U003",
+    "paragraph_id": "05-149-P03",
+    "before": "[[Raept Sudris?]]",
+    "after": "[[illegible: given name]] Guthrie",
+    "evidence_review": "image-pilot-2026-09"
+  },
+  {
+    "item": "05-155-U002",
+    "paragraph_id": "05-155-P04",
+    "before": "[[A. Lasswell?]]",
+    "after": "A. Lasswell",
+    "evidence_review": "full-run-2026-09"
+  },
+  {
+    "item": "05-157-U001",
+    "paragraph_id": "05-157-P04",
+    "before": "[[Mills?]]",
+    "after": "Wise",
+    "evidence_review": "full-run-2026-09"
+  },
+  {
+    "item": null,
+    "paragraph_id": "05-157-P04",
+    "before": "Per H. E. Wise Deputy.",
+    "after": "Per H. C. Wise Deputy.",
+    "reason": "The deputy signature reads H. C. Wise, with C rather than the earlier E. Compare 04-045.",
+    "evidence_review": "full-run-2026-09"
+  },
+  {
+    "item": "06-008-U003",
+    "paragraph_id": "06-008-P02",
+    "before": "[[91?]]",
+    "after": "91",
+    "evidence_review": "image-pilot-2026-09"
+  },
+  {
+    "item": "06-063-U001",
+    "paragraph_id": "06-063-P01",
+    "before": "[[Stinnet?]]",
+    "after": "Claunch",
+    "evidence_review": "image-pilot-2026-09"
+  },
+  {
+    "item": "06-063-U002",
+    "paragraph_id": "06-063-P01",
+    "before": "[[S?]]",
+    "after": "C",
+    "evidence_review": "image-pilot-2026-09"
+  },
+  {
+    "item": null,
+    "paragraph_id": "06-063-P01",
+    "before": "tale to recount this week",
+    "after": "tale to narrate this week",
+    "reason": "The opening verb shows narrate at native resolution.",
+    "evidence_review": "full-run-2026-09"
+  },
+  {
+    "item": null,
+    "paragraph_id": "06-063-P01",
+    "before": "was here in the spring",
+    "after": "[[was here in the spring?]]",
+    "reason": "Whole-line inspection does not support this previously confident surrounding phrase. It may instead describe where the family lived; retain the old wording only as tentative.",
+    "evidence_review": "full-run-2026-09"
+  },
+  {
+    "item": "06-071-U002",
+    "paragraph_id": "06-071-P02",
+    "before": "[[Foythe?]]",
+    "after": "Fayette",
+    "evidence_review": "full-run-2026-09"
+  },
+  {
+    "item": "06-102-U008",
+    "paragraph_id": "06-102-P01",
+    "before": "[[and?]]",
+    "after": "and",
+    "evidence_review": "full-run-2026-09"
+  },
+  {
+    "item": "06-116-U026",
+    "paragraph_id": "06-116-P02",
+    "before": "[[religion?]]",
+    "after": "religion",
+    "evidence_review": "full-run-2026-09"
+  },
+  {
+    "item": null,
+    "paragraph_id": "06-116-P02",
+    "before": "a literary [[illegible]] discourse",
+    "after": "a [[literary?]] [[illegible]] discourse",
+    "reason": "The earlier confident literary is not secure; the wider clause may describe the preacher rather than a discourse. Mark the word and flag the whole passage for re-transcription.",
+    "evidence_review": "full-run-2026-09"
+  }
+]

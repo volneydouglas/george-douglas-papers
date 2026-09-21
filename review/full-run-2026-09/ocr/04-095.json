@@ -1,0 +1,3121 @@
+{
+  "best_clockwise_rotation" : 0,
+  "engine" : "Apple Vision",
+  "os" : "Version 27.0 (Build 26A428)",
+  "page_id" : "04-095",
+  "records" : [
+    {
+      "clockwise_rotation" : 0,
+      "file" : "04-095-original.png",
+      "lines" : [
+        {
+          "box" : [
+            0.11895773270629711,
+            0.92291585267169285,
+            0.78521734054205417,
+            0.039926233683546863
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "think, with a little exestion, the amunt"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.12115384170981709,
+            0.90406976785256754,
+            0.34423077647352829,
+            0.024709301778714998
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "can le doubled."
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.45961538131748569,
+            0.89965753364661716,
+            0.38461539100605435,
+            0.027739726027397271
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "A commillu of f"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.11913238509240349,
+            0.86449067858507367,
+            0.77903528784667075,
+            0.035809712867214238
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "managers, was appointed, to employ ano"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.11506346626673082,
+            0.83647370644552721,
+            0.77164936931077022,
+            0.038929001272541175
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "evangeliat & conduct other businep of the"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.11883722183320873,
+            0.80710762347186515,
+            0.72768483793670591,
+            0.037220680550353102
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "cooperation; I wt hope thal great good"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.1072873856315487,
+            0.77571583403332567,
+            0.77039056075246704,
+            0.050783287988950154
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "wice be accomplished, the ensumg year"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.12466060945649733,
+            0.74753267037619686,
+            0.74104527855957913,
+            0.04412152015999582
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Although sevetal preachers menconfi"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.099738709155743593,
+            0.71498613984978632,
+            0.82371545919705647,
+            0.042983431358859958
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "-dently expected to attend the meiting, yur"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.10137358530398148,
+            0.68267529049711706,
+            0.84395404130274509,
+            0.053998539545764612
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "nove' of them came, I Bre, Kendrick had i"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.11153846951768684,
+            0.65843023229251429,
+            0.76730767611799566,
+            0.037802643971900474
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "ald the freaching to do. There were"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.16876438616916922,
+            0.62762267717910802,
+            0.75695972477243079,
+            0.045912666843362038
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "buptieca & one other added to the Chinch,,"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.10453117125666443,
+            0.59485742846915646,
+            0.84070184226477418,
+            0.046996579104906844
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "2 fruthem wene little boys, one, ebddiaon nan"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.10543082080755653,
+            0.5652605511247154,
+            0.83730198467275396,
+            0.043776891002916263
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "sorkat Bro Clask agea abvut 12 yesi sterut"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.10343686549007124,
+            0.54143190246038353,
+            0.77206376589794123,
+            0.04548136044854989
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Hhe other Albest, Bro. H's oldest son io"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.10549493791955487,
+            0.50755455273827188,
+            0.77555334849279722,
+            0.046410866306252574
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "it years old. Whey seered pully to under"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.094230775803496508,
+            0.49417808172538558,
+            0.31346152525415438,
+            0.023287671232876672
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "- sTand 18 $ have"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.40915526790410894,
+            0.48223528255991388,
+            0.4626722941597663,
+            0.04271235270042939
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "'no doult did)' what they"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.33438959108145383,
+            0.36182244595570834,
+            0.5950579357666459,
+            0.073251225197151881
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "thun luếi tàng doni, & thui\""
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.12115385930106379,
+            0.34447674440636677,
+            0.75192305050830877,
+            0.026162790272333813
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Whilst dhen, old z gray, coula ait mí"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.10743463435811415,
+            0.30639854651002285,
+            0.77951570431247164,
+            0.045196692584312026
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "moved, under the appeals of the fosfel,"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.10360480917912156,
+            0.27858573134222564,
+            0.76965714193299117,
+            0.038954324591649714
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "nos be persuadid to devate the little re"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.09370975378559375,
+            0.24912454983988486,
+            0.34540963562344029,
+            0.036163178535356888
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "mainder of theis"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.45865274955014929,
+            0.24940736243666417,
+            0.41988493266858556,
+            0.050616596169667738
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "3 scone i ten, to the only"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.11687710645116506,
+            0.21342935877619362,
+            0.76628896502098454,
+            0.046820266932657284
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "ause worth ling for, I the only oni thal"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.11639173312989565,
+            0.18365378019169187,
+            0.55930850380345398,
+            0.052443297921794807
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "vamises aught' for the future"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.88846153771871494,
+            0.21511627967083835,
+            0.048076923875756794,
+            0.020348836297858219
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "al"
+            }
+          ]
+        }
+      ],
+      "orientation_score" : 697,
+      "revision" : 3,
+      "usesLanguageCorrection" : false
+    },
+    {
+      "clockwise_rotation" : 90,
+      "file" : "04-095-original.png",
+      "lines" : [
+        {
+          "box" : [
+            0.92220446128945255,
+            0.09211905769830242,
+            0.042497337027771809,
+            0.78692233713915039
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "think, with a little exestion, the amount"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.89922816589892696,
+            0.1575350656212926,
+            0.031549001719853642,
+            0.72144374397402444
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "can he doubled. A commille of f."
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.83333330765953872,
+            0.11049724553969675,
+            0.058333383847589348,
+            0.78453039041231853
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "mangelel & conauet cher buaineg op eee"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.80731347580179158,
+            0.15351588241980441,
+            0.037316792631802542,
+            0.72759516831967452
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "cooperation; I wh hope that great good"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.77860185483132194,
+            0.12620786726854283,
+            0.045531889510481371,
+            0.76069610651088937
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "wice be accornplished, the ensuing year"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.74441616678079725,
+            0.13245711751487377,
+            0.042301977497257615,
+            0.73713631465517249
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Although seveřal preachors werconfi"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.71350995759717173,
+            0.070778360711021726,
+            0.045913257337596325,
+            0.82566703339453817
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "-dently expected to atlend the meiting, gert"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.67270159516568317,
+            0.052005583314417403,
+            0.074415705955191758,
+            0.84501335019424917
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "none of them came, I Bre, Kendrick had it"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.65704624252478028,
+            0.1229468109261127,
+            0.041030664313329468,
+            0.76182099219458943
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "ald the freaching to do. There were"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.63517440802594416,
+            0.53461538261651231,
+            0.033430253642879104,
+            0.34807693287594987
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "baplizia ø one"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.62409524646204473,
+            0.068911993910858449,
+            0.055394039415333385,
+            0.45329196050681997
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "other added to the Chinchy,"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.56966090303560557,
+            0.04913798505883249,
+            0.07639900625568552,
+            0.84663748351718471
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "в рt пeniltte laд ои bh genітanи"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.56147487671042728,
+            0.41690063259496757,
+            0.054714176752795884,
+            0.24372794537275966
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Clark agea"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.54129918364037,
+            0.12647041499666389,
+            0.045629475214709947,
+            0.76823505602384878
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Hre other Albest, Bro. Hs ldest son i"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.51131947446458992,
+            0.12099771177100949,
+            0.037819942056316225,
+            0.76762808299540608
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "It years old. They deirned fully to under"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.50872092884737419,
+            0.059615385293833145,
+            0.015988374736211064,
+            0.040384614532526064
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "ia"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.48676043471157115,
+            0.13040967567258577,
+            0.034752708591826997,
+            0.7717074136335923
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "-sTand (8 I have 'no doukt dix)' what they"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.3624981705168262,
+            0.12068438022845951,
+            0.046362916084185024,
+            0.76067710918004194
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "condecrating their lives tor the Redeimer"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.33709468373412443,
+            0.12274357785976253,
+            0.040234714664825033,
+            0.75652328463518037
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "whilit then, old & gray, could aic me"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.3109943046729588,
+            0.11332589583197838,
+            0.037407574588305348,
+            0.7732867952267185
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "moved, under the appeals of the gospel,"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.27512186130095523,
+            0.53742522862303854,
+            0.041621231706175099,
+            0.35570638279300426
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "nos be fersuadid."
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.28924417315362189,
+            0.12307692584466989,
+            0.026162820319606872,
+            0.41730769273373702
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "to devate the little ne"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.24915920386444662,
+            0.56663853657888308,
+            0.037375090873404737,
+            0.33592733670492569
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "mainder of their"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.24931039250671633,
+            0.11929261377658973,
+            0.05286196878511612,
+            0.42392095160787213
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "s scone I ten, to the only"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.18317938404695483,
+            0.10084297165212774,
+            0.079380591928142397,
+            0.79070557526797869
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "Canei u ntelhin fortre fetennly mittat-"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.21511627765473501,
+            0.065384615618976683,
+            0.015988374736211064,
+            0.036538461591717142
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "al"
+            }
+          ]
+        }
+      ],
+      "orientation_score" : 571.00000107288361,
+      "revision" : 3,
+      "usesLanguageCorrection" : false
+    },
+    {
+      "clockwise_rotation" : 180,
+      "file" : "04-095-original.png",
+      "lines" : [
+        {
+          "box" : [
+            0.090197038419919148,
+            0.034150887780231676,
+            0.78882866113458483,
+            0.042194423936817715
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "think, with a little exestion, the amount"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.15367748913708135,
+            0.067780121396886939,
+            0.7233779270289814,
+            0.03154581148330482
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "can le doubled. A commille of f."
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.098864340460347866,
+            0.094343736661175459,
+            0.79675558820610248,
+            0.072965700332432548
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "mangager. t ce apeintan to engly ane"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.14848452922162608,
+            0.14515803581367248,
+            0.73638245847393935,
+            0.055928841682329478
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "cosperation; I wt hope thal great good"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.12399680095549215,
+            0.16757649231282079,
+            0.76317860902762025,
+            0.061697105512227179
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "wile be accornplished, the ensuing year"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.13076923393839024,
+            0.21220925256628886,
+            0.7461538435975783,
+            0.037790797507926133
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Although sevetal preachers menconfi"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.073076911891715626,
+            0.23837203894997827,
+            0.82500002215432167,
+            0.043604759320820863
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "- dently expected to attena the meiting, spetti"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.79417170199079468,
+            0.28174679910604861,
+            0.098195056949899384,
+            0.014994774126026789
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "поне"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.065670974698439397,
+            0.26998881732039359,
+            0.73639026787233441,
+            0.06170819948797357
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "oI khem came, I Bre Henaniek kad i"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.36967814414676942,
+            0.29811682057962408,
+            0.520538330078125,
+            0.046137352512307328
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "all the freaching to do."
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.53269230914719845,
+            0.33139533067706717,
+            0.29038461453252606,
+            0.031976780826098228
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "baplizia & one"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.069313561778888699,
+            0.32107037087531143,
+            0.46998637730759418,
+            0.051799549468576123
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "other added to the chrinch,"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.051379550107098458,
+            0.35584367881668966,
+            0.79507424134740812,
+            0.048393620530219894
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Iruthem were little boys, one, ebddison nain"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.056883524377707037,
+            0.38758194584698913,
+            0.83023514375496255,
+            0.047089793584118134
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Lorkat Brs Clank agea about 12 yesi stest."
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.13256220349197154,
+            0.41908929107195081,
+            0.7637357348322652,
+            0.030069672571469641
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "He other Albert Bro. Hs oldest son ii"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.11710469310976719,
+            0.44490692739378457,
+            0.77541471782483551,
+            0.045332926920015559
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "It years old. Whey deimed fully to under"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.12462507697702413,
+            0.47412371076409476,
+            0.78139328307551614,
+            0.040595845000384601
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "-Hand (8 I have 'no doukt dix)' what they"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.1207716035716318,
+            0.51102967757320328,
+            0.78140796031363435,
+            0.035586675879073493
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "• svere doing. It was a\"beautiful * interesting"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.42632674133378595,
+            0.5355839998698062,
+            0.47033624943284941,
+            0.036265182495117121
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "deene to see Children,,"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.10522118107321936,
+            0.54070967449711294,
+            0.32816385314166002,
+            0.034158312131280733
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "young & conarate"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.099093419594787943,
+            0.56037512733771844,
+            0.79991152671633969,
+            0.078624437933098812
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "consnte fg pine intet tenp dpeet theue"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.11101269021473537,
+            0.61923116717407578,
+            0.78338800281448506,
+            0.071271551471867034
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "Milet then. oe z pre, corld goc nel,"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.12290405288565918,
+            0.68102611202613939,
+            0.77348790108183985,
+            0.037870872184021742
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "noi be persuadis to devate the little ne"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.11880157720531884,
+            0.70245313369611528,
+            0.78335997759754994,
+            0.044819557503478102
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "mainder of their 3 scone I ter, to the only"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.070513168211316424,
+            0.73856856084862343,
+            0.80676042449452701,
+            0.043656265572325825
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "'ause worthe luins for; X the only onithal"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.32830307406515286,
+            0.76878340860091843,
+            0.55136413020360719,
+            0.042480865896564635
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "vramises aught for the fiture"
+            }
+          ]
+        }
+      ],
+      "orientation_score" : 632.10000103712082,
+      "revision" : 3,
+      "usesLanguageCorrection" : false
+    },
+    {
+      "clockwise_rotation" : 270,
+      "file" : "04-095-original.png",
+      "lines" : [
+        {
+          "box" : [
+            0.034743292600422478,
+            0.12088413193565994,
+            0.041288033576860818,
+            0.78708771915055009
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "think, with a little exestin, the amount"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.070938010758825762,
+            0.12300087815044547,
+            0.029573247204088188,
+            0.71169080232319082
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "can he doubled. A commille of f"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.097050910546587987,
+            0.11280304730633905,
+            0.069313992539497271,
+            0.78976373966722435
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "саnдазr, в сoнаоnва, вострво aн"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.15670332988468857,
+            0.12096801198002394,
+            0.03266507893392484,
+            0.72728107542394504
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "cooperation; I wo hope thal great good"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.17999862923304691,
+            0.11316210450355502,
+            0.039332850991863094,
+            0.75845696921789929
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "wici be accorplished, the ensumg year"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.20671285846344956,
+            0.13809373992341578,
+            0.041939956194733924,
+            0.73148225483141449
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Although sevetal Ireachers mereconfi"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.24194902363843043,
+            0.10172708811582865,
+            0.041567778913942116,
+            0.82352609513242969
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "-dently expected to attend the meiting, yerk"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.24368056228868454,
+            0.10267952538347169,
+            0.091582259086713386,
+            0.84590334468225381
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "nove of them came, I Bre, Kendrier hat it"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.29901609148018454,
+            0.11136935448187268,
+            0.043994260814091912,
+            0.78106816840474702
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "all the freaching to do. Where were"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.31746223065407875,
+            0.11486773386024041,
+            0.056441215619648988,
+            0.81494733253105156
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "t laplieca I one ather adoued to the chinhy"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.35583153607092688,
+            0.15162262143573901,
+            0.048406350122739195,
+            0.79509634028329179
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Inthem were little boys, one, bddison pain"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.38946535956304751,
+            0.10730082510283478,
+            0.04357736404627971,
+            0.74292673432891898
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "sonkat Bro Clask agea about 12 yesi"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.41171414795765132,
+            0.10536238545012466,
+            0.04530162549998662,
+            0.76626188136272111
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Hre other Albest, Bro. Hs oldest son to"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.41185478551841836,
+            0.84943945817564037,
+            0.02175207660622791,
+            0.095426645988561321
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "slout"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.44158704253452502,
+            0.10709286257298911,
+            0.052569318797490383,
+            0.76851525280739563
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "It years old. Whey deered fully to under"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.47704778487068794,
+            0.095959991688658985,
+            0.034738122600398602,
+            0.77361091295301165
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "-ITand (8 I have 'no doukt dix)' what they"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.47422814769850485,
+            0.89858921653489843,
+            0.01957698456228596,
+            0.04721148606869785
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "id"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.5087846752117744,
+            0.099631024430619219,
+            0.040832300055516857,
+            0.78375255217785844
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "ivere doing. It was a 'beautifue * mnleresting"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.53767136986303832,
+            0.10759474336692187,
+            0.066404321748916417,
+            0.8273300475520361
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "vensente pen ehiloen peolng Yen, patte"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.59130294684017337,
+            0.11676459631001623,
+            0.044797918241317958,
+            0.75866189669351181
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "consecrating Hhuir livei toi the Redeimer"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.57947753259648327,
+            0.1019104542244923,
+            0.15531107236261243,
+            0.80136617947836319
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "conse dien. Dee y ypeals of the brle e"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.68037778101705182,
+            0.10165857414000901,
+            0.040143265136300732,
+            0.77355536099137934
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "nor be persuadid to devate the little ne"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.69956138109028099,
+            0.095855474094618365,
+            0.050633443544988777,
+            0.7854422069071858
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "mainder of their s seone X ten, to the only"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.74166664327640941,
+            0.09944753307721188,
+            0.06250004180490154,
+            0.58011047030966434
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "Cause wrthy luing for ta tte se"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.74166665323805159,
+            0.51933702576932428,
+            0.037500026128063468,
+            0.38674032277074344
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "I the only oni thal:"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.76889534735795328,
+            0.89807692383950621,
+            0.01744186322982999,
+            0.040384614532526064
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "al"
+            }
+          ]
+        }
+      ],
+      "orientation_score" : 624.80000132322311,
+      "revision" : 3,
+      "usesLanguageCorrection" : false
+    },
+    {
+      "clockwise_rotation" : 0,
+      "file" : "04-095-original.png",
+      "lines" : [
+        {
+          "box" : [
+            0.11895773270629711,
+            0.92291585267169285,
+            0.78521734054205417,
+            0.039926233683546863
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "think, with a little exertion, the amount"
+            },
+            {
+              "confidence" : 1,
+              "text" : "think, with a little exestion, the amount"
+            },
+            {
+              "confidence" : 1,
+              "text" : "think, with a little exertion, the amouns"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.12115384170981709,
+            0.90406976785256754,
+            0.34423077647352829,
+            0.024709301778714998
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "can he doubled."
+            },
+            {
+              "confidence" : 1,
+              "text" : "can le doubled."
+            },
+            {
+              "confidence" : 1,
+              "text" : "can he doubled. i"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.45961538131748569,
+            0.89965753364661716,
+            0.38461539100605435,
+            0.027739726027397271
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "A commille of tr"
+            },
+            {
+              "confidence" : 1,
+              "text" : "A commille of t"
+            },
+            {
+              "confidence" : 1,
+              "text" : "A commille of fr"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.11913238509240349,
+            0.86449067858507367,
+            0.77903528784667075,
+            0.035809712867214238
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "managers, was appointed, to employ ano"
+            },
+            {
+              "confidence" : 1,
+              "text" : "managers, was appointed, to employ and"
+            },
+            {
+              "confidence" : 1,
+              "text" : "managers, was appointed, to employ an"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.11506346626673082,
+            0.83647370644552721,
+            0.77164936931077022,
+            0.038929001272541175
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "evangelist & conduct other businep of the"
+            },
+            {
+              "confidence" : 1,
+              "text" : "evangeliat & conduct other businep of the"
+            },
+            {
+              "confidence" : 1,
+              "text" : "evangelit & conduct other businep of the"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.11883722183320873,
+            0.80710762347186515,
+            0.72768483793670591,
+            0.037220680550353102
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "cooperation; I we hope thal great good"
+            },
+            {
+              "confidence" : 1,
+              "text" : "cooperation; I wo hope thal great good"
+            },
+            {
+              "confidence" : 1,
+              "text" : "cooperation; I we hope thal great goode"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.1072873856315487,
+            0.77571583403332567,
+            0.77039056075246704,
+            0.050783287988950154
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "wice be accomplished, the ensuing year"
+            },
+            {
+              "confidence" : 1,
+              "text" : "wice be accomplished, the ensung year"
+            },
+            {
+              "confidence" : 1,
+              "text" : "wile be accomplished, the ensung year"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.12466060945649733,
+            0.74753267037619686,
+            0.74104527855957913,
+            0.04412152015999582
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Although sevetal preachers menconfi"
+            },
+            {
+              "confidence" : 1,
+              "text" : "Although sevetal preachers merconfi"
+            },
+            {
+              "confidence" : 1,
+              "text" : "Although sevetal, preachers menconfi"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.099738709155743593,
+            0.71498613984978632,
+            0.82371545919705647,
+            0.042983431358859958
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "-dently expected to attend the meting, yur"
+            },
+            {
+              "confidence" : 1,
+              "text" : "-dently expected to attend the maiting, yur"
+            },
+            {
+              "confidence" : 1,
+              "text" : "-dently expected to attend the meting, yet"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.10137358530398148,
+            0.68267529049711706,
+            0.84395404130274509,
+            0.053998539545764612
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "none of them came, I Bre, Kendrick had i"
+            },
+            {
+              "confidence" : 1,
+              "text" : "none of them came, I Bre, Kendrick had in"
+            },
+            {
+              "confidence" : 1,
+              "text" : "none of them came, I Bre, Kendrick had is"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.11153846951768684,
+            0.65843023229251429,
+            0.76730767611799566,
+            0.037802643971900474
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "all the breaching to do. There were"
+            },
+            {
+              "confidence" : 1,
+              "text" : "all the freaching to do. There were"
+            },
+            {
+              "confidence" : 1,
+              "text" : "ald the freaching to do. There were"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.16876438616916922,
+            0.62762267717910802,
+            0.75695972477243079,
+            0.045912666843362038
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "baptized & one other added to the Chinch,"
+            },
+            {
+              "confidence" : 1,
+              "text" : "baptized & one other added to the Chinch,,"
+            },
+            {
+              "confidence" : 1,
+              "text" : "baptized & one other added to the chinch,"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.10453117125666443,
+            0.59485742846915646,
+            0.84070184226477418,
+            0.046996579104906844
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "2 fruthen were little boys, one, bddison nain"
+            },
+            {
+              "confidence" : 1,
+              "text" : "2 fruthem were little boys, one, bddison nain"
+            },
+            {
+              "confidence" : 1,
+              "text" : "2 fruthen were little boys, one, bddison man"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.10543082080755653,
+            0.5652605511247154,
+            0.83730198467275396,
+            0.043776891002916263
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "sorkat Bro Clark aged abrut 12 yesi sent"
+            },
+            {
+              "confidence" : 1,
+              "text" : "sorkat Bro Clark aged abut 12 yesi strut"
+            },
+            {
+              "confidence" : 1,
+              "text" : "sorkat Bro Clark aged abut 12 yesi sent"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.10343686549007124,
+            0.54143190246038353,
+            0.77206376589794123,
+            0.04548136044854989
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "the other Albert, Bro. I's oldest son to"
+            },
+            {
+              "confidence" : 1,
+              "text" : "the other Albert, Bro. H's oldest son to"
+            },
+            {
+              "confidence" : 1,
+              "text" : "the other Albert, Bro. I's oldest son i"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.10549493791955487,
+            0.50755455273827188,
+            0.77555334849279722,
+            0.046410866306252574
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "it years old. They seemed fully to under"
+            },
+            {
+              "confidence" : 1,
+              "text" : "It years old. They seemed fully to under"
+            },
+            {
+              "confidence" : 1,
+              "text" : "it years old. they seemed fully to under"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.094230775803496508,
+            0.49417808172538558,
+            0.31346152525415438,
+            0.023287671232876672
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "- sTand 18 $ have"
+            },
+            {
+              "confidence" : 1,
+              "text" : "- sTand 18 I have"
+            },
+            {
+              "confidence" : 1,
+              "text" : "- sTand 18 & have"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.40915526790410894,
+            0.48223528255991388,
+            0.4626722941597663,
+            0.04271235270042939
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "'no doubt did what they"
+            },
+            {
+              "confidence" : 1,
+              "text" : "'no doubt did) what they"
+            },
+            {
+              "confidence" : 1,
+              "text" : "'no doult did what they"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.12115385930106379,
+            0.34447674440636677,
+            0.75192305050830877,
+            0.026162790272333813
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Whilst den, old z gray, could sit mi"
+            },
+            {
+              "confidence" : 1,
+              "text" : "Whilst den, old & gray, could sit mi"
+            },
+            {
+              "confidence" : 1,
+              "text" : "Whilst den, old z gray, Could sit mi"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.10743463435811415,
+            0.30639854651002285,
+            0.77951570431247164,
+            0.045196692584312026
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "moved, under the appeals of the gospel,"
+            },
+            {
+              "confidence" : 1,
+              "text" : "moved, under the appeals of the Gospel,"
+            },
+            {
+              "confidence" : 1,
+              "text" : "moved, under the appeals of the fospel,"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.10360480917912156,
+            0.27858573134222564,
+            0.76965714193299117,
+            0.038954324591649714
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "nos be persuaded to devote the little re"
+            },
+            {
+              "confidence" : 1,
+              "text" : "nor be persuaded to devote the little re"
+            },
+            {
+              "confidence" : 1,
+              "text" : "nos be persuaded to devate the little re"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.09370975378559375,
+            0.24912454983988486,
+            0.34540963562344029,
+            0.036163178535356888
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "mainder of their"
+            },
+            {
+              "confidence" : 1,
+              "text" : "mainder of theis"
+            },
+            {
+              "confidence" : 1,
+              "text" : "mainder of thes"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.45865274955014929,
+            0.24940736243666417,
+            0.41988493266858556,
+            0.050616596169667738
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "I scone i ten, to the only"
+            },
+            {
+              "confidence" : 1,
+              "text" : "3 scone i ten, to the only"
+            },
+            {
+              "confidence" : 1,
+              "text" : "I seone i ten, to the only"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.11687710645116506,
+            0.21342935877619362,
+            0.76628896502098454,
+            0.046820266932657284
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "\"ause worth ling for, I the only one thal"
+            },
+            {
+              "confidence" : 1,
+              "text" : "ause worth ling for, I the only one thal"
+            },
+            {
+              "confidence" : 1,
+              "text" : "\"ause worthy ling for, I the only one thal"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.11639173312989565,
+            0.18365378019169187,
+            0.55930850380345398,
+            0.052443297921794807
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "vomises aught for the future"
+            },
+            {
+              "confidence" : 1,
+              "text" : "vromises aught for the future"
+            },
+            {
+              "confidence" : 1,
+              "text" : "vamises aught for the future"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.88846153771871494,
+            0.21511627967083835,
+            0.048076923875756794,
+            0.020348836297858219
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "al"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "ar"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "ai"
+            }
+          ]
+        }
+      ],
+      "orientation_score" : 678,
+      "revision" : 3,
+      "usesLanguageCorrection" : true
+    },
+    {
+      "clockwise_rotation" : 0,
+      "file" : "04-095-contrast.png",
+      "lines" : [
+        {
+          "box" : [
+            0.11895773270629711,
+            0.92291585267169285,
+            0.78521734054205417,
+            0.039926233683546863
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "think, with a little exestion, the amunt"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.12297574767614246,
+            0.90377046503738545,
+            0.34063435466233272,
+            0.021280029375259191
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "can le doubled."
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.46153845887909545,
+            0.90261627881758111,
+            0.38269231280484345,
+            0.021802326097880353
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "u commillu y s."
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.11711093786049995,
+            0.86125141248701864,
+            0.7811580595649954,
+            0.039645566025825363
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "managess, was appointed, to employ ano"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.11506489235763409,
+            0.83651038670288225,
+            0.77164698772118878,
+            0.038881936791824945
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "evangeliat & conduct other businep of the"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.11883454161255434,
+            0.80707379355902342,
+            0.72769148423321228,
+            0.037357500154678203
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "cooperation; I wt hope thal great good"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.10732886406374804,
+            0.77618191668647274,
+            0.77018834718126128,
+            0.048331289422022139
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "wili be accomplished, the ensung year"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.12466042356649377,
+            0.74753267304053383,
+            0.74104550010279602,
+            0.044135812210710057
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Althouga sevetal preachers menconfi"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.099813508833211093,
+            0.71502923774458038,
+            0.82352260582676384,
+            0.042225931768548053
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "•dently expected to attend the meiting, yurk"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.10137369847053418,
+            0.68267655586592224,
+            0.84395105046931707,
+            0.053958182138939437
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "nove' of them came, I Bre, Kendrick had i"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.11138792874079366,
+            0.65701432995050324,
+            0.77911676036467792,
+            0.041051193132792485
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "ald the freaching to do. There were"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.11684852023384075,
+            0.62617657672021565,
+            0.81076094113330877,
+            0.048041346301771259
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "to bapliecs I one other adoced to the Chineh,"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.15154863559957252,
+            0.59426666042386622,
+            0.79338082038339375,
+            0.049567800025417386
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "frethir wene litte boys, oue, ebddisovs iain"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.1072755944323413,
+            0.56467669457725833,
+            0.83552332495604564,
+            0.044405364990234397
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "sonkat Bre Clask agea abrut 12 yesi slemt"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.10343395643624113,
+            0.54141678990097919,
+            0.76816842690137255,
+            0.045515366123147327
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Hhe other Albest, Bro. H's oldest son i"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.10740320035870292,
+            0.50754354239700827,
+            0.77364508599421511,
+            0.046410949916055766
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "It years old. They seeried full, to under"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.094230775803496508,
+            0.49417808172538558,
+            0.31346152525415438,
+            0.023287671232876672
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "- 1Tand 18 $ have"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.40937685208234925,
+            0.48380268171815655,
+            0.4621264670591822,
+            0.038207783111154137
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "'no duult dix)' what they"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.099626743653221259,
+            0.45183376788741536,
+            0.77604362363174917,
+            0.039546977003959705
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "• ivere doing. It was a\"beautiful & mleresting"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.1132469833774617,
+            0.42277240142080863,
+            0.77922481806871025,
+            0.035057804682483429
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "ene ti see Children, young ICompardti"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.11484914825930648,
+            0.39195305381411716,
+            0.77991160204103338,
+            0.045816437185627112
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "innocent, preping into the King doni, & thus"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.1187850051934804,
+            0.36445830328662288,
+            0.75850144401868769,
+            0.04013700354589167
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "condecraling Hheis lives tor the Redeeer"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.13159452313169542,
+            0.30565613976653283,
+            0.75340694697496036,
+            0.068985113379073537
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "kilet then. the 4 ppeaes of tha foste,"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.10360640893466516,
+            0.27964338044715153,
+            0.76964451396962907,
+            0.037881660461425715
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "nor be pensuadsd to devate the little ne"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.097667768468323632,
+            0.25230666293127302,
+            0.34699220190030911,
+            0.032450942470602762
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "mainder of their"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.45865273553944813,
+            0.24940530492418722,
+            0.41995995274040093,
+            0.050673278390544696
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "3 scone i ten, to the only"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.11880493325496509,
+            0.21774033308344976,
+            0.76228468214751588,
+            0.042368897999802702
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "ạause worthy laing for; X the only onithal"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.11847455915652746,
+            0.18565196091544744,
+            0.55521848370505333,
+            0.045780103500575264
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "vromises aught for the fiture"
+            }
+          ]
+        }
+      ],
+      "orientation_score" : 772,
+      "revision" : 3,
+      "usesLanguageCorrection" : false
+    },
+    {
+      "clockwise_rotation" : 0,
+      "file" : "04-095-contrast.png",
+      "lines" : [
+        {
+          "box" : [
+            0.11895773270629711,
+            0.92291585267169285,
+            0.78521734054205417,
+            0.039926233683546863
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "think, with a little exertion, the amount"
+            },
+            {
+              "confidence" : 1,
+              "text" : "think, with a little exestion, the amount"
+            },
+            {
+              "confidence" : 1,
+              "text" : "think, with a little exertion, the amouns"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.12297574767614246,
+            0.90377046503738545,
+            0.34063435466233272,
+            0.021280029375259191
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "can he doubled."
+            },
+            {
+              "confidence" : 1,
+              "text" : "can le doubled."
+            },
+            {
+              "confidence" : 1,
+              "text" : "can he doubled."
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.46153845887909545,
+            0.90261627881758111,
+            0.38269231280484345,
+            0.021802326097880353
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "i commillu y s."
+            },
+            {
+              "confidence" : 1,
+              "text" : "I commillu y s."
+            },
+            {
+              "confidence" : 1,
+              "text" : "i commilla y s."
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.11711093786049995,
+            0.86125141248701864,
+            0.7811580595649954,
+            0.039645566025825363
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "managers, was appointed, to employ ano"
+            },
+            {
+              "confidence" : 1,
+              "text" : "managers, was appointed, to employ an"
+            },
+            {
+              "confidence" : 1,
+              "text" : "managers, was appointed, to employ ane"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.11506489235763409,
+            0.83651038670288225,
+            0.77164698772118878,
+            0.038881936791824945
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "evangelist & conduct other businep of the"
+            },
+            {
+              "confidence" : 1,
+              "text" : "evangeliat & conduct other businep of the"
+            },
+            {
+              "confidence" : 1,
+              "text" : "evangelit & conduct other businep of the"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.11883454161255434,
+            0.80707379355902342,
+            0.72769148423321228,
+            0.037357500154678203
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "cooperation; I we hope that great good"
+            },
+            {
+              "confidence" : 1,
+              "text" : "cooperation; I we hope thal great good"
+            },
+            {
+              "confidence" : 1,
+              "text" : "cooperation; I wa hope that great good"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.10732886406374804,
+            0.77618191668647274,
+            0.77018834718126128,
+            0.048331289422022139
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "wile be accomplished, the ensuing year"
+            },
+            {
+              "confidence" : 1,
+              "text" : "wili be accomplished, the ensuing year"
+            },
+            {
+              "confidence" : 1,
+              "text" : "wile be accomplished, the ensung year"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.12466042356649377,
+            0.74753267304053383,
+            0.74104550010279602,
+            0.044135812210710057
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Although sevetal preachers menconfi"
+            },
+            {
+              "confidence" : 1,
+              "text" : "Although sevetal preachers merconfi"
+            },
+            {
+              "confidence" : 1,
+              "text" : "Although sevetal, preachers menconfi"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.099813508833211093,
+            0.71502923774458038,
+            0.82352260582676384,
+            0.042225931768548053
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "•dently expected to attend the meting, york"
+            },
+            {
+              "confidence" : 1,
+              "text" : "• dently expected to attend the meting, yet"
+            },
+            {
+              "confidence" : 1,
+              "text" : "•dently expected to attend the meting, yet"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.10137369847053418,
+            0.68267655586592224,
+            0.84395105046931707,
+            0.053958182138939437
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "none of them came, I Bre, Kendrick had i"
+            },
+            {
+              "confidence" : 1,
+              "text" : "nove of them came, I Bre, Kendrick had i"
+            },
+            {
+              "confidence" : 1,
+              "text" : "none of them came, I Bre, Kendrick had is"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.11138792874079366,
+            0.65701432995050324,
+            0.77911676036467792,
+            0.041051193132792485
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "all the freaching to do. There were"
+            },
+            {
+              "confidence" : 1,
+              "text" : "all the reaching to do. There were"
+            },
+            {
+              "confidence" : 1,
+              "text" : "ald the freaching to do. There were"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.11684852023384075,
+            0.62617657672021565,
+            0.81076094113330877,
+            0.048041346301771259
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "to baptises I one other adoud to the Chines,"
+            },
+            {
+              "confidence" : 1,
+              "text" : "to baptises I one other adaud to the Chines,"
+            },
+            {
+              "confidence" : 1,
+              "text" : "to baptises I one other adoud to the chines,"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.15154863559957252,
+            0.59426666042386622,
+            0.79338082038339375,
+            0.049567800025417386
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "fretter were little boys, one, abddison sain"
+            },
+            {
+              "confidence" : 1,
+              "text" : "fretter were little boys, one, abddison pain"
+            },
+            {
+              "confidence" : 1,
+              "text" : "fretter were little boys, one, abddison jain"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.1072755944323413,
+            0.56467669457725833,
+            0.83552332495604564,
+            0.044405364990234397
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "sorkat Bre Clark aged about 12 yesi sent"
+            },
+            {
+              "confidence" : 1,
+              "text" : "sovkat Bre Clark aged about 12 yesi sent"
+            },
+            {
+              "confidence" : 1,
+              "text" : "sorkat Bro Clark aged about 12 yesi sent"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.10343395643624113,
+            0.54141678990097919,
+            0.76816842690137255,
+            0.045515366123147327
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "He other Albert, Bro. I's oldest son is"
+            },
+            {
+              "confidence" : 1,
+              "text" : "He other Albert, Bro. I's oldest son i"
+            },
+            {
+              "confidence" : 1,
+              "text" : "He other Albert, Bro. H's oldest son is"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.10740320035870292,
+            0.50754354239700827,
+            0.77364508599421511,
+            0.046410949916055766
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "If years old. They seemed full, to under"
+            },
+            {
+              "confidence" : 1,
+              "text" : "It years old. They seemed full, to under"
+            },
+            {
+              "confidence" : 1,
+              "text" : "If years old. They seemed full to under"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.094230775803496508,
+            0.49417808172538558,
+            0.31346152525415438,
+            0.023287671232876672
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "- sTand 18 $ have"
+            },
+            {
+              "confidence" : 1,
+              "text" : "- STand 18 $ have"
+            },
+            {
+              "confidence" : 1,
+              "text" : "- sTand 18 & have"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.40937685208234925,
+            0.48380268171815655,
+            0.4621264670591822,
+            0.038207783111154137
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "'no doubt dix?' what they"
+            },
+            {
+              "confidence" : 1,
+              "text" : "'no doubt dix? what they"
+            },
+            {
+              "confidence" : 1,
+              "text" : "\"no doubt dix? what they"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.099626743653221259,
+            0.45183376788741536,
+            0.77604362363174917,
+            0.039546977003959705
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "• evere doing. It was a beautiful & meresting"
+            },
+            {
+              "confidence" : 1,
+              "text" : "• evere doing. It was a beautiful & ileresting"
+            },
+            {
+              "confidence" : 1,
+              "text" : "• evere doing. It was a beautiful & mleresting"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.1132469833774617,
+            0.42277240142080863,
+            0.77922481806871025,
+            0.035057804682483429
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "ene to see Children, young IComparati"
+            },
+            {
+              "confidence" : 1,
+              "text" : "ene to see Children, young Icomparati"
+            },
+            {
+              "confidence" : 1,
+              "text" : "ene to see Children, young IComparate"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.11484914825930648,
+            0.39195305381411716,
+            0.77991160204103338,
+            0.045816437185627112
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "innocent, preping into the Kingdom, & thus"
+            },
+            {
+              "confidence" : 1,
+              "text" : "innocent, preping into the King don, & thus"
+            },
+            {
+              "confidence" : 1,
+              "text" : "innocent, preping into the King dom, & thus"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.1187850051934804,
+            0.36445830328662288,
+            0.75850144401868769,
+            0.04013700354589167
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "consecrating their lives tor the Redeemer"
+            },
+            {
+              "confidence" : 1,
+              "text" : "Consecrating their lives tor the Redeemer"
+            },
+            {
+              "confidence" : 1,
+              "text" : "consecrating their lives to the Redeemer"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.13159452313169542,
+            0.30565613976653283,
+            0.75340694697496036,
+            0.068985113379073537
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "kilt then the 4 peals of the faste,"
+            },
+            {
+              "confidence" : 1,
+              "text" : "kilt then the 4 pedes of the faste,"
+            },
+            {
+              "confidence" : 1,
+              "text" : "kilt then the 4 peals of the foste,"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.10360640893466516,
+            0.27964338044715153,
+            0.76964451396962907,
+            0.037881660461425715
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "nor be persuadid to devate the little ne"
+            },
+            {
+              "confidence" : 1,
+              "text" : "nor be persuadid to devate the little re"
+            },
+            {
+              "confidence" : 1,
+              "text" : "nor be persuadio to devate the little ne"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.097667768468323632,
+            0.25230666293127302,
+            0.34699220190030911,
+            0.032450942470602762
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "mainder of their"
+            },
+            {
+              "confidence" : 1,
+              "text" : "mainder of theis"
+            },
+            {
+              "confidence" : 1,
+              "text" : "mainder of ther"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.45865273553944813,
+            0.24940530492418722,
+            0.41995995274040093,
+            0.050673278390544696
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "3 scone i ten, to the only"
+            },
+            {
+              "confidence" : 1,
+              "text" : "I scone i ten, to the only"
+            },
+            {
+              "confidence" : 1,
+              "text" : "3 seone i ten, to the only"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.11880493325496509,
+            0.21774033308344976,
+            0.76228468214751588,
+            0.042368897999802702
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "ạause worthy loing for; X the only oni thal"
+            },
+            {
+              "confidence" : 1,
+              "text" : "ạause worthy loing for; I the only oni thal"
+            },
+            {
+              "confidence" : 1,
+              "text" : "ạause worthy loing for; X the only onithal"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.11847455915652746,
+            0.18565196091544744,
+            0.55521848370505333,
+            0.045780103500575264
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "vromises aught for the future"
+            },
+            {
+              "confidence" : 1,
+              "text" : "vomises aught for the future"
+            },
+            {
+              "confidence" : 1,
+              "text" : "vromises aught for the fiture"
+            }
+          ]
+        }
+      ],
+      "orientation_score" : 782,
+      "revision" : 3,
+      "usesLanguageCorrection" : true
+    }
+  ]
+}

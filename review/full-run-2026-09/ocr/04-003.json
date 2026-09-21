@@ -1,0 +1,182 @@
+{
+  "best_clockwise_rotation" : 180,
+  "engine" : "Apple Vision",
+  "os" : "Version 27.0 (Build 26A428)",
+  "page_id" : "04-003",
+  "records" : [
+    {
+      "clockwise_rotation" : 0,
+      "file" : "04-003-original.png",
+      "lines" : [
+
+      ],
+      "orientation_score" : 0,
+      "revision" : 3,
+      "usesLanguageCorrection" : false
+    },
+    {
+      "clockwise_rotation" : 90,
+      "file" : "04-003-original.png",
+      "lines" : [
+
+      ],
+      "orientation_score" : 0,
+      "revision" : 3,
+      "usesLanguageCorrection" : false
+    },
+    {
+      "clockwise_rotation" : 180,
+      "file" : "04-003-original.png",
+      "lines" : [
+        {
+          "box" : [
+            0.60151802238776342,
+            0.42441860382693242,
+            0.034155605850659132,
+            0.082848839686251452
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "genge"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.47177771110787159,
+            0.53413941155137223,
+            0.26771539552655654,
+            0.035237612924008177
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "Er Mo lochaddo"
+            }
+          ]
+        }
+      ],
+      "orientation_score" : 5.1000002026557922,
+      "revision" : 3,
+      "usesLanguageCorrection" : false
+    },
+    {
+      "clockwise_rotation" : 270,
+      "file" : "04-003-original.png",
+      "lines" : [
+
+      ],
+      "orientation_score" : 0,
+      "revision" : 3,
+      "usesLanguageCorrection" : false
+    },
+    {
+      "clockwise_rotation" : 180,
+      "file" : "04-003-original.png",
+      "lines" : [
+        {
+          "box" : [
+            0.60151802238776342,
+            0.42441860382693242,
+            0.034155605850659132,
+            0.082848839686251452
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "genge"
+            },
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "gense"
+            },
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "denge"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.47177771110787159,
+            0.53413941155137223,
+            0.26771539552655654,
+            0.035237612924008177
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "Er Mo lechaddo"
+            },
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "Er Mo lechadda"
+            },
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "Er Mo locaado"
+            }
+          ]
+        }
+      ],
+      "orientation_score" : 6.1000001430511475,
+      "revision" : 3,
+      "usesLanguageCorrection" : true
+    },
+    {
+      "clockwise_rotation" : 180,
+      "file" : "04-003-contrast.png",
+      "lines" : [
+        {
+          "box" : [
+            0.52941176274877921,
+            0.54069766199950742,
+            0.18406072459156819,
+            0.02034886210915976
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "- MeMoen"
+            }
+          ]
+        }
+      ],
+      "orientation_score" : 1.8000000715255737,
+      "revision" : 3,
+      "usesLanguageCorrection" : false
+    },
+    {
+      "clockwise_rotation" : 180,
+      "file" : "04-003-contrast.png",
+      "lines" : [
+        {
+          "box" : [
+            0.52941176274877921,
+            0.54069766199950742,
+            0.18406072459156819,
+            0.02034886210915976
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "- Me Moon"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "- Me Poem"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "- Me Poen"
+            }
+          ]
+        }
+      ],
+      "orientation_score" : 3,
+      "revision" : 3,
+      "usesLanguageCorrection" : true
+    }
+  ]
+}

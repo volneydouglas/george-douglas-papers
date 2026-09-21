@@ -1,0 +1,1471 @@
+{
+  "best_clockwise_rotation" : 180,
+  "engine" : "Apple Vision",
+  "os" : "Version 27.0 (Build 26A428)",
+  "page_id" : "06-035",
+  "records" : [
+    {
+      "clockwise_rotation" : 0,
+      "file" : "06-035-original.png",
+      "lines" : [
+        {
+          "box" : [
+            0.20426245899391585,
+            0.49528633139605194,
+            0.56070696028871114,
+            0.046240262014554667
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "eund ar aui te jo sutt. dunng bhs aatng pana"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.31844142785942203,
+            0.52206631143134219,
+            0.46597189721764171,
+            0.035163326603438128
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "hesidrs 9 have a govdd dual of aven le tr do-"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.24647558155352531,
+            0.54087639892699535,
+            0.52458618586451122,
+            0.027791164194187035
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Bud D.ís în a kanay so 9 wíll have hr clase-"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.29257641869826562,
+            0.56831392531707248,
+            0.48253275201394902,
+            0.033430289235040989
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "Ds miti sorm Vãa egso nar pténe pranse"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.37035292734883773,
+            0.58577740644461707,
+            0.4295090144068312,
+            0.074702012257853001
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "Ie g ar an l pe rand fpanele-"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.23538005917513091,
+            0.59388856456816574,
+            0.29113856648903813,
+            0.025191578527782976
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "9 hainití ban sick ."
+            }
+          ]
+        }
+      ],
+      "orientation_score" : 94.000001192092896,
+      "revision" : 3,
+      "usesLanguageCorrection" : false
+    },
+    {
+      "clockwise_rotation" : 90,
+      "file" : "06-035-original.png",
+      "lines" : [
+        {
+          "box" : [
+            0.42713588304859712,
+            0.21333626786978388,
+            0.044778447647489561,
+            0.59278199086964745
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "Lур в on lt ріу пра pr cікт, тоn пeрtн-"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.45784883396640202,
+            0.68777292671092827,
+            0.010174424981440222,
+            0.10917030651264126
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "cindineu"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.44619812680906568,
+            0.19920037945891933,
+            0.072528086701229233,
+            0.60350327013273142
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "getne mat edk finit that pipe bucd e ga"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.4740290373392082,
+            0.20827934848720042,
+            0.04083786098486808,
+            0.26019743817075314
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "în get on d tunlln ia"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.50312455368730558,
+            0.23780377389760832,
+            0.03064151081701616,
+            0.52006836993471561
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "qud om ou hi ga îth duming he nos tang pta"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.52558633433056812,
+            0.21808047058536617,
+            0.025357033069823398,
+            0.44363165726711185
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "esidro 9 have a god deal df svon le lřn dur"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.54585368805994061,
+            0.22916125144742927,
+            0.021938835087009001,
+            0.51113986639003017
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Snd Do in a huay so 9 wll have ho clase"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.56412522321770819,
+            0.22029414370687916,
+            0.034189843939528286,
+            0.21360242903026327
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "Da miti svvr!"
+            }
+          ]
+        }
+      ],
+      "orientation_score" : 99.50000137090683,
+      "revision" : 3,
+      "usesLanguageCorrection" : false
+    },
+    {
+      "clockwise_rotation" : 180,
+      "file" : "06-035-original.png",
+      "lines" : [
+        {
+          "box" : [
+            0.21563229219923449,
+            0.53623156136819272,
+            0.4571687374972967,
+            0.034386795508991819
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "Lyzin I om ald fopuar ep for ording non"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.21795386167525832,
+            0.53464174164310063,
+            0.12315329053410196,
+            0.012836190322955021
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "waew srdan"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.36899563145092384,
+            0.53191489344545417,
+            0.17903930505666765,
+            0.017538815411155873
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "nakět-I kava a"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.60681817006122651,
+            0.53007613441429413,
+            0.18602926920854512,
+            0.014041674692374384
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "sadde üindiseu"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.21384630598793497,
+            0.4947248628690829,
+            0.57674194124743183,
+            0.042205823708567736
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "tae nom 2 fete an that wile brieh pos ana"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.20720053665081789,
+            0.47152539369862678,
+            0.33445866462681123,
+            0.021418324142026157
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Eo qud orv on to ga mithi dum"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.54144774939821649,
+            0.46598625034459318,
+            0.1485455522900222,
+            0.034597266330466669
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "ng Phue monte"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.2159130570354012,
+            0.447529887417079,
+            0.45234965288102835,
+            0.02543498648522291
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "esidro I have a g ord deal o avor le tüí dam"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.22692341661221377,
+            0.43040861391190033,
+            0.50903330872215613,
+            0.023054051632302563
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Bnd D,eo mi a kunay so 9 well have h ciase"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.22270742975334565,
+            0.4084302321607125,
+            0.23799125380994537,
+            0.021802326397624361
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "Da miki devr, 1a"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.44208635462295981,
+            0.40042426971800305,
+            0.27741178096784441,
+            0.033344302799867553
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "no cayo asc, jthnę wanse"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.21109469974844788,
+            0.37093133321061111,
+            0.52513977895558506,
+            0.040570193834178703
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "J dwad nept- Joanns I hainit bus ordk"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.2078612908475673,
+            0.34871375935916937,
+            0.4285626526934877,
+            0.041639357616738315
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "This z car am all fat and flumeshny"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.42849735140949102,
+            0.3309551287464686,
+            0.36256664764509888,
+            0.039504974172196228
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "gâuro mithe lore fejg snave"
+            }
+          ]
+        }
+      ],
+      "orientation_score" : 186.20000195503235,
+      "revision" : 3,
+      "usesLanguageCorrection" : false
+    },
+    {
+      "clockwise_rotation" : 270,
+      "file" : "06-035-original.png",
+      "lines" : [
+        {
+          "box" : [
+            0.54342087792525451,
+            0.32941578943879013,
+            0.025722795412964072,
+            0.4548222630906682
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "Syzu dam alt farpedr e\/s for ordng nn"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.5319767340018503,
+            0.30349346233861929,
+            0.015988392690052033,
+            0.34497814772450808
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "hatet-d have a nemisadde"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.53779069571421467,
+            0.19432314432022646,
+            0.030523259589012586,
+            0.10480349451612847
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "sperfatng"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.52968850055095862,
+            0.2047818642345598,
+            0.01426685480224188,
+            0.097008523644047995
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "iindiseu"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.473203334475576,
+            0.58870776677263481,
+            0.020397607453463085,
+            0.17403960970446308
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "qud an om to"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.46467315180917257,
+            0.21136150625330619,
+            0.033389196236836893,
+            0.39587732334862946
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "ga sutk. dunng Dht wantang pitzna"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.43168603105218978,
+            0.25109172045071293,
+            0.042151200490274821,
+            0.5327510635745567
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "Peine ns e a gone dead df week ane ti cae-"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.39251766731066412,
+            0.28770060162468936,
+            0.045556643696061661,
+            0.49101457958815431
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "Do miti sovre Pia eges ara, etina monse"
+            }
+          ]
+        }
+      ],
+      "orientation_score" : 71.100001513957977,
+      "revision" : 3,
+      "usesLanguageCorrection" : false
+    },
+    {
+      "clockwise_rotation" : 180,
+      "file" : "06-035-original.png",
+      "lines" : [
+        {
+          "box" : [
+            0.21563229219923449,
+            0.53623156136819272,
+            0.4571687374972967,
+            0.034386795508991819
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "Kryzin I om ald popus ep for ording non"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "Kryzin I om ald popus sp for ording non"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "Lyzin I om ald popus ep for ording non"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.21795386167525832,
+            0.53464174164310063,
+            0.12315329053410196,
+            0.012836190322955021
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "waew sudan"
+            },
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "waew ordan"
+            },
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "waew sudau"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.36899563145092384,
+            0.53191489344545417,
+            0.17903930505666765,
+            0.017538815411155873
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "hakět-I have a"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "hakět -I have a"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "nahět-I have a"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.60681817006122651,
+            0.53007613441429413,
+            0.18602926920854512,
+            0.014041674692374384
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "sadde indi seu"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "sadde indi neu"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "sadde ündi seu"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.21384630598793497,
+            0.4947248628690829,
+            0.57674194124743183,
+            0.042205823708567736
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "tare nom 2 fete an that wile bred pos ana"
+            },
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "tare nom 2 feta an that wile bred pos ana"
+            },
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "tare nom 2 fete an that wile bred por ana"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.20720053665081789,
+            0.47152539369862678,
+            0.33445866462681123,
+            0.021418324142026157
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Eo qud orv on to ga mithi dum"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "Eo qud ov on to ga mithi dum"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "Eo qud orv on to go mithi dum"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.54144774939821649,
+            0.46598625034459318,
+            0.1485455522900222,
+            0.034597266330466669
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "ng Pue monte"
+            },
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "ng Pie monte"
+            },
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "ng Pue montà"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.2159130570354012,
+            0.447529887417079,
+            0.45234965288102835,
+            0.02543498648522291
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "esido I have a g ord deal o aves le tüí dan"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "esido I have a g ord deal o aves le tüí dam"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "esido I have a g ord deal o avon le tüí dan"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.22692341661221377,
+            0.43040861391190033,
+            0.50903330872215613,
+            0.023054051632302563
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "Bud D,eo mi a kunay so 9 well have h case"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "Bud D,eo mi a kunay so 9 well have h ciase"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "And D,eo mi a kunay so 9 well have h case"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.22270742975334565,
+            0.4084302321607125,
+            0.23799125380994537,
+            0.021802326397624361
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "Da miki devr, 1a"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "Da miki devr, Pa"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "Da miki devr, 1a"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.44208635462295981,
+            0.40042426971800305,
+            0.27741178096784441,
+            0.033344302799867553
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "no sao asc, johns manse"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "no zao asc, johns manse"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "no sao asc, johns wanse"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.21109469974844788,
+            0.37093133321061111,
+            0.52513977895558506,
+            0.040570193834178703
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "J dwad nept- Joanne I hamit bus orda"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "J dwad nept- Joanne I hamit bus orok"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "J dwad nept- Joanne I haiit bus orda"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.2078612908475673,
+            0.34871375935916937,
+            0.4285626526934877,
+            0.041639357616738315
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "This z car am all fat and flumeshny"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "This z var am all fat and flumeshny"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "This z čar am all fat and flumeshny"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.42849735140949102,
+            0.3309551287464686,
+            0.36256664764509888,
+            0.039504974172196228
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "gâuse mithi lore tejg samane"
+            },
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "gâuse mithi lore fejg samane"
+            },
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "gâuse mithi lore tejg saname"
+            }
+          ]
+        }
+      ],
+      "orientation_score" : 146.00000077486038,
+      "revision" : 3,
+      "usesLanguageCorrection" : true
+    },
+    {
+      "clockwise_rotation" : 180,
+      "file" : "06-035-contrast.png",
+      "lines" : [
+        {
+          "box" : [
+            0.37336245147014108,
+            0.5406976751341952,
+            0.23144103581517622,
+            0.024709301203266532
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "fuped a\/ for orden"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.21397380201690705,
+            0.53622771708095418,
+            0.11353711190933177,
+            0.0089131684876364581
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "a oew aol"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.37772926338789947,
+            0.53191489397853975,
+            0.23144103581517628,
+            0.018976423231742312
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "aket-l kave a nei"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.60698690156559199,
+            0.53197674432120645,
+            0.078602615937229614,
+            0.011627906900222751
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "sadore"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.68995633118735056,
+            0.53197674430842401,
+            0.10480349451612847,
+            0.010174418400593854
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "andineu"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.21569599987769045,
+            0.51761049752636268,
+            0.12109418558826907,
+            0.016719129319983428
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "boves amdr"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.20960698733644892,
+            0.50000000018360957,
+            0.019650653984307431,
+            0.011627906900222751
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Co"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.24413390018249079,
+            0.49885219871249376,
+            0.099002626940453337,
+            0.012374834057378492
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "zet on t"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.32793376793101031,
+            0.48421789424193051,
+            0.47211633174064666,
+            0.055540588273612745
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "2 зка вону к пори пеяя на да"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.70524017639407188,
+            0.48837209271424276,
+            0.074235803940716938,
+            0.021802326397624361
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "tr ga"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.246724878223577,
+            0.46656976788971727,
+            0.5240174923801092,
+            0.027679800918693154
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "end an ou ti ga nitt dumng lnovorting piln"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.21807811240526526,
+            0.44746922881175444,
+            0.46111907430998594,
+            0.025483635391840731
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "rsidio 2 have a g orvd deal o avorle lr dh"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.22912886907730828,
+            0.43188207550224189,
+            0.50898974989524759,
+            0.02152018796581856
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Snd D,eo mi a huray so 9 wll havzi ho ciase"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.22270742986648578,
+            0.4084302321607125,
+            0.24235806580645813,
+            0.021802326397624361
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "Da mniki duvr, 12o"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.44209368551246397,
+            0.39804870654956159,
+            0.27327651713546175,
+            0.036253619290001371
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "no sayso asc, gAhna nanse"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.21311779311533879,
+            0.37404239223667834,
+            0.5077509896565473,
+            0.033227072699855587
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "3 dnad neyt-Iase I havrt van sich"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.21420331765947462,
+            0.35234794379977297,
+            0.29765314544360932,
+            0.034601967248373722
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "no near amaleifat and"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.51718658139207185,
+            0.34285225591341484,
+            0.15429881534774414,
+            0.047794120485855296
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "tomeshing de"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.42253055319107674,
+            0.3285592746431959,
+            0.20382587472460262,
+            0.039811400314252121
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "gânro mith lon"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.70549634096394687,
+            0.33763679949903713,
+            0.091868872461022044,
+            0.025311213927134646
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "Serave"
+            }
+          ]
+        }
+      ],
+      "orientation_score" : 151.80000162124634,
+      "revision" : 3,
+      "usesLanguageCorrection" : false
+    },
+    {
+      "clockwise_rotation" : 180,
+      "file" : "06-035-contrast.png",
+      "lines" : [
+        {
+          "box" : [
+            0.28165938927858086,
+            0.55376653226365047,
+            0.030567683975589344,
+            0.013225991949396221
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "- a"
+            },
+            {
+              "confidence" : 1,
+              "text" : "- an"
+            },
+            {
+              "confidence" : 1,
+              "text" : "- o"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.21397380201690705,
+            0.53622771708095418,
+            0.11353711190933177,
+            0.0089131684876364581
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "a new sol"
+            },
+            {
+              "confidence" : 1,
+              "text" : "a oew sol"
+            },
+            {
+              "confidence" : 1,
+              "text" : "a new soh"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.21569599987769045,
+            0.51761049752636268,
+            0.12109418558826907,
+            0.016719129319983428
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "lores ande"
+            },
+            {
+              "confidence" : 1,
+              "text" : "lores amar"
+            },
+            {
+              "confidence" : 1,
+              "text" : "boes ande"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.20960698733644892,
+            0.50000000018360957,
+            0.019650653984307431,
+            0.011627906900222751
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Co"
+            },
+            {
+              "confidence" : 1,
+              "text" : "to"
+            },
+            {
+              "confidence" : 1,
+              "text" : "To"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.24413390018249079,
+            0.49885219871249376,
+            0.099002626940453337,
+            0.012374834057378492
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "zet on t"
+            },
+            {
+              "confidence" : 1,
+              "text" : "zet on b"
+            },
+            {
+              "confidence" : 1,
+              "text" : "Zet on t"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.37772926338789947,
+            0.53191489397853975,
+            0.23144103581517628,
+            0.018976423231742312
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "aket l kave a nein"
+            },
+            {
+              "confidence" : 1,
+              "text" : "aket-l kave a nein"
+            },
+            {
+              "confidence" : 1,
+              "text" : "aket l kave a nenn"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.60698690156559199,
+            0.53197674432120645,
+            0.078602615937229614,
+            0.011627906900222751
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "sadore"
+            },
+            {
+              "confidence" : 1,
+              "text" : "saddle"
+            },
+            {
+              "confidence" : 1,
+              "text" : "saddre"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.68995633118735056,
+            0.53197674430842401,
+            0.10480349451612847,
+            0.010174418400593854
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "undinen"
+            },
+            {
+              "confidence" : 1,
+              "text" : "undineu"
+            },
+            {
+              "confidence" : 1,
+              "text" : "undiner"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.21807811240526526,
+            0.44746922881175444,
+            0.46111907430998594,
+            0.025483635391840731
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "isido 2 have a gord deal a avorle la ch"
+            },
+            {
+              "confidence" : 1,
+              "text" : "isido 2 have a gord deal a avorle la d"
+            },
+            {
+              "confidence" : 1,
+              "text" : "isido 9 have a gord deal a avorle la d"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.22912886907730828,
+            0.43188207550224189,
+            0.50898974989524759,
+            0.02152018796581856
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Ind Deo mi a haray so 9 will have ho clase"
+            },
+            {
+              "confidence" : 1,
+              "text" : "Ind Deo mi a haray so 9 will have ho case"
+            },
+            {
+              "confidence" : 1,
+              "text" : "Ind Deo mi a haray so 9 will have ho ciase"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.22270742986648578,
+            0.4084302321607125,
+            0.24235806580645813,
+            0.021802326397624361
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "La maiki duar 12o"
+            },
+            {
+              "confidence" : 1,
+              "text" : "Da maiki duar 12o"
+            },
+            {
+              "confidence" : 1,
+              "text" : "La miki duar, 12o"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.21420331765947462,
+            0.35234794379977297,
+            0.29765314544360932,
+            0.034601967248373722
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "no near am alltat and"
+            },
+            {
+              "confidence" : 1,
+              "text" : "no near am allfat and"
+            },
+            {
+              "confidence" : 1,
+              "text" : "no near am alltal and"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.51718658139207185,
+            0.34285225591341484,
+            0.15429881534774414,
+            0.047794120485855296
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Comestine de"
+            },
+            {
+              "confidence" : 1,
+              "text" : "Comeshing de"
+            },
+            {
+              "confidence" : 1,
+              "text" : "toneshing de"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.42253055319107674,
+            0.3285592746431959,
+            0.20382587472460262,
+            0.039811400314252121
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "ganso mith lon"
+            },
+            {
+              "confidence" : 1,
+              "text" : "gauss mith lon"
+            },
+            {
+              "confidence" : 1,
+              "text" : "gauso mith lon"
+            }
+          ]
+        }
+      ],
+      "orientation_score" : 164,
+      "revision" : 3,
+      "usesLanguageCorrection" : true
+    }
+  ]
+}

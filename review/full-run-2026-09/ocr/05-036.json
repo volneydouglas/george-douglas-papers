@@ -1,0 +1,1951 @@
+{
+  "best_clockwise_rotation" : 0,
+  "engine" : "Apple Vision",
+  "os" : "Version 27.0 (Build 26A428)",
+  "page_id" : "05-036",
+  "records" : [
+    {
+      "clockwise_rotation" : 0,
+      "file" : "05-036-original.png",
+      "lines" : [
+        {
+          "box" : [
+            0.46481926489765535,
+            0.83713280998764084,
+            0.34955263283639149,
+            0.038146883704975876
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Rurdodily Sut, 29Fh\/893."
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.25717862217352078,
+            0.79223832378521442,
+            0.56671223460595055,
+            0.040795804528286017
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "kig bear dunti J finliked up mny weki"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.25560820372439597,
+            0.76465139032563123,
+            0.56254050345231266,
+            0.035794858903330673
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "wirk pritty well this forenvon, es siv"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.25717661583048002,
+            0.73185850557545629,
+            0.55386498749681445,
+            0.048843681265454908
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "l wile take tine to wöilě lă jan."
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.25558549193422037,
+            0.71032343771184303,
+            0.54703564502898816,
+            0.030981915441857133
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "I amn atill litter- havit had au"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.25935045945078045,
+            0.67948841496187096,
+            0.50074119451213672,
+            0.031479209934899499
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "kreak downi ziirce I wrote lart."
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.25387597758242081,
+            0.6364678896789786,
+            0.54844959504013757,
+            0.04243119266055051
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "I have every rvom aneph avicely- l"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.25521342573270656,
+            0.60313611840021975,
+            0.57277089156871175,
+            0.045578944938262977
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "atill have a hed in any aittig-ronn"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.25968991876643704,
+            0.57989296675269841,
+            0.55620155762216483,
+            0.032110091743119296
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "tvo reckeno, tivo fovtalřvlo, anacly cos"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.25775194654468447,
+            0.54931192614191682,
+            0.54844959504013757,
+            0.032110091743119185
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "ened, the aländ takle, hus. Eerveon"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.25913494536129822,
+            0.5172574320461274,
+            0.51463126552943428,
+            0.041210416624669954
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "anade, livo tia-backli on the"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.26128588092221211,
+            0.48223710113037987,
+            0.52770510798929671,
+            0.040386278694922728
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "mantte puu, any vanei livo"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.26162790110319001,
+            0.46062691159453051,
+            0.52325582552879712,
+            0.030652158486369263
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "admenticenent pictira, whüeto"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.26356590006050595,
+            0.4215116273719135,
+            0.54844959504013757,
+            0.033430233643324758
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "onakco the room preentable."
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.26315167745795781,
+            0.39095654633943222,
+            0.53186116038720055,
+            0.042885434736899319
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "lory to kup the dvon ofinii"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.26501060580467639,
+            0.35436164112509627,
+            0.54283647605281604,
+            0.05900490903708544
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "in to the hall clvzed, ei at lăiỊại"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.2594560513289747,
+            0.33051433624195825,
+            0.57213397322566251,
+            0.036449010948157889
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "have the rovm ready ti rici"
+            }
+          ]
+        }
+      ],
+      "orientation_score" : 409.00000035762787,
+      "revision" : 3,
+      "usesLanguageCorrection" : false
+    },
+    {
+      "clockwise_rotation" : 90,
+      "file" : "05-036-original.png",
+      "lines" : [
+        {
+          "box" : [
+            0.83711949744784131,
+            0.18370408451867326,
+            0.039641648622098735,
+            0.35727541551191377
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Rurdodaly Suh, 29Fh\/893."
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.79362251407534545,
+            0.17612699689351896,
+            0.03939834938865916,
+            0.56461905849818417
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "Kig Dear kunk: I finliked up mny wockě"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.76384581556910713,
+            0.1835754067030283,
+            0.038071142424137228,
+            0.56097766747897548
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "wvok pritty well this forenvon, eo vioi"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.72980875860817296,
+            0.18867505159693965,
+            0.053771914327545689,
+            0.55243355442867614
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "l wile take time to wsilě lă gan."
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.67916664828714923,
+            0.16111112145982365,
+            0.050000039080231984,
+            0.5777777653343209
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "treak doven airee t wste lact"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.63808137743006788,
+            0.19767442977908556,
+            0.040697710229716133,
+            0.54844959504013757
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "I hove every rvon amefit vvicely- I"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.60328664334430349,
+            0.17395238899092069,
+            0.045458493247309328,
+            0.57474411275165649
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "atill have a hed in svz zittiyorann"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.57994184325094911,
+            0.18410852748736717,
+            0.031976778572852527,
+            0.55620155762216483
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "tvo rockero, tivo povtatřvlo, anecly coo"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.55087207515584602,
+            0.19379844145279201,
+            0.030523295796245575,
+            0.54651165105759425
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "ened, the aländ takle, hun. Eervzon"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.52163923236305709,
+            0.22639518540505665,
+            0.036768518092070823,
+            0.51245126520092699
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "mnade, livo lia-backeli on the"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.48078376539556333,
+            0.21100880921590659,
+            0.041854292610005173,
+            0.52772489308581805
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "mantte puu, îny vaao s eno"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.45616593285485935,
+            0.2149341572671053,
+            0.036894763281585974,
+            0.52357699115220435
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "aduentinunh pidlěvă, whöck"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.3903888469814874,
+            0.18771099287164172,
+            0.069225273365639051,
+            0.55209944761005991
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "I try ls kuf the peneplibele."
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.36666665200113407,
+            0.29444444888888888,
+            0.037500028581065104,
+            0.44444444444444442
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "in to the hall clozed, 20"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.32867043055814193,
+            0.16640964627064925,
+            0.03923553501794097,
+            0.57422453620747327
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "have the rovm ready ti riciin"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.25817287092652175,
+            0.17031557391363661,
+            0.090189417567821839,
+            0.58182848386929786
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "pangine fhe tkag ang a dhnee"
+            }
+          ]
+        }
+      ],
+      "orientation_score" : 310.50000083446503,
+      "revision" : 3,
+      "usesLanguageCorrection" : false
+    },
+    {
+      "clockwise_rotation" : 180,
+      "file" : "05-036-original.png",
+      "lines" : [
+        {
+          "box" : [
+            0.18370393661156259,
+            0.12470509202612534,
+            0.3534000252851045,
+            0.038188384578133228
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Rurdodale Sah, 29Fh\/593."
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.17417159172765687,
+            0.16696584440283502,
+            0.56865017858849398,
+            0.04083722957412772
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "Kig bear dunti J finliked up mny wekě"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.18377048726840831,
+            0.20100193912346509,
+            0.56064163192453498,
+            0.032878907813209235
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "wvrk pritty well thie fonenvon, es sivw"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.18892350833253702,
+            0.21765048920206653,
+            0.55388427485505864,
+            0.052249266831517538
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Il mite take time tă vsită lă paru."
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.18513745580544963,
+            0.2539776522374656,
+            0.55962350827838303,
+            0.039909572776304469
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "d am still hetter-havřt had as"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.23595004100820416,
+            0.28754717419302911,
+            0.50293360718893354,
+            0.033562050682324429
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "kreak down zurce I wrote lark."
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.19952885985800534,
+            0.32106712247274527,
+            0.54869771757135566,
+            0.041956942380386053
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "I have eveny ruom amept avicely- I"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.17803724515982794,
+            0.35299404021789027,
+            0.56456449393953867,
+            0.039570382611102684
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "atill have a hed in any aittig-ronn"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.18798449411515927,
+            0.3895348486728597,
+            0.55038760123996566,
+            0.030523326418815389
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "tivo rockero, livo povtalivlo, anecly cvo"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.19379845736122966,
+            0.41715112684032041,
+            0.54844959504013757,
+            0.031976815028292749
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "ened, thes aländ tahle, bun. Eerveon"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.22623448450732245,
+            0.43837620935951627,
+            0.51475069160733633,
+            0.043738032699724871
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "made, livo tia-kackli on the"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.21335355825905836,
+            0.47689523840779457,
+            0.52505278514430431,
+            0.068522532051856433
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "anonteeneyn pileni, whiet"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.21458342652008205,
+            0.47531081010448895,
+            0.12854528086873246,
+            0.038094424326485465
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "с яiоо"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.18798448385658495,
+            0.54360461551536687,
+            0.54651165105759425,
+            0.036337280856724608
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "anakio the roone precertäble."
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.19738056194895637,
+            0.56431115082263728,
+            0.53950486489392202,
+            0.040364087539346283
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "e lřy to kup the dvon ofinin"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.20331826360276128,
+            0.58215497541431915,
+            0.53734287646932333,
+            0.059681373269550586
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "in to the hall clvzed, zi at lă"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.16653430031220862,
+            0.6321796432211555,
+            0.57395669079701839,
+            0.037073752202025245
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "have the room ready to ricin"
+            }
+          ]
+        }
+      ],
+      "orientation_score" : 370.10000067949295,
+      "revision" : 3,
+      "usesLanguageCorrection" : false
+    },
+    {
+      "clockwise_rotation" : 270,
+      "file" : "05-036-original.png",
+      "lines" : [
+        {
+          "box" : [
+            0.12295910214110362,
+            0.46266667020680841,
+            0.040011623219247977,
+            0.35211676268038028
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Rurdodile, Suh, 29Fh\/593."
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.16249998216805536,
+            0.25000001816567896,
+            0.041666701663889305,
+            0.57222219733530832
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "Rag bean kenti -I fincihed uf my weckes"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.20014891019622666,
+            0.25555414041851854,
+            0.035637980936499558,
+            0.56079742400531973
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "wvik pritty well this forenvon, es viow"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.21884022246273951,
+            0.25526543587413719,
+            0.052414401226451995,
+            0.55598130843447391
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "o wile tak. tine lo wsilě lă gunn."
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.25273582818175327,
+            0.25321786656496448,
+            0.042685478105457586,
+            0.56548126562898182
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "d am still hetter-hajit had as"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.28899654871428199,
+            0.25934984474101341,
+            0.03076970832428072,
+            0.50458855585220752
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "kreak down zince I wsoti lart."
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.32122091214935378,
+            0.25387598072067197,
+            0.040697710229716189,
+            0.54844959504013757
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "e have eveny room emept avicely - e"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.41470113754042459,
+            0.25754511493892396,
+            0.033428997074792133,
+            0.54881555710849894
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "ened, the eländ table, bun. Eerueon"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.43841936036143364,
+            0.25901579001844421,
+            0.043707818430862633,
+            0.51475025608634362
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "made, livo tia-kackli on the"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.47739534655472193,
+            0.2612874249119812,
+            0.040358642554793489,
+            0.52770243264605621
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "mantte puu, any vane livo"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.50548144322748056,
+            0.25953068197989115,
+            0.03641760531550875,
+            0.52744591078140934
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "aduenticenent pidtiria, whüeto"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.54166717769468453,
+            0.26344568286333536,
+            0.037209808279614842,
+            0.54682721712538229
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "anakio the room preentälile."
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.57122091223677585,
+            0.261627898817133,
+            0.033430268640547323,
+            0.54651165105759436
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "& tin to kup the dion ofinine"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.59719108718139002,
+            0.26309453201918287,
+            0.039782888663289051,
+            0.53819724422225412
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "in to the hall clvsed, zi av tă"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.6330546845848769,
+            0.25947119636814697,
+            0.036419699315995646,
+            0.57210410892902652
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "have the rovm ready ti ricir"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.6642441686859657,
+            0.24612404618442452,
+            0.042151197380975836,
+            0.575581370751306
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "anyrne; for they come, atany"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.69118328316229272,
+            0.25930428981988973,
+            0.046148848460719427,
+            0.56284586588541674
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "aud all honre, hunz av Bouce"
+            }
+          ]
+        }
+      ],
+      "orientation_score" : 387.3000003695488,
+      "revision" : 3,
+      "usesLanguageCorrection" : false
+    },
+    {
+      "clockwise_rotation" : 0,
+      "file" : "05-036-original.png",
+      "lines" : [
+        {
+          "box" : [
+            0.25717862217352078,
+            0.79223832378521442,
+            0.56671223460595055,
+            0.040795804528286017
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "big Dear dunk: I finished up mug mete"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "big Dear dunk: I finished up mug weti"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "big Dear dunk: I finished up my weti"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.25560820372439597,
+            0.76465139032563123,
+            0.56254050345231266,
+            0.035794858903330673
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "work fritty well this finenion, es sir"
+            },
+            {
+              "confidence" : 1,
+              "text" : "work fritty well this finenion, es siv"
+            },
+            {
+              "confidence" : 1,
+              "text" : "work pritty well this finenion, es sir"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.25717661583048002,
+            0.73185850557545629,
+            0.55386498749681445,
+            0.048843681265454908
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "l wile take time to wailě lo jan."
+            },
+            {
+              "confidence" : 1,
+              "text" : "I wile take time to wailě lo jan."
+            },
+            {
+              "confidence" : 1,
+              "text" : "l wile take time to wailě lo fan."
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.25558549193422037,
+            0.71032343771184303,
+            0.54703564502898816,
+            0.030981915441857133
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "I am still litter - havit had au"
+            },
+            {
+              "confidence" : 1,
+              "text" : "I am still litter -havit had au"
+            },
+            {
+              "confidence" : 1,
+              "text" : "I am still letter - havit had au"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.25935045945078045,
+            0.67948841496187096,
+            0.50074119451213672,
+            0.031479209934899499
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "treak down zince I wrote lark."
+            },
+            {
+              "confidence" : 1,
+              "text" : "treak down zince I wrote lart."
+            },
+            {
+              "confidence" : 1,
+              "text" : "kreak down zince I wrote lark."
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.25387597758242081,
+            0.6364678896789786,
+            0.54844959504013757,
+            0.04243119266055051
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "I have every room amph avicely - t"
+            },
+            {
+              "confidence" : 1,
+              "text" : "I have every room amph avicely - l"
+            },
+            {
+              "confidence" : 1,
+              "text" : "I have every room amph avicely - d"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.25521342573270656,
+            0.60313611840021975,
+            0.57277089156871175,
+            0.045578944938262977
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "still have a hed in any aitting ronn"
+            },
+            {
+              "confidence" : 1,
+              "text" : "still have a hid in any aitting ronn"
+            },
+            {
+              "confidence" : 1,
+              "text" : "still have a hed in any aitting rosa"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.25968991876643704,
+            0.57989296675269841,
+            0.55620155762216483,
+            0.032110091743119296
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "two rockero, livo portalito, analy cos"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "two rockero, livo portalito, analy coo"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "two rockero, tivo portalito, analy cos"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.25775194654468447,
+            0.54931192614191682,
+            0.54844959504013757,
+            0.032110091743119185
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "ened, the cland table, bus. termeon"
+            },
+            {
+              "confidence" : 1,
+              "text" : "ened, the cland table, bus. Erneon"
+            },
+            {
+              "confidence" : 1,
+              "text" : "ened, the cland table, bus. truen"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.25913494536129822,
+            0.5172574320461274,
+            0.51463126552943428,
+            0.041210416624669954
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "amade, livo liabackli on the"
+            },
+            {
+              "confidence" : 1,
+              "text" : "amade, livo liabackle on the"
+            },
+            {
+              "confidence" : 1,
+              "text" : "anade, livo liabackli on the"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.26128588092221211,
+            0.48223710113037987,
+            0.52770510798929671,
+            0.040386278694922728
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "mantle pue, any vane livo"
+            },
+            {
+              "confidence" : 1,
+              "text" : "mantle pue, any vani livo"
+            },
+            {
+              "confidence" : 1,
+              "text" : "mantle pue, any vane liva"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.26162790110319001,
+            0.46062691159453051,
+            0.52325582552879712,
+            0.030652158486369263
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "admentinent pictira, white"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "admentinent pictina, white"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "admentinent pictira, whick"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.26356590006050595,
+            0.4215116273719135,
+            0.54844959504013757,
+            0.033430233643324758
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "anako the room preendable."
+            },
+            {
+              "confidence" : 1,
+              "text" : "anako the room precentalle."
+            },
+            {
+              "confidence" : 1,
+              "text" : "anake the room precentalle."
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.26315167745795781,
+            0.39095654633943222,
+            0.53186116038720055,
+            0.042885434736899319
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "try to kup the doon opinin"
+            },
+            {
+              "confidence" : 1,
+              "text" : "try to kup the doon openin"
+            },
+            {
+              "confidence" : 1,
+              "text" : "try to kup the doon opinine"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.26501060580467639,
+            0.35436164112509627,
+            0.54283647605281604,
+            0.05900490903708544
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "in to the hall closed, i at lăiỊạ"
+            },
+            {
+              "confidence" : 1,
+              "text" : "in to the hall closed, i at lăiỊại"
+            },
+            {
+              "confidence" : 1,
+              "text" : "in to the hall closed, ed at lăiỊạ"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.2594560513289747,
+            0.33051433624195825,
+            0.57213397322566251,
+            0.036449010948157889
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "have the room ready to ricin"
+            },
+            {
+              "confidence" : 1,
+              "text" : "have the room ready to reci"
+            },
+            {
+              "confidence" : 1,
+              "text" : "have the room ready to rici"
+            }
+          ]
+        }
+      ],
+      "orientation_score" : 361.5,
+      "revision" : 3,
+      "usesLanguageCorrection" : true
+    },
+    {
+      "clockwise_rotation" : 0,
+      "file" : "05-036-contrast.png",
+      "lines" : [
+        {
+          "box" : [
+            0.46511628625917317,
+            0.83866279093991714,
+            0.34883719628010318,
+            0.03488372079458435
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Rurdodale, Suh, 29Fh\/593."
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.25717862217352078,
+            0.79223832378521442,
+            0.56671223460595055,
+            0.040795804528286017
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "kig Dar Munt:- J finiiked up mny wecki"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.25561013085370948,
+            0.7646662203232073,
+            0.56253558828682459,
+            0.03575247726673747
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "wvrk pritty well this forenion, eo siod"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.25711112602661262,
+            0.73013875550762575,
+            0.55410564395387363,
+            0.051974976099230075
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "l wile take tine tă wailě lă pan."
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.25524115808224762,
+            0.70466213921994059,
+            0.56150900308995921,
+            0.041363716125488281
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "d ans still letter-hapít had a"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.25932281846745942,
+            0.67944379414866185,
+            0.50266274424017265,
+            0.031526654503032048
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "kreak down zirce I wrote lart."
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.2519379713829426,
+            0.63799694227685344,
+            0.55232560743979353,
+            0.04090214067278275
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "I have enen, rvom eneft avicely-e"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.25308537547033538,
+            0.60101189277324318,
+            0.5730570288608563,
+            0.049226031755453259
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "atill have a hid in any aittingnosn"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.25932719120643138,
+            0.57609374223967769,
+            0.55677240120890681,
+            0.037493979894422158
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "tvo rickero, trvo fovtalvvlo, anacly cvo"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.25775194656632561,
+            0.54931192613982027,
+            0.54844959504013768,
+            0.032110091743119407
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "ened, the cländ table, hus. Eerucon"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.25738336762401293,
+            0.51617728784279948,
+            0.51632301571658379,
+            0.040805317939968222
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "anade, livo tia-backeli on the"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.26128406020861117,
+            0.48221334970155261,
+            0.52770815663624493,
+            0.040428946142167521
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "anantte puc, any vane! livo"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.25761800435400573,
+            0.45897602743219812,
+            0.52934826647712796,
+            0.034186083242433885
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "adnesticenent pictira, whöck"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.26717208236031326,
+            0.36771767361827157,
+            0.5236848759238022,
+            0.030776298009656533
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "in to the hall clvzed, si as to"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.25750853414476382,
+            0.32906281082984812,
+            0.57409151565287331,
+            0.037901079253683689
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "have the rovm ready ti ricii"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.25760613209065231,
+            0.29207599863696176,
+            0.56428009873136464,
+            0.043065768133974225
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "anyane, for they come, atany"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.25933332206744869,
+            0.26266146479204178,
+            0.56467082327902007,
+            0.046120016582150702
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "and all horno, huns av Bance"
+            }
+          ]
+        }
+      ],
+      "orientation_score" : 408.5,
+      "revision" : 3,
+      "usesLanguageCorrection" : false
+    },
+    {
+      "clockwise_rotation" : 0,
+      "file" : "05-036-contrast.png",
+      "lines" : [
+        {
+          "box" : [
+            0.46511628625917317,
+            0.83866279093991714,
+            0.34883719628010318,
+            0.03488372079458435
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Rundodale, Suh, 29Fh\/593."
+            },
+            {
+              "confidence" : 1,
+              "text" : "Rundodale, Suh, 29Fh\/593."
+            },
+            {
+              "confidence" : 1,
+              "text" : "Rundodile, Suh, 29Fh\/593."
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.25717862217352078,
+            0.79223832378521442,
+            0.56671223460595055,
+            0.040795804528286017
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "big Dear dunk: I finished up my wicke"
+            },
+            {
+              "confidence" : 1,
+              "text" : "big Dear dunk: I finished up my wicki"
+            },
+            {
+              "confidence" : 1,
+              "text" : "big Dear dunk: I finished up my wiki"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.25561013085370948,
+            0.7646662203232073,
+            0.56253558828682459,
+            0.03575247726673747
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "work pritty well this forenion, so sio"
+            },
+            {
+              "confidence" : 1,
+              "text" : "work pritty well this forenion, so siv"
+            },
+            {
+              "confidence" : 1,
+              "text" : "work pritty well this forenion, co sio"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.25711112602661262,
+            0.73013875550762575,
+            0.55410564395387363,
+            0.051974976099230075
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "l wile take time to wailě to pan."
+            },
+            {
+              "confidence" : 1,
+              "text" : "l mile take time to wailě to pan."
+            },
+            {
+              "confidence" : 1,
+              "text" : "l wile take time to wailě lă pan."
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.25524115808224762,
+            0.70466213921994059,
+            0.56150900308995921,
+            0.041363716125488281
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "d ans still better hajit had as"
+            },
+            {
+              "confidence" : 1,
+              "text" : "d ans still better hajit had ar"
+            },
+            {
+              "confidence" : 1,
+              "text" : "d ans still better hajit had a"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.25932281846745942,
+            0.67944379414866185,
+            0.50266274424017265,
+            0.031526654503032048
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "kreak down zirce I wrote lart."
+            },
+            {
+              "confidence" : 1,
+              "text" : "kreak down zirce I wrote lact."
+            },
+            {
+              "confidence" : 1,
+              "text" : "kreak down zince I wrote lart."
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.2519379713829426,
+            0.63799694227685344,
+            0.55232560743979353,
+            0.04090214067278275
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "I have even, room enefit avicely -e"
+            },
+            {
+              "confidence" : 1,
+              "text" : "I have even, room enefit avicely- e"
+            },
+            {
+              "confidence" : 1,
+              "text" : "I have even room enefit avicely -e"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.25308537547033538,
+            0.60101189277324318,
+            0.5730570288608563,
+            0.049226031755453259
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "still have a hid in any aitting nonn"
+            },
+            {
+              "confidence" : 1,
+              "text" : "still have a hid in any aitting sonn"
+            },
+            {
+              "confidence" : 1,
+              "text" : "still have a hid in any aitting rosn"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.25932719120643138,
+            0.57609374223967769,
+            0.55677240120890681,
+            0.037493979894422158
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "tvo rockero, to fortativlo, analy coo"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "tvo rockero, to fortaliolo, analy coo"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "tvo rickero, to fortativlo, analy coo"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.25775194656632561,
+            0.54931192613982027,
+            0.54844959504013768,
+            0.032110091743119407
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "ened, the cland table, his. trueon"
+            },
+            {
+              "confidence" : 1,
+              "text" : "ened, the cland table, his. trucon"
+            },
+            {
+              "confidence" : 1,
+              "text" : "ened, the cland table, bus. trueon"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.25738336762401293,
+            0.51617728784279948,
+            0.51632301571658379,
+            0.040805317939968222
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "anade, livo tia-backeti on the"
+            },
+            {
+              "confidence" : 1,
+              "text" : "anade, livo tia-backeli on the"
+            },
+            {
+              "confidence" : 1,
+              "text" : "anade, livo tia-hacketi on the"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.25761800435400573,
+            0.45897602743219812,
+            0.52934826647712796,
+            0.034186083242433885
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "adventicement pictira, which"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "adventicement pictira, whiche"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "adventicement pictira, whicho"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.26717208236031326,
+            0.36771767361827157,
+            0.5236848759238022,
+            0.030776298009656533
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "in to the hall clored, si as to"
+            },
+            {
+              "confidence" : 1,
+              "text" : "in to the hall clozed, si as to"
+            },
+            {
+              "confidence" : 1,
+              "text" : "in to the hall clored, zi as to"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.25750853414476382,
+            0.32906281082984812,
+            0.57409151565287331,
+            0.037901079253683689
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "have the room ready to ricin"
+            },
+            {
+              "confidence" : 1,
+              "text" : "have the room ready to reci"
+            },
+            {
+              "confidence" : 1,
+              "text" : "have the room ready to recin"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.25760613209065231,
+            0.29207599863696176,
+            0.56428009873136464,
+            0.043065768133974225
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "anyane, for they come, atany"
+            },
+            {
+              "confidence" : 1,
+              "text" : "anyane. for they come, atany"
+            },
+            {
+              "confidence" : 1,
+              "text" : "anyane; for they come, atany"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.25933332206744869,
+            0.26266146479204178,
+            0.56467082327902007,
+            0.046120016582150702
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "and all horns, hung as Bance"
+            },
+            {
+              "confidence" : 1,
+              "text" : "and all horns, hung av Bance"
+            },
+            {
+              "confidence" : 1,
+              "text" : "and all horno, hung as Bance"
+            }
+          ]
+        }
+      ],
+      "orientation_score" : 371.5,
+      "revision" : 3,
+      "usesLanguageCorrection" : true
+    }
+  ]
+}

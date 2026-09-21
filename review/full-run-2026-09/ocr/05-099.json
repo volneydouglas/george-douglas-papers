@@ -1,0 +1,3127 @@
+{
+  "best_clockwise_rotation" : 90,
+  "engine" : "Apple Vision",
+  "os" : "Version 27.0 (Build 26A428)",
+  "page_id" : "05-099",
+  "records" : [
+    {
+      "clockwise_rotation" : 0,
+      "file" : "05-099-original.png",
+      "lines" : [
+        {
+          "box" : [
+            0.057170167503105412,
+            0.91211102520003318,
+            0.87977567559273284,
+            0.042081010969061583
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "that ale Ideierese wos simply to do the lowing and ihis"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.055225528081442737,
+            0.87986589938165172,
+            0.87963284921699636,
+            0.041401135294060865
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "was ah the request of these shem I vepreaent here, this"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.055052384132437453,
+            0.84768492512915672,
+            0.87374881354780454,
+            0.039341186222277225
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "litigation so for has D regret t sez ephibile e no smacd"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.051446037570064204,
+            0.82272800368213861,
+            0.895098513893273,
+            0.031238047700179239
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "amount of littleness of soul on ihe port of sime persmes, whs"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.04934059553118797,
+            0.78959305936721269,
+            0.8933464418490461,
+            0.037687856900064487
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "an nir even interestia sis it, exceft i ty te ingene sue pand"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.045437508397487364,
+            0.76092225849099926,
+            0.89120425171857465,
+            0.034588826330084532
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "to aid dlexander- they have bried to get some of sy chent,"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.033371210678639053,
+            0.69504666016788774,
+            0.92326798530004917,
+            0.072854073424088339
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "dhe dlang n itine y te d iane pemue ne pra, alehe"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.053507717037990794,
+            0.67675339460765704,
+            0.87711006275866288,
+            0.026887523500542909
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "parters who do st veaide heu ou Alepandei side čhas"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.043554223850365663,
+            0.63825238880769919,
+            0.87324566739443044,
+            0.03486881287474386
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "cnmode difendant, as o mas empell a to place jresio"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.048972416190870852,
+            0.6047412721283234,
+            0.8762177575450687,
+            0.049041446886564533
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "mither t aunt ad the time of filing the bills, and thea"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.053446225679952344,
+            0.57924617392275946,
+            0.86734724633487659,
+            0.037453309485786734
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "buy onk sny sesident cliene, of course the tiles mmen"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.053571423631489187,
+            0.55377906999288795,
+            0.89880953359550375,
+            0.032158429685391843
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "be disnifed- It luchs lihe a blind shan oughs to see ihragh"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.04934791836823324,
+            0.52221215069633098,
+            0.89726789926171435,
+            0.03606702465760081
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "thii - And again Alexander I leann wont, to bry the lond"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.037369786313736691,
+            0.49844440760426911,
+            0.91910149673821551,
+            0.0348565954911082
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "(which ot ane time he saise was nilled t hein and nov abor."
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.035714295399385809,
+            0.46656976678876338,
+            0.89682537725343714,
+            0.029069768755059511
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "- dened en account of ry persiatevs. effrts againsh kiin"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.043499517538382534,
+            0.43734709039042874,
+            0.90520726470433499,
+            0.036457544878909509
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "and othe, who did mih wont \" Io distust their Cousiw Andy"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.045175888935167323,
+            0.39721655035191794,
+            0.88190341183098342,
+            0.048675276731189876
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "or make hir mad as they oppreased it) and sowe if, ice"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.053386609989448205,
+            0.37772663378509075,
+            0.86552249381839219,
+            0.032363725335974425
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "the bile thar Shor filed to see'l to othe suueed,"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.053481537402065092,
+            0.34261803413301284,
+            0.88312603300803183,
+            0.036514862587577412
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "in getting snost all of the porteis on his side, he thinhs"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.049529376116118087,
+            0.31812796986168967,
+            0.87514234686272452,
+            0.029457249139484554
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "That he cenla cntrol to seme optent ihe divisin of ihe"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.047431069382060355,
+            0.25254380268023024,
+            0.9014260305967664,
+            0.06722237561878408
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "hane int llevane veh hajo avis kene t gengey"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.043490240729023064,
+            0.2190104431278812,
+            0.90306021094188416,
+            0.036093371479134828
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "peřted yon in the shole sater, you have the sesommem"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.035618457856515108,
+            0.18701125167516885,
+            0.91486205369668905,
+            0.038741795640242715
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "- dotin of Albert Jetten of me as an Atter ney, the editriae"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.049479405881046677,
+            0.16152009698263026,
+            0.8692555026173191,
+            0.036469553646288344
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "of the hre Press theh 9 sent to gur, also the cetificate"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.038998557568217927,
+            0.12423694097007065,
+            0.89010739995440513,
+            0.05507504312615652
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "of Jutge Buston the bhaneelher bifre rkon the caas"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.053451758300358379,
+            0.10580954999273662,
+            0.88516793641712255,
+            0.033986392774079999
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "nide he Fred, of Jehu Hoves Chairman of tho Count, baut"
+            }
+          ]
+        }
+      ],
+      "orientation_score" : 1075.9000008702278,
+      "revision" : 3,
+      "usesLanguageCorrection" : false
+    },
+    {
+      "clockwise_rotation" : 90,
+      "file" : "05-099-original.png",
+      "lines" : [
+        {
+          "box" : [
+            0.91211129671506652,
+            0.064959151078171296,
+            0.042316461864270627,
+            0.87978793742547001
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "chat all Ileierese wos simply to do the lowing and ihis"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.88019714453251463,
+            0.063262366359918665,
+            0.039254646552236427,
+            0.87945810097502797
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "was ak the requeat of thase she I vepresent here, This"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.84677953231619685,
+            0.073147793994298049,
+            0.041765410649149071,
+            0.87188282291228258
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "litigation so for has 9 regres t Auz ophibil. a no smacl"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.82415113761690773,
+            0.051470768906994646,
+            0.029826692844691971,
+            0.89709445255506459
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "amount of littleness of sorl ow the port of sire persmes, who"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.78962799285773089,
+            0.057222758413893127,
+            0.040757925886856894,
+            0.89353468495721089
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "au nt even intesatia ii t, epeeft ž ty t injene se, ane"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.76092218058422878,
+            0.063337645508584894,
+            0.034596418079576918,
+            0.89319861483761209
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Io aid dlixander- They have tricd to get some of sy chent,"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.73105477773708927,
+            0.047368325939652345,
+            0.03376947264922292,
+            0.90133142952967182
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "nho livr ot a distaner to discharge me and empley dlezan"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.6944808544383092,
+            0.064799586905822437,
+            0.055513099620216777,
+            0.89801991266835024
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "- der's Lanpot tow if they Ban pueeced in getting all the"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.67732555309422693,
+            0.069444455615778944,
+            0.026162847092277119,
+            0.87896824418227415
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "partes sho do sut seaide heu au Alepanderi sire îhar"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.63996564525007238,
+            0.085044448435512288,
+            0.038181119843533118,
+            0.86961774044700479
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "cosemose defendant, as 2 mas emfele a to flace jresio"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.60910294877293913,
+            0.098945609952376223,
+            0.038570985982292583,
+            0.85177081415281275
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "mother t aund ad the terne of filing the bills, and ther"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.58139532125195481,
+            0.077380947411991863,
+            0.03343029241812856,
+            0.8670635116354517
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "bay onk my sesidenh client, of crurse the bile mmen"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.55377904170892456,
+            0.045634939817858489,
+            0.031976800215871792,
+            0.9007936214357114
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "be disnifed. It lushs lihe a blind san orgls to see ihragle"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.52254179800999501,
+            0.053371765928577064,
+            0.037036211867081503,
+            0.89725810349589641
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "this - And again Alepander I leann wovt, to buy the land"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.4998837898233322,
+            0.057433397746967985,
+            0.033389227954964851,
+            0.90709702548488347
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "(which of one time he saise sos nilled to hein and nov abors"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.46511625140376356,
+            0.063492063592459624,
+            0.03343028771249873,
+            0.89880953359550375
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "- dened en account of sy persiateus. effrits againsk kiin"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.43582705774727759,
+            0.047175721320780517,
+            0.041818508976384228,
+            0.90941375835174665
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "and othes who did nch wontiạẠạis dictust their Cresin Andy"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.39992301148327508,
+            0.073039497423259991,
+            0.044572974506177365,
+            0.87577941415018234
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "or make hir mod as they offreaced it) and sow if, i"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.37569143044378545,
+            0.08098094248326615,
+            0.036079943180084229,
+            0.86572231374070574
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "the bille thar Shou filed to see'l to ophe suceed,"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.34043397644054613,
+            0.061242831310703072,
+            0.042512363509127959,
+            0.88346045908301762
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "si getting snoss all of the partiis on his side, he thinhs"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.31834233859445904,
+            0.075324692357564449,
+            0.029126465320587158,
+            0.8731459971897797
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Thor he cenla control to some oxtene the divisin of ihe"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.2836498905678177,
+            0.06535686511381078,
+            0.031880290884720663,
+            0.88117455205264461
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "lond into lot,, and buy at heis oum piiue-bant you see"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.25686570965317645,
+            0.055375216523446458,
+            0.029616540984103545,
+            0.89317320064797279
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "into chis - These ar stubborm fact, and Iheave theroughes"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.21801299441736741,
+            0.05149273319410963,
+            0.037107649602388076,
+            0.90300582046594413
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "pirted yer is the shole suiter, yeu have the sesommen"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.18749997209480176,
+            0.047619068014783106,
+            0.037790753339466299,
+            0.91468251032460024
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "- datin of Albert Jetten of me as an Atter ney, the editrial"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.15988369255375923,
+            0.073412687106744423,
+            0.036337272117012431,
+            0.87698415634206661
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "of the Iree Press thah 9 sent t yur, also the cetificata"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.1363259923206343,
+            0.079268031393629368,
+            0.030271257224835868,
+            0.87323929672155587
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "of Judge Buston the bhaveellar bifoe rikone the caae"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.10892051865831057,
+            0.063396200609382669,
+            0.027969473286678925,
+            0.87916868062131726
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "wile he tred, of Jahn Hooes Chairman of tho tount bouh"
+            }
+          ]
+        }
+      ],
+      "orientation_score" : 1232,
+      "revision" : 3,
+      "usesLanguageCorrection" : false
+    },
+    {
+      "clockwise_rotation" : 180,
+      "file" : "05-099-original.png",
+      "lines" : [
+        {
+          "box" : [
+            0.063020261053945259,
+            0.044327149564090007,
+            0.87987664733270199,
+            0.04355577732387339
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "chat ald Ileierese was simply to do the lowing and ihis"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.065261551073699478,
+            0.080541058429359991,
+            0.87744394081877797,
+            0.037801315909937849
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "was ak the requeat of these shem I vepresut here, Thes"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.073192346610838538,
+            0.11303176015775751,
+            0.86970062769623324,
+            0.035870100322522691
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "litigation so for has 9 regret t suy ephibil, e no smacd"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.051448984131517286,
+            0.14551132345465179,
+            0.8951996911388187,
+            0.031199430164537967
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "amount of littleness of soesl ow the port of some persms, who"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.05623862796598969,
+            0.16205984294642828,
+            0.89317703675206928,
+            0.049939886519783427
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "an nt even interatee sn it, epeept ž Ty z ingene se, and"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.067837821751708757,
+            0.19768584690866597,
+            0.88713510429819031,
+            0.044021625267831821
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Is aid sl pander. they have tried to get some of sy chist,"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.043412007329913314,
+            0.23219246057143594,
+            0.92312372038527635,
+            0.071632441721464435
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "dhet dlang n titine y ta åeha paan ane paey bleke"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.067380968705847796,
+            0.29482848219499669,
+            0.8811135168963945,
+            0.028600040235017499
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "partiis sho do sut reaide heu ou Alepanderi side îhaz"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.089112285628419052,
+            0.3235695962484173,
+            0.86546954188148839,
+            0.034639731833809306
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "cssimose difendant, as l mas empella to place jresin"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.085063507810017175,
+            0.35099908692029447,
+            0.8656444271271746,
+            0.03973553682628439
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "mother t aund ad the tirne of filing the bicl, and chers"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.083333336111111087,
+            0.38517436253360804,
+            0.86111111111111116,
+            0.031976856683429866
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "bay onk my seaident client, of course the biles mmed"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.04960318262147765,
+            0.41424412949882894,
+            0.89682537725343714,
+            0.030523369186802873
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "be dirnifed- Ik lachs lihe a blind man oughs to sue iteragh"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.053384027937282384,
+            0.44170997922300748,
+            0.89726831027286769,
+            0.034645993458597313
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "thii - And again Aleyander I leann wont, to bry the lond"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.043497850432645244,
+            0.46382531249946235,
+            0.92113264535546446,
+            0.037787352737627455
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "(which oh one time he saise soos rilled to hein and now abore."
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.067460312414743859,
+            0.50145343056354741,
+            0.89880953359550364,
+            0.031976858251973161
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "- dened en account of vy persiatens. effrts againss kiin"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.051251153004809376,
+            0.52381011834185665,
+            0.90331120175277069,
+            0.037423645195208133
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "and other who did nih want \"Io distust theis Coucin Andy"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.079060268414005333,
+            0.55653779005429049,
+            0.87160984300469968,
+            0.040513826043982237
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "or make hir mad as ohey opprease a it) and sov if, in"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.081036017932313797,
+            0.58687372102235891,
+            0.86759118145430003,
+            0.035541161110526631
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "the bille thar Shou filed to see'n to athe sureed,"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.063492076419577659,
+            0.61773250116044498,
+            0.8829364883645483,
+            0.039244298872194716
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "in getting moss all of the partis ow his side, he shinks"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.077380963025530727,
+            0.65116273418082338,
+            0.8730158436579335,
+            0.030523369186802873
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Thot he centa control Io some oftene The divisia of ihe"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.073261123285641688,
+            0.68453004805140338,
+            0.86142341108568321,
+            0.02843078186637471
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "ond wt loh, and buy at his oun piu. bant yer de"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.069298273559529777,
+            0.71242133232814631,
+            0.86532479745370361,
+            0.026169838089691977
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "ito chis- Shise ar stubbeon foct, and I ham theroushes"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.053450130190607792,
+            0.74201283051860822,
+            0.90109304306081661,
+            0.037507694018514504
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "perted you in the shole setter, you have the searumen"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.051515411142380001,
+            0.77570342366337508,
+            0.91088846636942344,
+            0.037313307586469113
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "- dotem of olbert Jetten of me as an stter ney, the edetriae"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.08719542739081669,
+            0.80290955738892711,
+            0.85933273435307944,
+            0.032566377991124162
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "f the Anu Press thch I senk to yur, also tho cetificate"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.081114576782848544,
+            0.82914631288469565,
+            0.87164669700477004,
+            0.036051894489087521
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "of fudge Buston the bhaneeller bifove rkom the caae"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.065379627799609832,
+            0.86312804431992585,
+            0.87916121391870095,
+            0.026684952409643858
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "wile he Fred, of Jahu Hoves Chairman of tho tount, bos"
+            }
+          ]
+        }
+      ],
+      "orientation_score" : 1118.7000004649162,
+      "revision" : 3,
+      "usesLanguageCorrection" : false
+    },
+    {
+      "clockwise_rotation" : 270,
+      "file" : "05-099-original.png",
+      "lines" : [
+        {
+          "box" : [
+            0.043583047892866163,
+            0.055098580015617848,
+            0.045985519886016839,
+            0.88195506223256881
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "that all Ileierese was simply to do the lowing and ihis"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.075933209913486316,
+            0.055203649265625265,
+            0.042698899382039121,
+            0.87970066605727415
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "was an the requeat of these sheme Ivepreaunt here, She:"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.11457603304413748,
+            0.055218819923269935,
+            0.034412420109698652,
+            0.87152736676662468
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "litigation so fer has 9 regret t Auz ophubile e no smael"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.14363287905038855,
+            0.05125918488776815,
+            0.035765014196697031,
+            0.89740634151848342
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "amount of littleness of soul ow the port of some persmes, wks"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.17135158229793995,
+            0.049300652921930976,
+            0.03899856303867541,
+            0.89340459992722365
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "an mt even intesatee sii t, spceft ž ty to iijene se, and"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.20448420138047915,
+            0.045445969112395845,
+            0.034608574290024618,
+            0.88921283417946839
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "to aid dlexander- they have bried to get some of sy chent,"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.23667476594866868,
+            0.051359301183875883,
+            0.031510017420116193,
+            0.89923006650708481
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "nho live ot a distaner to discharge me and empley blzar"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.25080445658251416,
+            0.037171106168823353,
+            0.055696408999593661,
+            0.89408194630769511
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "- dei's Lawyer- how is they can sueceed in getting ale the"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.29489838149249836,
+            0.04954484230103573,
+            0.02835054930887726,
+            0.88108310207105778
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "partiis sho do sh reaide her ou Alexanderi side čhas"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.32284560303837945,
+            0.041370967062121289,
+            0.03723171196485825,
+            0.88152582958491166
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "assemose difendant, as 2 mas emfellea to flace yrescom"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.35056581214627941,
+            0.047323630839467112,
+            0.038680107969986777,
+            0.84581039891098475
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "mother yaunt at the tirne of filing the bicls, and ther"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.38313176067595106,
+            0.055434426549215265,
+            0.036207224193372189,
+            0.86338270125298122
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "buy ont my sesidenh client, of couse the bice mnes"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.4127906601937405,
+            0.051587302311871142,
+            0.031976809627131397,
+            0.89880953359550364
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "be dirnifed- It luchs lihe a blind man oughs to sce Theragle"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.44172181941739513,
+            0.04934971635025498,
+            0.036026400955099847,
+            0.8952957307449495
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "thii - And again Sle xander I leann wont, to bry the land"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.46663629334212414,
+            0.037381638178059173,
+            0.034934025061757967,
+            0.91313882093504495
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "(wkich ot one time he said wvas silled t hein and nov abor."
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.50145346028450599,
+            0.031746027552809641,
+            0.031976800215871681,
+            0.8948412894132296
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "- dened en account of sy persiatevs. effrits ogainst hiin"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.52424103593471139,
+            0.043526106956062072,
+            0.036907762289047241,
+            0.90510005929520898
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "an d othes who did nih wontiạẠạio clictust their Crusin Any"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.55401077524470121,
+            0.049195194644929496,
+            0.044589266965263774,
+            0.86989558398656697
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "on mahe hir mod as they oppresse a it) and sow if iie"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.58991711626456111,
+            0.053369039699414533,
+            0.032348893190685013,
+            0.86555729276269633
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "the bille thar Ihou filed to see'l to ot he suueed,"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.6197070545583494,
+            0.055412522348264104,
+            0.033704083216817726,
+            0.87531154645412457
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "in getteng sost acl of the porteis ow his side, he thinhs"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.65552322779932204,
+            0.053571442115212031,
+            0.02180238146530955,
+            0.86507935529338531
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Thot he Cinla control to some oxten the duisin of ihe"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.68028156297152764,
+            0.047212212356313343,
+            0.067152343298259587,
+            0.89965347649673821
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "bone ini ltevane vtieh hajon aviskalet gengey"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.74318273153455305,
+            0.043475721439009796,
+            0.037845631963328241,
+            0.90110277032477548
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "pired yon in the shole suater, you kave the sesommen"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.77325578603790801,
+            0.033730165277777724,
+            0.037790753339466354,
+            0.91666666666666674
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "- dotin of Albart Jetten of me as an Atter ney, the editriae"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.79998448511119047,
+            0.04552712771723344,
+            0.039882223857076515,
+            0.87325457263608308
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "of the Are Press thah I senk to jur, alse the eetificate"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.82966719024790203,
+            0.043387914021885687,
+            0.034318400056738585,
+            0.879412478737023
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "of Judge Buston the Chaneelter bifrve rikom the caas"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.86018955897069671,
+            0.059418761010065935,
+            0.031255988698256632,
+            0.87721240453580951
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "wiee he tried, of John Hooes Chairman of cho Court, banh"
+            }
+          ]
+        }
+      ],
+      "orientation_score" : 1159.7000004649162,
+      "revision" : 3,
+      "usesLanguageCorrection" : false
+    },
+    {
+      "clockwise_rotation" : 90,
+      "file" : "05-099-original.png",
+      "lines" : [
+        {
+          "box" : [
+            0.91211129671506652,
+            0.064959151078171296,
+            0.042316461864270627,
+            0.87978793742547001
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "that all I leierese mos simply to do the lowing and this"
+            },
+            {
+              "confidence" : 1,
+              "text" : "that all I leierce mos simply to do the lowing and this"
+            },
+            {
+              "confidence" : 1,
+              "text" : "that all I leinese mos simply to do the lowing and this"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.88019714453251463,
+            0.063262366359918665,
+            0.039254646552236427,
+            0.87945810097502797
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "was ak the request of these shen I vepresent here, This"
+            },
+            {
+              "confidence" : 1,
+              "text" : "was ak the request of these shen I vepresent here, this"
+            },
+            {
+              "confidence" : 1,
+              "text" : "was ak the request of these shee I vepresent here, This"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.84677953231619685,
+            0.073147793994298049,
+            0.041765410649149071,
+            0.87188282291228258
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "litigation so for has 9 regret i suz ophibil a no smace"
+            },
+            {
+              "confidence" : 1,
+              "text" : "litigation so for has 9 regret I suz ophibil a no smace"
+            },
+            {
+              "confidence" : 1,
+              "text" : "litigation so for has 9 regret i suz ophibil a no smacl"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.82415113761690773,
+            0.051470768906994646,
+            0.029826692844691971,
+            0.89709445255506459
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "amount of littleness of soil on the port of sire permes, who"
+            },
+            {
+              "confidence" : 1,
+              "text" : "amount of littleness of soil on the port of sire perms, who"
+            },
+            {
+              "confidence" : 1,
+              "text" : "amount of littleness of soil on the part of sire permes, who"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.76092218058422878,
+            0.063337645508584894,
+            0.034596418079576918,
+            0.89319861483761209
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Is aid Slipander. They have tried to get some of sy chest,"
+            },
+            {
+              "confidence" : 1,
+              "text" : "Is aid Slipander- They have tried to get some of sy chest,"
+            },
+            {
+              "confidence" : 1,
+              "text" : "Is aid Slipander. They have tried to get some of by chest,"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.73105477773708927,
+            0.047368325939652345,
+            0.03376947264922292,
+            0.90133142952967182
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "who live at a distance to discharge me and employ slayan"
+            },
+            {
+              "confidence" : 1,
+              "text" : "who live at a distance to discharge me and employ slyan"
+            },
+            {
+              "confidence" : 1,
+              "text" : "who live at a distance to discharge me and employ sleyar"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.6944808544383092,
+            0.064799586905822437,
+            0.055513099620216777,
+            0.89801991266835024
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "-der's Lamped how if they can succeed in getting all the"
+            },
+            {
+              "confidence" : 1,
+              "text" : "-der's Lamped tow if they can succeed in getting all the"
+            },
+            {
+              "confidence" : 1,
+              "text" : "-der's Lamped how if they can preced in getting all the"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.67732555309422693,
+            0.069444455615778944,
+            0.026162847092277119,
+            0.87896824418227415
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "parters sho do sit reside her an Alexanders side has"
+            },
+            {
+              "confidence" : 1,
+              "text" : "parters sho do sit reside her an Alexanders side har"
+            },
+            {
+              "confidence" : 1,
+              "text" : "parters sho do sit reside her an Alexander side has"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.63996564525007238,
+            0.085044448435512288,
+            0.038181119843533118,
+            0.86961774044700479
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "cose more defendant, as 2 mas empell a to place gresi"
+            },
+            {
+              "confidence" : 1,
+              "text" : "cose more defendant, as 2 mas empell a to place gues"
+            },
+            {
+              "confidence" : 1,
+              "text" : "cose more defendant, as 2 mas empell a to place gres"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.60910294877293913,
+            0.098945609952376223,
+            0.038570985982292583,
+            0.85177081415281275
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "mother I aunt ad the terme of filing the bills, and ther"
+            },
+            {
+              "confidence" : 1,
+              "text" : "mother taunt ad the terme of filing the bills, and ther"
+            },
+            {
+              "confidence" : 1,
+              "text" : "mother taunt at the terme of filing the bills, and ther"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.58139532125195481,
+            0.077380947411991863,
+            0.03343029241812856,
+            0.8670635116354517
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "buy onk my sesident client, of course the bile mmen"
+            },
+            {
+              "confidence" : 1,
+              "text" : "buy ant my sesident client, of course the bile mmen"
+            },
+            {
+              "confidence" : 1,
+              "text" : "bay ant my sesident client, of course the bile mmen"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.55377904170892456,
+            0.045634939817858489,
+            0.031976800215871792,
+            0.9007936214357114
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "be dismifed. It looks like a blind man oughs to see ihragle"
+            },
+            {
+              "confidence" : 1,
+              "text" : "be dismifed. It looks like a blind Man oughs to see ihragle"
+            },
+            {
+              "confidence" : 1,
+              "text" : "be dismifed. It looks like a blind san oughs to see ihragle"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.52254179800999501,
+            0.053371765928577064,
+            0.037036211867081503,
+            0.89725810349589641
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "this - And again Alexander I learn wont, to buy the land"
+            },
+            {
+              "confidence" : 1,
+              "text" : "this - And again Alexander I learn wort, to buy the land"
+            },
+            {
+              "confidence" : 1,
+              "text" : "this - And again Alexander I learn wont, to buy the lond"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.4998837898233322,
+            0.057433397746967985,
+            0.033389227954964851,
+            0.90709702548488347
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "(which of one time he saise was milled to hein and nov abor"
+            },
+            {
+              "confidence" : 1,
+              "text" : "(which of one time he saise was milled to hein and now abor"
+            },
+            {
+              "confidence" : 1,
+              "text" : "(which of one time he saise was rilled to hein and nov abor"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.46511625140376356,
+            0.063492063592459624,
+            0.03343028771249873,
+            0.89880953359550375
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "- dened in account of sy persisten. efforts against kein"
+            },
+            {
+              "confidence" : 1,
+              "text" : "- demed in account of sy persisten. efforts against kein"
+            },
+            {
+              "confidence" : 1,
+              "text" : "- dened in account of sy persisten. efforts against kiin"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.43582705774727759,
+            0.047175721320780517,
+            0.041818508976384228,
+            0.90941375835174665
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "and othes who did nih wontiẠis dictust their Cousin Andy"
+            },
+            {
+              "confidence" : 1,
+              "text" : "and othes who did nih wontiẠis dictust their Crucin Andy"
+            },
+            {
+              "confidence" : 1,
+              "text" : "and othes who did nih wontiẠis dictust their Crusin Andy"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.39992301148327508,
+            0.073039497423259991,
+            0.044572974506177365,
+            0.87577941415018234
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "or make his mad as they oppressed it) and sow if, i"
+            },
+            {
+              "confidence" : 1,
+              "text" : "or make his mad as they oppressed it) and sow if, in"
+            },
+            {
+              "confidence" : 1,
+              "text" : "or make his mad as they oppressed it) and sow if i"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.37569143044378545,
+            0.08098094248326615,
+            0.036079943180084229,
+            0.86572231374070574
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "the bill than Show filed to see's to she sureed,"
+            },
+            {
+              "confidence" : 1,
+              "text" : "the bill than Show filed to see's to she succed,"
+            },
+            {
+              "confidence" : 1,
+              "text" : "the bill thor Show filed to see's to she succed,"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.34043397644054613,
+            0.061242831310703072,
+            0.042512363509127959,
+            0.88346045908301762
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "si getting sness all of the parties on his side, he thinh,"
+            },
+            {
+              "confidence" : 1,
+              "text" : "si getting sness all of the parties on his side, he shinh,"
+            },
+            {
+              "confidence" : 1,
+              "text" : "si getting sness all of the parties on his side, he thinhs"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.31834233859445904,
+            0.075324692357564449,
+            0.029126465320587158,
+            0.8731459971897797
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "That he centa control to some often the divisin of the"
+            },
+            {
+              "confidence" : 1,
+              "text" : "That he centa control to some often the divisin of ithe"
+            },
+            {
+              "confidence" : 1,
+              "text" : "That he centa control to some often the divisin of ite"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.2836498905678177,
+            0.06535686511381078,
+            0.031880290884720663,
+            0.88117455205264461
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "lond into lot, and buy at his orm price bant you see"
+            },
+            {
+              "confidence" : 1,
+              "text" : "loud into lot, and buy at his orm price bant you see"
+            },
+            {
+              "confidence" : 1,
+              "text" : "lond into lot, and buy at his orm price Cant you see"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.25686570965317645,
+            0.055375216523446458,
+            0.029616540984103545,
+            0.89317320064797279
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "into this - These are stubborn fact, and I have theroughes"
+            },
+            {
+              "confidence" : 1,
+              "text" : "into this - There are stubborn fact, and I have theroughes"
+            },
+            {
+              "confidence" : 1,
+              "text" : "into this - These are stubborn fact, and I have theroughs"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.21801299441736741,
+            0.05149273319410963,
+            0.037107649602388076,
+            0.90300582046594413
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "perted you is the shole suiter, you have the sesammen"
+            },
+            {
+              "confidence" : 1,
+              "text" : "pisted you is the shole suiter, you have the sesammen"
+            },
+            {
+              "confidence" : 1,
+              "text" : "perted you is the shole suiter, you have the serommen"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.18749997209480176,
+            0.047619068014783106,
+            0.037790753339466299,
+            0.91468251032460024
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "- datin of Albert Jetter of me as an Atten ney, the editrial"
+            },
+            {
+              "confidence" : 1,
+              "text" : "- datin of Albert Jetten of me as an Atten ney, the editrial"
+            },
+            {
+              "confidence" : 1,
+              "text" : "- datin of Albert Jetter of me as an Atter ney, the editrial"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.15988369255375923,
+            0.073412687106744423,
+            0.036337272117012431,
+            0.87698415634206661
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "of the Free Press thak I sent i jur, also the extificate"
+            },
+            {
+              "confidence" : 1,
+              "text" : "of the Free Press thak I sent i yur, also the extificate"
+            },
+            {
+              "confidence" : 1,
+              "text" : "of the Free Press thak I sent i jur, also the cetificate"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.1363259923206343,
+            0.079268031393629368,
+            0.030271257224835868,
+            0.87323929672155587
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "of Judge Buston the bhavael lar bifoe rikon the caae"
+            },
+            {
+              "confidence" : 1,
+              "text" : "of Judge Buston the bhavael lar bife rikon the caae"
+            },
+            {
+              "confidence" : 1,
+              "text" : "of Judge Buston the bhanael lar bifoe rikon the caae"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.10892051865831057,
+            0.063396200609382669,
+            0.027969473286678925,
+            0.87916868062131726
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "will he Fred, of John Hooes Chairman of the Count, bout"
+            },
+            {
+              "confidence" : 1,
+              "text" : "will he Fred, of John Hoves Chairman of the Count, bout"
+            },
+            {
+              "confidence" : 1,
+              "text" : "will he Fred, of John Hooes Chairman of the Count, bont"
+            }
+          ]
+        }
+      ],
+      "orientation_score" : 1181,
+      "revision" : 3,
+      "usesLanguageCorrection" : true
+    },
+    {
+      "clockwise_rotation" : 90,
+      "file" : "05-099-contrast.png",
+      "lines" : [
+        {
+          "box" : [
+            0.91207956619971631,
+            0.064958441682457568,
+            0.042321641194193016,
+            0.87784077208719125
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "that ale Ileierese wos simply to do the lowing and ihis"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.88018253365191779,
+            0.061294143342896734,
+            0.039278842900928645,
+            0.88142718690814392
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "was ak the requeat of thase she I vepresent here, This"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.84593590730226742,
+            0.069180992660002216,
+            0.042605111473485002,
+            0.87584777900533106
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "litigation so for has I segses t sy ophibile se no smacd"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.82416623430685265,
+            0.051471311424823751,
+            0.029807517403050543,
+            0.89709308251788711
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "amount of littleness of sorl ow the port of sire persmes, who"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.78807725158733077,
+            0.05711697154713169,
+            0.045731004915739337,
+            0.89370929619546158
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "an nt even intesatea si it, epceft žo ty to injene sepand"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.7594611393904761,
+            0.061343237314686383,
+            0.036065007510938107,
+            0.89520332173733863
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Io aid Slxander- They have tied to get some of sy chert,"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.69378831399603624,
+            0.04133391522780594,
+            0.075543146384389748,
+            0.92331210049715917
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "dhel dan enetitin y tan iane praae ni gatiy blete"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.6773255531132607,
+            0.069444467670504606,
+            0.026162847092277119,
+            0.87698408784020776
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "partes sho do sut veside heu ou Alexandei pide čhas"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.63998099606906711,
+            0.0850440079786553,
+            0.036743477771156607,
+            0.86961794595258135
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "osimare defendant, as e mas empell a to place yrezo"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.60911541068308983,
+            0.098946743487813404,
+            0.03853524515503326,
+            0.85175088011188282
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "mother t aund ad the terne of filing the bills, and ther"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.58065262414666419,
+            0.079206813732948245,
+            0.036303255118821709,
+            0.86536151445005616
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "buy out my sesidenh client, of couse the bice mmen"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.55523252965963632,
+            0.047619048343617187,
+            0.030523312719244799,
+            0.89880953359550364
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "be dirnifed- Ik lachs lihe a blind man oughs to sue iteragh"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.52217975331218158,
+            0.053369074913057424,
+            0.036131749027653814,
+            0.89728338068181812
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "thii - And again Aleyander I learn wont, to bay the lond"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.49989630256091511,
+            0.057433374216723232,
+            0.033363731283890585,
+            0.90518376856674387
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "(wkich oh one time he soisd svas pilled to hein and nov abor"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.46271592222058378,
+            0.063360959287074747,
+            0.036060562259272511,
+            0.89907627983392946
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "- dened en account of vy persiatens. effuts ogainsk kiin"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.4358278155435813,
+            0.047198228317799518,
+            0.041803571738694867,
+            0.9093907417271675
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "and othes who did nch wontiạẠạis dictust their resin Andy"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.39990054188196172,
+            0.073038498000663532,
+            0.04461183987165751,
+            0.87578167471152502
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "or make hir mod as they offreaced it) and sow if, i"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.37569143075730449,
+            0.080980625901276415,
+            0.036097881041075086,
+            0.8656977900752314
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "the bile thar Shou filed to see'l to ophe suceed,"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.34221591878627289,
+            0.061325803722411143,
+            0.039567974052931165,
+            0.88330228829089508
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "in getting soss all of the partiis on his side, he thinhs"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.31834233833130243,
+            0.075324661423093353,
+            0.029130010228407999,
+            0.87314606569163855
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Thor he cenla cantroe to some oxtene the divisin of the"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.28367836432332483,
+            0.065359297195080601,
+            0.031781980865880077,
+            0.88116064617529455
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "lond into lot,, and buy at heis oum piiue-bant yeu see"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.25693141634028077,
+            0.057350587895592109,
+            0.029523140505740508,
+            0.89119562048435741
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "into this - These are stubborm fact, and Iheav theroughes"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.21724939439606297,
+            0.051446481342899752,
+            0.038271830270164925,
+            0.90310542216873591
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "pirted yeu in the shole siter, yeu have the sesomme"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.18749997209480176,
+            0.047619048430422639,
+            0.037790753339466299,
+            0.91269842248439259
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "- datine of Hbet Jette of se as an Atter ney, the editriae"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.15874071052766092,
+            0.073304216365531527,
+            0.038330272624367168,
+            0.87721055498562017
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "of the Inee Press thak I sent t jur, alse the cetificate"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.13491358776052748,
+            0.077230041617047274,
+            0.033588017288007227,
+            0.87539094010855079
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "of futge Buston the bhaneellar bifrve rkone the caas"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.11000349384892656,
+            0.06340201065702844,
+            0.026886497673235435,
+            0.87916285796331362
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "wile he tred, of Johr Hooes Chairmon of tho Count, baus"
+            }
+          ]
+        }
+      ],
+      "orientation_score" : 1148.0000004768372,
+      "revision" : 3,
+      "usesLanguageCorrection" : false
+    },
+    {
+      "clockwise_rotation" : 90,
+      "file" : "05-099-contrast.png",
+      "lines" : [
+        {
+          "box" : [
+            0.91207956619971631,
+            0.064958441682457568,
+            0.042321641194193016,
+            0.87784077208719125
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "that all I leierese was simply to do the lowing and chis"
+            },
+            {
+              "confidence" : 1,
+              "text" : "that ale I leierese was simply to do the lowing and chis"
+            },
+            {
+              "confidence" : 1,
+              "text" : "that all I leieree was simply to do the lowing and chis"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.88018253365191779,
+            0.061294143342896734,
+            0.039278842900928645,
+            0.88142718690814392
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "was at the request of these shee I vepresent here, This"
+            },
+            {
+              "confidence" : 1,
+              "text" : "was at the request of these shee I vepresent here, this"
+            },
+            {
+              "confidence" : 1,
+              "text" : "was at the request of these she I vepresent here, This"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.84593590730226742,
+            0.069180992660002216,
+            0.042605111473485002,
+            0.87584777900533106
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "litigation so for has I regret to sey ophibile se no smacl"
+            },
+            {
+              "confidence" : 1,
+              "text" : "litigation so for has I regret to sey ophibile se no smace"
+            },
+            {
+              "confidence" : 1,
+              "text" : "litigation so for has I regret to sey ophihile se no smacl"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.82416623430685265,
+            0.051471311424823751,
+            0.029807517403050543,
+            0.89709308251788711
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "amount of littleness of soil on the port of sire permes, who"
+            },
+            {
+              "confidence" : 1,
+              "text" : "amount of littleness of soil on the port of sire perms, who"
+            },
+            {
+              "confidence" : 1,
+              "text" : "amount of littleness of soil on the part of sire permes, who"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.78807725158733077,
+            0.05711697154713169,
+            0.045731006484282632,
+            0.89370929619546158
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "an nt even interested si it, except žo try to injene sep and"
+            },
+            {
+              "confidence" : 1,
+              "text" : "an nt even interested si it, except žo ty to injene sep and"
+            },
+            {
+              "confidence" : 1,
+              "text" : "an nt even interested si it, except žo try to injene separa"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.7594611393904761,
+            0.061343237314686383,
+            0.036065007510938107,
+            0.89520332173733863
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "to aid Slexander- They have tried to get some of sy chest,"
+            },
+            {
+              "confidence" : 1,
+              "text" : "to aid Slexander- They have tried to get some of by chest,"
+            },
+            {
+              "confidence" : 1,
+              "text" : "to aid Slexander- They have tried to get some of sy chert,"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.6773255531132607,
+            0.069444467670504606,
+            0.026162847092277119,
+            0.87698408784020776
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "parters who do sut reside heu on Alexander side has"
+            },
+            {
+              "confidence" : 1,
+              "text" : "parters who do sit reside heu on Alexander side has"
+            },
+            {
+              "confidence" : 1,
+              "text" : "parters who do sut reside heu on Alexander side čhas"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.63998099606906711,
+            0.0850440079786553,
+            0.036743477771156607,
+            0.86961794595258135
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "asimore defendant, as e mas empell a to place grazi"
+            },
+            {
+              "confidence" : 1,
+              "text" : "asimore defendant, as l mas empell a to place grazi"
+            },
+            {
+              "confidence" : 1,
+              "text" : "asimore defendant, as e mas empell a to place graze"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.60911541068308983,
+            0.098946743487813404,
+            0.03853524515503326,
+            0.85175088011188282
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "mother I aunt ad the terme of filing the bills, and ther"
+            },
+            {
+              "confidence" : 1,
+              "text" : "mother taunt ad the terme of filing the bills, and ther"
+            },
+            {
+              "confidence" : 1,
+              "text" : "mother taunt at the terme of filing the bills, and ther"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.58065262414666419,
+            0.079206813732948245,
+            0.036303255118821709,
+            0.86536151445005616
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "buy out my sesident client, of course the bile mmen"
+            },
+            {
+              "confidence" : 1,
+              "text" : "buy out my sesident client, of course the file mmen"
+            },
+            {
+              "confidence" : 1,
+              "text" : "buy out my sesident client, of course the bile mmer"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.55523252965963632,
+            0.047619048343617187,
+            0.030523312719244799,
+            0.89880953359550364
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "be dirnife d- It lucks like a blind man oughs to see iterate"
+            },
+            {
+              "confidence" : 1,
+              "text" : "be dirnife d- It lucks like a blind man oughs to see iterat"
+            },
+            {
+              "confidence" : 1,
+              "text" : "be dirnife d- It lucks like a blind man oughs to see iteral"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.52217975331218158,
+            0.053369074913057424,
+            0.036131749027653814,
+            0.89728338068181812
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "this - And again Alexander I learn mont, to bay the lond"
+            },
+            {
+              "confidence" : 1,
+              "text" : "this - And again Alexander I learn mont, to buy the lond"
+            },
+            {
+              "confidence" : 1,
+              "text" : "this - And again Alexander I learn wont, to bay the lond"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.49989630256091511,
+            0.057433374216723232,
+            0.033363731283890585,
+            0.90518376856674387
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "(which of one time he said swas pilled to hein and now abor"
+            },
+            {
+              "confidence" : 1,
+              "text" : "(which of one time he said was pilled to hein and now abor"
+            },
+            {
+              "confidence" : 1,
+              "text" : "(which of one time he said swas pilled to kein and now abor"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.46271592222058378,
+            0.063360959287074747,
+            0.036060562259272511,
+            0.89907627983392946
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "- dened en account of vy persiaten. effet against kiin"
+            },
+            {
+              "confidence" : 1,
+              "text" : "- dened en account of vy persiaten. effet against hiin"
+            },
+            {
+              "confidence" : 1,
+              "text" : "- dened en account of vy persiaten. effet against kin"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.4358278155435813,
+            0.047198228317799518,
+            0.041803571738694867,
+            0.9093907417271675
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "and othes who did nich wontiạis dictust their resin Andy"
+            },
+            {
+              "confidence" : 1,
+              "text" : "and othes who did nich wontiạis dictust their resis Andy"
+            },
+            {
+              "confidence" : 1,
+              "text" : "and othes who did nich wontiạis distust their resin Andy"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.39990054188196172,
+            0.073038498000663532,
+            0.04461183987165751,
+            0.87578167471152502
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "or make his mad as they oppressed it) and sow if, i"
+            },
+            {
+              "confidence" : 1,
+              "text" : "or make his mad as they oppressed it and sow if, i"
+            },
+            {
+              "confidence" : 1,
+              "text" : "or make his mod as they oppressed it) and sow if, i"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.37569143075730449,
+            0.080980625901276415,
+            0.036097881041075086,
+            0.8656977900752314
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "the bill thor Show filed to see's to she sunced,"
+            },
+            {
+              "confidence" : 1,
+              "text" : "the bill thor Show filed to see's to she succed,"
+            },
+            {
+              "confidence" : 1,
+              "text" : "the bill thor Show filed to see's to she sureed,"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.34221591878627289,
+            0.061325803722411143,
+            0.039567974052931165,
+            0.88330228829089508
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "in getting soss all of the parties on his side, he thinhs"
+            },
+            {
+              "confidence" : 1,
+              "text" : "in getting soss all of the parties on his side, he shihs"
+            },
+            {
+              "confidence" : 1,
+              "text" : "in getting sost all of the parties on his side, he thinhs"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.31834233833130243,
+            0.075324661423093353,
+            0.029130010228407999,
+            0.87314606569163855
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "That he centa control to some often the divisin of the"
+            },
+            {
+              "confidence" : 1,
+              "text" : "That he conta control to some often the divisin of the"
+            },
+            {
+              "confidence" : 1,
+              "text" : "That he centa control to some often The divisin of the"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.28367836432332483,
+            0.065359297195080601,
+            0.031781980865880077,
+            0.88116064617529455
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "lond into lot, and buy at his orm price bant you see"
+            },
+            {
+              "confidence" : 1,
+              "text" : "loud into lot, and buy at his orm price bant you see"
+            },
+            {
+              "confidence" : 1,
+              "text" : "lond into lot, and buy at his orm price bart you see"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.25693141634028077,
+            0.057350587895592109,
+            0.029523140505740508,
+            0.89119562048435741
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "into this - These are stubborn fact, and I have theroughs"
+            },
+            {
+              "confidence" : 1,
+              "text" : "into this - There are stubborn fact, and I have theroughs"
+            },
+            {
+              "confidence" : 1,
+              "text" : "into this - These are stubborn fact, and I have theroughes"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.21724939439606297,
+            0.051446481342899752,
+            0.038271830270164925,
+            0.90310542216873591
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "pired yen in the shole suiter, you have the seromme"
+            },
+            {
+              "confidence" : 1,
+              "text" : "pired yen in the shole suiter, you have the seammen"
+            },
+            {
+              "confidence" : 1,
+              "text" : "pired yen in the shole suiter, you have the seamme"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.18749997209480176,
+            0.047619048430422639,
+            0.037790753339466299,
+            0.91269842248439259
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "- datin of that Jetter of se as an Atter ney, the editrial"
+            },
+            {
+              "confidence" : 1,
+              "text" : "- datin of that Jette of se as an Atter ney, the editrial"
+            },
+            {
+              "confidence" : 1,
+              "text" : "- datin of that Jetten of se as an Atter ney, the editrial"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.15874071052766092,
+            0.073304216365531527,
+            0.038330272624367168,
+            0.87721055498562017
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "of the tree Press thak I sent to yur, also the cetificate"
+            },
+            {
+              "confidence" : 1,
+              "text" : "of the tree Press thak I sent to jur, also the cetificate"
+            },
+            {
+              "confidence" : 1,
+              "text" : "of the free Press thak I sent to yur, also the cetificate"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.13491358776052748,
+            0.077230041617047274,
+            0.033588017288007227,
+            0.87539094010855079
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "of Judge Buston the Chancellar bifore rhone the care"
+            },
+            {
+              "confidence" : 1,
+              "text" : "of Judge Buston the Chancellar bifore rhone the carr"
+            },
+            {
+              "confidence" : 1,
+              "text" : "of Judge Buston the Chancellar bifore rhone the cars"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.11000349384892656,
+            0.06340201065702844,
+            0.026886497673235435,
+            0.87916285796331362
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "will he Fred, of John Hoves Chairman of the Count, baus"
+            },
+            {
+              "confidence" : 1,
+              "text" : "will he Fred, of John Hoves Chairman of the Count, bout"
+            },
+            {
+              "confidence" : 1,
+              "text" : "will he Fred, of John Hoves Chairman of the Court, baus"
+            }
+          ]
+        }
+      ],
+      "orientation_score" : 1136,
+      "revision" : 3,
+      "usesLanguageCorrection" : true
+    }
+  ]
+}

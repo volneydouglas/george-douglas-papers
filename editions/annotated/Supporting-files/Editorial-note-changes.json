@@ -1,0 +1,44 @@
+[
+  {
+    "page_id": "04-079",
+    "before": "Heavy show-through from the reverse interferes with several readings. The place name following “enjoyed in” is unresolved.",
+    "after": "Heavy show-through from the reverse interferes with several readings. The place name following “enjoyed in” reads Brushy after image review.",
+    "reason": "Synchronize editorial explanation with applied image-supported reading."
+  },
+  {
+    "page_id": "04-080",
+    "before": "The surname before “a large Livery Stable” is uncertain. Show-through is visible throughout.",
+    "after": "Image review reads the verb build before “a large Livery Stable”; the earlier proposed surname has been withdrawn. Show-through is visible throughout.",
+    "reason": "Synchronize editorial explanation with applied image-supported reading."
+  },
+  {
+    "page_id": "05-044",
+    "before": "The opening appears to continue a different leaf from the preceding scan. Source order is retained; the surname is uncertain.",
+    "after": "The opening appears to continue a different leaf from the preceding scan. Source order is retained. Image review supports Chadsey’s as the surname.",
+    "reason": "Synchronize editorial explanation with applied image-supported reading."
+  },
+  {
+    "page_id": "05-052",
+    "before": "Page is inverted and begins mid-sentence; its opening does not continue the preceding scan. Two names remain uncertain.",
+    "after": "Page is inverted and begins mid-sentence; its opening does not continue the preceding scan. Timmons is supported by image review; the other marked name remains uncertain.",
+    "reason": "Synchronize editorial explanation with applied image-supported reading."
+  },
+  {
+    "page_id": "05-064",
+    "before": "Lineation follows the manuscript verse. Two words at the end of the fourth line of the second stanza are uncertain.",
+    "after": "Lineation follows the manuscript verse. Image review supports door in the second stanza; the preceding marked word remains tentative.",
+    "reason": "Synchronize editorial explanation with applied image-supported reading."
+  },
+  {
+    "page_id": "05-157",
+    "before": "Conclusion of the deed whose opening is scanned next, at 05-158. Docket and printed certificate give differing page references and times; both are retained as read. Deputy signature is uncertain.",
+    "after": "Conclusion of the deed whose opening is scanned next, at 05-158. Docket and printed certificate give differing page references and times; both are retained as read. Image review supports the deputy signature H. C. Wise.",
+    "reason": "Synchronize editorial explanation with applied image-supported reading."
+  },
+  {
+    "page_id": "06-008",
+    "before": "The acknowledgment and sideways docket precede the opening deed in the scan sequence. The final digit of the record-book number is uncertain. Image review September 2026. The docket reads volume 91; the separate recording certificate on 06-011 reads 92. Both readings are preserved.",
+    "after": "The acknowledgment and sideways docket precede the opening deed in the scan sequence. The docket’s record-book number reads 91 after image review. Image review September 2026. The docket reads volume 91; the separate recording certificate on 06-011 reads 92. Both readings are preserved.",
+    "reason": "Synchronize editorial explanation with applied image-supported reading."
+  }
+]

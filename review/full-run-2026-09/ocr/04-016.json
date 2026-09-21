@@ -1,0 +1,457 @@
+{
+  "best_clockwise_rotation" : 270,
+  "engine" : "Apple Vision",
+  "os" : "Version 27.0 (Build 26A428)",
+  "page_id" : "04-016",
+  "records" : [
+    {
+      "clockwise_rotation" : 0,
+      "file" : "04-016-original.png",
+      "lines" : [
+        {
+          "box" : [
+            0.48160822548287818,
+            0.64965918646578003,
+            0.11347267877145495,
+            0.21233760023900994
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "oShville Fers Ap"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.40371673069956965,
+            0.72881795537670124,
+            0.10248551292311564,
+            0.13702136265370912
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Mil Liern"
+            }
+          ]
+        }
+      ],
+      "orientation_score" : 22,
+      "revision" : 3,
+      "usesLanguageCorrection" : false
+    },
+    {
+      "clockwise_rotation" : 90,
+      "file" : "04-016-original.png",
+      "lines" : [
+        {
+          "box" : [
+            0.65259245297730395,
+            0.40744103043108237,
+            0.21476362772376467,
+            0.1081629689294813
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "$Shiville Fers Ap"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.63005711158004174,
+            0.47610643842947831,
+            0.24386782097424498,
+            0.19678165820496585
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "mie Digzy . Dugla"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.63654790044945619,
+            0.57446258387327953,
+            0.18711328404217309,
+            0.12581208109518582
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "Predsal 23."
+            }
+          ]
+        }
+      ],
+      "orientation_score" : 22.600000083446503,
+      "revision" : 3,
+      "usesLanguageCorrection" : false
+    },
+    {
+      "clockwise_rotation" : 180,
+      "file" : "04-016-original.png",
+      "lines" : [
+        {
+          "box" : [
+            0.40854011788100714,
+            0.13266073059369976,
+            0.10255015064926226,
+            0.21318402130148761
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "$Shville Fers Ap"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.49202085140795399,
+            0.12948832209122563,
+            0.15612508214722248,
+            0.23513416565683076
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Bjl Ligzz. Dugla"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.57309969666780392,
+            0.18118921429434476,
+            0.12887461785434218,
+            0.1785384771907389
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "Dedoak B."
+            }
+          ]
+        }
+      ],
+      "orientation_score" : 28.100000083446503,
+      "revision" : 3,
+      "usesLanguageCorrection" : false
+    },
+    {
+      "clockwise_rotation" : 270,
+      "file" : "04-016-original.png",
+      "lines" : [
+        {
+          "box" : [
+            0.12881433556786059,
+            0.48315970262639252,
+            0.2205432730968549,
+            0.11399715470323912
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "oShville Fers Ap"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.12907000843069444,
+            0.33418844695041727,
+            0.23387195077259426,
+            0.18100756502286308
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Hijh Lizzy. Dugla"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.18109082949413502,
+            0.29621638822914498,
+            0.18086809835917955,
+            0.12937948099292751
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "Piidoak \"B."
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.17195060221187233,
+            0.26506728035145399,
+            0.14253550073434149,
+            0.10585762620758721
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "Tesra"
+            }
+          ]
+        }
+      ],
+      "orientation_score" : 33.500000059604645,
+      "revision" : 3,
+      "usesLanguageCorrection" : false
+    },
+    {
+      "clockwise_rotation" : 270,
+      "file" : "04-016-original.png",
+      "lines" : [
+        {
+          "box" : [
+            0.12881433556786059,
+            0.48315970262639252,
+            0.2205432730968549,
+            0.11399715470323912
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "oShville Fers Ap"
+            },
+            {
+              "confidence" : 1,
+              "text" : "oShville Fens Ap"
+            },
+            {
+              "confidence" : 1,
+              "text" : "aShville Fers Ap"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.12907000843069444,
+            0.33418844695041727,
+            0.23387195077259426,
+            0.18100756502286308
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Hit Dizzy. Dugla"
+            },
+            {
+              "confidence" : 1,
+              "text" : "Hit Lizzy. Dugla"
+            },
+            {
+              "confidence" : 1,
+              "text" : "Hid Dizzy. Dugla"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.18109082949413502,
+            0.29621638822914498,
+            0.18086809835917955,
+            0.12937948099292751
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "Poldoak B."
+            },
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "Poldoak B"
+            },
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "Piedoak B"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.17195060221187233,
+            0.26506728035145399,
+            0.14253550073434149,
+            0.10585762620758721
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "Teara"
+            },
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "Geora"
+            },
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "Jesua"
+            }
+          ]
+        }
+      ],
+      "orientation_score" : 32.500000059604645,
+      "revision" : 3,
+      "usesLanguageCorrection" : true
+    },
+    {
+      "clockwise_rotation" : 270,
+      "file" : "04-016-contrast.png",
+      "lines" : [
+        {
+          "box" : [
+            0.12359204594737939,
+            0.48602530850608083,
+            0.22462704421964352,
+            0.11342001725321782
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Shiville Feins odp"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.1313415061397096,
+            0.3327010506975826,
+            0.23147177270176242,
+            0.18448803584380158
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Mіl Lizzy. Dugla"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.18045551892888553,
+            0.29585928043596499,
+            0.18228485347374243,
+            0.13260408306211713
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "Poidoak →B."
+            }
+          ]
+        }
+      ],
+      "orientation_score" : 31.400000095367432,
+      "revision" : 3,
+      "usesLanguageCorrection" : false
+    },
+    {
+      "clockwise_rotation" : 270,
+      "file" : "04-016-contrast.png",
+      "lines" : [
+        {
+          "box" : [
+            0.12359204594737939,
+            0.48602530850608083,
+            0.22462704421964352,
+            0.11342001725321782
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "Shiville Feins off"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "Shiville Feins dp"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "Shiville Feis off"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.1313415061397096,
+            0.3327010506975826,
+            0.23147177270176242,
+            0.18448803584380158
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "Mit Lizzy. Dugla"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "Mil Lizzy. Dugla"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "Mit Lizzy . Dugla"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.18045551892888553,
+            0.29585928043596499,
+            0.18228485347374243,
+            0.13260408306211713
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "Poldoak →B."
+            },
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "Poldoak B."
+            },
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "Poldoak B"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.17325848329101559,
+            0.26724652126819137,
+            0.14185512670880987,
+            0.10343799357364802
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "Года."
+            },
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "Года"
+            },
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "Тода"
+            }
+          ]
+        }
+      ],
+      "orientation_score" : 18.100000143051147,
+      "revision" : 3,
+      "usesLanguageCorrection" : true
+    }
+  ]
+}

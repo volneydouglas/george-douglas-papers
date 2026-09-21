@@ -24,7 +24,7 @@ The table of contents links to each entry in Word and PDF. PDF bookmarks and Wor
 
 ## Independence and comparison
 
-These readings were made from the scanned manuscript images, without consulting the other agent's work. During the initial inventory, before the request for an independent version, part of the existing 25-page transcription PDF was viewed. It was then excluded and was not used further. This is therefore an independent reading in execution, but it is not a blind comparison.
+The first edition was read from the scanned manuscript images without consulting the other agent’s work. Revision 1.1 applies selected image-checked corrections after consulting the other agent’s contextual review and comparing the annotated and family editions. This revision is not a blinded comparison; neither AI-assisted edition has been independently human verified. During the initial inventory, before the request for an independent version, part of the existing 25-page transcription PDF was viewed. It was then excluded and was not used further. The original version is preserved in the private repository for comparison. The full run processed the 193 pages containing the original 1,200 uncertain items; it did not independently verify every word. Only selected, image-supported corrections were applied.
 
 Compare substantive differences against the scan: names, dates, relationships, amounts, negations, and statements about deaths matter more than wording choices in modernization. Retain both alternatives until the manuscript supports one. The most difficult passages are flagged in the text; in Folder 3, scan pages 62-67, 85-87, 100-104, 113-118 deserve particular attention. Some gaps may require a clearer photograph of the archival original.
 

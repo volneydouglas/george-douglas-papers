@@ -1,0 +1,2645 @@
+{
+  "best_clockwise_rotation" : 0,
+  "engine" : "Apple Vision",
+  "os" : "Version 27.0 (Build 26A428)",
+  "page_id" : "05-064",
+  "records" : [
+    {
+      "clockwise_rotation" : 0,
+      "file" : "05-064-original.png",
+      "lines" : [
+        {
+          "box" : [
+            0.091694645219037973,
+            0.8992238833107481,
+            0.61419816307485164,
+            0.048518005123293295
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "There in mistě sy ariscvn fanl"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.092727620255728144,
+            0.8856141423393088,
+            0.32955658620356032,
+            0.030279382328031068
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "As bending oer thi"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.44744464865531447,
+            0.88949149438424846,
+            0.24378376774743621,
+            0.022270557658512935
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "cion saili"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.093027942315066128,
+            0.85814994012894308,
+            0.58589164489809076,
+            0.030441516492606624
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Vain regretă my sand assaili"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.081135690069044461,
+            0.84598764779808922,
+            0.1493503503632127,
+            0.017547898110860882
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Tassed ~"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.22491283554052763,
+            0.83693452412038427,
+            0.74723861584107321,
+            0.034677065885640346
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "u resien a life that litltě puuitage bone."
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.10199516521821249,
+            0.80657680003275545,
+            0.4048197680336526,
+            0.036561492977106536
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "îll iti longing and"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.047599677313678299,
+            0.78972386478877543,
+            0.29806172121912083,
+            0.027035426676534025
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "• All ili fuită"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.36211031242750302,
+            0.79505813930535207,
+            0.12709831970025881,
+            0.017558975267380483
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Lo ashu"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.094467857410287792,
+            0.75322159493492091,
+            0.42337124315700786,
+            0.048584870738137331
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "All iti fenen frircely."
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.51506361618833796,
+            0.76643813095481816,
+            0.15019040260275573,
+            0.021522598218947642
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "виті"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.059750822866305307,
+            0.7301885187422259,
+            0.91162121972555477,
+            0.037668834545700247
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Ihrough any friengurd bnain, the stomnis hasssins tare."
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.10311752104822436,
+            0.68168604610178629,
+            0.65947239170133509,
+            0.029119700063101495
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "The years ti come all desălatid"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.095923263718922597,
+            0.66424418572914345,
+            0.69544364055243801,
+            0.023255814618426962
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Jo the thom and rockwaste fatid"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.10071942637325915,
+            0.63803872569035902,
+            0.62589927649719423,
+            0.023422860712055016
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Dule despair to vormun mated"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.052757781790315206,
+            0.6148255817146473,
+            0.911271007683501,
+            0.020402400810818233
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Spread Their pall efen the soul and hid hokes spee door"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.11210455677724988,
+            0.58393509554612377,
+            0.71123735331406424,
+            0.035402119271387367
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Clondo abone - Che darkness fallny"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.10551559845962317,
+            0.55808869397194227,
+            0.74100717204027988,
+            0.030605871330418477
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Nighli depnting flum in misk akhalliny"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.11990407920834641,
+            0.53185509105665574,
+            0.62589927649719423,
+            0.03216739537788893
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Intue gears to conflict callin"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.055061049290604458,
+            0.51436669419741299,
+            0.86828361330140602,
+            0.027024442445181984
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Conflit witk that Hate which life? disarters bone"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.0983213308030539,
+            0.46656976747369183,
+            0.64748203840541152,
+            0.018895348781797772
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "yestuda brmght dö soseale vesnon"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.097997476957367602,
+            0.43773767699413246,
+            0.60004865175922339,
+            0.02597501470028496
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Liday Hate bolds no in denonn"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.090703776342348275,
+            0.40754098704068908,
+            0.61707645254853583,
+            0.033155086262385391
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Zorurra in the Grelds elyeran"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.033285760488093077,
+            0.38613241841502988,
+            0.80405686637319407,
+            0.030182472100338309
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Méle dream again the dreams dreamed on kfeš"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.63788969566270481,
+            0.36914428465644433,
+            0.24940046658825943,
+            0.019050593379138059
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Junaise shore"
+            }
+          ]
+        }
+      ],
+      "orientation_score" : 587,
+      "revision" : 3,
+      "usesLanguageCorrection" : false
+    },
+    {
+      "clockwise_rotation" : 90,
+      "file" : "05-064-original.png",
+      "lines" : [
+        {
+          "box" : [
+            0.89953317119870335,
+            0.2381949478255504,
+            0.048680521710674052,
+            0.6725380093443627
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "There in mistř my arisivn failing"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.88189251846279149,
+            0.28450228200792971,
+            0.037236260742339988,
+            0.62763276311758254
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "As bending oer čhi sivn zaili,"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.86182290132474193,
+            0.31149840492937597,
+            0.024894530887830113,
+            0.59047476155347001
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "vam regretă my sanl assailin"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.84439656652545081,
+            0.75015226224796683,
+            0.022181997591074643,
+            0.17354956155467949
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Passed in"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.83695388700949636,
+            0.027742192955409917,
+            0.037108271811471583,
+            0.69456017398735803
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "resrien a life chat litite funitage bone."
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.78924417257124491,
+            0.48441246671799365,
+            0.055232584737078372,
+            0.47002399078463619
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "• ale de frep od lo"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.75350965248489465,
+            0.48425747221974902,
+            0.048008058013058297,
+            0.42109266031145187
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "All iti feren frincely"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.75440607888511801,
+            0.29257183273254184,
+            0.040341045467798486,
+            0.17421005138794832
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "bunang"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.73110462751069072,
+            0.033573150082761738,
+            0.031976791562920881,
+            0.90407673271816946
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Through any freengued bram, the stomis haserins tore."
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.67954017236179343,
+            0.23465273620631932,
+            0.035623116764256779,
+            0.66009912008594562
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Ihe years to come all desălalit"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.66201847467616748,
+            0.21075482725875283,
+            0.028171227173385271,
+            0.6912175386190661
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Io the thom and rockwaste fated"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.63711739235914044,
+            0.27076695087240854,
+            0.027464447879255172,
+            0.62630220930888802
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Dule despair to cormun mačed"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.61482555780047199,
+            0.03357316098832519,
+            0.020348892593145429,
+            0.90887287403653894
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Spread Their fall epen the sonl and hid hokes spee door"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.58532978633271815,
+            0.17431871478221383,
+            0.03361376846380193,
+            0.71362185010723045
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Clondo abone - Che dartness falciny"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.55813951538579742,
+            0.15347723462049034,
+            0.029069806396179398,
+            0.74100717204027988
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Nigkli depnting glum in mink akhalliny"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.53032636513873765,
+            0.25141504877982557,
+            0.035034336945475975,
+            0.63151690440773345
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Ăntui ysane to comflict calting"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.51598834935838933,
+            0.076738639115770946,
+            0.024709347707639995,
+            0.87050355452625139
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Conflit witk Chat Hate which life? disasters bone"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.46198890984939467,
+            0.24907545348749993,
+            0.030074236915678954,
+            0.65810952516286114
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "yesluda vranght cti roseate vision"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.43486037508996067,
+            0.29702256356675083,
+            0.031823132650171615,
+            0.60283957718572623
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Lvday Hate balds no in derisiin"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.41860463714025886,
+            0.38129496951398656,
+            0.017441888364831182,
+            0.52038369508473625
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Zomuorran in Dhe frelás el"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.40976681912599777,
+            0.29103613695267949,
+            0.029578750391143438,
+            0.11137098030901305
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "yeran"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.38613267498904424,
+            0.16016356284887989,
+            0.031616905493560554,
+            0.80415229285587597
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Hile dream again the dreamo dreamed on hje?"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.36918603932765376,
+            0.11270984023198238,
+            0.018895364269325698,
+            0.28057552688015985
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Junaise shore"
+            }
+          ]
+        }
+      ],
+      "orientation_score" : 568.40000021457672,
+      "revision" : 3,
+      "usesLanguageCorrection" : false
+    },
+    {
+      "clockwise_rotation" : 180,
+      "file" : "05-064-original.png",
+      "lines" : [
+        {
+          "box" : [
+            0.23187275906084584,
+            0.027602107954504018,
+            0.67655140155363136,
+            0.073423515477082146
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Thee in misto mny ariscvn Bali"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.28448526421752557,
+            0.082490463838712391,
+            0.62533761448658409,
+            0.035860903928757959
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "As bending oer thi sion zaili,"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.60191846717106712,
+            0.11337207775238722,
+            0.29256594316386086,
+            0.018895379756853625
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "sam regrett m"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.032539529305055229,
+            0.11082617573216935,
+            0.88158178181840174,
+            0.051775268135332952
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Passed în vaien saul arvailiteti funitoje bore."
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.4640146306061243,
+            0.15445041955875061,
+            0.43459305108762253,
+            0.044710067567938494
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "All iti lognng and ty"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.50813535618086747,
+            0.18201611581602961,
+            0.43715646466234515,
+            0.027510495873855678
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "• All ili frită Lo asker"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.25419663594109659,
+            0.29069764199811265,
+            0.62110313517882476,
+            0.02906983260584195
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "the years to come all desóbatid"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.22781774452630449,
+            0.31540694199175057,
+            0.65227817972378088,
+            0.014534953234718428
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "o the Chom ond rockraste falid"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.27098323333478791,
+            0.33866275874792939,
+            0.6187050015318627,
+            0.018895413114606185
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Sule despair to cormun mated"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.031175053047765206,
+            0.36337204448585991,
+            0.91366907834268574,
+            0.020348934290336129
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Spread Their pall epen the sond and hid hokes spere door"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.17440211102266495,
+            0.38128531397719689,
+            0.70867113678324944,
+            0.031870458961501091
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Clondo abone - Che darkness falciiy"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.15066085400329798,
+            0.40941029589498723,
+            0.74188660738760959,
+            0.036362225677280535
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Vighli dupnting flum în mink akhalliny"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.2563729250306393,
+            0.43465406039989174,
+            0.61913716067224578,
+            0.031984075466444328
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Intne years to conflict callin"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.079136690083560196,
+            0.46075576779903704,
+            0.86091127188951244,
+            0.020348928333594585
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Čonflit with Chat Hate whick life? disasters bone"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.24411834264960994,
+            0.49976521874535151,
+            0.66370939052018829,
+            0.041216505385427982
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Yestuda branght iti roseate vision"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.292145683938343,
+            0.52773690332267753,
+            0.60530271421891113,
+            0.037408678625465264
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Liday Fate barlds no in derisin"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.28491899843747237,
+            0.55583312445413691,
+            0.62208265810436014,
+            0.036738524952208862
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Zonvvan in the bields elysian"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.15779866511860582,
+            0.58128890345839945,
+            0.8041553792569659,
+            0.030970602613326514
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Hile dream again the dreaus dreamad on hfeš"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.1127098382285851,
+            0.61046510208932647,
+            0.28057552688015996,
+            0.01889537737415703
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Junrise shore"
+            }
+          ]
+        }
+      ],
+      "orientation_score" : 505.5,
+      "revision" : 3,
+      "usesLanguageCorrection" : false
+    },
+    {
+      "clockwise_rotation" : 270,
+      "file" : "05-064-original.png",
+      "lines" : [
+        {
+          "box" : [
+            0.082483016459353117,
+            0.09021471528501912,
+            0.031868880424999885,
+            0.33246107859262131
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "As bending oer thi"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.05296118094268977,
+            0.090908647118980279,
+            0.066147427198516073,
+            0.67314798298019862
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "Thane in mite vy ne n aty,"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.11086585466549527,
+            0.098233780401844495,
+            0.025687501848972574,
+            0.57339008280121262
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "vam regretă my sanl assaili"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.1206129515504485,
+            0.083416058092542711,
+            0.042435750300105393,
+            0.89118855164393063
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "assed în vearien a life that littti funitage bone."
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.15304094281981218,
+            0.044616275119220949,
+            0.070319171550495801,
+            0.67370441700528894
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "• All de fanlo to atnt Vaný."
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.20724949351714164,
+            0.059637955494764916,
+            0.064649356744350434,
+            0.91455859173439114
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "shny etn g fnng e hnd the thánt, phacenin, bare"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.28779068072204678,
+            0.10311752588622847,
+            0.030523289448763702,
+            0.6594723917013352
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "The years to coma all desólated"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.31356922841807094,
+            0.10294558072588667,
+            0.026896203331169988,
+            0.68613776333929943
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Io the thom and rockwaste faled"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.33426781014820178,
+            0.10767869730666368,
+            0.024615295524525682,
+            0.61911165062241991
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "sule despair to cormun matid"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.36203081088508221,
+            0.057479803102782001,
+            0.023363383839385077,
+            0.90902694213993163
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "spread their pall epen the soul and hid hokes opere door"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.37989335929470175,
+            0.11205876601880504,
+            0.034811569109028551,
+            0.71372710268317852
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Clondo abone - Che darkness falciy"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.41279067817649501,
+            0.10791368545981883,
+            0.029069806396179398,
+            0.74100717204027999
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Nighli depnting glum in mink akhalling"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.43338143269303403,
+            0.11949501993364486,
+            0.036260352292558251,
+            0.62915820110939102
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Intue years to coflict calling"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.4593023019345473,
+            0.05755397889551761,
+            0.02616283790831414,
+            0.86810548386706665
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Conflit witk Chat Hate which life? disarters bore"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.49958702357939883,
+            0.087367069111364826,
+            0.042898069687890394,
+            0.67090505121662147
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "yestuda brunght iti roseate vision"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.52921779216323828,
+            0.09780522558635707,
+            0.037437664129672976,
+            0.61014307295697878
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Jiday Fate barlds no in derisin"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.56104648904360876,
+            0.093525203262845413,
+            0.031976783223482852,
+            0.61870500153186281
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Zoruornm in the bields elyrian"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.58078485541888325,
+            0.035648240287981969,
+            0.031671105884597317,
+            0.80409925714734909
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Hile drzam again the dreaus dreamad on hješ"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.60918604273740162,
+            0.64700283136999093,
+            0.023415312329208349,
+            0.24067450209421759
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Junsise shome"
+            }
+          ]
+        }
+      ],
+      "orientation_score" : 481.50000089406967,
+      "revision" : 3,
+      "usesLanguageCorrection" : false
+    },
+    {
+      "clockwise_rotation" : 0,
+      "file" : "05-064-original.png",
+      "lines" : [
+        {
+          "box" : [
+            0.091694645219037973,
+            0.8992238833107481,
+            0.61419816307485164,
+            0.048518005123293295
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "There in mist my arision fal"
+            },
+            {
+              "confidence" : 1,
+              "text" : "There in mist my arision pand"
+            },
+            {
+              "confidence" : 1,
+              "text" : "There in mist my arision pal"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.092727620255728144,
+            0.8856141423393088,
+            0.32955658620356032,
+            0.030279382328031068
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "As bending oer thi"
+            },
+            {
+              "confidence" : 1,
+              "text" : "As bending der thi"
+            },
+            {
+              "confidence" : 1,
+              "text" : "As bending aer thi"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.44744464865531447,
+            0.88949149438424846,
+            0.24378376774743621,
+            0.022270557658512935
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "cion saili"
+            },
+            {
+              "confidence" : 1,
+              "text" : "sion saili"
+            },
+            {
+              "confidence" : 1,
+              "text" : "cion raili"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.093027942315066128,
+            0.85814994012894308,
+            0.58589164489809076,
+            0.030441516492606624
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Vain regreto my sand assaili"
+            },
+            {
+              "confidence" : 1,
+              "text" : "vain regreto my sand assaili"
+            },
+            {
+              "confidence" : 1,
+              "text" : "Vain regreto my vand assaili"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.081135690069044461,
+            0.84598764779808922,
+            0.1493503503632127,
+            0.017547898110860882
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Passed ~"
+            },
+            {
+              "confidence" : 1,
+              "text" : "Passed n"
+            },
+            {
+              "confidence" : 1,
+              "text" : "Tassed ~"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.22491283554052763,
+            0.83693452412038427,
+            0.74723861584107321,
+            0.034677065885640346
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "a resien a life that litte punitage bone."
+            },
+            {
+              "confidence" : 1,
+              "text" : "a resien a life that litte puntage bone."
+            },
+            {
+              "confidence" : 1,
+              "text" : "u resien a life that litte punitage bone."
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.10199516521821249,
+            0.80657680003275545,
+            0.4048197680336526,
+            0.036561492977106536
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "ill iti longing and"
+            },
+            {
+              "confidence" : 1,
+              "text" : "ill iti longing and b"
+            },
+            {
+              "confidence" : 1,
+              "text" : "ill iti longing and t"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.047599677313678299,
+            0.78972386478877543,
+            0.29806172121912083,
+            0.027035426676534025
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "• All ili frită"
+            },
+            {
+              "confidence" : 1,
+              "text" : "• All ili grită"
+            },
+            {
+              "confidence" : 1,
+              "text" : "• All ili guită"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.36211031242750302,
+            0.79505813930535207,
+            0.12709831970025881,
+            0.017558975267380483
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Lo ashu"
+            },
+            {
+              "confidence" : 1,
+              "text" : "Lo ashes"
+            },
+            {
+              "confidence" : 1,
+              "text" : "Lo ashur"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.094467857410287792,
+            0.75322159493492091,
+            0.42337124315700786,
+            0.048584870738137331
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "All its fever frencely."
+            },
+            {
+              "confidence" : 1,
+              "text" : "All it fever frencely."
+            },
+            {
+              "confidence" : 1,
+              "text" : "All it funer frencely."
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.51506361618833796,
+            0.76643813095481816,
+            0.15019040260275573,
+            0.021522598218947642
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "виті"
+            },
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "вині"
+            },
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "виті"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.059750822866305307,
+            0.7301885187422259,
+            0.91162121972555477,
+            0.037668834545700247
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Through any fringed bonair, the storis passins tore."
+            },
+            {
+              "confidence" : 1,
+              "text" : "Through any fringed bonair, the storis passins tore"
+            },
+            {
+              "confidence" : 1,
+              "text" : "Through any fringed bonair, the storis passins tare."
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.10311752104822436,
+            0.68168604610178629,
+            0.65947239170133509,
+            0.029119700063101495
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "The years to come all desolated"
+            },
+            {
+              "confidence" : 1,
+              "text" : "the years to come all desolated"
+            },
+            {
+              "confidence" : 1,
+              "text" : "The years to come all desolatid"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.095923263718922597,
+            0.66424418572914345,
+            0.69544364055243801,
+            0.023255814618426962
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Jo the thor and rockwaste fated."
+            },
+            {
+              "confidence" : 1,
+              "text" : "Do the thor and rockwaste fated."
+            },
+            {
+              "confidence" : 1,
+              "text" : "Jo the thor and rockwaste fated"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.10071942637325915,
+            0.63803872569035902,
+            0.62589927649719423,
+            0.023422860712055016
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Dule despair to sormen mated"
+            },
+            {
+              "confidence" : 1,
+              "text" : "Dule despair to vormen mated"
+            },
+            {
+              "confidence" : 1,
+              "text" : "Dule despair to sormun mated"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.052757781790315206,
+            0.6148255817146473,
+            0.911271007683501,
+            0.020402400810818233
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Spread Their fall epen the soul and hid hopes spee door"
+            },
+            {
+              "confidence" : 1,
+              "text" : "Spread their fall epen the soul and hid hopes spee door"
+            },
+            {
+              "confidence" : 1,
+              "text" : "Spread Their pall epen the soul and hid hopes spee door"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.11210455677724988,
+            0.58393509554612377,
+            0.71123735331406424,
+            0.035402119271387367
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Clando above - Che darkness falliny"
+            },
+            {
+              "confidence" : 1,
+              "text" : "clando above - Che darkness falliny"
+            },
+            {
+              "confidence" : 1,
+              "text" : "Clando above - Che darkness fallin"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.10551559845962317,
+            0.55808869397194227,
+            0.74100717204027988,
+            0.030605871330418477
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Nighli deepsting flum in mink akhalling"
+            },
+            {
+              "confidence" : 1,
+              "text" : "Nighli defining flum in mink akhalling"
+            },
+            {
+              "confidence" : 1,
+              "text" : "Nighli deprting flum in mink akhalling"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.11990407920834641,
+            0.53185509105665574,
+            0.62589927649719423,
+            0.03216739537788893
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Antin years to conflict callin"
+            },
+            {
+              "confidence" : 1,
+              "text" : "Antin years to conflict calling"
+            },
+            {
+              "confidence" : 1,
+              "text" : "Inte years to conflict callin"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.055061049290604458,
+            0.51436669419741299,
+            0.86828361330140602,
+            0.027024442445181984
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Conflit with that Hate which life? disasters bone"
+            },
+            {
+              "confidence" : 1,
+              "text" : "Confl it with that Hate which life? disasters bone"
+            },
+            {
+              "confidence" : 1,
+              "text" : "Conflit with that Hate which life? disasters bore"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.0983213308030539,
+            0.46656976747369183,
+            0.64748203840541152,
+            0.018895348781797772
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "yesterda braght i roseale vessen"
+            },
+            {
+              "confidence" : 1,
+              "text" : "yesterda braght i roseale vesson"
+            },
+            {
+              "confidence" : 1,
+              "text" : "yesterda braght i roseate vessen"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.097997476957367602,
+            0.43773767699413246,
+            0.60004865175922339,
+            0.02597501470028496
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Liday Hate bolds no in denoun"
+            },
+            {
+              "confidence" : 1,
+              "text" : "Liday Hate bolds no in derann"
+            },
+            {
+              "confidence" : 1,
+              "text" : "Liday Hate bolds no in devonn"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.090703776342348275,
+            0.40754098704068908,
+            0.61707645254853583,
+            0.033155086262385391
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "Lorra in the fields elyeran"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "Lorra in the fields elgeran"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "Lorra in the fields elgaran"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.033285760488093077,
+            0.38613241841502988,
+            0.80405686637319407,
+            0.030182472100338309
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Mile dream again the dreams dreamed on kjes"
+            },
+            {
+              "confidence" : 1,
+              "text" : "Vile dream again the dreams dreamed on kjes"
+            },
+            {
+              "confidence" : 1,
+              "text" : "Mile dream again the dreams dreamed on hfes"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.63788969566270481,
+            0.36914428465644433,
+            0.24940046658825943,
+            0.019050593379138059
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Sunrise shore"
+            },
+            {
+              "confidence" : 1,
+              "text" : "Sunrise shone"
+            },
+            {
+              "confidence" : 1,
+              "text" : "Junrise shore"
+            }
+          ]
+        }
+      ],
+      "orientation_score" : 568.70000004768372,
+      "revision" : 3,
+      "usesLanguageCorrection" : true
+    },
+    {
+      "clockwise_rotation" : 0,
+      "file" : "05-064-contrast.png",
+      "lines" : [
+        {
+          "box" : [
+            0.084811250176996575,
+            0.87577871995401035,
+            0.56622660885900422,
+            0.07261830698617322
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "de bentiy dent me asinn f"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.45233422756177727,
+            0.88971831060571538,
+            0.21020961324496906,
+            0.020859648628878125
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "con sail"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.093069380712578087,
+            0.85822007441060955,
+            0.58344091645704332,
+            0.029995000340058531
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Vam regreto my vand asvaili"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.078656290876463447,
+            0.84467123253346332,
+            0.16390830592105263,
+            0.020400045515223675
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Passed in"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.23683674624435844,
+            0.83512999602624127,
+            0.73800889085074817,
+            0.046234736064312831
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "- searien a life that littti furitage bone."
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.099043727986726587,
+            0.8031542368591329,
+            0.40825546784297606,
+            0.043210507928394315
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "îll iti longiing and"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.047453824522089093,
+            0.78800636772691557,
+            0.29826280969830371,
+            0.029168235592958336
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "• Gll ili fnită"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.35937953042654386,
+            0.79565062561896371,
+            0.13016180898628982,
+            0.017710376575095887
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Lo ashu"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.094467838302665738,
+            0.75322159483041418,
+            0.42338242348748706,
+            0.048683714524125565
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "All iti fenen frincely."
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.51088011578447545,
+            0.76912477435771454,
+            0.15367644539312442,
+            0.016938749810146758
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "вина"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.059748097758892713,
+            0.73016116058545344,
+            0.91162575484552377,
+            0.037727315451189014
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Ihrough any friengued bnain, the stomnis hasesins tare."
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.10311752104822436,
+            0.6801998745576987,
+            0.65947239170133509,
+            0.030605871330418477
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Ihe years to come all desölalid"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.09832133981663968,
+            0.6656976750144018,
+            0.69304556989325328,
+            0.021802324417752872
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Jo the thom and sockwaste. fatid"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.10071942637377906,
+            0.63803872569033926,
+            0.62589927649719435,
+            0.023422860712055016
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Dule despair to vormun matiă"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.052691539374778003,
+            0.61459893418609035,
+            0.91141638347361964,
+            0.021908892906136512
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Spread Their pall epen the soud and hid hokes spee door"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.11210476297320691,
+            0.58393656182018483,
+            0.71120311945707559,
+            0.034694494119962282
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "clondo abone - Che darteneso faleny"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.10791366911702945,
+            0.55808869397210292,
+            0.73621103072191052,
+            0.030605871330418477
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "tighli dupsting glum in mink akhalliny"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.11966976040290943,
+            0.53044014310120313,
+            0.6263668347684469,
+            0.034921255355920722
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Intni ysars te coflict caltim"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.055061401718290146,
+            0.51436728184557645,
+            0.86828298342363264,
+            0.027021430716672512
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Conflit wick that Hate which life? disarters bone"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.098321330802553161,
+            0.46656976747371004,
+            0.64748203840541163,
+            0.018895348781797661
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "yesturda brmytł dö soseale vesvon"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.1005537031922715,
+            0.43760127463195797,
+            0.59739226822513547,
+            0.024652264253710476
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Jiday Aate aoldo no in derisnm"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.090699212090129933,
+            0.40750936469416099,
+            0.61951615812854754,
+            0.034722368096203327
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Zonnnon in Dhe bields elyeian"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.033286706025859404,
+            0.38613886472578285,
+            0.80408665959187953,
+            0.030154991269037201
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Néle dream again the drenns dreamed on kfeš"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.63769691834936026,
+            0.3678758273828957,
+            0.24979661246694407,
+            0.019663864936328324
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Sunnise shore"
+            }
+          ]
+        }
+      ],
+      "orientation_score" : 555.00000023841858,
+      "revision" : 3,
+      "usesLanguageCorrection" : false
+    },
+    {
+      "clockwise_rotation" : 0,
+      "file" : "05-064-contrast.png",
+      "lines" : [
+        {
+          "box" : [
+            0.45233422756177727,
+            0.88971831060571538,
+            0.21020961324496906,
+            0.020859648628878125
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "con sail"
+            },
+            {
+              "confidence" : 1,
+              "text" : "won sail"
+            },
+            {
+              "confidence" : 1,
+              "text" : "non sail"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.093069380712578087,
+            0.85822007441060955,
+            0.58344091645704332,
+            0.029995000340058531
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Van regreto my sand assaili"
+            },
+            {
+              "confidence" : 1,
+              "text" : "Van regreto my vand assaili"
+            },
+            {
+              "confidence" : 1,
+              "text" : "van regreto my sand assaili"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.078656290876463447,
+            0.84467123253346332,
+            0.16390830592105263,
+            0.020400045515223675
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Passed in"
+            },
+            {
+              "confidence" : 1,
+              "text" : "Passed i"
+            },
+            {
+              "confidence" : 1,
+              "text" : "Passed n"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.23683674624435844,
+            0.83512999602624127,
+            0.73800889085074817,
+            0.046234736064312831
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "- seaven a life that little furitage bone."
+            },
+            {
+              "confidence" : 1,
+              "text" : "- seaven a life that little juritage bone."
+            },
+            {
+              "confidence" : 1,
+              "text" : "- seaven a life that little funitage bone."
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.099043727986726587,
+            0.8031542368591329,
+            0.40825546784297606,
+            0.043210507928394315
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "ill its longing and"
+            },
+            {
+              "confidence" : 1,
+              "text" : "ill its longing and t"
+            },
+            {
+              "confidence" : 1,
+              "text" : "All its longing and"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.047453824522089093,
+            0.78800636772691557,
+            0.29826280969830371,
+            0.029168235592958336
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "• All ili frită"
+            },
+            {
+              "confidence" : 1,
+              "text" : "• all ili frită"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "• All li frită"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.35937953042654386,
+            0.79565062561896371,
+            0.13016180898628982,
+            0.017710376575095887
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Lo ashu"
+            },
+            {
+              "confidence" : 1,
+              "text" : "Lo ashe"
+            },
+            {
+              "confidence" : 1,
+              "text" : "Lo ashur"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.094467838302665738,
+            0.75322159483041418,
+            0.42338242348748706,
+            0.048683714524125565
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "All iti fever frencely."
+            },
+            {
+              "confidence" : 1,
+              "text" : "All iti fever frincely."
+            },
+            {
+              "confidence" : 1,
+              "text" : "All it fever frencely."
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.51088011578447545,
+            0.76912477435771454,
+            0.15367644539312442,
+            0.016938749810146758
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "вина"
+            },
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "вина"
+            },
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "вита"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.059748097758892713,
+            0.73016116058545344,
+            0.91162575484552377,
+            0.037727315451189014
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Through any fringed bonair, the storis hassius tore."
+            },
+            {
+              "confidence" : 1,
+              "text" : "Through any fringed bonair, the storis hassins tore."
+            },
+            {
+              "confidence" : 1,
+              "text" : "Through any fringed bonair, the storis passins tore."
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.10311752104822436,
+            0.6801998745576987,
+            0.65947239170133509,
+            0.030605871330418477
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "The years to come all desolatid"
+            },
+            {
+              "confidence" : 1,
+              "text" : "The years to come all desolalid"
+            },
+            {
+              "confidence" : 1,
+              "text" : "The years to come all desollid"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.09832133981663968,
+            0.6656976750144018,
+            0.69304556989325328,
+            0.021802324417752872
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Jo the thor and rockwaste fated"
+            },
+            {
+              "confidence" : 1,
+              "text" : "Jo the thom and rockwaste fated"
+            },
+            {
+              "confidence" : 1,
+              "text" : "Jo the thor and sockwaste fated"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.10071942637377906,
+            0.63803872569033926,
+            0.62589927649719435,
+            0.023422860712055016
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Dule despair to somen mated"
+            },
+            {
+              "confidence" : 1,
+              "text" : "Dule despair to soren mated"
+            },
+            {
+              "confidence" : 1,
+              "text" : "Dule despair to sorun mated"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.052691539374778003,
+            0.61459893418609035,
+            0.91141638347361964,
+            0.021908892906136512
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Spread Their pall epen the soul and hid hokes spee door"
+            },
+            {
+              "confidence" : 1,
+              "text" : "Spread their pall epen the soul and hid hokes spee door"
+            },
+            {
+              "confidence" : 1,
+              "text" : "Spread Their fall epen the soul and hid hokes spee door"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.11210476297320691,
+            0.58393656182018483,
+            0.71120311945707559,
+            0.034694494119962282
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "clouds above - the dartness paleny"
+            },
+            {
+              "confidence" : 1,
+              "text" : "Clouds above - the dartness paleny"
+            },
+            {
+              "confidence" : 1,
+              "text" : "clouds above - the dartness palemy"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.10791366911702945,
+            0.55808869397210292,
+            0.73621103072191052,
+            0.030605871330418477
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "tighli depring glum in mink akhalling"
+            },
+            {
+              "confidence" : 1,
+              "text" : "sighli depring glum in mink akhalling"
+            },
+            {
+              "confidence" : 1,
+              "text" : "tighli depring slum in mink akhalling"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.11966976040290943,
+            0.53044014310120313,
+            0.6263668347684469,
+            0.034921255355920722
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Intui years to caflict callin"
+            },
+            {
+              "confidence" : 1,
+              "text" : "Intui years to coflict callin"
+            },
+            {
+              "confidence" : 1,
+              "text" : "Intui years to coplict callin"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.055061401718290146,
+            0.51436728184557645,
+            0.86828298342363264,
+            0.027021430716672512
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Conflit wick that Hate which life? disasters bone"
+            },
+            {
+              "confidence" : 1,
+              "text" : "Conflit wick that Hate which life? disasters bore"
+            },
+            {
+              "confidence" : 1,
+              "text" : "Conflit wick Chat Hate which life? disasters bone"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.1005537031922715,
+            0.43760127463195797,
+            0.59739226822513547,
+            0.024652264253710476
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Liday Hate aaldo no in derisin"
+            },
+            {
+              "confidence" : 1,
+              "text" : "Jiday Hate aaldo no in derisin"
+            },
+            {
+              "confidence" : 1,
+              "text" : "Liday Hate aaldo no in denian"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.090699212090129933,
+            0.40750936469416099,
+            0.61951615812854754,
+            0.034722368096203327
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Lorra in the bields elysian"
+            },
+            {
+              "confidence" : 1,
+              "text" : "Lonna in the bields elysian"
+            },
+            {
+              "confidence" : 1,
+              "text" : "Jonna in the bields elysian"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.033286706025859404,
+            0.38613886472578285,
+            0.80408665959187953,
+            0.030154991269037201
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Mile dream again the dranno dreamed on kjes"
+            },
+            {
+              "confidence" : 1,
+              "text" : "Mile dream again the dranns dreamed on kjes"
+            },
+            {
+              "confidence" : 1,
+              "text" : "Vile dream again the dranno dreamed on kjes"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.63769691834936026,
+            0.3678758273828957,
+            0.24979661246694407,
+            0.019663864936328324
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Sunrise shore"
+            },
+            {
+              "confidence" : 1,
+              "text" : "sunrise shore"
+            },
+            {
+              "confidence" : 1,
+              "text" : "Sunrise share"
+            }
+          ]
+        }
+      ],
+      "orientation_score" : 509.20000004768372,
+      "revision" : 3,
+      "usesLanguageCorrection" : true
+    }
+  ]
+}

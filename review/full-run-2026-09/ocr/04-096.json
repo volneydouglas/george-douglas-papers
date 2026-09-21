@@ -1,0 +1,1773 @@
+{
+  "best_clockwise_rotation" : 270,
+  "engine" : "Apple Vision",
+  "os" : "Version 27.0 (Build 26A428)",
+  "page_id" : "04-096",
+  "records" : [
+    {
+      "clockwise_rotation" : 0,
+      "file" : "04-096-original.png",
+      "lines" : [
+        {
+          "box" : [
+            0.15053762548239299,
+            0.90000000004595582,
+            0.74193550123318996,
+            0.062508521310797205
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "de onktel of sicigat ada lea Man i"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.14644427429913831,
+            0.87699709296046335,
+            0.72963777841504074,
+            0.029074132564365307
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Can hear of a death oc casionally. My oon"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.13893027031063482,
+            0.85845220223215146,
+            0.34995459501074738,
+            0.025411197581743039
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "health is excellent"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.48453166891418054,
+            0.84867867868695224,
+            0.4368101520302855,
+            0.031211193841415463
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Chough. My fraper Ls aboet"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.14097744620441444,
+            0.83708248136946173,
+            0.39097743227788806,
+            0.024880708929788664
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "full a p must close"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.27722368054796998,
+            0.35973294866565453,
+            0.10557051562758352,
+            0.32463703012498935
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "Atany Douglatoteras,"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.36237418827423362,
+            0.37855716814180396,
+            0.097689404899691357,
+            0.3008474858341853
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "ier. Many Dougles."
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.45554274971785402,
+            0.40396261307186809,
+            0.074949294801742394,
+            0.27967219752524286
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Mrs Many Doage"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.52450948423276977,
+            0.51380121321375727,
+            0.061775732292700059,
+            0.16674823409940565
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "1! Vied Wa"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.62315382146800458,
+            0.43016800538715239,
+            0.12322607830928956,
+            0.26892406044968475
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Mr Henny Dou;"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.14976120193393949,
+            0.26152282125108495,
+            0.74326643363508593,
+            0.072905825853510242
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "i mewe think it pickele her I ivll heat"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.15526846139806233,
+            0.23106113523875316,
+            0.30387221778721618,
+            0.039428762944279327
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "thy kove to ale,"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.32240855173722616,
+            0.1694066173876736,
+            0.57975556442556764,
+            0.10217193624318333
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "youns affeetionatey Woenng Douglas"
+            }
+          ]
+        }
+      ],
+      "orientation_score" : 186.60000085830688,
+      "revision" : 3,
+      "usesLanguageCorrection" : false
+    },
+    {
+      "clockwise_rotation" : 90,
+      "file" : "04-096-original.png",
+      "lines" : [
+        {
+          "box" : [
+            0.9285352128646287,
+            0.12205456171175799,
+            0.032072911070737176,
+            0.71840316530257942
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "I suppose I might add, that there is"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.90261625585405836,
+            0.16917293233568576,
+            0.02761632793195079,
+            0.68045113915068345
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "a good deal of sicknep in the countig,"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.88155396540435771,
+            0.4790751892583015,
+            0.028067549150983084,
+            0.37648298206362985
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "can hear of a death"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.85822218959051422,
+            0.53161281168440366,
+            0.028554681051159325,
+            0.35037570529513895
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "\"health is excellent"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.87014377808961785,
+            0.12344582420984018,
+            0.038922058292693129,
+            0.34871491931733634
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "oc casionally. My owon"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.83720928918463833,
+            0.46804512170566748,
+            0.024709328389444063,
+            0.39097743227788806
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "full a & must close"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.84411772020348164,
+            0.072951161124310437,
+            0.038669783807402158,
+            0.42952745763923328
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "though. My fraper is aloat"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.16451349727815226,
+            0.096953939273214051,
+            0.12652587890625003,
+            0.75213386226162926
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "my love typuel fpecthonatel, sbenry Dougłąśł"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.25843023246173136,
+            0.76494491747247606,
+            0.03883378978643437,
+            0.094037629519400423
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "howne"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.26109685901445984,
+            0.12522406549771714,
+            0.047276606751528394,
+            0.6325814383370536
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "about christmas a canly in fary"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.28904203641477216,
+            0.091640263835364721,
+            0.043369412828483112,
+            0.75671941094507844
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "I now think it probable that I wvile heat"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.36274316991313821,
+            0.61899144418394414,
+            0.30389986772803762,
+            0.099903382531759677
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Many Donglatteras,"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.36772155859101269,
+            0.59329556213018253,
+            0.15413858716635781,
+            0.039331251141045298
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Redi Oak, *"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.5133460224650066,
+            0.53312971793299935,
+            0.21818951253754482,
+            0.083213839791649424
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "heop wg e"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.49467968620814168,
+            0.45254359146012646,
+            0.11186375322192393,
+            0.095373876931595825
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Mang"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.59074704356481145,
+            0.4555228514236167,
+            0.097356285298041301,
+            0.08796124735837263
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Doisge"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.50752298902934911,
+            0.41342725377850231,
+            0.24771134806231898,
+            0.062439435794029663
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "ed ÜakeFir"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.43307518764116809,
+            0.25581202996772523,
+            0.32173251390619678,
+            0.10538517314500495
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Mr Henny Douzlus"
+            }
+          ]
+        }
+      ],
+      "orientation_score" : 270.20000064373016,
+      "revision" : 3,
+      "usesLanguageCorrection" : false
+    },
+    {
+      "clockwise_rotation" : 180,
+      "file" : "04-096-original.png",
+      "lines" : [
+        {
+          "box" : [
+            0.13139613311750559,
+            0.037820759116163449,
+            0.70905757412918868,
+            0.032737253471223693
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "I suppose I might add, that there is"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.10902256338722004,
+            0.059592973733755494,
+            0.73872179034735996,
+            0.036337308357098363
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "a. good deal of sicknep in the country, i f"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.12586019691459702,
+            0.094200626896818629,
+            0.72389148530505953,
+            0.034154250984217871
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "can hear of a death oe casionally. Thy owon"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.076750838394943219,
+            0.11377423531456266,
+            0.78085332530726415,
+            0.038323709894867997
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "health is excellent though. My fraper Is aloet"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.46616542172356945,
+            0.13808136949170602,
+            0.39097743227788795,
+            0.024709354392833838
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "full a f must clase"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.62593984682341008,
+            0.26744185951001664,
+            0.033834591954683746,
+            0.050872095442175858
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Hrs"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.61794771650338054,
+            0.32173215735591754,
+            0.098963264855547961,
+            0.30924217052498726
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "Many Douglaitenas,"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.53050035668006512,
+            0.32090941585171051,
+            0.096509038666148239,
+            0.28751338446473462
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Aln. Many Dorigles,"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.5903325639187037,
+            0.47615112689400718,
+            0.042053162105499697,
+            0.15382150183263565
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Red Oak, *"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.4752492916008132,
+            0.31962039531398367,
+            0.056435092206144288,
+            0.17038051238576823
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "Bio8 KNDN"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.091577390163227287,
+            0.66625401794610961,
+            0.75677307236552027,
+            0.050612493201673825
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "I now think it frobable that t wvile heat"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.37566621658847138,
+            0.70161092814102743,
+            0.47803498660025351,
+            0.036835827141614153
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "horne about Christinas a"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.13674172718536418,
+            0.69165553900935706,
+            0.24613252939160327,
+            0.046570107655697468
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "•eanly in fary"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.54067379385636494,
+            0.7258410389591371,
+            0.30617613346698636,
+            0.044926160358618739
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Thy love to ale,"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.36090225129709058,
+            0.74563951427446629,
+            0.31390978293444111,
+            0.039244227289097156
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "yours affectionatel,"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.097744355458834628,
+            0.77180231097032026,
+            0.25187971057925485,
+            0.045058169166653395
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Hbenny Dougles"
+            }
+          ]
+        }
+      ],
+      "orientation_score" : 289.1000000834465,
+      "revision" : 3,
+      "usesLanguageCorrection" : false
+    },
+    {
+      "clockwise_rotation" : 270,
+      "file" : "04-096-original.png",
+      "lines" : [
+        {
+          "box" : [
+            0.033262573973437203,
+            0.15380712542101749,
+            0.042147542151286639,
+            0.71863503430886244
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "I suppose I might add, that these is"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.066860439707751421,
+            0.14849623440856552,
+            0.031976794741473885,
+            0.7443609220851245
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "a good deal of sicknep in the country, i t"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.082378456646036546,
+            0.14612472744596594,
+            0.045760588330643948,
+            0.73040776866663915
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "can hear of a death oc casionally. My own"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.11275294821298742,
+            0.11781658315829724,
+            0.041527354806641298,
+            0.80922084048101306
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "\" Lealth is excellent though. My fraper is about"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.1395348691891973,
+            0.14285714397503624,
+            0.023255841619885531,
+            0.38909774861007773
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "pull a & must close"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.23686071126606006,
+            0.52801235205612196,
+            0.25295843684762698,
+            0.064908160524183245
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "1 Vied Waherx"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.31977836042097585,
+            0.46602525042631082,
+            0.26450602213541663,
+            0.060246260708601951
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Mrs Marg Doag"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.317957938130216,
+            0.36781662957017836,
+            0.29360138126677526,
+            0.10208744809320569
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Mm. Maný Doriglas,"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.47030567194907552,
+            0.36356617507237143,
+            0.16093133823678213,
+            0.046539266273458169
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Red Oak, *"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.26643734377098965,
+            0.33010801645538079,
+            0.075590465210210567,
+            0.052002306337709747
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Mlos"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.33092352603544045,
+            0.28701681110285016,
+            0.30444932975326983,
+            0.09020081104635147
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "kasy Douglatčeras,"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.66873636278061543,
+            0.15359610444127392,
+            0.040912967518063392,
+            0.74901084294394837
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "I now think it frokable that I cvile heat"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.70349675415952195,
+            0.14841565120931732,
+            0.030556509099855078,
+            0.70882914978780875
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "home about christnas a eanly in fare"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.72678101994927902,
+            0.31684567835284627,
+            0.10373425629972677,
+            0.58715443552276225
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "yrurs affeetionately Wbewmg Dougles"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.73034567456466781,
+            0.15354538682214836,
+            0.038228646702886726,
+            0.30935491329778442
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "My love to all,"
+            }
+          ]
+        }
+      ],
+      "orientation_score" : 311,
+      "revision" : 3,
+      "usesLanguageCorrection" : false
+    },
+    {
+      "clockwise_rotation" : 270,
+      "file" : "04-096-original.png",
+      "lines" : [
+        {
+          "box" : [
+            0.033262573973437203,
+            0.15380712542101749,
+            0.042147542151286639,
+            0.71863503430886244
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "I suppose I might add, that these is"
+            },
+            {
+              "confidence" : 1,
+              "text" : "I suppose I might add, that there is"
+            },
+            {
+              "confidence" : 1,
+              "text" : "I suppose I might add that these is"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.066860439707751421,
+            0.14849623440856552,
+            0.031976794741473885,
+            0.7443609220851245
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "a good deal of sicknep in the country, i t"
+            },
+            {
+              "confidence" : 1,
+              "text" : "a good deal of sicknep in the country, I t"
+            },
+            {
+              "confidence" : 1,
+              "text" : "a good deal of sicknep in the country, i D"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.082378456646036546,
+            0.14612472744596594,
+            0.045760588330643948,
+            0.73040776866663915
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "can hear of a death occasionally. My own"
+            },
+            {
+              "confidence" : 1,
+              "text" : "Can hear of a death occasionally. My own"
+            },
+            {
+              "confidence" : 1,
+              "text" : "can heas of a death occasionally. My own"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.11275294821298742,
+            0.11781658315829724,
+            0.041527354806641298,
+            0.80922084048101306
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "\" health is excellent though. My fraper is about"
+            },
+            {
+              "confidence" : 1,
+              "text" : "' health is excellent though. My fraper is about"
+            },
+            {
+              "confidence" : 1,
+              "text" : "\"health is excellent though. My fraper is about"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.1395348691891973,
+            0.14285714397503624,
+            0.023255841619885531,
+            0.38909774861007773
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "pull a & must close"
+            },
+            {
+              "confidence" : 1,
+              "text" : "pull & & must close"
+            },
+            {
+              "confidence" : 1,
+              "text" : "full a & must close"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.23686071126606006,
+            0.52801235205612196,
+            0.25295843684762698,
+            0.064908160524183245
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "1. Vied Wahery"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "1 Vied Wahery"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "1. Ved Wahery"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.31977836042097585,
+            0.46602525042631082,
+            0.26450602213541663,
+            0.060246260708601951
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Mrs Marg Doug"
+            },
+            {
+              "confidence" : 1,
+              "text" : "Mrs Mara Doug"
+            },
+            {
+              "confidence" : 1,
+              "text" : "Mrs Mard Doug"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.317957938130216,
+            0.36781662957017836,
+            0.29360138126677526,
+            0.10208744809320569
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Mm. Many Dorigles,"
+            },
+            {
+              "confidence" : 1,
+              "text" : "Mm. Maný Dorigles,"
+            },
+            {
+              "confidence" : 1,
+              "text" : "Mm. Many Doriglas,"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.47030567194907552,
+            0.36356617507237143,
+            0.16093133823678213,
+            0.046539266273458169
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Red Oak, *"
+            },
+            {
+              "confidence" : 1,
+              "text" : "Red Oak, →"
+            },
+            {
+              "confidence" : 1,
+              "text" : "Red Oak, +"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.26643734377098965,
+            0.33010801645538079,
+            0.075590465210210567,
+            0.052002306337709747
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Mos"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "Mlos"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "Mrs"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.33092352603544045,
+            0.28701681110285016,
+            0.30444932975326983,
+            0.09020081104635147
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "kary Douglačeras,"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "kany Douglačeras,"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "kary Douglačexas,"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.66873636278061543,
+            0.15359610444127392,
+            0.040912967518063392,
+            0.74901084294394837
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "I now think it prokable that I vile heat"
+            },
+            {
+              "confidence" : 1,
+              "text" : "I now think it frokable that I vile heat"
+            },
+            {
+              "confidence" : 1,
+              "text" : "I now think it prohable that I vile heat"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.70349675415952195,
+            0.14841565120931732,
+            0.030556509099855078,
+            0.70882914978780875
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "home about christmas a early in fare"
+            },
+            {
+              "confidence" : 1,
+              "text" : "home about Christmas a early in fare"
+            },
+            {
+              "confidence" : 1,
+              "text" : "home about christmas a early in fame"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.72678101994927902,
+            0.31684567835284627,
+            0.10373425629972677,
+            0.58715443552276225
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "yours affectionately ubermy Douglas"
+            },
+            {
+              "confidence" : 1,
+              "text" : "yours affectionately Ubermy Douglas"
+            },
+            {
+              "confidence" : 1,
+              "text" : "yours affectionately uberm Douglas"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.73034567456466781,
+            0.15354538682214836,
+            0.038228646702886726,
+            0.30935491329778442
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "My love to all,"
+            },
+            {
+              "confidence" : 1,
+              "text" : "My love to all."
+            },
+            {
+              "confidence" : 1,
+              "text" : "Ty love to all,"
+            }
+          ]
+        }
+      ],
+      "orientation_score" : 300.5,
+      "revision" : 3,
+      "usesLanguageCorrection" : true
+    },
+    {
+      "clockwise_rotation" : 270,
+      "file" : "04-096-contrast.png",
+      "lines" : [
+        {
+          "box" : [
+            0.03324051778696499,
+            0.15376459738918757,
+            0.043601316258301118,
+            0.71871921330742949
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "I suppuse I might add, that there is"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.066860439864219343,
+            0.1484962340702195,
+            0.033430282811201903,
+            0.74436092208512461
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "a good deal of sicknep in the countig, t t"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.080888952316030979,
+            0.14419841898933905,
+            0.047286108390116419,
+            0.73238070048983139
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Can heas of a death oe casionally. My own"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.11110305022455112,
+            0.11401955393440799,
+            0.043273811366335416,
+            0.8130534069458224
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "\"Lealth is excellent though. My frepen is about"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.1395348691891973,
+            0.14097745468865108,
+            0.023255841619885531,
+            0.39473682652495312
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "pull a & must clore"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.24409135396345802,
+            0.64132877730686677,
+            0.32230756326687116,
+            0.099265507289341581
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Mr Henny Douzlas"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.23502869114698674,
+            0.52272824311698274,
+            0.25513467093105613,
+            0.07485296528595875
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "! ed Wacketx"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.31903174709240489,
+            0.4652282783536561,
+            0.190787036482298,
+            0.072217473697830492
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "віод влор"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.3225545363772801,
+            0.36811834853138448,
+            0.28888457440647369,
+            0.10197351849268355
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Mr. Maný Doigles,"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.47321224390643835,
+            0.36362396361420757,
+            0.15660797306365026,
+            0.046374294072442201
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Red Oak, .*"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.26537889625919264,
+            0.28883886099038925,
+            0.37000847252843816,
+            0.092978576713979133
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Mrs chkasy Dorglasčenas,"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.67020521844655945,
+            0.15216436341805739,
+            0.039547658242899741,
+            0.75395232239307763
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "I now think it prokable that I wvile heat"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.69240789385852186,
+            0.14442052878388267,
+            0.046144736406343201,
+            0.71693692215746252
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "houme about christmas ao eanly in fany"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.70768260207133804,
+            0.14412792504843097,
+            0.12616795264870118,
+            0.76426015917796508
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "My love tiu no lifpetimatily ffenn, Dongles"
+            }
+          ]
+        }
+      ],
+      "orientation_score" : 280.70000052452087,
+      "revision" : 3,
+      "usesLanguageCorrection" : false
+    },
+    {
+      "clockwise_rotation" : 270,
+      "file" : "04-096-contrast.png",
+      "lines" : [
+        {
+          "box" : [
+            0.03324051778696499,
+            0.15376459738918757,
+            0.043601316258301118,
+            0.71871921330742949
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "I suppose I might add, that there is"
+            },
+            {
+              "confidence" : 1,
+              "text" : "I suppose I might add, that these is"
+            },
+            {
+              "confidence" : 1,
+              "text" : "I suppose I might ado, that there is"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.066860439864219343,
+            0.1484962340702195,
+            0.033430282811201903,
+            0.74436092208512461
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "a good deal of sicknep in the county, it t"
+            },
+            {
+              "confidence" : 1,
+              "text" : "a good deal of sicknep in the county, I t"
+            },
+            {
+              "confidence" : 1,
+              "text" : "a good deal of sicknep in the county, t t"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.080888952316030979,
+            0.14419841898933905,
+            0.047286108390116419,
+            0.73238070048983139
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Can hear of a death occasionally. My own"
+            },
+            {
+              "confidence" : 1,
+              "text" : "can hear of a death occasionally. My own"
+            },
+            {
+              "confidence" : 1,
+              "text" : "Can hear of a death occasionally. My oon"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.11110305022455112,
+            0.11401955393440799,
+            0.043273811366335416,
+            0.8130534069458224
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "\"Lealth is excellent though. My fraper is about"
+            },
+            {
+              "confidence" : 1,
+              "text" : "\" Lealth is excellent though. My fraper is about"
+            },
+            {
+              "confidence" : 1,
+              "text" : "\"Lealth is excellent though. My freper is about"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.1395348691891973,
+            0.14097745468865108,
+            0.023255841619885531,
+            0.39473682652495312
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "pull a & must close"
+            },
+            {
+              "confidence" : 1,
+              "text" : "full a & must close"
+            },
+            {
+              "confidence" : 1,
+              "text" : "pull & & must close"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.24409135396345802,
+            0.64132877730686677,
+            0.32230756326687116,
+            0.099265507289341581
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Mr Henny Douglas"
+            },
+            {
+              "confidence" : 1,
+              "text" : "Mr Henny Douglan"
+            },
+            {
+              "confidence" : 1,
+              "text" : "Mr Henny Douglar"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.23502869114698674,
+            0.52272824311698274,
+            0.25513467093105613,
+            0.07485296528595875
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "I ed Wacketx"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "I ed Waketx"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "ed Wacketx"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.31903174709240489,
+            0.4652282783536561,
+            0.190787036482298,
+            0.072217473697830492
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "віров вор"
+            },
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "від вору"
+            },
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "віод вор"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.3225545363772801,
+            0.36811834853138448,
+            0.28888457440647369,
+            0.10197351849268355
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Mr. Maný Deigles,"
+            },
+            {
+              "confidence" : 1,
+              "text" : "Ar. Maný Deigles,"
+            },
+            {
+              "confidence" : 1,
+              "text" : "Mr. Maný Dorigles,"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.47321224390643835,
+            0.36362396361420757,
+            0.15660797306365026,
+            0.046374294072442201
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Red Oak, *"
+            },
+            {
+              "confidence" : 1,
+              "text" : "Red Oak, .*"
+            },
+            {
+              "confidence" : 1,
+              "text" : "Red Oak, t"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.26537889625919264,
+            0.28883886099038925,
+            0.37000847252843816,
+            0.092978576713979133
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "Mrs kasy Douglasčenas,"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "Mrs kasy Douglastenas,"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "Mrs tasy Douglasčenas,"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.67020521844655945,
+            0.15216436341805739,
+            0.039547658242899741,
+            0.75395232239307763
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "'I now think it probable that I will heat"
+            },
+            {
+              "confidence" : 1,
+              "text" : "I now think it probable that I will heat"
+            },
+            {
+              "confidence" : 1,
+              "text" : "'Is now think it probable that I will heat"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.69240789385852186,
+            0.14442052878388267,
+            0.046144736406343201,
+            0.71693692215746252
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "home about christmas to early in fany"
+            },
+            {
+              "confidence" : 1,
+              "text" : "home about christmas a early in fany"
+            },
+            {
+              "confidence" : 1,
+              "text" : "home about christmas an early in fany"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.70768260207133804,
+            0.14412792504843097,
+            0.12616795264870118,
+            0.76426015917796508
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "My love tim if petimately fern, Douglas"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "My love tim if petimately fern, Dongles"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "My love tim if petimately bern, Dongles"
+            }
+          ]
+        }
+      ],
+      "orientation_score" : 272.90000009536743,
+      "revision" : 3,
+      "usesLanguageCorrection" : true
+    }
+  ]
+}

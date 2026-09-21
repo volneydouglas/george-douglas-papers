@@ -1,0 +1,621 @@
+{
+  "best_clockwise_rotation" : 270,
+  "engine" : "Apple Vision",
+  "os" : "Version 27.0 (Build 26A428)",
+  "page_id" : "05-017",
+  "records" : [
+    {
+      "clockwise_rotation" : 0,
+      "file" : "05-017-original.png",
+      "lines" : [
+        {
+          "box" : [
+            0.55363980756083631,
+            0.050872101424066729,
+            0.08620698279941208,
+            0.62645347726550282
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "* tat topa kint March nint &pona"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.51885038177742338,
+            0.54435076103511948,
+            0.049320502133713529,
+            0.14817718123792667
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "and lventy"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.51855372436981184,
+            0.048582433115609946,
+            0.050621241146756146,
+            0.36319244337007284
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "value vceurdo urines my"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.45678784375914211,
+            0.14213488144298858,
+            0.076182674132671491,
+            0.54259360825325209
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "cue Lial This Thi 12thi day of Oetober 1 55i2"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.45278651263011949,
+            0.096273641593709436,
+            0.043215623835927475,
+            0.11087567444325241
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "VKarzar"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.41303937062459406,
+            0.08007124246157582,
+            0.050295233972293796,
+            0.14383912422287626
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "u tarrar"
+            }
+          ]
+        }
+      ],
+      "orientation_score" : 80.200000286102295,
+      "revision" : 3,
+      "usesLanguageCorrection" : false
+    },
+    {
+      "clockwise_rotation" : 90,
+      "file" : "05-017-original.png",
+      "lines" : [
+        {
+          "box" : [
+            0.075481017614091095,
+            0.51692158499080854,
+            0.19168759437047628,
+            0.077269489249003231
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "сттая Ків"
+            }
+          ]
+        }
+      ],
+      "orientation_score" : 2.4000000953674316,
+      "revision" : 3,
+      "usesLanguageCorrection" : false
+    },
+    {
+      "clockwise_rotation" : 180,
+      "file" : "05-017-original.png",
+      "lines" : [
+        {
+          "box" : [
+            0.36206892763248499,
+            0.29215115555087112,
+            0.078544136912552354,
+            0.65406978410174599
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "out stot topat kant March net & promin"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.43604495762615825,
+            0.32100914658062141,
+            0.034287836133819249,
+            0.24013085880189988
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "nd laenty Dollah"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.43362202333434224,
+            0.31507984838354552,
+            0.10386921990778025,
+            0.64751805647251559
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "cnd that This the 1st day o p oedon istato my"
+            }
+          ]
+        }
+      ],
+      "orientation_score" : 33.200000762939453,
+      "revision" : 3,
+      "usesLanguageCorrection" : false
+    },
+    {
+      "clockwise_rotation" : 270,
+      "file" : "05-017-original.png",
+      "lines" : [
+        {
+          "box" : [
+            0.30514172224413511,
+            0.59927017339598554,
+            0.29668346518455352,
+            0.035331698545475465
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "i os lefore the tirot da"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.29460541992158196,
+            0.54099746512348634,
+            0.1791224949796435,
+            0.089433642515202028
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "вА ввем"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.29825195066260146,
+            0.53308509771393098,
+            0.643189766037632,
+            0.12752197894853423
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "l. A Seeblett to pay kin J Mavch nizt I promise"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.63207188636418155,
+            0.55821946608899353,
+            0.31581101395154776,
+            0.042354003670289297
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "or order Jive Huudred"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.31956258255457487,
+            0.47127745112237884,
+            0.54391637094703649,
+            0.057731475043542591
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "ind seal This The 12th day of Oetober 1 8521"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.76114714049589471,
+            0.45703958041264314,
+            0.13791170553049203,
+            0.033537905978173299
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "Bltaraar"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.7715989448785342,
+            0.42019476589275517,
+            0.14420393822898325,
+            0.032651861918341241
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "2 Farrar"
+            }
+          ]
+        }
+      ],
+      "orientation_score" : 112.80000007152557,
+      "revision" : 3,
+      "usesLanguageCorrection" : false
+    },
+    {
+      "clockwise_rotation" : 270,
+      "file" : "05-017-original.png",
+      "lines" : [
+        {
+          "box" : [
+            0.30514172224413511,
+            0.59927017339598554,
+            0.29668346518455352,
+            0.035331698545475465
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "i or before the first da"
+            },
+            {
+              "confidence" : 1,
+              "text" : "i or before the tirst da"
+            },
+            {
+              "confidence" : 1,
+              "text" : "i or before the tirot da"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.29825195066260146,
+            0.53308509771393098,
+            0.643189766037632,
+            0.12752197894853423
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "l. A Seblett to pay kin I March nist I promise"
+            },
+            {
+              "confidence" : 1,
+              "text" : "l. A Seblett to pay kin J March nist I promise"
+            },
+            {
+              "confidence" : 1,
+              "text" : "l. A Seblett to pay kin Z March nist I promise"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.63207188636418155,
+            0.55821946608899353,
+            0.31581101395154776,
+            0.042354003670289297
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "or order Five Hundred"
+            },
+            {
+              "confidence" : 1,
+              "text" : "or order Jive Hundred"
+            },
+            {
+              "confidence" : 1,
+              "text" : "or order Live Hundred"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.31956258255457487,
+            0.47127745112237884,
+            0.54391637094703649,
+            0.057731475043542591
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "ind seal This The 12th day of October 1 8 52 1"
+            },
+            {
+              "confidence" : 1,
+              "text" : "ind seal This The 12th day of October 1 8 5.21"
+            },
+            {
+              "confidence" : 1,
+              "text" : "ind seal This The 12th day of October 1 8 521"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.76114714049589471,
+            0.45703958041264314,
+            0.13791170553049203,
+            0.033537905978173299
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "Betardar"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "Betariar"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "BItarsar"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.7715989448785342,
+            0.42019476589275517,
+            0.14420393822898325,
+            0.032651861918341241
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "2 Farrar"
+            },
+            {
+              "confidence" : 1,
+              "text" : "2. Farrar"
+            },
+            {
+              "confidence" : 1,
+              "text" : "2 tarrar"
+            }
+          ]
+        }
+      ],
+      "orientation_score" : 110,
+      "revision" : 3,
+      "usesLanguageCorrection" : true
+    },
+    {
+      "clockwise_rotation" : 270,
+      "file" : "05-017-contrast.png",
+      "lines" : [
+        {
+          "box" : [
+            0.34127394274771322,
+            0.60323294089399571,
+            0.26059685887678502,
+            0.032410801563066305
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "s litor the tot da"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.30377906946112521,
+            0.52681992351487739,
+            0.047965116903815441,
+            0.032567049793361447
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "ano"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.338997155361564,
+            0.53589338906567185,
+            0.47868354331719482,
+            0.11166264642145207
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "* Skblett to pay kíř J March nöžt"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.59112272288891177,
+            0.51246541698528381,
+            0.36339319554479654,
+            0.061735094208078323
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "value renrd urtnip my"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.31820849361605058,
+            0.47033059943674482,
+            0.53505667386480349,
+            0.06046934619392319
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "cnd Leal This Thi 12tti day of Oetober 1 85i2"
+            }
+          ]
+        }
+      ],
+      "orientation_score" : 80.900000035762787,
+      "revision" : 3,
+      "usesLanguageCorrection" : false
+    },
+    {
+      "clockwise_rotation" : 270,
+      "file" : "05-017-contrast.png",
+      "lines" : [
+        {
+          "box" : [
+            0.34127394274771322,
+            0.60323294089399571,
+            0.26059685887678502,
+            0.032410801563066305
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "s litor the tot da"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "s letor the tot da"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "s litor the sot da"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.30377906946112521,
+            0.52681992351487739,
+            0.047965116903815441,
+            0.032567049793361447
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "ano"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "ana"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "año"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.338997155361564,
+            0.53589338906567185,
+            0.47868354331719482,
+            0.11166264642145207
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "* Skeblett to pay kíř J March nöžt"
+            },
+            {
+              "confidence" : 1,
+              "text" : "* Skeblett to pay híř J March nöžt"
+            },
+            {
+              "confidence" : 1,
+              "text" : "* Skeblett to pay kíř J March nožt"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.59112272288891177,
+            0.51246541698528381,
+            0.36339319554479654,
+            0.061735094208078323
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "value renes urtnip my"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "value vened urtnip my"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "valie renes urtnip my"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.31820849361605058,
+            0.47033059943674482,
+            0.53505667386480349,
+            0.06046934619392319
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "cind Leal This Thi 12tti day of Ortober 1 85i2"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "cind Leal This Thi 12tti day of Ortober 1 85i2"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "cind Leal This Thi 12tti day of Ortober 1 85i2"
+            }
+          ]
+        }
+      ],
+      "orientation_score" : 59,
+      "revision" : 3,
+      "usesLanguageCorrection" : true
+    }
+  ]
+}

@@ -1,0 +1,1729 @@
+{
+  "best_clockwise_rotation" : 0,
+  "engine" : "Apple Vision",
+  "os" : "Version 27.0 (Build 26A428)",
+  "page_id" : "04-054",
+  "records" : [
+    {
+      "clockwise_rotation" : 0,
+      "file" : "04-054-original.png",
+      "lines" : [
+        {
+          "box" : [
+            0.26650368243741601,
+            0.78621794912800314,
+            0.58924202368611778,
+            0.043723910894149398
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "I onl ask tkat yuü get"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.27275537447542136,
+            0.7643186247386804,
+            0.54486449405213389,
+            0.041159258133325771
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "the bursioness an gued"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.27292220578530424,
+            0.73407508363752405,
+            0.59608434782059061,
+            0.044183330046824953
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "shape, tnow how mnch"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.2757286717676351,
+            0.70672443518456107,
+            0.59809264807510787,
+            0.038784809601612569
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "mokeyes on hand, and"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.44987774372780154,
+            0.69186046566737291,
+            0.29828852022864416,
+            0.017441859612098098
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "ueh anori."
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.29828850253818728,
+            0.65116279048659553,
+            0.57946211106054479,
+            0.034883721669515033
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "likely to corne on and"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.27567657170219623,
+            0.62603392782747436,
+            0.60776030078546395,
+            0.040420051721426264
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "what has to le omrit y sorf"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.27309962813505734,
+            0.59476462220474935,
+            0.60779809385956041,
+            0.042079045222355727
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "we dumn it gnidientyen"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.27845729753358694,
+            0.57091398099893609,
+            0.54834283954245888,
+            0.032620745438795784
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "čan arsakeșne a visiti"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.28796961050067965,
+            0.5394897877082615,
+            0.57576457890877841,
+            0.037960612468230459
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Pou wronld onit get omich"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.28275246173277802,
+            0.51121371170455943,
+            0.56436226360234631,
+            0.042731830401298243
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "aut ofithise peafle, ttay"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.30048414532256768,
+            0.49448397217312112,
+            0.36250754544650082,
+            0.024505138397216797
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "re 9t vur 5orl"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.34397840268404856,
+            0.46578730310999306,
+            0.48087897604208807,
+            0.034826815433991243
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Plli leaves tomomore"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.27872860986135561,
+            0.42877907011336491,
+            0.55012224150064049,
+            0.037887596472715668
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "for f lpinter to vun a"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.285228952322716,
+            0.39800589283223065,
+            0.54680329850576448,
+            0.040397301698342325
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Donnítory. Jam stäjiny"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.28212954180052052,
+            0.36896272240939287,
+            0.48709517955265647,
+            0.047075220254751415
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "witk Dr Pird.. Pafia."
+            }
+          ]
+        }
+      ],
+      "orientation_score" : 259.20000010728836,
+      "revision" : 3,
+      "usesLanguageCorrection" : false
+    },
+    {
+      "clockwise_rotation" : 90,
+      "file" : "04-054-original.png",
+      "lines" : [
+        {
+          "box" : [
+            0.79153980827160397,
+            0.13901276594226264,
+            0.03926245616032531,
+            0.58983525643456725
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "& only ask that yu get"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.76521674175094379,
+            0.17792880276396394,
+            0.037959732153476811,
+            0.54909791092527971
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "the bussoess air geed"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.73549457928433215,
+            0.13382310983707391,
+            0.03746819618420727,
+            0.59025183619033172
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "shape, amow how mmuch"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.7122092871003296,
+            0.11980441968206712,
+            0.029069797809307407,
+            0.60146696384927856
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "mokey is on hand, and"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.69045631210818836,
+            0.22706393305226902,
+            0.023367603008563775,
+            0.48466987157202335
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "hoo nuueh anori is"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.64883772717025723,
+            0.12658855741086483,
+            0.040577676968696741,
+            0.57093516394029808
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "ikely to corne an jand"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.62724481642722785,
+            0.11705955769138587,
+            0.034295373085217573,
+            0.6069205571146844
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "what has to le mit, sof"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.59647905911996857,
+            0.10953197702730944,
+            0.039850133504623075,
+            0.61470849820068085
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "we duem it efridintsjen"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.57241412253346757,
+            0.1708079195940887,
+            0.031117098148052524,
+            0.54826310537393808
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "can arsakte one a visiti"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.54039952919477852,
+            0.13135199455557889,
+            0.03719531817313948,
+            0.58096257511208871
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "You wonld ort get amich"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.51265554194063179,
+            0.15500280192553728,
+            0.044195722922300673,
+            0.55732702360184061
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "out of thise pesple, thay"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.4633834419667911,
+            0.16326884311259393,
+            0.062260644863813275,
+            0.55373417958215343
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "ае 2дка ктот, отон"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.42740783581001368,
+            0.17018285349697593,
+            0.049673689328707193,
+            0.55782590534823362
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "for y lpinter to vun à"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.39935560348319066,
+            0.16758059164806738,
+            0.041286003895294965,
+            0.54748433101781624
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "Donnitory i Fam otajnny"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.38148431405958994,
+            0.23416580162888978,
+            0.030403903814462507,
+            0.48506459191907703
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "vitt DrBird.. Dafia."
+            }
+          ]
+        }
+      ],
+      "orientation_score" : 231.40000033378601,
+      "revision" : 3,
+      "usesLanguageCorrection" : false
+    },
+    {
+      "clockwise_rotation" : 180,
+      "file" : "04-054-original.png",
+      "lines" : [
+        {
+          "box" : [
+            0.13655178009429178,
+            0.16689751432915712,
+            0.59720569598250406,
+            0.04588902791341154
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "& only ask tkat yun get"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.1753623272154855,
+            0.19685256145870011,
+            0.54676672350112931,
+            0.037867806507990931
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "the busdoess an gued"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.12858887219095894,
+            0.22288905996618646,
+            0.59577034926594519,
+            0.040944708310640787
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "shape, tnow how much"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.12185728303098277,
+            0.25736201453592145,
+            0.59721116083468173,
+            0.032701930021628356
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "money s on hand, and"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.22249387812044627,
+            0.28924416053274271,
+            0.48899757360563301,
+            0.018895399876129981
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "boo neuch anora es"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.12224940045081648,
+            0.31249997009728203,
+            0.55745719243021852,
+            0.033430291444827342
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "\"Kely to corne an and"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.11454199258894691,
+            0.33842327491273472,
+            0.577659104891451,
+            0.03330864050449478
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "hat has to le mit, so f"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.10912092986401678,
+            0.35821745315140852,
+            0.61057654322158161,
+            0.044581611339862492
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "de deean it gphédlent jen"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.16833994363033264,
+            0.39648472627656839,
+            0.5507053017230481,
+            0.031121436143532799
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "can ansakte one a visiti"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.12905928084888924,
+            0.42115974207919338,
+            0.57623304183943502,
+            0.035597577461829566
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "you would onst git anuch"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.15771176974596712,
+            0.44605557885387281,
+            0.54724440425473642,
+            0.037291979178404211
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "sut of thase peaple, they"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.30516322092858472,
+            0.47774190113324577,
+            0.40925836820304073,
+            0.030686764839367942
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "areoiitvuur sort,"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.16570162771654365,
+            0.50390416038036179,
+            0.49994782053794173,
+            0.029875222230568932
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Rllie leaves tomnomvre"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.16725820569774921,
+            0.51858063678913169,
+            0.56632052424656154,
+            0.056014403318747519
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "for f lpenter to vun à"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.16801741544335025,
+            0.56367297122978699,
+            0.42431502357655737,
+            0.03101435685769105
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "itory Fam stajmy"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.23471883119334003,
+            0.59011625431681147,
+            0.46699265497530673,
+            0.024709351857503226
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "att DrBird.. Dafiai"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.4327628340814802,
+            0.66133720844706212,
+            0.022004893939729153,
+            0.011627908853384161
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "-"
+            }
+          ]
+        }
+      ],
+      "orientation_score" : 245.50000017881393,
+      "revision" : 3,
+      "usesLanguageCorrection" : false
+    },
+    {
+      "clockwise_rotation" : 270,
+      "file" : "04-054-original.png",
+      "lines" : [
+        {
+          "box" : [
+            0.22196044194600856,
+            0.27545884194298753,
+            0.042466153853978839,
+            0.59338583015186752
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "shape, tnow how muck"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.2533848352661317,
+            0.27823110191140854,
+            0.037842191793979796,
+            0.60031960825832664
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "money is on hand, and"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.28924417143754722,
+            0.28606357693528439,
+            0.01889537542294234,
+            0.49144253530162818
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "boo naich anori e5"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.31395347009898533,
+            0.33251834528181379,
+            0.031976776856642519,
+            0.55012224150064049
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Kely to corne in jand"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.33980760534192167,
+            0.28078264330393776,
+            0.033847060570350085,
+            0.60472612267816206
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "vhat has to lie mit, soif"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.36366563385572453,
+            0.2759351573799651,
+            0.03938926183260405,
+            0.61189640378489085
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "we dun it ephidient yui"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.3960270701890079,
+            0.28095161932582968,
+            0.027481531485533117,
+            0.55064508958670444
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "can arake one a visit"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.42536711012331313,
+            0.29533963202333802,
+            0.031243132322262501,
+            0.57063492627848578
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "your wonedord git anuch"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.44445882360863126,
+            0.29479043878407429,
+            0.039385553506704474,
+            0.54773031520740634
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "rut of thase peaple, bhey"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.524169389085134,
+            0.29466250170905928,
+            0.046403537652431437,
+            0.52769382974733681
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "or o lunter to run a"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.55826312519230614,
+            0.28251119780430345,
+            0.038128774594037962,
+            0.55009521352691804
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : ") ornitory Gam stajruy"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.58791445157862732,
+            0.27814261307237564,
+            0.035193714728722236,
+            0.49020280395639493
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "Witi Dr.Birde.. Dafia."
+            }
+          ]
+        }
+      ],
+      "orientation_score" : 180.20000016689301,
+      "revision" : 3,
+      "usesLanguageCorrection" : false
+    },
+    {
+      "clockwise_rotation" : 0,
+      "file" : "04-054-original.png",
+      "lines" : [
+        {
+          "box" : [
+            0.26650368243741601,
+            0.78621794912800314,
+            0.58924202368611778,
+            0.043723910894149398
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "I only ask tkat yun get"
+            },
+            {
+              "confidence" : 1,
+              "text" : "I only ask kat yun get"
+            },
+            {
+              "confidence" : 1,
+              "text" : "& only ask tkat yun get"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.27275537447542136,
+            0.7643186247386804,
+            0.54486449405213389,
+            0.041159258133325771
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "the business an gued"
+            },
+            {
+              "confidence" : 1,
+              "text" : "the business an geed"
+            },
+            {
+              "confidence" : 1,
+              "text" : "the business an gue d"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.27292220578530424,
+            0.73407508363752405,
+            0.59608434782059061,
+            0.044183330046824953
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "shape, know how much"
+            },
+            {
+              "confidence" : 1,
+              "text" : "Shape, know how much"
+            },
+            {
+              "confidence" : 1,
+              "text" : "shape, brow how much"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.2757286717676351,
+            0.70672443518456107,
+            0.59809264807510787,
+            0.038784809601612569
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "mokeyes on hand, and"
+            },
+            {
+              "confidence" : 1,
+              "text" : "moreyes on hand, and"
+            },
+            {
+              "confidence" : 1,
+              "text" : "mokeys on hand, and"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.44987774372780154,
+            0.69186046566737291,
+            0.29828852022864416,
+            0.017441859612098098
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "uch anori."
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "uch enori."
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "uch nori."
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.29828850253818728,
+            0.65116279048659553,
+            0.57946211106054479,
+            0.034883721669515033
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "likely to come in and"
+            },
+            {
+              "confidence" : 1,
+              "text" : "likely to come on and"
+            },
+            {
+              "confidence" : 1,
+              "text" : "likely to core in and"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.27567657170219623,
+            0.62603392782747436,
+            0.60776030078546395,
+            0.040420051721426264
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "what has to le crity so f"
+            },
+            {
+              "confidence" : 1,
+              "text" : "what has to le ority so f"
+            },
+            {
+              "confidence" : 1,
+              "text" : "what has to le crity so fo"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.27309962813505734,
+            0.59476462220474935,
+            0.60779809385956041,
+            0.042079045222355727
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "we dum it gridient gen"
+            },
+            {
+              "confidence" : 1,
+              "text" : "we dum it gridient jen"
+            },
+            {
+              "confidence" : 1,
+              "text" : "we dum it gridient yen"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.27845729753358694,
+            0.57091398099893609,
+            0.54834283954245888,
+            0.032620745438795784
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Can arake sne a visiti"
+            },
+            {
+              "confidence" : 1,
+              "text" : "Can arsake sne a visiti"
+            },
+            {
+              "confidence" : 1,
+              "text" : "Can arake sme a visiti"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.28275246173277802,
+            0.51121371170455943,
+            0.56436226360234631,
+            0.042731830401298243
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "out ofittise people, they"
+            },
+            {
+              "confidence" : 1,
+              "text" : "out ofittise people, thay"
+            },
+            {
+              "confidence" : 1,
+              "text" : "out ofittise people, blay"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.34397840268404856,
+            0.46578730310999306,
+            0.48087897604208807,
+            0.034826815433991243
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "All leaves tomorou"
+            },
+            {
+              "confidence" : 1,
+              "text" : "All leaves tomorr"
+            },
+            {
+              "confidence" : 1,
+              "text" : "Alli leaves tomoro"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.27872860986135561,
+            0.42877907011336491,
+            0.55012224150064049,
+            0.037887596472715668
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "for if linter to sun a"
+            },
+            {
+              "confidence" : 1,
+              "text" : "for if lpinter to sun a"
+            },
+            {
+              "confidence" : 1,
+              "text" : "for f linter to sun a"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.285228952322716,
+            0.39800589283223065,
+            0.54680329850576448,
+            0.040397301698342325
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Donnitory. Jam staying"
+            },
+            {
+              "confidence" : 1,
+              "text" : "Donnitory. Fam staying"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "Donnitory. Jam stayiny"
+            }
+          ]
+        }
+      ],
+      "orientation_score" : 216,
+      "revision" : 3,
+      "usesLanguageCorrection" : true
+    },
+    {
+      "clockwise_rotation" : 0,
+      "file" : "04-054-contrast.png",
+      "lines" : [
+        {
+          "box" : [
+            0.26627224431765106,
+            0.78579585074024882,
+            0.59473676794683794,
+            0.045747165190867967
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "a only ask tkat yun get"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.27520697115654835,
+            0.76439351640261222,
+            0.54475299131523058,
+            0.040876872722919178
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "the busdoness an gued"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.2758099583280812,
+            0.73551666595924059,
+            0.5903581703622236,
+            0.037379484910231353
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "shape, omow hou much"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.27824651568527364,
+            0.70884523155850165,
+            0.60029044043284796,
+            0.03601823219886191
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "morey is on haud, and"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.29561568146369438,
+            0.68932867742221227,
+            0.47477605299142051,
+            0.021471467384925225
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "roo onrch anora is"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.31295844281300816,
+            0.65116279054605641,
+            0.55745719243021852,
+            0.034883721669515033
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "ikely to corne in and"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.28334528707680046,
+            0.6288038042220836,
+            0.56535199442084672,
+            0.032414627075195379
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "vhat has to le oitj so"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.27087737701475278,
+            0.59664906612448254,
+            0.6049543296377764,
+            0.039640062283246902
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "we dun it ehidient yer"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.28117360143009568,
+            0.57558139572926603,
+            0.54767724688384911,
+            0.027623732884724972
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "can arakteane a visiti"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.29027214647392841,
+            0.54097144717134993,
+            0.57342200088912487,
+            0.036502116765731452
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "You werld erst git amich"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.28537075615942636,
+            0.51552654989767221,
+            0.55457273810426777,
+            0.03834555454743227
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "out ofettase pesple, bhey"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.29542470884757577,
+            0.49185373486306883,
+            0.37531459112897791,
+            0.028778660603058559
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "vre gáit yun soct"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.33951716870979171,
+            0.46888795002568218,
+            0.48464103295450717,
+            0.033180980193309395
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Plle léavis tomomou"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.27761044169202465,
+            0.42787332299734548,
+            0.54974082115527234,
+            0.048043021177634149
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "for f ljunter to sun a"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.28749878217593861,
+            0.39935649501874404,
+            0.54486054355658375,
+            0.041247622172037812
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "sonnitory . Fam stajîny"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.28047234957675687,
+            0.37975569935424947,
+            0.45154888395867049,
+            0.033070488465137937
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "viti dr, Bird. Dafia"
+            }
+          ]
+        }
+      ],
+      "orientation_score" : 237.20000034570694,
+      "revision" : 3,
+      "usesLanguageCorrection" : false
+    },
+    {
+      "clockwise_rotation" : 0,
+      "file" : "04-054-contrast.png",
+      "lines" : [
+        {
+          "box" : [
+            0.26627224431765106,
+            0.78579585074024882,
+            0.59473676794683794,
+            0.045747165190867967
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "a only ask tkat yun get"
+            },
+            {
+              "confidence" : 1,
+              "text" : "& only ask tkat yun get"
+            },
+            {
+              "confidence" : 1,
+              "text" : "a only ask kat yun get"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.27520697115654835,
+            0.76439351640261222,
+            0.54475299131523058,
+            0.040876872722919178
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "the bustoness an gued"
+            },
+            {
+              "confidence" : 1,
+              "text" : "the bustoness air gued"
+            },
+            {
+              "confidence" : 1,
+              "text" : "the bustoness ai gued"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.2758099583280812,
+            0.73551666595924059,
+            0.5903581703622236,
+            0.037379484910231353
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "shape, snow how much"
+            },
+            {
+              "confidence" : 1,
+              "text" : "shape, now how much"
+            },
+            {
+              "confidence" : 1,
+              "text" : "shape, mow how much"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.27824651568527364,
+            0.70884523155850165,
+            0.60029044043284796,
+            0.03601823219886191
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "money is on hand, and"
+            },
+            {
+              "confidence" : 1,
+              "text" : "money is on haud, and"
+            },
+            {
+              "confidence" : 1,
+              "text" : "mokey is on hand, and"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.31295844281300816,
+            0.65116279054605641,
+            0.55745719243021852,
+            0.034883721669515033
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "ikely to core in and"
+            },
+            {
+              "confidence" : 1,
+              "text" : "ikely to corne in and"
+            },
+            {
+              "confidence" : 1,
+              "text" : "ikely to come in and"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.28334528707680046,
+            0.6288038042220836,
+            0.56535199442084672,
+            0.032414627075195379
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "what has to lie it i so."
+            },
+            {
+              "confidence" : 1,
+              "text" : "what has to lie it i so"
+            },
+            {
+              "confidence" : 1,
+              "text" : "what has to le it i so."
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.27087737701475278,
+            0.59664906612448254,
+            0.6049543296377764,
+            0.039640062283246902
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "we dun it enidint yes"
+            },
+            {
+              "confidence" : 1,
+              "text" : "we dun it enidint yer"
+            },
+            {
+              "confidence" : 1,
+              "text" : "we dun it ehidint yes"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.28117360143009568,
+            0.57558139572926603,
+            0.54767724688384911,
+            0.027623732884724972
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "can arake one a visiti"
+            },
+            {
+              "confidence" : 1,
+              "text" : "can anale one a visiti"
+            },
+            {
+              "confidence" : 1,
+              "text" : "can arale one a visiti"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.29027214647392841,
+            0.54097144717134993,
+            0.57342200088912487,
+            0.036502116765731452
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "You wered est get amich"
+            },
+            {
+              "confidence" : 1,
+              "text" : "You were dest get amich"
+            },
+            {
+              "confidence" : 1,
+              "text" : "You wered est get amuch"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.28537075615942636,
+            0.51552654989767221,
+            0.55457273810426777,
+            0.03834555454743227
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "out of these pestle, they"
+            },
+            {
+              "confidence" : 1,
+              "text" : "out of these pestle, bhay"
+            },
+            {
+              "confidence" : 1,
+              "text" : "out of these pestle, the"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.33951716870979171,
+            0.46888795002568218,
+            0.48464103295450717,
+            0.033180980193309395
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Pele leaves tomorr"
+            },
+            {
+              "confidence" : 1,
+              "text" : "Plle leaves tomorr"
+            },
+            {
+              "confidence" : 1,
+              "text" : "Pele leaves tomorou"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.27761044169202465,
+            0.42787332299734548,
+            0.54974082115527234,
+            0.048043021177634149
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "for f linter to sun a"
+            },
+            {
+              "confidence" : 1,
+              "text" : "for fi linter to sun a"
+            },
+            {
+              "confidence" : 1,
+              "text" : "for f lunter to sun a"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.28749878217593861,
+            0.39935649501874404,
+            0.54486054355658375,
+            0.041247622172037812
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "sorritory. Fam staying"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "sorritory. Fam Staying"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "sorritory. Jam staying"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.28047234957675687,
+            0.37975569935424947,
+            0.45154888395867049,
+            0.033070488465137937
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "vili dr, Bird. Dafia"
+            },
+            {
+              "confidence" : 1,
+              "text" : "vili dr, Bird. Dafia."
+            },
+            {
+              "confidence" : 1,
+              "text" : "vili dr Bird. Dafia"
+            }
+          ]
+        }
+      ],
+      "orientation_score" : 241,
+      "revision" : 3,
+      "usesLanguageCorrection" : true
+    }
+  ]
+}

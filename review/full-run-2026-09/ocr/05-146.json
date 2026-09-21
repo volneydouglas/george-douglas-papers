@@ -1,0 +1,2819 @@
+{
+  "best_clockwise_rotation" : 270,
+  "engine" : "Apple Vision",
+  "os" : "Version 27.0 (Build 26A428)",
+  "page_id" : "05-146",
+  "records" : [
+    {
+      "clockwise_rotation" : 0,
+      "file" : "05-146-original.png",
+      "lines" : [
+        {
+          "box" : [
+            0.26188939912117937,
+            0.79947172638191577,
+            0.5460847467714357,
+            0.014927256523751153
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "an N ou 'e Towuns werune paerTuaa oar ver u"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.16957434416584558,
+            0.77208812864863618,
+            0.66266911734041367,
+            0.038490356391107317
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "18 erirat ou dlar bimo is dia bus 8 67*8 2u varat, hevre D'atde"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.17622419378394497,
+            0.50629616273599998,
+            0.65185948707879227,
+            0.060481584728505178
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "al an e pe hete eine penies nlti lenei ig tine"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.18122270770060231,
+            0.46511627895737762,
+            0.076419212639968176,
+            0.024709302903351049
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "forever"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.18558951913823379,
+            0.44622093066465685,
+            0.072052402428460727,
+            0.014534883064374005
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "Raia"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.18109962662129789,
+            0.42272963927757912,
+            0.08103218621630684,
+            0.019366303303313681
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "herano"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.25816506295078129,
+            0.39969726021630536,
+            0.15141229867086714,
+            0.026735589234627044
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Svar t hiresf\""
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.26188431290742492,
+            0.38469677966269034,
+            0.17273792253270265,
+            0.021304115308961369
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "Р13 К199-1890"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.42547254133270879,
+            0.40584759196524489,
+            0.18394015437767602,
+            0.020245677977359211
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Aitirias orir la"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.60262008808998002,
+            0.38661930218364282,
+            0.23580786002488319,
+            0.042159767670346238
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "angde fhis Paloder"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.60464378933972918,
+            0.36219251085801552,
+            0.17727328534652331,
+            0.022130493019515085
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Salta Rope"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.60470715972218725,
+            0.32104806098773142,
+            0.17049834227646798,
+            0.042496901987006952
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "Mery Sоpete"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.20305676842674292,
+            0.25725281203881245,
+            0.26419213997511676,
+            0.010189048491546338
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "o be the person whose naine is subscribed to the for"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.19868995496840605,
+            0.24418604687114953,
+            0.28820960971384291,
+            0.011627906451499137
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "the same for the purposcs and consideration therein exp"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.3273407618556391,
+            0.22999245061259466,
+            0.17939665987822506,
+            0.011672253154169643
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Given under my hand and seal of"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.34003320349295668,
+            0.21024112059066125,
+            0.1145313710928812,
+            0.021207756372229269
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "ỗIA.D.G\/"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.49999999999827721,
+            0.1962209304269783,
+            0.02620087314755043,
+            0.0072674415321869468
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Cierk"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.17903930031641543,
+            0.13081395338670887,
+            0.069868997322706961,
+            0.0072674420968253939
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Clerk of the.."
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.32969432879737215,
+            0.10174418641234051,
+            0.19650654097044595,
+            0.021802325161199398
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "w waltes Rd"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.18122271229932085,
+            0.092954411081818455,
+            0.16593885591445867,
+            0.017510705476967425
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "me to le"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.18558952164209652,
+            0.06394316148079926,
+            0.082969427957229336,
+            0.011638233688471944
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "to be the person"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.39956332073257322,
+            0.066860465041308825,
+            0.12663755043545649,
+            0.0087209304032628276
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "ed to the foregoing instru"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.54310747592753106,
+            0.10874078270728038,
+            0.11440917860146516,
+            0.016025241695966419
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "er\/ Âeex"
+            }
+          ]
+        }
+      ],
+      "orientation_score" : 265.30000191926956,
+      "revision" : 3,
+      "usesLanguageCorrection" : false
+    },
+    {
+      "clockwise_rotation" : 90,
+      "file" : "05-146-original.png",
+      "lines" : [
+        {
+          "box" : [
+            0.79167644337489407,
+            0.27685339113258933,
+            0.028304355817832083,
+            0.55531930074997216
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "paa cnnan e ou U FOctao terane jaer uviaco onc"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.76475258032091975,
+            0.1563182759937054,
+            0.049228372342350779,
+            0.67001261320826844
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "18 earee au Olu bime in dia bus 8 67 *8 20 mau, Vhenee & 60ttr"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.65902738081313339,
+            0.19165398723820393,
+            0.057807542926253008,
+            0.63622389823940728
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "n n e peneă initent petin l eanete hertie"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.39371243714794329,
+            0.59435055085549671,
+            0.035043769506676925,
+            0.20646596888206181
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Any fuart tueresf\""
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.38226743748078129,
+            0.55240175226245214,
+            0.021802334195414275,
+            0.19213973075893853
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "4013551891890"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.40843022939751561,
+            0.1703056767183726,
+            0.027616285162610055,
+            0.11353711980093417
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "- Datober"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.36337208863448767,
+            0.22052401866152027,
+            0.021802336453968008,
+            0.17685589501866239
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Sralty Roper"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.34302325330500194,
+            0.32969432481471672,
+            0.020348841936507822,
+            0.063318775217728329
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "eMar"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.34011627727185928,
+            0.22489083078578986,
+            0.02325581742010574,
+            0.076419212639968204
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Порея"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.25562758965426835,
+            0.50855909703347324,
+            0.01530604478238673,
+            0.29511852875298883
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "to be the person whoae naipe is subacribed to the foreges"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.23982557268239327,
+            0.49126637684030927,
+            0.017441879439593938,
+            0.312227079452569
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "the same for the purposcs and consideration thereds expree"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.23007189484637083,
+            0.47354870026447182,
+            0.013079248567245766,
+            0.19913109341550128
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Given under my hand and seal of offfe"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.21012326037254991,
+            0.53887892405449045,
+            0.022713997153716387,
+            0.11444808579848753
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "5\/A.D. 1g\/."
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.19476743845798272,
+            0.40393013374121545,
+            0.015988378711110973,
+            0.11135370790746291
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "Ches Carentif"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.13081395133945162,
+            0.74454148686949706,
+            0.0072674463316136639,
+            0.07860261774572197
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Clerk of the...."
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.13297152192434006,
+            0.46830354926173534,
+            0.029574408342035091,
+            0.25945458463078297
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "(иалао і техоньтк"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.093023251126141376,
+            0.64847161748896043,
+            0.017441869840740518,
+            0.17467248991290873
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "me to lie"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.10029068856521904,
+            0.36899563580456607,
+            0.031976761939329398,
+            0.32096069987558384
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "вді млетвври не"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.063953484347968284,
+            0.67467248803584678,
+            0.013081404356789922,
+            0.13755458953966015
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "to te the perons whow oan"
+            }
+          ]
+        }
+      ],
+      "orientation_score" : 246.30000174045563,
+      "revision" : 3,
+      "usesLanguageCorrection" : false
+    },
+    {
+      "clockwise_rotation" : 180,
+      "file" : "05-146-original.png",
+      "lines" : [
+        {
+          "box" : [
+            0.65689808707771935,
+            0.18989034536958971,
+            0.16835127861050103,
+            0.018047626375657932
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "neree enpore N 0"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.27275039847205534,
+            0.18579603389020871,
+            0.3452253782876446,
+            0.017215478060300549
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "reowano werune jcer nouro ca couar"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.16128211020963093,
+            0.19363757365580825,
+            0.66221721825650581,
+            0.026805107518721782
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "18 crarait au Olu bine is dia bos 869-88 20 vasas. Vheuce S60rd"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.16121053892946452,
+            0.21882239026187178,
+            0.65794019597280928,
+            0.029886292027890726
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "1369 varcs a eta té io It live of tiesioH & Portes surver, Prence"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.19145114733478591,
+            0.27890983891218013,
+            0.63236939779804269,
+            0.058745773252190214
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "vein ey haneålinin feleanenene & Alann bilngee"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.16127540615124403,
+            0.48000106246738172,
+            0.64923937380101759,
+            0.02833189662212876
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "rirselves. heirs, executors E'adminishaloro, to varsant-and"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.18534699346907541,
+            0.49850822492661195,
+            0.63227328371747116,
+            0.072040555602774337
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "вно боздом боауве ве вс в ринорноь пво"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.18759741383331044,
+            0.55029737744133789,
+            0.53094200052824736,
+            0.026611730147565571
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "comesever baufully claiming or to claino the same! a"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.58725646658683728,
+            0.57558786877325119,
+            0.14021788627651655,
+            0.019713120039854592
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "vart tueresf"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.17030567526074031,
+            0.56831394695076054,
+            0.11135371469518046,
+            0.021802338712521796
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "- Delober"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.55740361374438174,
+            0.58363148073907056,
+            0.24602581852271466,
+            0.046533999039337748
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "aму 1013 В151890"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.21818052253263487,
+            0.61424289847171676,
+            0.1749926665499541,
+            0.022967691461033501
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Sralta Roke"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.22659850556893396,
+            0.63773554969051971,
+            0.16058420201637569,
+            0.031250807432961825
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Мачу. Рорем"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.66593886562428517,
+            0.72383720594675727,
+            0.065502180323481984,
+            0.010174425485361405
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "T**5D"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.56113537223893384,
+            0.73255812537745746,
+            0.24017467023639072,
+            0.010174446376983504
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "to be the person'whose name is subscribed to t"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.52401747007974164,
+            0.74273254236388886,
+            0.27729257060963919,
+            0.013081426942327279
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "the same for the purposes and consideration therelf es"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.48668988917530637,
+            0.75600139360475627,
+            0.1838985728199371,
+            0.013326055414935034
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Given under my hand and seal of o"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.54130670244375623,
+            0.76697592844440243,
+            0.10952633216287744,
+            0.019827213140547584
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "5\/A. D. 1Sg \/."
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.44205071251132694,
+            0.78813953119806279,
+            0.059828707331864461,
+            0.017848844850042123
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "Cierk ly"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.72270742161265089,
+            0.83720929831340984,
+            0.065502187111199484,
+            0.0087209380258816971
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "THD ST"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.62445414966663582,
+            0.83720929656946741,
+            0.0938864602737155,
+            0.007267453107274835
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "TE OP TEX"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.72843634226589793,
+            0.84687750097732017,
+            0.090974027151738968,
+            0.014770459253594548
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "County of"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.4912663754663219,
+            0.84883720580977307,
+            0.058951965006220797,
+            0.0072674488724866482
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "BEFORE 1"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.75545851332212954,
+            0.86046511253914071,
+            0.065502187111199484,
+            0.008720937743562418
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Clerk of the"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.48648007759999257,
+            0.85436987861859615,
+            0.12309288214958436,
+            0.014047399083843892
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "... Court in and for"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.49747750506334881,
+            0.86492200812296305,
+            0.32391387287832235,
+            0.019658252993866587
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "day personally appeared Lelale lt Ra"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.48207664892867969,
+            0.87213619224518879,
+            0.3314495969073204,
+            0.043719784616365276
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "me to lie waller Ro"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.37392824770461397,
+            0.87305231839038089,
+            0.10659764924507548,
+            0.023691874131992585
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "Aer\/fte"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.75109170348113063,
+            0.92296511285828087,
+            0.061135370111974452,
+            0.010174425485361405
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "to be the pe"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.21834060946263809,
+            0.92296511251211466,
+            0.065502187111199511,
+            0.0072674494371249843
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "they execute"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.2096069852341694,
+            0.93023255461916454,
+            0.065502187111199511,
+            0.014534890969312042
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "per"
+            }
+          ]
+        }
+      ],
+      "orientation_score" : 481.00000154972076,
+      "revision" : 3,
+      "usesLanguageCorrection" : false
+    },
+    {
+      "clockwise_rotation" : 270,
+      "file" : "05-146-original.png",
+      "lines" : [
+        {
+          "box" : [
+            0.18531989428530687,
+            0.17236521796056337,
+            0.018637781950621435,
+            0.60508185009939386
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "muu enna N00 FeOWaro werute jrnarr vour"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.19313775152240822,
+            0.17416089698373738,
+            0.031099173781291622,
+            0.66898549578792266
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "18 crarai au Olu bine is dia bus 8 69-86 20 vraras, Vheuce S'604dr"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.21864762900591744,
+            0.18081096989975431,
+            0.035335583684005412,
+            0.66702780944172602
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "1369 vargo ar eta té ino et line f hwesidet e Voster currey, Phence"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.24161612956218487,
+            0.1809000205846818,
+            0.031485256603866585,
+            0.65788497110278576
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "h30 It 336 vanas to the Prgimning, conbaming iw all Big lly acres"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.4358236352344636,
+            0.17886895255264634,
+            0.03264555132127922,
+            0.62042969401620884
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "all' andteimular. thu caio premisce, unté thirais Ligž ie"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.45978237992432708,
+            0.18315015005573654,
+            0.032469560296807976,
+            0.64687453300503217
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Derg bas, her heirs d arigno frever. And wve herely hima"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.48621434386928358,
+            0.18763009808265219,
+            0.020321813823910018,
+            0.65091403947606208
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "ourselvia, heirs, executors &'administralors t varrant- andr"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.49717210367250536,
+            0.18458273410850978,
+            0.046256684777015333,
+            0.62446203265750111
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "forener deferu all deingules, tuo said premises ento the"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.52686821402117501,
+            0.18105980245769493,
+            0.052820328779655368,
+            0.64460271109041367
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "paie ferngis Danglke har hine eipetin de anil v"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.57122091681353759,
+            0.43013101497623907,
+            0.042151189683244494,
+            0.417030551679618
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "Inteo vuers hands fhas Pabode"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.61482557401565585,
+            0.60480349501250286,
+            0.023255826454320672,
+            0.17685589501866239
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Sralty Rope"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.63808139106412742,
+            0.60917030515123005,
+            0.027616287421163843,
+            0.16812227459564755
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Магу: Ворея"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.72210283988165613,
+            0.27217114270804277,
+            0.014104018767533644,
+            0.065147542444412343
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "WKARD"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.73255813205121656,
+            0.20087336350451668,
+            0.010174433390299553,
+            0.25545851955210186
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "to be the person'whose name is subscribed to the?"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.7428865338360785,
+            0.19854315868847083,
+            0.01405508720077242,
+            0.29720469301705676
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "the same for the purposes and consideration thereln expre"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.75872092387816792,
+            0.3296943270372783,
+            0.010174430002468871,
+            0.18340611033592369
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Given under my hand and seal of o"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.76744185685111266,
+            0.34934497999117808,
+            0.020348843065784661,
+            0.10698689769595549
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "5\/ A. D.18g \/."
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.83866278146349249,
+            0.17903929885777325,
+            0.030523274197530426,
+            0.33624454919129498
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "сонуогоуиаєяоі проно з"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.86191860253252339,
+            0.17903930502362608,
+            0.0072674460492944126,
+            0.069868990534989517
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Clerk of the .."
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.85644681958343905,
+            0.1760944857551493,
+            0.02809479139202653,
+            0.31985986784259612
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "che or hal y anpened setak Cot poo"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.88662790196676622,
+            0.1790393011752236,
+            0.018895358711816357,
+            0.17248908480715497
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "\"me to lie\""
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.87575512428636759,
+            0.35506736788456539,
+            0.021867692223521251,
+            0.1594758627677727
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "ulalter Ro"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.91929470763219578,
+            0.18479609172377109,
+            0.019268145428528283,
+            0.085169904172632593
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "to te the person"
+            }
+          ]
+        }
+      ],
+      "orientation_score" : 537.60000175237656,
+      "revision" : 3,
+      "usesLanguageCorrection" : false
+    },
+    {
+      "clockwise_rotation" : 270,
+      "file" : "05-146-original.png",
+      "lines" : [
+        {
+          "box" : [
+            0.19313775152240822,
+            0.17416089698373738,
+            0.031099173781291622,
+            0.66898549578792266
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "18 caral au Olu bine is dia bus 8 69-86 20 varas, Vheuce S'60 4"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "18 caral au Olu bine is dia bus 8 69-86 20 varas, Vheuce S'604dr"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "18 caral au Olu bine is dia bus 8 69-86 20 varas, Vheuce S 604"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.21864762900591744,
+            0.18081096989975431,
+            0.035335583684005412,
+            0.66702780944172602
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "1369 cargo ar eta té in et line f hiesid t e Poster currey, Phence"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "1369 cargo ar eta té in et line f hiesid t e Porter currey, Phence"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "1369 cargo ar eta té in it line f hiesid t e Poster currey, Phence"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.24161612956218487,
+            0.1809000205846818,
+            0.031485256603866585,
+            0.65788497110278576
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "h30 It 336 varas to the Porgiming, contaming iw all Big lly acres"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "h30 It 336 varas to the Prgiming, contaming iw all Big lly acres"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "h30 It 336 varas to the Prgiming, contaming iw all Sig lly acres"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.4358236352344636,
+            0.17886895255264634,
+            0.03264555132127922,
+            0.62042969401620884
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "all' and eimular. thu caio premisce, unté thirais Ligž ie"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "all and eimular. thu caio premisce, unté thirais Ligž ie"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "all' and eimular. thu caio premise, unté thirais Ligž ie"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.45978237992432708,
+            0.18315015005573654,
+            0.032469560296807976,
+            0.64687453300503217
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "Derg bas, her heiro d arigno frever. And eve herely hima"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "Derg bas, her heiro d arigno frever. And eve herely hina"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "Derg bas, her heiro l arigno frever. And eve herely hima"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.48621434386928358,
+            0.18763009808265219,
+            0.020321813823910018,
+            0.65091403947606208
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "ourselva, heirs, executors E'adminstralors t varrant- ander"
+            },
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "ourselva, heirs, executors E'adminstralors t varrant- ande"
+            },
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "ourselva, heirs, executors E'adminstalors t varrant- ander"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.49717210367250536,
+            0.18458273410850978,
+            0.046256684777015333,
+            0.62446203265750111
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "forener defenu all deingules, tuo said premise unto the"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "forener defenu all deingules, teo said premise unto the"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "forener defenu all deingules, tio said premise unto the"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.52686821402117501,
+            0.18105980245769493,
+            0.052820328779655368,
+            0.64460271109041367
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "pain fergi Dong ke har hin aieti de anil ve"
+            },
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "pain fergi Dong ke har hin aieti de ani ve"
+            },
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "pain fergi Dong ke har hin aieti de anil v"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.57122091681353759,
+            0.43013101497623907,
+            0.042151189683244494,
+            0.417030551679618
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "Intres vue hande flas Palates"
+            },
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "Intres vues hande flas Palotu"
+            },
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "Intres vues hande flas Palota"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.61482557401565585,
+            0.60480349501250286,
+            0.023255826454320672,
+            0.17685589501866239
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "Salt Rope"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "Salty Rope"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "Salta Rope"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.63808139106412742,
+            0.60917030515123005,
+            0.027616287421163843,
+            0.16812227459564755
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "Магу: Ворем"
+            },
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "Магу: Порем"
+            },
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "Магу: Ворен"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.72210283988165613,
+            0.27217114270804277,
+            0.014104018767533644,
+            0.065147542444412343
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "W*ARD"
+            },
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "W#ARD"
+            },
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "PKARD"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.73255813205121656,
+            0.20087336350451668,
+            0.010174433390299553,
+            0.25545851955210186
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "to be the person whose naine is subscribed to the?"
+            },
+            {
+              "confidence" : 1,
+              "text" : "to be the person whose naine is subscribed to the"
+            },
+            {
+              "confidence" : 1,
+              "text" : "to be the person whose name is subscribed to the?"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.7428865338360785,
+            0.19854315868847083,
+            0.01405508720077242,
+            0.29720469301705676
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "the same for the purposes and consideration thereln expre"
+            },
+            {
+              "confidence" : 1,
+              "text" : "the same for the purposes and consideration therein expre"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "the same for the purposes and consideration theren expre"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.75872092387816792,
+            0.3296943270372783,
+            0.010174430002468871,
+            0.18340611033592369
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Given under my hand and seal of o"
+            },
+            {
+              "confidence" : 1,
+              "text" : "Given under my hand and seal of"
+            },
+            {
+              "confidence" : 1,
+              "text" : "Gien under my hand and seal of o"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.76744185685111266,
+            0.34934497999117808,
+            0.020348843065784661,
+            0.10698689769595549
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "5\/ A. D. g \/."
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "5\/ A. D. 8g \/."
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "5\/ A. D. 89 \/."
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.83866278146349249,
+            0.17903929885777325,
+            0.030523274197530426,
+            0.33624454919129498
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "соно має і проно з"
+            },
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "соно має і проне з"
+            },
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "соно має і прон з"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.86191860253252339,
+            0.17903930502362608,
+            0.0072674460492944126,
+            0.069868990534989517
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Clerk of the .."
+            },
+            {
+              "confidence" : 1,
+              "text" : "Clerk of the.."
+            },
+            {
+              "confidence" : 1,
+              "text" : "Clerk of the ."
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.85644681958343905,
+            0.1760944857551493,
+            0.02809479139202653,
+            0.31985986784259612
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "che or hal y anee stak Cort poo"
+            },
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "che or hal y anee stak Cori poo"
+            },
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "che or hal y anee stak Cort pod"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.88662790196676622,
+            0.1790393011752236,
+            0.018895358711816357,
+            0.17248908480715497
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "\"me to lie\""
+            },
+            {
+              "confidence" : 1,
+              "text" : "\"me ta lie\""
+            },
+            {
+              "confidence" : 1,
+              "text" : "\"me to lia\""
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.87575512428636759,
+            0.35506736788456539,
+            0.021867692223521251,
+            0.1594758627677727
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "ulaller Ro"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "ullalter Ro"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "ellaller Ro"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.91929470763219578,
+            0.18479609172377109,
+            0.019268145428528283,
+            0.085169904172632593
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "to te the person"
+            },
+            {
+              "confidence" : 1,
+              "text" : "to te the peson"
+            },
+            {
+              "confidence" : 1,
+              "text" : "to te the pension"
+            }
+          ]
+        }
+      ],
+      "orientation_score" : 334.2000018954277,
+      "revision" : 3,
+      "usesLanguageCorrection" : true
+    },
+    {
+      "clockwise_rotation" : 270,
+      "file" : "05-146-contrast.png",
+      "lines" : [
+        {
+          "box" : [
+            0.18520514211331762,
+            0.17456746211890495,
+            0.015824131601445413,
+            0.6355932378259842
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "uu ennen N ou 'a Towaro Werine prer Tncar coao vorr v"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.19512772486520952,
+            0.17436629743117971,
+            0.024914744339305461,
+            0.66642755800294706
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "18 crarait au Olm 6 ine is dia bus S'69988 20 vasas. Vhence S60$h"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.21982903756450525,
+            0.18087656054776557,
+            0.029114029264930008,
+            0.66893836187722422
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "1369 varço ar etaké in St line of hvegidt & Vartes currer, Prence"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.24165152855568223,
+            0.18090341263551013,
+            0.031391902672884553,
+            0.65787726025564397
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "1h30 Vt 3360 vanas to tho POxgimning, conbaming iw all Big lly acres"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.26139274247594235,
+            0.17839989770532405,
+            0.03442981103385534,
+            0.62998153306411253
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "f bands more or lese, Tugethes with aliạidainqu bar tho ség hlo"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.27565946635558725,
+            0.17146791723944788,
+            0.067223649959440024,
+            0.63964409336076511
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "mn in n ene ineitnt gpeleaene, e del anese e epie"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.4358236352344636,
+            0.17886895255264634,
+            0.03264555132127922,
+            0.62042969401620884
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "all' andteimular. thu caio premisce, unté thirais Ligz ie"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.45976586511495954,
+            0.18530816656720395,
+            0.032453233211826749,
+            0.6447162560296652
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Dirugbas, her heiro d acigno firever. And we hereby hina"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.48691858546708444,
+            0.18558952072515256,
+            0.018895386943738046,
+            0.65283843885537141
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "oureelva. heirs, executors El'administraloro, to varsant and"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.50419356745559396,
+            0.18507040978764033,
+            0.028493778461390784,
+            0.62325045222489439
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "forever deferd all'aeinqulur, to laid fremises, unto the"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.52644814253358074,
+            0.18096787603974807,
+            0.054748160236329335,
+            0.64486759498026025
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "paie fezgis Dangke e hin ei hen he canií on"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.57268790466911534,
+            0.20158898195619002,
+            0.03922170997018859,
+            0.20810596289583805
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "any fvart huresf"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.57122091909797723,
+            0.43013101119268815,
+            0.021802347746736728,
+            0.39956331083358809
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Witvies ovir hande hhir Oelober"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.59439363236847664,
+            0.26587403193535608,
+            0.02249450186711921,
+            0.1732895603383563
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "0131X991890"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.61482557401565585,
+            0.60480349501250286,
+            0.023255826454320672,
+            0.17685589501866239
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Sralta Ropu"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.63808139106412742,
+            0.60917030515123005,
+            0.027616287421163843,
+            0.16812227459564755
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "Магу: Ворен"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.72205292662824616,
+            0.27220214097220774,
+            0.014003609114670024,
+            0.065097299759074079
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "***RD"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.73231646509659942,
+            0.20070327143684674,
+            0.012299106274927141,
+            0.23182689083004338
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "to be the person whoae name is subscribed to"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.74141344433413459,
+            0.19830630616241851,
+            0.019317691321906638,
+            0.24544886253058273
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "the same for the purposes anet consideration the"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.76017441475224989,
+            0.32969432949070598,
+            0.008720937743562418,
+            0.13537117085847139
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Given under my hand and"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.76744185685111266,
+            0.34934497999117808,
+            0.020348843065784661,
+            0.10698689769595549
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "5\/ A. D. 18g \/."
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.83575581158790424,
+            0.20960698979084058,
+            0.010174422662169169,
+            0.067685585429235751
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "THE ST"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.83619112130744344,
+            0.29843889992210848,
+            0.010144908446542922,
+            0.040455115647502593
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "S OP"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.85658173067574628,
+            0.17612193885399219,
+            0.027756064794979718,
+            0.31981984745989489
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "cihe or hae y anpoaed etale Corin pod"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.86095230177097692,
+            0.1787482396701906,
+            0.0098324205975620638,
+            0.072748421774216032
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Clerk of the ..."
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.84302324675755103,
+            0.18122271263795997,
+            0.026162808713579899,
+            0.33406113051010622
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "couтy оr рілисла ані тетот у"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.87433128156339268,
+            0.18033580300886587,
+            0.038667492502324263,
+            0.33666965036629781
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "me to lien walle Rd"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.92030411356769815,
+            0.18397566183063208,
+            0.01677102178705725,
+            0.053412467983693812
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "co be the"
+            }
+          ]
+        }
+      ],
+      "orientation_score" : 601.10000222921371,
+      "revision" : 3,
+      "usesLanguageCorrection" : false
+    },
+    {
+      "clockwise_rotation" : 270,
+      "file" : "05-146-contrast.png",
+      "lines" : [
+        {
+          "box" : [
+            0.19512772486520952,
+            0.17436629743117971,
+            0.024914744339305461,
+            0.66642755800294706
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "18 carait an Elm bine is dia bus 5'69988 20 vasas. hence 5604h"
+            },
+            {
+              "confidence" : 1,
+              "text" : "18 carait an Elm bine is dia bus 8'69988 20 vasas. hence 5604h"
+            },
+            {
+              "confidence" : 1,
+              "text" : "18 carait an Elm bine is dia bus bus S'69988 vasas. hence Vhence h"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.21982903756450525,
+            0.18087656054776557,
+            0.029114029264930008,
+            0.66893836187722422
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "1369 vanco ar také in St line of hesidH a Vorter currer, Thence"
+            },
+            {
+              "confidence" : 1,
+              "text" : "1369 vanco ar také in St line of hesidH & Vorter currer, Thence"
+            },
+            {
+              "confidence" : 1,
+              "text" : "1369 vanco ar také in St line of hesidH a Vorter currer, Trence"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.24165152855568223,
+            0.18090341263551013,
+            0.031391902672884553,
+            0.65787726025564397
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "1h30 It 3360 vanas to the POrginning, contaming in all Big lly acres"
+            },
+            {
+              "confidence" : 1,
+              "text" : "1h30 It 3360 vanas to the POrgining, contaming in all Big lly acres"
+            },
+            {
+              "confidence" : 1,
+              "text" : "1h30 It 3360 vanas to the Orginning, contaming in all Big lly acres"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.26139274247594235,
+            0.17839989770532405,
+            0.03442981103385534,
+            0.62998153306411253
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "of bands more or lese, Together with aliạideingw bar, tho sig llo"
+            },
+            {
+              "confidence" : 1,
+              "text" : "of bands more or lese, Together with aliạideingw bar, tho seg llo"
+            },
+            {
+              "confidence" : 1,
+              "text" : "of bands more or lese, Together with aliạideingw bar, tho sights"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.4358236352344636,
+            0.17886895255264634,
+            0.03264555132127922,
+            0.62042969401620884
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "all and emular. the caio premise, unto thirais diggie"
+            },
+            {
+              "confidence" : 1,
+              "text" : "all and emular. the caio premise, unto thirais Lizz ie"
+            },
+            {
+              "confidence" : 1,
+              "text" : "all and emular. the caio premise, unto thirais dizzie"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.45976586511495954,
+            0.18530816656720395,
+            0.032453233211826749,
+            0.6447162560296652
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Direglas, her heirs d cuigno forever. And we hereby hima"
+            },
+            {
+              "confidence" : 1,
+              "text" : "Direglas, her heiro d cuigno forever. And we hereby hima"
+            },
+            {
+              "confidence" : 1,
+              "text" : "Direglas, her heirs d cuigno forever. And me hereby hima"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.48691858546708444,
+            0.18558952072515256,
+            0.018895386943738046,
+            0.65283843885537141
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "ourselves. heirs, executors E'administraloro, to warrant and"
+            },
+            {
+              "confidence" : 1,
+              "text" : "ourselva. heirs, executors E'administraloro, to warrant and"
+            },
+            {
+              "confidence" : 1,
+              "text" : "ourselves. heirs, executors E'administraloro, to warrant andr"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.50419356745559396,
+            0.18507040978764033,
+            0.028493778461390784,
+            0.62325045222489439
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "forever deferd all' deingular, the laid fremises, unto the"
+            },
+            {
+              "confidence" : 1,
+              "text" : "forever deferd all' deingular, to laid fremises, unto the"
+            },
+            {
+              "confidence" : 1,
+              "text" : "forever deferd all'aRingular, the laid fremises, unto the"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.52644814253358074,
+            0.18096787603974807,
+            0.054748160236329335,
+            0.64486759498026025
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "pain fenge angle a in i ten he can on"
+            },
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "pain fenge angle a in i ten he cani"
+            },
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "pain fenge angle a in i ten a can on"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.57268790466911534,
+            0.20158898195619002,
+            0.03922170997018859,
+            0.20810596289583805
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "any part hires"
+            },
+            {
+              "confidence" : 1,
+              "text" : "any fart hires"
+            },
+            {
+              "confidence" : 1,
+              "text" : "any part hures"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.57122091909797723,
+            0.43013101119268815,
+            0.021802347746736728,
+            0.39956331083358809
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Nitries ovir hands this October"
+            },
+            {
+              "confidence" : 1,
+              "text" : "Nitries ovir hands this Delober"
+            },
+            {
+              "confidence" : 1,
+              "text" : "Nitries ovir hands this Detober"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.59439363236847664,
+            0.26587403193535608,
+            0.02249450186711921,
+            0.1732895603383563
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "0131X991890"
+            },
+            {
+              "confidence" : 1,
+              "text" : "0131X991890"
+            },
+            {
+              "confidence" : 1,
+              "text" : "0131X991890"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.61482557401565585,
+            0.60480349501250286,
+            0.023255826454320672,
+            0.17685589501866239
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Salty Rope"
+            },
+            {
+              "confidence" : 1,
+              "text" : "Salta Rope"
+            },
+            {
+              "confidence" : 1,
+              "text" : "Salty Roper"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.63808139106412742,
+            0.60917030515123005,
+            0.027616287421163843,
+            0.16812227459564755
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "Магу: Ворен"
+            },
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "Магу: Ворем"
+            },
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "Магу: Порен"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.73231646509659942,
+            0.20070327143684674,
+            0.012299106274927141,
+            0.23182689083004338
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "to be the person whose name is subscribed to"
+            },
+            {
+              "confidence" : 1,
+              "text" : "to be the person whoac name is subscribed to"
+            },
+            {
+              "confidence" : 1,
+              "text" : "to be the person whoae name is subscribed to"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.74141344433413459,
+            0.19830630616241851,
+            0.019317691321906638,
+            0.24544886253058273
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "the same for the purposes and consideration the"
+            },
+            {
+              "confidence" : 1,
+              "text" : "the same for the purposes anet consideration the"
+            },
+            {
+              "confidence" : 1,
+              "text" : "the same for the purposes ane consideration the"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.76017441475224989,
+            0.32969432949070598,
+            0.008720937743562418,
+            0.13537117085847139
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Given under my hand and"
+            },
+            {
+              "confidence" : 1,
+              "text" : "Given under my hand and."
+            },
+            {
+              "confidence" : 1,
+              "text" : "Given undermy hand and"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.79505813909453782,
+            0.49999999931442929,
+            0.0087209309679011637,
+            0.013100438270704617
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "Cle"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "CIe"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "Cie"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.83575581158790424,
+            0.20960698979084058,
+            0.010174422662169169,
+            0.067685585429235751
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "THE ST"
+            },
+            {
+              "confidence" : 1,
+              "text" : "THE ST."
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "THS ST"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.83619112130744344,
+            0.29843889992210848,
+            0.010144908446542922,
+            0.040455115647502593
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "S OP"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "S OF"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "G OP"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.85658173067574628,
+            0.17612193885399219,
+            0.027756064794979718,
+            0.31981984745989489
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "che or they peed tale Coin poo"
+            },
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "che or they peed tale coin poo"
+            },
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "che or they peed tale Coin pos"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.86095230177097692,
+            0.1787482396701906,
+            0.0098324205975620638,
+            0.072748421774216032
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Clerk of the ..."
+            },
+            {
+              "confidence" : 1,
+              "text" : "Clerk of the..."
+            },
+            {
+              "confidence" : 1,
+              "text" : "Clerk of the .."
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.84302324675755103,
+            0.18122271263795997,
+            0.026162808713579899,
+            0.33406113051010622
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "сону обілила ані терок з"
+            },
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "сону обілила ані терок у"
+            },
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "сону обілила ані татон з"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.92030411356769815,
+            0.18397566183063208,
+            0.01677102178705725,
+            0.053412467983693812
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "to be the"
+            },
+            {
+              "confidence" : 1,
+              "text" : "co be the"
+            },
+            {
+              "confidence" : 1,
+              "text" : "to be he"
+            }
+          ]
+        }
+      ],
+      "orientation_score" : 558.30000096559525,
+      "revision" : 3,
+      "usesLanguageCorrection" : true
+    }
+  ]
+}

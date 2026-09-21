@@ -1,0 +1,2029 @@
+{
+  "best_clockwise_rotation" : 180,
+  "engine" : "Apple Vision",
+  "os" : "Version 27.0 (Build 26A428)",
+  "page_id" : "04-067",
+  "records" : [
+    {
+      "clockwise_rotation" : 0,
+      "file" : "04-067-original.png",
+      "lines" : [
+        {
+          "box" : [
+            0.25683059048238455,
+            0.71249999942692499,
+            0.58469947439725278,
+            0.03750000119302499
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "and ferrahs the dheahest"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.42095238548691699,
+            0.68604651108399128,
+            0.3657142764232198,
+            0.030528938705050579
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "bsst ts painti"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.26285713826870366,
+            0.6453488373915981,
+            0.57142858036228872,
+            0.033430232211330013
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "of this is done the smill"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.22950820169558458,
+            0.60398749025737686,
+            0.51912567263743914,
+            0.041845843603687372
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "wonld be oit by coldd"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.24380951310127666,
+            0.57974980501483886,
+            0.58285716322601822,
+            0.032168799214665089
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "wrathen. The wallswould."
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.24288748854568995,
+            0.54104543552645301,
+            0.48900438527591894,
+            0.038765830486616748
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "lave to hane a puvd"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.24541105847772582,
+            0.50566327967448232,
+            0.59873749779873209,
+            0.0383434966730829
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "cvat of oil first lo tesh,"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.25683061220666237,
+            0.46666666629212206,
+            0.53005462396340297,
+            0.04166666766085414
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Îa patat from peebáris"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.24153863325175579,
+            0.43290596824905891,
+            0.58171794453605274,
+            0.040617518540562059
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "off. Oil, pait, andputting"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.24886878837158377,
+            0.39504705522218542,
+            0.59338891701620133,
+            0.044566474359794106
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "F on, raill likily cost aboit"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.22950818668115508,
+            0.36239249474205204,
+            0.60109291702020373,
+            0.041829554339327557
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "fifty dotlars, but youmigt"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.26666666963167274,
+            0.33575581503687935,
+            0.55999999749855911,
+            0.036409938773482531
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "t it don Cheapiar Paper"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.24043714779760494,
+            0.29583333276914847,
+            0.55191258915135122,
+            0.037630310834059988
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "mright leck niconsbit aje"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.42240034886520622,
+            0.26382095881724033,
+            0.38743744521844575,
+            0.031699904620041575
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "ot pape orertiad"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.23413780945684401,
+            0.22128175991815713,
+            0.28758780682673213,
+            0.048457866725369891
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "wit ceiling"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.42285714745509112,
+            0.22517591914927937,
+            0.34476189535172258,
+            0.03645198842899422
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "ling umder the"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.2387875213123932,
+            0.18264421179432189,
+            0.52732542694592077,
+            0.0559472418838034
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "furslzz and that seondd"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.22950820694090973,
+            0.15402658269981895,
+            0.53005462396340297,
+            0.041829554339327557
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "mnake trat haibors lö"
+            }
+          ]
+        }
+      ],
+      "orientation_score" : 307.20000028610229,
+      "revision" : 3,
+      "usesLanguageCorrection" : false
+    },
+    {
+      "clockwise_rotation" : 90,
+      "file" : "04-067-original.png",
+      "lines" : [
+        {
+          "box" : [
+            0.71507657190924911,
+            0.16173716345944222,
+            0.040166936878863524,
+            0.57941880773325438
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "and fertaps the cheahest"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.68168602828627767,
+            0.20380951555766003,
+            0.04069771069488648,
+            0.561904782154521
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "and the bost ts paiviti"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.64244184038672025,
+            0.15809525274529934,
+            0.042151202812522826,
+            0.59999997498559166
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "ffithis is done the smill"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.59999998315876191,
+            0.24043716284153005,
+            0.050000033404698496,
+            0.52459016393442615
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "wculd be out bi, cold"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.57581980716481684,
+            0.17493214865108231,
+            0.038494876625949859,
+            0.57966394893458628
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "watken. The wallswould."
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.53733212316582513,
+            0.26405187560544086,
+            0.045360478691238271,
+            0.50246526374191536
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "lave to hane a guvd"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.50392793936621361,
+            0.15392798697398924,
+            0.042594190870438586,
+            0.60064697265625
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "cvat of oil first lo kech,"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.46439153050919429,
+            0.19305541245500391,
+            0.056057560900583059,
+            0.55843253213851185
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Le pasat from peeláriz"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.4328409200753463,
+            0.17471903395620669,
+            0.042494531531553914,
+            0.58575220577052389
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "off. Oil paint, and puttmp"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.36030749637523596,
+            0.14769148920081032,
+            0.083862919095347321,
+            0.61652743230100537
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "it on, lalo hekb, t gramiet"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.33267017551034617,
+            0.16157881222016934,
+            0.045004037136766872,
+            0.58529356659435838
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "et it done chiapsar Paper"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.29024447319076468,
+            0.1908478527777755,
+            0.057324651818055461,
+            0.46964811106197168
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : ".. laok mnicongbrit njen"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.26241945101373304,
+            0.18823327662174349,
+            0.035065815726512073,
+            0.43307860952908872
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "onăt pafes overtiade"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.22238370729823492,
+            0.23047620015104497,
+            0.040697701747199388,
+            0.42285712820584653
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "ceitiny îmder the"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.20251625244884189,
+            0.62645781232594877,
+            0.0208080178410677,
+            0.12807639700467466
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "11215"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.19912789509437098,
+            0.22476191393827083,
+            0.033430256071828895,
+            0.38095236606285221
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "and That wonld"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.15843021586290429,
+            0.24000000079850614,
+            0.034883761610995989,
+            0.51619048196761341
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "maketrat haibors là"
+            }
+          ]
+        }
+      ],
+      "orientation_score" : 259.50000023841858,
+      "revision" : 3,
+      "usesLanguageCorrection" : false
+    },
+    {
+      "clockwise_rotation" : 180,
+      "file" : "04-067-original.png",
+      "lines" : [
+        {
+          "box" : [
+            0.1635150797617104,
+            0.24474296544062968,
+            0.57956445412557633,
+            0.040067945633948665
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "and fertaps the dhealest"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.21510239277393781,
+            0.27953618851553697,
+            0.55074522925204916,
+            0.033619114903382097
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "and the bost to hainiti"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.16000000395501962,
+            0.31540693812081166,
+            0.5961904682096888,
+            0.039244263315685535
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "ffithis i's done the smill"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.25136611289951594,
+            0.34583330045485328,
+            0.51366121260846254,
+            0.045833399745055403
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "mould be aut bi, cold"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.17474960465328179,
+            0.38215582558866001,
+            0.58208378025742824,
+            0.045928391373837862
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "weather . The wallswould."
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.26808979891959145,
+            0.41960997218262897,
+            0.49835314516161316,
+            0.040924173672745479
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "have to have a guvd"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.18245691818654639,
+            0.44996099803234357,
+            0.57409267738217207,
+            0.04435424864338755
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "suat of oil first lo kesh"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.19700579857145456,
+            0.48038025146281571,
+            0.56201371990266402,
+            0.055017651758499708
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "ie patat from pelárig"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.17098997721095549,
+            0.52354243203739004,
+            0.58943589007268193,
+            0.045035260090891205
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "off. Dil paînt, and puttmg"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.15807814423165165,
+            0.55105587122988164,
+            0.59637788866387031,
+            0.041713246337317988
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "I on raill likeli, cost abois"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.15300546428616293,
+            0.58333329130793965,
+            0.62295081967213117,
+            0.050000084108258624
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "fift dallais, brit youmigte"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.16509859608060173,
+            0.62193666001543069,
+            0.60923960951508072,
+            0.054402921794446946
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "pet it dom cheapsaie Paper"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.19002515380655224,
+            0.65583886177388095,
+            0.57252020914046486,
+            0.048984500744829296
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "mright lack micony bet ven"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.19238095918311776,
+            0.70203484442906139,
+            0.56952379570632683,
+            0.030523332979084383
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "couldionot pafer oreahead"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.23238094516096292,
+            0.7267441500035936,
+            0.53523810965115914,
+            0.046511700043368798
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "wimt ceiling îder Ithe"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.22998789976508702,
+            0.76496425709900673,
+            0.53249759361392157,
+            0.04497285892107783
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "fiuc le, and that reonld"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.23453748438572586,
+            0.79716163371453852,
+            0.51459177986520233,
+            0.042039671384141886
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "nakéhat haibors là"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.48150366955468404,
+            0.83899730988880694,
+            0.2711485565685835,
+            0.028734369702969276
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "hebeclteo"
+            }
+          ]
+        }
+      ],
+      "orientation_score" : 326.40000033378601,
+      "revision" : 3,
+      "usesLanguageCorrection" : false
+    },
+    {
+      "clockwise_rotation" : 270,
+      "file" : "04-067-original.png",
+      "lines" : [
+        {
+          "box" : [
+            0.2454463554192729,
+            0.25316621516730242,
+            0.039019537680404448,
+            0.58705745759557515
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "and ferkaps the cheahest"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.28197672224252507,
+            0.23428572430163275,
+            0.031976783340847803,
+            0.54857141463482961
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "and the bost to hainite"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.31540695702755467,
+            0.24190476788245718,
+            0.040697713677448788,
+            0.5961904682096888
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "ffithis is done the smill"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.33504096715264819,
+            0.22909852602402314,
+            0.066163606621307491,
+            0.51909728128401966
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "would be out b, cold"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.38517439299027945,
+            0.24000002190335445,
+            0.034883766084839563,
+            0.58857139212186227
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "wssather. The wallswould."
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.41820368615516718,
+            0.23340278784001467,
+            0.04256398049623733,
+            0.50818011799796681
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "have to have a guvd"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.45494184012192901,
+            0.24190477453654402,
+            0.037790738389862966,
+            0.58476188534595941
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "svat of oil finst lo keeh"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.47919131595750353,
+            0.23707350025471696,
+            0.054834796824988374,
+            0.56418941060050598
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "the pasat from peelárig"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.52163280489988539,
+            0.2356214415766994,
+            0.048549553675051205,
+            0.59166429863601433
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "off. Oil, paînt, andputtng"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.52145560623775344,
+            0.22017897393273567,
+            0.15307003972677624,
+            0.62314261764776513
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "в от поло вов ви унанн."
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.6248107528385699,
+            0.22221884816730431,
+            0.045590308982007999,
+            0.60482431630619249
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Get it dom Chiapiair Paper"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.65703458379217128,
+            0.22427618315334674,
+            0.046112184323213179,
+            0.58559373949394844
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Aníght leok micony buut aen"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.70348835395156983,
+            0.23619048594683645,
+            0.029069803579418463,
+            0.56952379570632683
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "coutd, crot pafer oveahead"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.72561866419641441,
+            0.22583930958778697,
+            0.054295281118671768,
+            0.5425690822914
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "witt, Ceiling îmder the"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.76020357105703806,
+            0.23661776278959956,
+            0.049987959992242481,
+            0.52981154645075568
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "fuclz and Ihat mondol"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.80388279761606751,
+            0.23029463987635002,
+            0.035366820394293841,
+            0.52796223124519714
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "enakerat haibors lä"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.84011627327639127,
+            0.24190476648289183,
+            0.027616290583845404,
+            0.18666666062151804
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "trenboci"
+            }
+          ]
+        }
+      ],
+      "orientation_score" : 306.10000020265579,
+      "revision" : 3,
+      "usesLanguageCorrection" : false
+    },
+    {
+      "clockwise_rotation" : 180,
+      "file" : "04-067-original.png",
+      "lines" : [
+        {
+          "box" : [
+            0.1635150797617104,
+            0.24474296544062968,
+            0.57956445412557633,
+            0.040067945633948665
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "and fertians the cheatest"
+            },
+            {
+              "confidence" : 1,
+              "text" : "and fertiaps the cheatest"
+            },
+            {
+              "confidence" : 1,
+              "text" : "and fertaps the cheatest"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.21510239277393781,
+            0.27953618851553697,
+            0.55074522925204916,
+            0.033619114903382097
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "and the best to hairiti"
+            },
+            {
+              "confidence" : 1,
+              "text" : "and the best to hairite"
+            },
+            {
+              "confidence" : 1,
+              "text" : "and the best to hainti"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.16000000395501962,
+            0.31540693812081166,
+            0.5961904682096888,
+            0.039244263315685535
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "ffithis is done the smill"
+            },
+            {
+              "confidence" : 1,
+              "text" : "ffithis i's done the smill"
+            },
+            {
+              "confidence" : 1,
+              "text" : "Afithis is done the smill"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.25136611289951594,
+            0.34583330045485328,
+            0.51366121260846254,
+            0.045833399745055403
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "would be out bi, cold"
+            },
+            {
+              "confidence" : 1,
+              "text" : "mould be out bi, cold"
+            },
+            {
+              "confidence" : 1,
+              "text" : "would be out bi, cald"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.17474960465328179,
+            0.38215582558866001,
+            0.58208378025742824,
+            0.045928391373837862
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "weather. The wallswould."
+            },
+            {
+              "confidence" : 1,
+              "text" : "weather . The wallswould."
+            },
+            {
+              "confidence" : 1,
+              "text" : "Weather. The wallswould."
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.26808979891959145,
+            0.41960997218262897,
+            0.49835314516161316,
+            0.040924173672745479
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "have to have a gurd"
+            },
+            {
+              "confidence" : 1,
+              "text" : "have to have a gued"
+            },
+            {
+              "confidence" : 1,
+              "text" : "Have to have a gurd"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.18245691818654639,
+            0.44996099803234357,
+            0.57409267738217207,
+            0.04435424864338755
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "suat of oil first lo kish"
+            },
+            {
+              "confidence" : 1,
+              "text" : "cuat of oil first lo kish"
+            },
+            {
+              "confidence" : 1,
+              "text" : "suat of oil first lo kesh"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.19700579857145456,
+            0.48038025146281571,
+            0.56201371990266402,
+            0.055017651758499708
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Le paint from pelárig"
+            },
+            {
+              "confidence" : 1,
+              "text" : "Le paint from pulárig"
+            },
+            {
+              "confidence" : 1,
+              "text" : "Le paint from pularig"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.17098997721095549,
+            0.52354243203739004,
+            0.58943589007268193,
+            0.045035260090891205
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "off. Oil, paint, and puttma"
+            },
+            {
+              "confidence" : 1,
+              "text" : "off. Dil, paint, and puttma"
+            },
+            {
+              "confidence" : 1,
+              "text" : "off. Oil paint, and puttma"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.15807814423165165,
+            0.55105587122988164,
+            0.59637788866387031,
+            0.041713246337317988
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "I on, raill likeli, cost aboid"
+            },
+            {
+              "confidence" : 1,
+              "text" : "I on raill likeli, cost aboid"
+            },
+            {
+              "confidence" : 1,
+              "text" : "I on raill likeli, cost abois"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.15300546428616293,
+            0.58333329130793965,
+            0.62295081967213117,
+            0.050000084108258624
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "fift, dollars, brit youmigt"
+            },
+            {
+              "confidence" : 1,
+              "text" : "fift dollars, brit youmigt"
+            },
+            {
+              "confidence" : 1,
+              "text" : "fift dollars, brit youmict"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.16509859608060173,
+            0.62193666001543069,
+            0.60923960951508072,
+            0.054402921794446946
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "pet it done cheapsai Paper"
+            },
+            {
+              "confidence" : 1,
+              "text" : "pet it done cheapesi Paper"
+            },
+            {
+              "confidence" : 1,
+              "text" : "get it done cheapsai Paper"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.19002515380655224,
+            0.65583886177388095,
+            0.57252020914046486,
+            0.048984500744829296
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "right lack nicony bet ven"
+            },
+            {
+              "confidence" : 1,
+              "text" : "right lock nicony bet ven"
+            },
+            {
+              "confidence" : 1,
+              "text" : "right lack nicong bet ven"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.19238095918311776,
+            0.70203484442906139,
+            0.56952379570632683,
+            0.030523332979084383
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "could not paper overhead"
+            },
+            {
+              "confidence" : 1,
+              "text" : "could not paper overheade"
+            },
+            {
+              "confidence" : 1,
+              "text" : "could not pater overhead"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.23238094516096292,
+            0.7267441500035936,
+            0.53523810965115914,
+            0.046511700043368798
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "it ceiling inder the"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "it ceiling inder Ithe"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "it ceiling inder thi"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.22998789976508702,
+            0.76496425709900673,
+            0.53249759361392157,
+            0.04497285892107783
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "fine le, and that reontd"
+            },
+            {
+              "confidence" : 1,
+              "text" : "fine le, and That reontd"
+            },
+            {
+              "confidence" : 1,
+              "text" : "fine le, and that ronto"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.23453748438572586,
+            0.79716163371453852,
+            0.51459177986520233,
+            0.042039671384141886
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "nake hat haibors la"
+            },
+            {
+              "confidence" : 1,
+              "text" : "nake hat haibors lo"
+            },
+            {
+              "confidence" : 1,
+              "text" : "nake hat haibers la"
+            }
+          ]
+        }
+      ],
+      "orientation_score" : 323.5,
+      "revision" : 3,
+      "usesLanguageCorrection" : true
+    },
+    {
+      "clockwise_rotation" : 180,
+      "file" : "04-067-contrast.png",
+      "lines" : [
+        {
+          "box" : [
+            0.16176040596733346,
+            0.2436463912500747,
+            0.58317772286837222,
+            0.041070888898072533
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "and feikans the cheahest"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.21689412581625228,
+            0.27785262568750357,
+            0.54908521058129489,
+            0.038551142664977278
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "and the best to paivite"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.16000000395303518,
+            0.31540693812044007,
+            0.5961904682096888,
+            0.039244263315685424
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "ffithis is done the smill"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.24839034950797995,
+            0.33796871877521484,
+            0.51847717410228289,
+            0.061277024162477489
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "wauld be out b, cold"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.58514942506647949,
+            0.38836707773238499,
+            0.17221017743720379,
+            0.031250005965124728
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "wralhen"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.17470481544411703,
+            0.38509859884490183,
+            0.418098762387135,
+            0.038713814598960394
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : ".. the wallswould."
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.26221881859658985,
+            0.41593994107134347,
+            0.50436051165471318,
+            0.045299409235521115
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "lave to hane a guvd"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.15428571529402269,
+            0.45203484322201515,
+            0.60190475964155354,
+            0.040697753942040782
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "cvat of oil first lo keeh,"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.1928952727562947,
+            0.47755130318637495,
+            0.56054399834304569,
+            0.059511615672644624
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Ee pant from puláig"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.17113839153533103,
+            0.52393108770385566,
+            0.58915985607710042,
+            0.044569258581762528
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "off. Oil paint, andputtmp"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.14736357970835609,
+            0.55322062576474873,
+            0.62084604482181738,
+            0.091847161001484268
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "Sr on dalo dez b, ł yrangte"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.15752689286951507,
+            0.62180152470788363,
+            0.61499611276095034,
+            0.05308692580186547
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Jet it don Cheapiair Paper"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.19030871726380824,
+            0.65950164799975419,
+            0.52790325977763186,
+            0.044266968429601317
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "ight lack micony but njiu"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.18826280854747562,
+            0.69937491965184218,
+            0.57395991341012431,
+            0.036808740169951726
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "contd mot pofuer oreahiad"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.22966384655798311,
+            0.72253062922784506,
+            0.5387418152856045,
+            0.057001127313132227
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "wint, ceiting înder Ihe"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.22786307342635162,
+            0.76417031843671879,
+            0.53301207745661505,
+            0.046128249895395657
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "furs 13 and That seonld"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.24173632152097596,
+            0.80412445828193069,
+            0.46891740892754225,
+            0.036583070553681929
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "akểnat hiaibers là"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.55913372403005734,
+            0.8392143193857543,
+            0.12161773931784714,
+            0.028508285510530751
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "Secl"
+            }
+          ]
+        }
+      ],
+      "orientation_score" : 278.20000028610229,
+      "revision" : 3,
+      "usesLanguageCorrection" : false
+    },
+    {
+      "clockwise_rotation" : 180,
+      "file" : "04-067-contrast.png",
+      "lines" : [
+        {
+          "box" : [
+            0.16176040596733346,
+            0.2436463912500747,
+            0.58317772286837222,
+            0.041070888898072533
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "and feikans the cheakest"
+            },
+            {
+              "confidence" : 1,
+              "text" : "and feikans the chealest"
+            },
+            {
+              "confidence" : 1,
+              "text" : "and furkans the chealest"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.21689412581625228,
+            0.27785262568750357,
+            0.54908521058129489,
+            0.038551142664977278
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "and the best to painte"
+            },
+            {
+              "confidence" : 1,
+              "text" : "and the best to painti"
+            },
+            {
+              "confidence" : 1,
+              "text" : "and the best to painite"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.16000000395303518,
+            0.31540693812044007,
+            0.5961904682096888,
+            0.039244263315685424
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "If this is done the smill"
+            },
+            {
+              "confidence" : 1,
+              "text" : "of this is done the smill"
+            },
+            {
+              "confidence" : 1,
+              "text" : "If this 's done the smill"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.24839034950797995,
+            0.33796871877521484,
+            0.51847717410228289,
+            0.061277024162477489
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "would be out by cold"
+            },
+            {
+              "confidence" : 1,
+              "text" : "would be out b, cold"
+            },
+            {
+              "confidence" : 1,
+              "text" : "would be out by Cold"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.58514942506647949,
+            0.38836707773238499,
+            0.17221017743720379,
+            0.031250005965124728
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "wrather"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "walter"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "walten"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.17470481544411703,
+            0.38509859884490183,
+            0.418098762387135,
+            0.038713814598960394
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : ".. the walls would."
+            },
+            {
+              "confidence" : 1,
+              "text" : ".. The walls would."
+            },
+            {
+              "confidence" : 1,
+              "text" : ".. the walls would"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.26221881859658985,
+            0.41593994107134347,
+            0.50436051165471318,
+            0.045299409235521115
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "lave to have a gund"
+            },
+            {
+              "confidence" : 1,
+              "text" : "Have to have a gund"
+            },
+            {
+              "confidence" : 1,
+              "text" : "lave to have a gurd"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.15428571529402269,
+            0.45203484322201515,
+            0.60190475964155354,
+            0.040697753942040782
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "coat of oil first to keeh,"
+            },
+            {
+              "confidence" : 1,
+              "text" : "coat of oil first lo keeh,"
+            },
+            {
+              "confidence" : 1,
+              "text" : "coat of oil first to Keeh,"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.1928952727562947,
+            0.47755130318637495,
+            0.56054399834304569,
+            0.059511615672644624
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Ee pant from puláig"
+            },
+            {
+              "confidence" : 1,
+              "text" : "Ee pant from peláig"
+            },
+            {
+              "confidence" : 1,
+              "text" : "is pant from puláig"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.17113839153533103,
+            0.52393108770385566,
+            0.58915985607710042,
+            0.044569258581762528
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "off. Oil paint, and putting"
+            },
+            {
+              "confidence" : 1,
+              "text" : "off. Oil, paint, and putting"
+            },
+            {
+              "confidence" : 1,
+              "text" : "off. Oil point, and putting"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.14736357970835609,
+            0.55322062576474873,
+            0.62084604482181738,
+            0.091847161001484268
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "Sion dale be but ranit"
+            },
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "Sion dale he but ranit"
+            },
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "Sion dale be but range"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.15752689286951507,
+            0.62180152470788363,
+            0.61499611276095034,
+            0.05308692580186547
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "get it don Cheapiair Paper"
+            },
+            {
+              "confidence" : 1,
+              "text" : "Get it don Cheapiair Paper"
+            },
+            {
+              "confidence" : 1,
+              "text" : "get it don Cheapiar Paper"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.19030871726380824,
+            0.65950164799975419,
+            0.52790325977763186,
+            0.044266968429601317
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "ight lack micon y but nin"
+            },
+            {
+              "confidence" : 1,
+              "text" : "ight look micon y but nin"
+            },
+            {
+              "confidence" : 1,
+              "text" : "ight lack micong but sin"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.22966384655798311,
+            0.72253062922784506,
+            0.5387418152856045,
+            0.057001127313132227
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "win, ceiling under the"
+            },
+            {
+              "confidence" : 1,
+              "text" : "win, Ceiling under the"
+            },
+            {
+              "confidence" : 1,
+              "text" : "win, ceiling under The"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.22786307342635162,
+            0.76417031843671879,
+            0.53301207745661505,
+            0.046128249895395657
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "furs 13 and That seontd"
+            },
+            {
+              "confidence" : 1,
+              "text" : "furs 13 and That sontd"
+            },
+            {
+              "confidence" : 1,
+              "text" : "furs 13 and That seonld"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.55913372403005734,
+            0.8392143193857543,
+            0.12161773931784714,
+            0.028508285510530751
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "Seal"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "Sect"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "Seat"
+            }
+          ]
+        }
+      ],
+      "orientation_score" : 247.90000021457672,
+      "revision" : 3,
+      "usesLanguageCorrection" : true
+    }
+  ]
+}

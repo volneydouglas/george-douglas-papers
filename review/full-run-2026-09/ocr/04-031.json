@@ -1,0 +1,579 @@
+{
+  "best_clockwise_rotation" : 270,
+  "engine" : "Apple Vision",
+  "os" : "Version 27.0 (Build 26A428)",
+  "page_id" : "04-031",
+  "records" : [
+    {
+      "clockwise_rotation" : 0,
+      "file" : "04-031-original.png",
+      "lines" : [
+        {
+          "box" : [
+            0.52087112906630517,
+            0.396802322028599,
+            0.050816725563699428,
+            0.28197675364144548
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "Lrand Ovsoru"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.57131940261594538,
+            0.37042127702782501,
+            0.049818631133883851,
+            0.30871603556187543
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "Noth Yort gror"
+            }
+          ]
+        }
+      ],
+      "orientation_score" : 6.900000274181366,
+      "revision" : 3,
+      "usesLanguageCorrection" : false
+    },
+    {
+      "clockwise_rotation" : 90,
+      "file" : "04-031-original.png",
+      "lines" : [
+        {
+          "box" : [
+            0.34720657842755992,
+            0.46327378285569853,
+            0.28663912686434662,
+            0.062496555190128422
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Balla Douglas"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.42796636887091538,
+            0.42060777812026884,
+            0.25033162753783794,
+            0.053926964814936196
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "grand Piearn"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.40406976299226099,
+            0.37931034519920326,
+            0.31686047401547807,
+            0.045372050375943052
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "orth Hort Worth"
+            }
+          ]
+        }
+      ],
+      "orientation_score" : 29.5,
+      "revision" : 3,
+      "usesLanguageCorrection" : false
+    },
+    {
+      "clockwise_rotation" : 180,
+      "file" : "04-031-original.png",
+      "lines" : [
+        {
+          "box" : [
+            0.69166392222417539,
+            0.77457513823313939,
+            0.078936570304848241,
+            0.14367172336877321
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "Поб Догді"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.68482393567948663,
+            0.84089892536081923,
+            0.040292099103638068,
+            0.060912344522984441
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "Oak"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.46642466206063804,
+            0.33139534534214088,
+            0.063520911624919685,
+            0.35174419438951066
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Belda Dongkas."
+            }
+          ]
+        }
+      ],
+      "orientation_score" : 15.900000095367432,
+      "revision" : 3,
+      "usesLanguageCorrection" : false
+    },
+    {
+      "clockwise_rotation" : 270,
+      "file" : "04-031-original.png",
+      "lines" : [
+        {
+          "box" : [
+            0.81231187728461063,
+            0.24209855237121847,
+            0.087817613607663714,
+            0.032419311194648803
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "e0 Do"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.75419275654548013,
+            0.24430967601940845,
+            0.052101960376512269,
+            0.032112185098048363
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "gla"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.8415697648958943,
+            0.27767694411850352,
+            0.061046516633706416,
+            0.032667890468377037
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Oak"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.16191456923611361,
+            0.26727266737217092,
+            0.065662886281745964,
+            0.047798836733288441
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "SITED STA"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.36627907081782379,
+            0.47912882313480831,
+            0.30668604261822835,
+            0.049001882405519392
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Jella Dongkas"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.31765991607111321,
+            0.52560684837963645,
+            0.39216977301809852,
+            0.059557416880399283
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "1715 grand Oisorue"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.28052325096457947,
+            0.57713244775008543,
+            0.34447675364144542,
+            0.041742362191464544
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "Norah Hort oreh"
+            }
+          ]
+        }
+      ],
+      "orientation_score" : 43.300000071525574,
+      "revision" : 3,
+      "usesLanguageCorrection" : false
+    },
+    {
+      "clockwise_rotation" : 270,
+      "file" : "04-031-original.png",
+      "lines" : [
+        {
+          "box" : [
+            0.81231187728461063,
+            0.24209855237121847,
+            0.087817613607663714,
+            0.032419311194648803
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "e0 Dor"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "es Dor"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "e0 Der"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.75419275654548013,
+            0.24430967601940845,
+            0.052101960376512269,
+            0.032112185098048363
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "gla"
+            },
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "pla"
+            },
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "Pla"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.8415697648958943,
+            0.27767694411850352,
+            0.061046516633706416,
+            0.032667890468377037
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Oak"
+            },
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "Oa"
+            },
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "Ok"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.16191456923611361,
+            0.26727266737217092,
+            0.065662886281745964,
+            0.047798836733288441
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "SITED STA"
+            },
+            {
+              "confidence" : 1,
+              "text" : "HITED STA"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "FITED STA"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.36627907081782379,
+            0.47912882313480831,
+            0.30668604261822835,
+            0.049001882405519392
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Jella Dongkas"
+            },
+            {
+              "confidence" : 1,
+              "text" : "jella Dongkas"
+            },
+            {
+              "confidence" : 1,
+              "text" : "Jalla Dongkas"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.31765991607111321,
+            0.52560684837963645,
+            0.39216977301809852,
+            0.059557416880399283
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "1715 grand Oisorue"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "1715 grand Oisorne"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "1715 grand Oisarue"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.28052325096457947,
+            0.57713244775008543,
+            0.34447675364144542,
+            0.041742362191464544
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "Norah Hort oreh"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "Norah Fort oreh"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "Noran Hort oreh"
+            }
+          ]
+        }
+      ],
+      "orientation_score" : 39,
+      "revision" : 3,
+      "usesLanguageCorrection" : true
+    },
+    {
+      "clockwise_rotation" : 270,
+      "file" : "04-031-contrast.png",
+      "lines" : [
+        {
+          "box" : [
+            0.16115673746364637,
+            0.26889068569284402,
+            0.065659860832190442,
+            0.044971174638021472
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "SITED STA"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.35174418961422677,
+            0.47549905583219043,
+            0.32848836486242411,
+            0.050816770398535049
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Zella Donghas."
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.31755604664062731,
+            0.52426839397178027,
+            0.39086110464831503,
+            0.060256860865668616
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "1715 grand Oioorne"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.25145348130921613,
+            0.57531756349455154,
+            0.37790699064918448,
+            0.045372132573141766
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "North Hot north"
+            }
+          ]
+        }
+      ],
+      "orientation_score" : 38.5,
+      "revision" : 3,
+      "usesLanguageCorrection" : false
+    },
+    {
+      "clockwise_rotation" : 270,
+      "file" : "04-031-contrast.png",
+      "lines" : [
+        {
+          "box" : [
+            0.16115673746364637,
+            0.26889068569284402,
+            0.065659860832190442,
+            0.044971174638021472
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "SITED STA"
+            },
+            {
+              "confidence" : 1,
+              "text" : "SATED STA"
+            },
+            {
+              "confidence" : 1,
+              "text" : "SITED ST"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.35174418961422677,
+            0.47549905583219043,
+            0.32848836486242411,
+            0.050816770398535049
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Zella Donglas."
+            },
+            {
+              "confidence" : 1,
+              "text" : "Zella Dongkas."
+            },
+            {
+              "confidence" : 1,
+              "text" : "Bella Donglas."
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.31755604664062731,
+            0.52426839397178027,
+            0.39086110464831503,
+            0.060256860865668616
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "1715 grand Oisone"
+            },
+            {
+              "confidence" : 1,
+              "text" : "1915 grand Oisone"
+            },
+            {
+              "confidence" : 1,
+              "text" : "1715 grand Pisane"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.25145348130921613,
+            0.57531756349455154,
+            0.37790699064918448,
+            0.045372132573141766
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "North Hot north"
+            },
+            {
+              "confidence" : 1,
+              "text" : "North Hot north"
+            },
+            {
+              "confidence" : 1,
+              "text" : "North Hort north"
+            }
+          ]
+        }
+      ],
+      "orientation_score" : 44,
+      "revision" : 3,
+      "usesLanguageCorrection" : true
+    }
+  ]
+}

@@ -1,0 +1,2723 @@
+{
+  "best_clockwise_rotation" : 0,
+  "engine" : "Apple Vision",
+  "os" : "Version 27.0 (Build 26A428)",
+  "page_id" : "05-066",
+  "records" : [
+    {
+      "clockwise_rotation" : 0,
+      "file" : "05-066-original.png",
+      "lines" : [
+        {
+          "box" : [
+            0.26428571999230416,
+            0.92500000085909861,
+            0.47142856572967734,
+            0.03756345105050185
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Im ansser to the Qrithor of Fcergie"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.24648291315620921,
+            0.8878746067297979,
+            0.35485404353256067,
+            0.025071388573815967
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Sdesk not. for devsted dears.-"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.24438902030216059,
+            0.84447674515551574,
+            0.50872819356149579,
+            0.050872091109377515
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "Vletnet seniley le aten gai"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.2892768069112362,
+            0.85610465149304404,
+            0.079800499810112835,
+            0.015988371698989479
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Parost"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.24619883985994795,
+            0.74830864728313617,
+            0.53711269935491557,
+            0.042549259166426934
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "bir bie advesing and Kelping kand"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.49065561668525487,
+            0.74129231084918157,
+            0.24044768223315799,
+            0.026359628299771121
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "clonds trang low"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.25187031799597598,
+            0.70050761327351241,
+            0.40399003704129227,
+            0.048038898990844126
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "a fpn ean dangus kene!"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.64837905074834934,
+            0.7281091371063686,
+            0.20698254820048678,
+            0.019035532994923887
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "nohro'le stavd"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.24677679644770811,
+            0.67802514477512044,
+            0.55390414900769336,
+            0.025518042181954081
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "vll met cald fate, natta keart elate"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.29675811145542469,
+            0.65831218256510615,
+            0.48379051191874317,
+            0.02633248730964477
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Ond sanile at forlunés fromn,"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.24139004303903899,
+            0.62997519387413126,
+            0.62423499944682737,
+            0.035109585311812297
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "I'll bak my breast, to it, rudet blast,"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.30247309743643092,
+            0.60427525900753909,
+            0.35219545717592593,
+            0.039755415795418081
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "alhỏ 9 may go aonn,"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.25353665437042044,
+            0.57084985163274871,
+            0.58297071269914214,
+            0.035289182275684894
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "\"Beantin neobloun\" nice hature bring"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.26141698492836862,
+            0.55027473455413323,
+            0.52453879229643252,
+            0.029816039322596466
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Hatt each returning vernae Spring"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.32334391033197418,
+            0.5270110640353054,
+            0.31069281418079386,
+            0.029986071707633455
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "And I engsy these,"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.24937655536463685,
+            0.50436046553081082,
+            0.53615960680061958,
+            0.032124306344743947
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Dthe flovirete on te prairies vide"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.33314068005989556,
+            0.48314347856534079,
+            0.49564413099766819,
+            0.040145221700523148
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "omnmssng streams nhich sncete,"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.82294264527848571,
+            0.49563953511880543,
+            0.097256853689555278,
+            0.015988371698989479
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Aglide"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.25935162671497697,
+            0.45494186081538956,
+            0.48379051191874317,
+            0.036492149236843741
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Gěłko y grand and kojty tres,"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.39376207589679868,
+            0.45216412003409689,
+            0.26981804209856686,
+            0.016392143849794039
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "am an Uinchorite"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.31139600632768333,
+            0.42403416031761332,
+            0.39463397256689131,
+            0.028440589227047064
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Qbssalved from humankind"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.24698777053324777,
+            0.37696442200134739,
+            0.58905581139790986,
+            0.059675616056180769
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "Jome gnd ide olp pidge de livanzo"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.23441397019024807,
+            0.33565989804624996,
+            0.59102243327886717,
+            0.051078680203045623
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "• et vety ie cac ainae na non-"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.26914429892480823,
+            0.31642301671267725,
+            0.60148670470792487,
+            0.028794743687973412
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Rnd brng witti them; Lome mameteds gene"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.33652921836037725,
+            0.30664403928724693,
+            0.46913100431687432,
+            0.019138845695456874
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Fran the distant Giden Shose,"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.25356179699959502,
+            0.25193374823293424,
+            0.48289822181585307,
+            0.038211038269972408
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Ihus Hope is stice th Karbinger"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.26397976925368988,
+            0.23476324174356422,
+            0.48677817616847091,
+            0.022644844151995525
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "p mány a olaopul commg njza"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.31834581773598308,
+            0.21260714944743397,
+            0.34337062461703433,
+            0.029881122753704914
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Which forlune may deng"
+            }
+          ]
+        }
+      ],
+      "orientation_score" : 528.80000138282776,
+      "revision" : 3,
+      "usesLanguageCorrection" : false
+    },
+    {
+      "clockwise_rotation" : 90,
+      "file" : "05-066-original.png",
+      "lines" : [
+        {
+          "box" : [
+            0.92570459755177881,
+            0.24586234764879733,
+            0.04506715784218096,
+            0.48824361830235563
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Im ansser to the Quthon of \"Geesgie\""
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.88500285042004301,
+            0.39367571780080957,
+            0.029413520987263686,
+            0.35986976374208546
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Idesk mot, fon devsted dears.-"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.82315479876996622,
+            0.24868999120636504,
+            0.036191824123944172,
+            0.54044034538185937
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "* Amparsioned hoirss have long gove by-"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.7838775054534135,
+            0.23660049252444193,
+            0.049299206225400072,
+            0.52230362902539496
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "Hhe hi ne gen lae i mie eigh"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.72572704853605585,
+            0.13844661661637414,
+            0.06955644442950415,
+            0.61830056051283355
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "li hn c hn càn hng n thnh"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.70058138596032093,
+            0.34164588251147765,
+            0.049418623677365048,
+            0.40648380188121269
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "a jghn min dang us kene!"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.67877905534345329,
+            0.20199501731683689,
+            0.024709336043614472,
+            0.55112219584014155
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "I'll meet cald fate, natt keart elate"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.65843022050377231,
+            0.22194514628703244,
+            0.024709326361641692,
+            0.4788029822389025
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "And sanile at fortunis frown,"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.64328478297324054,
+            0.61008430028588068,
+            0.023936790863269497,
+            0.14611119953895191
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "I'U bare"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.59885035905790707,
+            0.33914273522450378,
+            0.064221420869004286,
+            0.35836728829444109
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "adho I may go aome,"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.6331144616383646,
+            0.13639537303226612,
+            0.035019288813402105,
+            0.47024961650241692
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "my breast, to iti sudest blåst"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.56929595317131143,
+            0.15834804874297792,
+            0.041110140418038066,
+            0.58840616596030781
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "'Beantis neoblown\" niiee hature bring"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.5488848253859212,
+            0.2165355552503152,
+            0.031223316483086183,
+            0.52454208340779884
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Hatt each returing vernae Spring"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.48982556656671222,
+            0.087281801778914425,
+            0.021802355190218947,
+            0.57605984423934498
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "omusmng stteams nobich sreetly glide"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.45473515909731277,
+            0.25605344215981773,
+            0.043732299417408638,
+            0.48604080100464664
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "aleko y grnnd and kojty tres,"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.45348836521588504,
+            0.3316708243838955,
+            0.013081408999292998,
+            0.27431421550011059
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "am an Uncharite"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.42403392174758475,
+            0.29390648039345868,
+            0.029839372876936998,
+            0.38478720006340217
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Qbsalved from fumankind"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.3788304651644489,
+            0.16396126517851917,
+            0.057772955918675151,
+            0.58634985298372821
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "Jom grge d de odte diage de leanze-"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.33505528144634633,
+            0.16934597597610745,
+            0.054610358882071441,
+            0.57196975741251366
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "Iha s ney ie cra aninae no cor"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.30274738997169154,
+            0.1169892268888818,
+            0.046225722066036923,
+            0.62416166417738972
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "Ond. kany nin Atait oleiden lkeee gen"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.25340217575076884,
+            0.26355346184054329,
+            0.036796788878852349,
+            0.49509182267199414
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Ihus Hope is stici the Karbinger"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.20481142791261581,
+            0.23367964273036634,
+            0.061512571906075286,
+            0.51623249261727266
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "Cf miie tlane тag dg ."
+            }
+          ]
+        }
+      ],
+      "orientation_score" : 399.90000182390213,
+      "revision" : 3,
+      "usesLanguageCorrection" : false
+    },
+    {
+      "clockwise_rotation" : 180,
+      "file" : "05-066-original.png",
+      "lines" : [
+        {
+          "box" : [
+            0.23849931168170238,
+            0.029225672043585726,
+            0.49570719401041674,
+            0.045189508931890998
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Im ansser to the Quthan of \"Gesgie"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.39370548377090325,
+            0.084147440135043605,
+            0.35728783700980388,
+            0.02652405361233634
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Idesk not, for devsted dears.-"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.20683142146007136,
+            0.2062663770312082,
+            0.55171881781684029,
+            0.055852919060566664
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "bing dhie a aten cent king hnnie"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.14199497674650607,
+            0.24985221182403317,
+            0.63384783709490744,
+            0.048892873192801667
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "• Q jghen enan danguis kane, shoile dlare"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.20448877663168116,
+            0.29651160104047358,
+            0.54613466616030093,
+            0.02180237939515095
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "I'll met cald fate, natti kieart elati"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.2194513764696405,
+            0.31540695222260995,
+            0.4788029822389025,
+            0.026162839783024694
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Cnd sanile at fortunés fromn,"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.13444553132224346,
+            0.33519220637118929,
+            0.62151228628387123,
+            0.033583021405989677
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "I'll bane my breast, to its rudest blast"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.33566051527935165,
+            0.35456721112395861,
+            0.35678024125774438,
+            0.037953241222400957
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Qthỏ 9 may go donn,"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.15867987809699571,
+            0.39379486431837685,
+            0.58527462362983385,
+            0.033874957089496727
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Beantins neoblown\" nice hature bring"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.21384077526899614,
+            0.41838259961857605,
+            0.5249151425164249,
+            0.033135351190712314
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Vatti euch returning vernae Spring"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.36568108777348618,
+            0.44100194477769672,
+            0.33854907997812844,
+            0.032554260970372284
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "And I engoy thete,"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.21197007571440338,
+            0.46220927390026312,
+            0.53615960680061947,
+            0.040697731947535787
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "pte flonrit en te praives nide"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.16925521388198264,
+            0.48133567660128784,
+            0.49195067295581429,
+            0.029999219826635337
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "omnesmng streams vhich sveutli"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.25187031483010802,
+            0.50581392960728633,
+            0.49127183968205346,
+            0.040697722265563119
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "Gêcnche giana ana bný, lich"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.32387112533768952,
+            0.52756403264718987,
+            0.27759475541790063,
+            0.020180737306623953
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "am ou Ancharite"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.1144956170723844,
+            0.64958457903184497,
+            0.62421644954639843,
+            0.047406782353589971
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "Ond. kiang nitt Hetanit t oien vkleso geme"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.2635355670947549,
+            0.70966738910144223,
+            0.49511668884676263,
+            0.036954404133830665
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Ihus Hope is stici the Karbinger"
+            }
+          ]
+        }
+      ],
+      "orientation_score" : 331.70000165700912,
+      "revision" : 3,
+      "usesLanguageCorrection" : false
+    },
+    {
+      "clockwise_rotation" : 270,
+      "file" : "05-066-original.png",
+      "lines" : [
+        {
+          "box" : [
+            0.029225655337751413,
+            0.2656928225918721,
+            0.046459481195749969,
+            0.49093428468392564
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Im ansen to the Quithor of \"Gesrgie\""
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.083997913658969567,
+            0.24618410454863926,
+            0.02832603333565184,
+            0.36037815733932455
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Ileek mot, for devsted dears.-"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.12593803332839315,
+            0.28843480170500935,
+            0.019108961076300779,
+            0.086328626977592249
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "Iost"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.14504584882897129,
+            0.21628756485256018,
+            0.028349652508188605,
+            0.53484462497021379
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "* Ampassioned honss havs long gone by-"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.16986209099546823,
+            0.24417597126730195,
+            0.021015659806692066,
+            0.51409267184521368
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Ike furlive glavce- the pensive Dágle-"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.18869079279627968,
+            0.29337314902115685,
+            0.024435940127687406,
+            0.31815429554525809
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Wae do for lovers suce"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.20470071779910967,
+            0.23850745957322028,
+            0.059361215775388138,
+            0.55236972650931038
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "bin the d ntn cont keing brnie"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.24999998954310043,
+            0.25436410166768086,
+            0.047965136881407133,
+            0.39401494443806173
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "a jgpn n nn dengis fens!"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.25145348365106884,
+            0.6558603475440945,
+            0.020348846609822391,
+            0.20199501852064605
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "nohro'le stave"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.29356350724656655,
+            0.24677690209964054,
+            0.025511234544860484,
+            0.55391588398054536
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "I'll met cald fate, ratti keart elati"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.31161182341738353,
+            0.298428960132749,
+            0.035633710435199251,
+            0.48541479173049429
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "And smile at fortunis fromn."
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.3334694549310151,
+            0.24075934969206869,
+            0.0595220623887735,
+            0.64256801896105664
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "D dohe J anay go e te, md kat,"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.39751646953881187,
+            0.25643423442682345,
+            0.027022533610387534,
+            0.57944297374982978
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "\"Beantin newblown\" niice kature bring"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.41990922670408809,
+            0.26138909011969924,
+            0.03125272789582384,
+            0.52706014928215206
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Witti each returing vernae Sfring"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.44286904514789249,
+            0.31834406912481605,
+            0.031554648113734818,
+            0.31576056054474755
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "And I enjsy these,"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.46220928771391501,
+            0.25187032811899812,
+            0.033430261660348348,
+            0.55112219584014166
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "O She flovirets on tne praires vide."
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.48296589906573023,
+            0.3386974973377106,
+            0.02745186374877312,
+            0.48955185169228277
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "omurmnring streamns nohrich sveetl"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.48982557893078882,
+            0.82543641123703804,
+            0.014534888533771273,
+            0.092269324009714548
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "glide"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.50291683980329971,
+            0.26039816341921962,
+            0.042383428757565844,
+            0.48847652260774099
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "alikoke grand and beftý kress,"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.53095011517092416,
+            0.39383815665144228,
+            0.015671576340186455,
+            0.27470492693333848
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "am on Uncharite"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.5461404276569447,
+            0.3262883102754589,
+            0.029867581304559798,
+            0.38227096258425253
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Absalued from humankinnd"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.70791820291482654,
+            0.24369490574866826,
+            0.040515385303400597,
+            0.49540570826312291
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Hhus Hope is atice the Karbinger"
+            }
+          ]
+        }
+      ],
+      "orientation_score" : 437.30000078678131,
+      "revision" : 3,
+      "usesLanguageCorrection" : false
+    },
+    {
+      "clockwise_rotation" : 0,
+      "file" : "05-066-original.png",
+      "lines" : [
+        {
+          "box" : [
+            0.26428571999230416,
+            0.92500000085909861,
+            0.47142856572967734,
+            0.03756345105050185
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "In auser to the Quitor of Fergie"
+            },
+            {
+              "confidence" : 1,
+              "text" : "In auser to the Quitor of Gergie"
+            },
+            {
+              "confidence" : 1,
+              "text" : "In ause to the Quitor of Fergie"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.24648291315620921,
+            0.8878746067297979,
+            0.35485404353256067,
+            0.025071388573815967
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Sleek not. for devoted dears.-"
+            },
+            {
+              "confidence" : 1,
+              "text" : "Sleek not for devoted dears. -"
+            },
+            {
+              "confidence" : 1,
+              "text" : "Sleek not for devoted dears.-"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.2892768069112362,
+            0.85610465149304404,
+            0.079800499810112835,
+            0.015988371698989479
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Prost"
+            },
+            {
+              "confidence" : 1,
+              "text" : "Parost"
+            },
+            {
+              "confidence" : 1,
+              "text" : "Parast"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.24619883985994795,
+            0.74830864728313617,
+            0.53711269935491557,
+            0.042549259166426934
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "bir die adveng and Kelping hand."
+            },
+            {
+              "confidence" : 1,
+              "text" : "bir die adverng and Kelping hand"
+            },
+            {
+              "confidence" : 1,
+              "text" : "bir die adveng and Kelping hand"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.49065561668525487,
+            0.74129231084918157,
+            0.24044768223315799,
+            0.026359628299771121
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "clands trang lour"
+            },
+            {
+              "confidence" : 1,
+              "text" : "clands trang low"
+            },
+            {
+              "confidence" : 1,
+              "text" : "clands trang lou"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.25187031799597598,
+            0.70050761327351241,
+            0.40399003704129227,
+            0.048038898990844126
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "a fin in days here!"
+            },
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "a fin in dages ken!"
+            },
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "a fin in dages kee!"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.64837905074834934,
+            0.7281091371063686,
+            0.20698254820048678,
+            0.019035532994923887
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "notro'll stand"
+            },
+            {
+              "confidence" : 1,
+              "text" : "noto'll stand"
+            },
+            {
+              "confidence" : 1,
+              "text" : "nots'll stand"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.24677679644770811,
+            0.67802514477512044,
+            0.55390414900769336,
+            0.025518042181954081
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "vill met cold fate, matta Reart elate"
+            },
+            {
+              "confidence" : 1,
+              "text" : "vill met cold fate, matta keast elate"
+            },
+            {
+              "confidence" : 1,
+              "text" : "vill met cold fate, natta Reart elate"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.29675811145542469,
+            0.65831218256510615,
+            0.48379051191874317,
+            0.02633248730964477
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "And sanite at fortunes frown,"
+            },
+            {
+              "confidence" : 1,
+              "text" : "And sanile at fortunes frown,"
+            },
+            {
+              "confidence" : 1,
+              "text" : "And sanite at fortunes frown."
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.24139004303903899,
+            0.62997519387413126,
+            0.62423499944682737,
+            0.035109585311812297
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "I'll bake my breast, to it, rude? blast,"
+            },
+            {
+              "confidence" : 1,
+              "text" : "I'll bak my breast, to it, rude? blast,"
+            },
+            {
+              "confidence" : 1,
+              "text" : "I'll bake my breast, to it, rude! blast,"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.30247309743643092,
+            0.60427525900753909,
+            0.35219545717592593,
+            0.039755415795418081
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "alhỏ 9 may go conn,"
+            },
+            {
+              "confidence" : 1,
+              "text" : "alhỏ 9 may go donn,"
+            },
+            {
+              "confidence" : 1,
+              "text" : "alhỏ 9 may go donu,"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.25353665437042044,
+            0.57084985163274871,
+            0.58297071269914214,
+            0.035289182275684894
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "\"Beantin neoblown\" nice hature bring"
+            },
+            {
+              "confidence" : 1,
+              "text" : "\"Beantin neoblown\" nice kature bring"
+            },
+            {
+              "confidence" : 1,
+              "text" : "\"Beantin neublown\" nice hature bring"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.26141698492836862,
+            0.55027473455413323,
+            0.52453879229643252,
+            0.029816039322596466
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Hath each returning vernae Spring"
+            },
+            {
+              "confidence" : 1,
+              "text" : "Nath each returning vernae Spring"
+            },
+            {
+              "confidence" : 1,
+              "text" : "Hath each returning vernae spring"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.32334391033197418,
+            0.5270110640353054,
+            0.31069281418079386,
+            0.029986071707633455
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "And I engiy these,"
+            },
+            {
+              "confidence" : 1,
+              "text" : "And I engsy these,"
+            },
+            {
+              "confidence" : 1,
+              "text" : "and I engiy these,"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.24937655536463685,
+            0.50436046553081082,
+            0.53615960680061958,
+            0.032124306344743947
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "A the flovete on the prairies vide"
+            },
+            {
+              "confidence" : 1,
+              "text" : "→ the flovete on the prairies vide"
+            },
+            {
+              "confidence" : 1,
+              "text" : "A the flowiete on the prairies vide"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.25935162671497697,
+            0.45494186081538956,
+            0.48379051191874317,
+            0.036492149236843741
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Gliko y grand and kofty tres,"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "Gliko y grand and kofty tree,"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "Gliko y grand and logly tres,"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.39376207589679868,
+            0.45216412003409689,
+            0.26981804209856686,
+            0.016392143849794039
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "am an Uncharite"
+            },
+            {
+              "confidence" : 1,
+              "text" : "am on Uncharite"
+            },
+            {
+              "confidence" : 1,
+              "text" : "am an uncharite"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.31139600632768333,
+            0.42403416031761332,
+            0.39463397256689131,
+            0.028440589227047064
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Qssalved from humankind"
+            },
+            {
+              "confidence" : 1,
+              "text" : "Qsalved from humankind"
+            },
+            {
+              "confidence" : 1,
+              "text" : "Gsalved from humankind"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.24698777053324777,
+            0.37696442200134739,
+            0.58905581139790986,
+            0.059675616056180769
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "Some grade to ping de lian go"
+            },
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "Some grade to pilge de lian o"
+            },
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "Some grade to ping de lia go"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.26914429892480823,
+            0.31642301671267725,
+            0.60148670470792487,
+            0.028794743687973412
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "And bring with them; dome nameless gene"
+            },
+            {
+              "confidence" : 1,
+              "text" : "And bring with them; dome nameless geme"
+            },
+            {
+              "confidence" : 1,
+              "text" : "And bring with them; dome nameleds gene"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.33652921836037725,
+            0.30664403928724693,
+            0.46913100431687432,
+            0.019138845695456874
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Fran the distant Giden Shose,"
+            },
+            {
+              "confidence" : 1,
+              "text" : "Fran the distant Giden shose,"
+            },
+            {
+              "confidence" : 1,
+              "text" : "Fron the distant Giden Shose,"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.25356179699959502,
+            0.25193374823293424,
+            0.48289822181585307,
+            0.038211038269972408
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Shus Hope is stice the Karbinger"
+            },
+            {
+              "confidence" : 1,
+              "text" : "Ins Hope is stice the Karbinger"
+            },
+            {
+              "confidence" : 1,
+              "text" : "Shus Hope is stice the karbinger"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.31834581773598308,
+            0.21260714944743397,
+            0.34337062461703433,
+            0.029881122753704914
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Which fortune may deng"
+            },
+            {
+              "confidence" : 1,
+              "text" : "Which fortune may deny"
+            },
+            {
+              "confidence" : 1,
+              "text" : "Which fortune may derg"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.82294264527848571,
+            0.49563953511880543,
+            0.097256853689555278,
+            0.015988371698989479
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "*glide"
+            },
+            {
+              "confidence" : 1,
+              "text" : "Aglide"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "Aalide"
+            }
+          ]
+        }
+      ],
+      "orientation_score" : 478.10000044107437,
+      "revision" : 3,
+      "usesLanguageCorrection" : true
+    },
+    {
+      "clockwise_rotation" : 0,
+      "file" : "05-066-contrast.png",
+      "lines" : [
+        {
+          "box" : [
+            0.27048557699949322,
+            0.92391822443985661,
+            0.48618880128548819,
+            0.048787649512896047
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Im ausser to the Quthan of iSesgie\""
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.24650068866173466,
+            0.88796673212010502,
+            0.35479453757957169,
+            0.024972223388362136
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Sdesk not. for devsted dears.-"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.29177057185506339,
+            0.85610465165176342,
+            0.074812970130272161,
+            0.017441859705194074
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "Parost"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.24599295933889559,
+            0.73746100358323918,
+            0.53731880935968146,
+            0.053396905134172057
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "him en a nting conane telng harini"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.29177057414691399,
+            0.7514534885315145,
+            0.17955111833958842,
+            0.014534883692784994
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Waie adwerse"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.25935161325765216,
+            0.70494186076164222,
+            0.39401497768161081,
+            0.040697673855699223
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "A gkin aan danges kens,"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.64555596789376779,
+            0.72794525266541499,
+            0.20254159233409075,
+            0.016639723995615419
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "sohrs'le Stana"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.2443061708274093,
+            0.67801474778041171,
+            0.55389377702035691,
+            0.025535619803491505
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "vll meł cald fate, nintti keart ekate"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.29675811121643886,
+            0.65831218292369509,
+            0.48379051191874317,
+            0.024827352030023175
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Cnd smnile at fortunés frown,"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.24135438613618443,
+            0.62854307259448539,
+            0.62427070301862053,
+            0.036541706414392139
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "I'l bake my breast, to ite rudeeblast,"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.30246149935231104,
+            0.60421470647103692,
+            0.35220941946657136,
+            0.039831287364669232
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "alhỏ 9 may go aonn,"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.25348225449610823,
+            0.57082339089817202,
+            0.58554894939746727,
+            0.036488305493659778
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "\"Beantin neoblown\" nice kature bring"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.26108095954870253,
+            0.54832777203514982,
+            0.52522942703014364,
+            0.034423975775084492
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Witt each retuning vernae Spring"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.31867099128321857,
+            0.52567535437938151,
+            0.3151208549283428,
+            0.0301872485785315
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "and I enjiy thete,"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.24937655556905977,
+            0.50436046551838776,
+            0.53615960680061958,
+            0.032124306344743947
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "P Hhe flovirate on te prairies vide"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.33313007721065752,
+            0.4830439970001118,
+            0.49566075277224603,
+            0.040383885959683341
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "smasuring streams nbich srcetes"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.25639119051095038,
+            0.45154002877984123,
+            0.48709365744995914,
+            0.042940226908262602
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Qłłtó y grand ana koflý třce,"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.39861905534335446,
+            0.4511985527185608,
+            0.26751738903569239,
+            0.019378065457803961
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "am on Ancharite"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.30890264039394655,
+            0.42403416026276641,
+            0.39712733848422177,
+            0.02845898497528232
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Qbsalued from humankind"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.2446543639973405,
+            0.37696442124881535,
+            0.59138917611315356,
+            0.059718693573462822
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "Jome gra d de atop peieg de tina g"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.25935160605893331,
+            0.33565989883487224,
+            0.56857858296313313,
+            0.052421497209423129
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "tha eley i cna aine na ces"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.2561646875910113,
+            0.30177873374344988,
+            0.62442728013514437,
+            0.046366493108913942
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "Ond. kerny vitk Aitent liken sbeto gene"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.25356631734424784,
+            0.25194261447295707,
+            0.48282591709643929,
+            0.038158782242518341
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Ihus Hope is stice tte Karbinger"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.26159177479956308,
+            0.23489717313974545,
+            0.4916776104430487,
+            0.023406371247344904
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "p mány a blioful coimg nyaa"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.31834597714123442,
+            0.21273722255313643,
+            0.33851088314014849,
+            0.02830077185848634
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Which torlune may den"
+            }
+          ]
+        }
+      ],
+      "orientation_score" : 448.00000154972076,
+      "revision" : 3,
+      "usesLanguageCorrection" : false
+    },
+    {
+      "clockwise_rotation" : 0,
+      "file" : "05-066-contrast.png",
+      "lines" : [
+        {
+          "box" : [
+            0.27048557699949322,
+            0.92391822443985661,
+            0.48618880128548819,
+            0.048787649512896047
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Im ausser to the Quthan of iSesgie\""
+            },
+            {
+              "confidence" : 1,
+              "text" : "Im ausser to the Quthen of iSesgie\""
+            },
+            {
+              "confidence" : 1,
+              "text" : "Im ausser to the Quthan of iSergie\""
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.24650068866173466,
+            0.88796673212010502,
+            0.35479453757957169,
+            0.024972223388362136
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Sleek not. for devoted dears.-"
+            },
+            {
+              "confidence" : 1,
+              "text" : "Sleek not. for devoted dears. -"
+            },
+            {
+              "confidence" : 1,
+              "text" : "Sleek not for devoted dears.-"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.29177057185506339,
+            0.85610465165176342,
+            0.074812970130272161,
+            0.017441859705194074
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "Prost"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "Parost"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "Post"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.24599295933889559,
+            0.73746100358323918,
+            0.53731880935968146,
+            0.053396905134172057
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "him an a sting one ten anni"
+            },
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "him an a sting one ten rin"
+            },
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "him an a sting one ten ain"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.29177057414691399,
+            0.7514534885315145,
+            0.17955111833958842,
+            0.014534883692784994
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Waie adverse"
+            },
+            {
+              "confidence" : 1,
+              "text" : "Wail adverse"
+            },
+            {
+              "confidence" : 1,
+              "text" : "Wraie adverse"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.25935161325765216,
+            0.70494186076164222,
+            0.39401497768161081,
+            0.040697673855699223
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "A him an dangers kens,"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "A him an dangers kans,"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "A him an dangers kene,"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.64555596789376779,
+            0.72794525266541499,
+            0.20254159233409075,
+            0.016639723995615419
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "stro'le Stana"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "stro'le stana"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "nots'le Stana"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.2443061708274093,
+            0.67801474778041171,
+            0.55389377702035691,
+            0.025535619803491505
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "vill met cald fate, nintta keart ekate"
+            },
+            {
+              "confidence" : 1,
+              "text" : "vill met cald fate, nintta keart elate"
+            },
+            {
+              "confidence" : 1,
+              "text" : "vill met cald fate, nintt keart ekate"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.29675811121643886,
+            0.65831218292369509,
+            0.48379051191874317,
+            0.024827352030023175
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "And smile at fortunes frown,"
+            },
+            {
+              "confidence" : 1,
+              "text" : "And Anile at fortunes frown,"
+            },
+            {
+              "confidence" : 1,
+              "text" : "And smile at fortunes frown."
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.24135438613618443,
+            0.62854307259448539,
+            0.62427070301862053,
+            0.036541706414392139
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "I'll base my breast, to it, ruderblast,"
+            },
+            {
+              "confidence" : 1,
+              "text" : "I'll base my breast, to it, rudeblast,"
+            },
+            {
+              "confidence" : 1,
+              "text" : "I'll base my breast, to it ruderblast,"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.30246149935231104,
+            0.60421470647103692,
+            0.35220941946657136,
+            0.039831287364669232
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "alhỏ 9 may go donn,"
+            },
+            {
+              "confidence" : 1,
+              "text" : "alhỏ 9 may go conn,"
+            },
+            {
+              "confidence" : 1,
+              "text" : "alhỏ 9 may go dann,"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.25348225449610823,
+            0.57082339089817202,
+            0.58554894939746727,
+            0.036488305493659778
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "\"Beantin neoblown\" nice kature bring"
+            },
+            {
+              "confidence" : 1,
+              "text" : "\"Beantin neoblown\" nice hature bring"
+            },
+            {
+              "confidence" : 1,
+              "text" : "\"Beantis neoblown\" nice kature bring"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.26108095954870253,
+            0.54832777203514982,
+            0.52522942703014364,
+            0.034423975775084492
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "With each returning vernae Spring"
+            },
+            {
+              "confidence" : 1,
+              "text" : "With each returning vernae spring"
+            },
+            {
+              "confidence" : 1,
+              "text" : "Witt each returning vernae Spring"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.31867099128321857,
+            0.52567535437938151,
+            0.3151208549283428,
+            0.0301872485785315
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "and I enjoy thete,"
+            },
+            {
+              "confidence" : 1,
+              "text" : "And I enjoy thete,"
+            },
+            {
+              "confidence" : 1,
+              "text" : "and I enjoy thele,"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.24937655556905977,
+            0.50436046551838776,
+            0.53615960680061958,
+            0.032124306344743947
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "OThe flowiete on the prairies vide"
+            },
+            {
+              "confidence" : 1,
+              "text" : "OHhe flowiete on the prairies vide"
+            },
+            {
+              "confidence" : 1,
+              "text" : "OThe flovete on the prairies vide"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.33313007721065752,
+            0.4830439970001118,
+            0.49566075277224603,
+            0.040383885959683341
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "smaring streams shich orcates"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "smaring streams shich orcate"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "smaring streams shich arcate"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.25639119051095038,
+            0.45154002877984123,
+            0.48709365744995914,
+            0.042940226908262602
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "Qřłto y grand and koflý ties,"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "Qřłto y grand and koftý ties,"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "Qřłto y grand ana koflý ties,"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.39861905534335446,
+            0.4511985527185608,
+            0.26751738903569239,
+            0.019378065457803961
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "am on Anchorite"
+            },
+            {
+              "confidence" : 1,
+              "text" : "am an Anchorite"
+            },
+            {
+              "confidence" : 1,
+              "text" : "am on anchorite"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.30890264039394655,
+            0.42403416026276641,
+            0.39712733848422177,
+            0.02845898497528232
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Absalved from humankind"
+            },
+            {
+              "confidence" : 1,
+              "text" : "bsalved from humankind"
+            },
+            {
+              "confidence" : 1,
+              "text" : "salved from humankind"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.2446543639973405,
+            0.37696442124881535,
+            0.59138917611315356,
+            0.059718693573462822
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "Some grade to ping de lina ge"
+            },
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "Some grade to ping de tea ge"
+            },
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "Some grade to ping de tea go"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.2561646875910113,
+            0.30177873374344988,
+            0.62442728013514437,
+            0.046366493108913942
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "And kenny sit tent liken bets gene"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "And kenny sit tent liken bee gene"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "And kenny sit tent liken bes gene"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.25356631734424784,
+            0.25194261447295707,
+            0.48282591709643929,
+            0.038158782242518341
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Shus Hope is stice the Karbinger"
+            },
+            {
+              "confidence" : 1,
+              "text" : "Jhus Hope is stice the Karbinger"
+            },
+            {
+              "confidence" : 1,
+              "text" : "Ahus Hope is stice the Karbinger"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.26159177479956308,
+            0.23489717313974545,
+            0.4916776104430487,
+            0.023406371247344904
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "mány a bloful coing nea"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "mány a bloful coing mea"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "→ mány a bloful cong nea"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.31834597714123442,
+            0.21273722255313643,
+            0.33851088314014849,
+            0.02830077185848634
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Which tarlune may den"
+            },
+            {
+              "confidence" : 1,
+              "text" : "Which forlune may den"
+            },
+            {
+              "confidence" : 1,
+              "text" : "Which farlune may den"
+            }
+          ]
+        }
+      ],
+      "orientation_score" : 416.70000052452087,
+      "revision" : 3,
+      "usesLanguageCorrection" : true
+    }
+  ]
+}

@@ -1,0 +1,4075 @@
+{
+  "best_clockwise_rotation" : 0,
+  "engine" : "Apple Vision",
+  "os" : "Version 27.0 (Build 26A428)",
+  "page_id" : "05-081",
+  "records" : [
+    {
+      "clockwise_rotation" : 0,
+      "file" : "05-081-original.png",
+      "lines" : [
+        {
+          "box" : [
+            0.25569621233083689,
+            0.86614420040706841,
+            0.50379745400017084,
+            0.027899686520376221
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "The bearty of ferale culhere."
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.081012658923685851,
+            0.84156976809631645,
+            0.22025316582351434,
+            0.021802324635855408
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "shere is mott..."
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.29844114630817997,
+            0.83964645949380756,
+            0.62073954597848358,
+            0.030202662309509076
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "g more inefisrtent thien the creltivalion."
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.080740222250423932,
+            0.80648983487364834,
+            0.86890462239583321,
+            0.033418321758975855
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "of ner minceh there is grven to each of vss a msind"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.083233787770001455,
+            0.78016249732798904,
+            0.88430249156847673,
+            0.035781286353227859
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "somgesriforzar t ctere but it mottera not vhit dgirei"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.088472920779946632,
+            0.75679591819224457,
+            0.84078922792862032,
+            0.025397467538480822
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "I inttellect we fassess i- ra the comnton. drity of cid"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.072764073353841371,
+            0.72729264210145739,
+            0.32268056400486678,
+            0.028202577070756352
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "to improve it oof ve"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.46075949182801962,
+            0.73255813980879281,
+            0.46075949747054307,
+            0.018895348336629425
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "mol- do His mhat witl be the."
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.060440812499795417,
+            0.69672681692604899,
+            0.33472863702826161,
+            0.030490868069161348
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "reseltå wky it-well"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.4447390170039997,
+            0.69551602372616672,
+            0.52075452127091881,
+            0.037163101244122254
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "aå a field that ia noten cul"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.068354440734929314,
+            0.67296511578539187,
+            0.72911390294142764,
+            0.024840526521019091
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "tivation and grots seb rn bryarss and wiceche."
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.098652825252676407,
+            0.64440325399800158,
+            0.84828481205174189,
+            0.027210788069100156
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "The grenter mitil we fevsiess the more we are exfected"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.065647029070976137,
+            0.61216693564533675,
+            0.87621509989754109,
+            0.035056320477428904
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "to accomplisk. I ttiske there jes mere m the auelteiratiant"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.065822789846448376,
+            0.58996865208157745,
+            0.43797467341188523,
+            0.023510971786833812
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "of the anind than there is m"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.56422603808567273,
+            0.58852154089475528,
+            0.19298872817409496,
+            0.028050688740601792
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "sarnd staef"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.088607590947300099,
+            0.56394984306464657,
+            0.44810127299991465,
+            0.023259458870723337
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "We mist= clss crittaivate the"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.55401255919789727,
+            0.56295395806066062,
+            0.15273437499999998,
+            0.02380138624424466
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "beart leir"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.71098282487604858,
+            0.56282250943264978,
+            0.1628981626750341,
+            0.023689647901768196
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "dmend of"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.070886091855749747,
+            0.52601880828343139,
+            0.82025313247096998,
+            0.035109717868338608
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Belnge and genttenest of disposition."
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.086075962231611333,
+            0.50000000018152235,
+            0.84810123964737028,
+            0.033542319749216398
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Theri nssalss a great imporlance attuched .to the culti"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.06301885834329668,
+            0.47100346454600572,
+            0.84109673838797805,
+            0.033528677722129752
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "vatzond af our manness for sahet makve a jřcag lals"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.067763802136140069,
+            0.4528528274726854,
+            0.1576993348168545,
+            0.02490600418521316
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "afoear to"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.24810127307084601,
+            0.44764890329680018,
+            0.53670884429431354,
+            0.030548771346998072
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "better adriantage than gruorfulness"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.067904898817268577,
+            0.4174016103517304,
+            0.83379740063609975,
+            0.036783883265193329
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "patetenasi of manners all tre falitenes vriginatesi"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.062859491896247191,
+            0.38932623072217742,
+            0.83117388949368165,
+            0.037283358678548706
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "in temnclned of heart for at ve feel kídly towetls"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.072954502606672036,
+            0.35715708311518168,
+            0.83893109097506835,
+            0.038998161961666167
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "anyen theit no ne taulle tomvact skindly to them"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.11632248383192724,
+            0.33183045454867277,
+            0.82556952804815575,
+            0.033127072612319952
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "then lit us all thov easneatty strise to ccesmpliat"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.078481012363797772,
+            0.31250000068971817,
+            0.068354430485292869,
+            0.02325581278546851
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "thise"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.14683542681399733,
+            0.30658307191585399,
+            0.57974686752903004,
+            0.024812277432145757
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "oss thid we may make oriselvee."
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.72405063096720979,
+            0.31104651167675446,
+            0.12405063649995729,
+            0.01598837203740322
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "язнела"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.07290529947527237,
+            0.28316638200173705,
+            0.22127800613153176,
+            0.026690492061985704
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "those that mo"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.28792495456770367,
+            0.28040908747427129,
+            0.41943149253970285,
+            0.030960900955439352
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "W Bo für burbass sed."
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.67269729808482481,
+            0.24934692380613144,
+            0.25430756449047986,
+            0.029691922178836538
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "Sarak S. Döigfos"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.062930093457561759,
+            0.22464350230285879,
+            0.13236766043907958,
+            0.026003694683780498
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "онри к."
+            }
+          ]
+        }
+      ],
+      "orientation_score" : 860.80000013113022,
+      "revision" : 3,
+      "usesLanguageCorrection" : false
+    },
+    {
+      "clockwise_rotation" : 90,
+      "file" : "05-081-original.png",
+      "lines" : [
+        {
+          "box" : [
+            0.86261410162226959,
+            0.23776860495806773,
+            0.033097314386158594,
+            0.51179949650998979
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "The bearty of female c ltre."
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.83848348439261122,
+            0.083326829723556317,
+            0.031338111136026914,
+            0.83345040076417343
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "there is mott ig more inifisrtent thin the creltivalion"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.8048199695267938,
+            0.15405873476528309,
+            0.036910099519831263,
+            0.76793946646601785
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "of ver minched There is grven to each of vs à"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.80751099829239081,
+            0.045902011412357169,
+            0.031976746466466199,
+            0.11626987978408887
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "nained"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.78183040257862257,
+            0.030219735092113287,
+            0.033121535920050404,
+            0.81038658267161878
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "esrifersar t athere but it motters not,- vlit djrei"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.75872090908695189,
+            0.068354443210641769,
+            0.021802367685730628,
+            0.85063289788251373
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "* inttellect we fassess it- ra the comvtor. drity of ald"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.72423857719592999,
+            0.6037409327083888,
+            0.035888698183256906,
+            0.32678799655268098
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "to improve it If ve"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.73110464445069745,
+            0.25316456082363592,
+            0.023255828331256723,
+            0.2860759464117999
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "nol - do thié nhat."
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.73401162313812252,
+            0.081012660145030169,
+            0.017441869753655248,
+            0.17974683417648563
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "witl le the."
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.69654568154247476,
+            0.58959407257894569,
+            0.030827195218364301,
+            0.35001984476391734
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "reseltå wky it-well"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.69618377002362142,
+            0.1456637117662043,
+            0.035893756543580957,
+            0.4122314453125
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "an a field that ia nol"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.70494185801950782,
+            0.043037976319143079,
+            0.015988376820722738,
+            0.10126582077943558
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "n crl"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.67076032355561377,
+            0.20241668100780086,
+            0.029302655641561759,
+            0.72681397818476778
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "tivvation and grows sek in bryars and wicechs."
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.64493509112077885,
+            0.30110249665601951,
+            0.025202280600616467,
+            0.59785996734118851
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "The grenter mitil we fevžeess the more a"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.61918602476169082,
+            0.048101288407081166,
+            0.029069815608774974,
+            0.88607591305925548
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "to acenplisk. A thirk there îes more m the c'reltuvationg"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.59156975596375116,
+            0.50126582693249455,
+            0.023255836702065769,
+            0.43291139029414283
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "of the mind than there rss m"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.58720929732089611,
+            0.24050633289181522,
+            0.029069777342219383,
+            0.18227847573535683
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "sound staelf"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.56241457753430024,
+            0.3036515046989513,
+            0.026069217789509436,
+            0.61806513885331282
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "We must clss crttivate the heart len"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.55857032108649118,
+            0.11984865317649773,
+            0.031381536501702056,
+            0.16498222976434429
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Amsend of"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.52456173763577418,
+            0.75437250585927518,
+            0.039546691511865739,
+            0.17497920468856731
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "fulig."
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.52478448060992322,
+            0.29053997347640137,
+            0.03989253985844432,
+            0.47260642129866803
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "and genttenerst of liey"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.53633720512081762,
+            0.12911392621212037,
+            0.024709310501720427,
+            0.16962025126472846
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "baeitcou"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.50081160865915952,
+            0.047998504131676945,
+            0.034223598372599917,
+            0.86352372299778002
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Theri rs ialss a great impartance ttached .to the cutti"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.46956449743057393,
+            0.095784284034868494,
+            0.036407040204374019,
+            0.8412217437243853
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "vatzond af our manneze for sohet makuc a jřay lats"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.44472887316088022,
+            0.12378501562495514,
+            0.034049206916067665,
+            0.80560896409665295
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "appeer to bettu advantage than grnoeflnees cator"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.41903009122996349,
+            0.078203528494448782,
+            0.033893587596737829,
+            0.85628188503244529
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "patetenass of manners all Euu folatenes ariginatia"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.38972436393906251,
+            0.10596022481195155,
+            0.036932404138451447,
+            0.7577793475708674
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "tancneed of hecrt fir át we feel kínelli. towirt"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.35744538129370368,
+            0.60644612115834606,
+            0.040405280612479222,
+            0.31952241157573436
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "anyan then it no ni"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.36337208071418275,
+            0.075949368504140469,
+            0.027616304738394493,
+            0.521518994941086
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Tauble tomract skindly to them."
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.33430230515124609,
+            0.058227862953905141,
+            0.030523297779238734,
+            0.82278479070611343
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "then lit. ns all thor easneetty strise to ucemplat"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.30959302170920971,
+            0.86329113559997539,
+            0.027616282017627114,
+            0.058227855911671789
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "thisi"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.30828024015847444,
+            0.5706408010935724,
+            0.021610967941044945,
+            0.12705813548603995
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "ve may"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.30326157805737619,
+            0.12848873008371375,
+            0.0322802672191847,
+            0.41147290839523565
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "nake oresvelvia zganla."
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.28488371557365877,
+            0.70632911451440306,
+            0.024709312893380186,
+            0.2202531658235144
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "those that mo"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.28621658732600003,
+            0.30600739388856424,
+            0.022030612144350648,
+            0.3777646591103142
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "- B0 für suirbass sa"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.24336400225874957,
+            0.068783730823038458,
+            0.042438425763647397,
+            0.26045789041154366
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "Srah &. Döigkest"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.22674418286638498,
+            0.80253164439559099,
+            0.02180233181083463,
+            0.12405063649995729
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "ВАВи к."
+            }
+          ]
+        }
+      ],
+      "orientation_score" : 810.40000033378601,
+      "revision" : 3,
+      "usesLanguageCorrection" : false
+    },
+    {
+      "clockwise_rotation" : 180,
+      "file" : "05-081-original.png",
+      "lines" : [
+        {
+          "box" : [
+            0.23797469376038097,
+            0.10610462492992168,
+            0.51645567847079921,
+            0.029069819196264612
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "The bearity, of femnale cultire,"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.086075963027091251,
+            0.13372088964973083,
+            0.83291135694159824,
+            0.029069849092011157
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "there is mott ig more inifiortent thun tha creltivalion"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.050236014567134155,
+            0.15817365953930829,
+            0.83108757310877734,
+            0.0343213765972461
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "nor mindet Ihere is grven to each of vs a mind"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.027848092240035795,
+            0.18749995439758671,
+            0.88354432152920082,
+            0.029069857462820203
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "somegsveforsor to othere but it motteras not, wliit deprei"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.06820626429295952,
+            0.21738708297167253,
+            0.84843323087431699,
+            0.025875404860158713
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "I inttellect-we bassess i- ra the comnton. drity of ad"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.60463413770270558,
+            0.24238407163605158,
+            0.32237512140326152,
+            0.029692854926130163
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "to împrove it of ve"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.081012661939262265,
+            0.24709299992099831,
+            0.45822783923539956,
+            0.021802372469049924
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "nol - do thié mhat uittbe the."
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.59740904850623788,
+            0.27262400426322919,
+            0.34213366899334008,
+            0.030249846168446282
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "result& wtey I- will"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.034675951202329858,
+            0.26773961780624023,
+            0.52799018901553962,
+            0.035389154607599393
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "då a field. that ia noln cule"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.71080460148458191,
+            0.29833868065556213,
+            0.22143793158192449,
+            0.024209465576937261
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "tivation and"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.19999999206363531,
+            0.30232555567682984,
+            0.5164557118233436,
+            0.023255865401982545
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "grożis sep ns bryara and wcechd."
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.047917838277217975,
+            0.32686954023383707,
+            0.85094474417264343,
+            0.027118831144231192
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "The grenter mitil we fevsiess the more we are exfected"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.032911405832708344,
+            0.35174414044549496,
+            0.90126579576502741,
+            0.029069858658650083
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "to acemplisk. I thirk there îes more m the c'ultuvation"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.24289384453383153,
+            0.38107132100100694,
+            0.69137122982838117,
+            0.028873805939964359
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "of the mind than there iss me the saund stael"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.29620253930235824,
+            0.40697671332773866,
+            0.62278479070611326,
+            0.031976806257959511
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "We mist- dles crittrivate the heart kis"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.12151898555494761,
+            0.41133719961101045,
+            0.16708860970585726,
+            0.027616297563415326
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "drsend of"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.13905081950708598,
+            0.43584863928538864,
+            0.78516698951929653,
+            0.037157071869948766
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "felnge and gentlenerst of lispåsition"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.063111908514925902,
+            0.46460314068498298,
+            0.84857264450990444,
+            0.03635636810972398
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "These vesalso a great importance ottuched .to the culri."
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.093350654684758963,
+            0.49398440949661737,
+            0.84365727992657091,
+            0.035055087576839283
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "vatğnt af our mannezs for sohet makve a jřcay lale"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.21012657820576794,
+            0.52180228944812534,
+            0.72151899494108607,
+            0.02761635137575924
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "apper to better advantave than gruaehúlness"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.10068996855938007,
+            0.54451765061470958,
+            0.8314679922301913,
+            0.038343320744912202
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "pateteness of manners all tru falitanes vriginatesi"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.10379747158198448,
+            0.57412786518725101,
+            0.82531644894125678,
+            0.031976826587067242
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "î tanclněd ol heart fir áf we feel kíndlz towrtls"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.70031842755248297,
+            0.6034416884947571,
+            0.22601380061582144,
+            0.041807422219398926
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "anyese thennt"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.60919570375150811,
+            0.61556281370167243,
+            0.080097436123206966,
+            0.015775594442241969
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "no mu"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.073417716622283913,
+            0.60610462517662667,
+            0.52151899494108611,
+            0.031976796691320475
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Daulle tammact skinddly to them."
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.05301527256586603,
+            0.63358287135465829,
+            0.83066266169313518,
+            0.031700171348069572
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "then lit. ns all tova eaznestty strise to acempliat"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.86075948949041226,
+            0.66424418447141997,
+            0.055696210183732497,
+            0.023255817568788029
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Hhise"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.72841105335992995,
+            0.66670022342440294,
+            0.11786143818839656,
+            0.018343739524530389
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "28x thữ"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.32063833257188717,
+            0.66231223632837954,
+            0.38136923534622608,
+            0.033075027704986271
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "ue may make oraelu"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.055174943234246751,
+            0.66842049250229596,
+            0.2161852060119962,
+            0.022423994728016594
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "eguela nite"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.29853794366507669,
+            0.68739358329048716,
+            0.62828329117571724,
+            0.032509061759542157
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "thsi that mow to fur surpass ses"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.068002821934985677,
+            0.71887329185702731,
+            0.25681389146815226,
+            0.030939099781191803
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Sarak 9. Döickast"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.80759493524694792,
+            0.7499999947502094,
+            0.11898734504407871,
+            0.023255824743767195
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "ГАри к1."
+            }
+          ]
+        }
+      ],
+      "orientation_score" : 834.40000015497208,
+      "revision" : 3,
+      "usesLanguageCorrection" : false
+    },
+    {
+      "clockwise_rotation" : 270,
+      "file" : "05-081-original.png",
+      "lines" : [
+        {
+          "box" : [
+            0.10465114955914684,
+            0.22278481472261324,
+            0.030523282233450494,
+            0.53924050252945699
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "* The bearty, of fernale culture."
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.13500280321908206,
+            0.088428198218803211,
+            0.024560062563905138,
+            0.83068834315232232
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Shere ra mottig, more înfisatant than tha cneltivalion."
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.16093723040674079,
+            0.085773473505687314,
+            0.029084419083072105,
+            0.86137775358606561
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Z nr' minded There is gvvev to each of vs a msind"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.18392636997406603,
+            0.080904893032767933,
+            0.032799628087345711,
+            0.8888807953381147
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "somgrsriferzar t cthere but it moteras not- vleit degrej"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.22093020771034316,
+            0.083544317641021548,
+            0.020348883123607081,
+            0.85063289788251373
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "A intteect we fasaess d- ra the comnton. drity of ald"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.24224207057542396,
+            0.072416228662897653,
+            0.03272126057304936,
+            0.3210868460233095
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "to improve it of ve"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.24608070295482434,
+            0.46303961947527295,
+            0.024451560137040168,
+            0.46144619300717216
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "nol- do thié vhat urtt be the."
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.27263640209254736,
+            0.065416607513299585,
+            0.032185909067949159,
+            0.33233585878799521
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "result? wty iI-well"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.26970863536959755,
+            0.45263315282224692,
+            0.033925346446261495,
+            0.51758392834272537
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "aå a field that ia not on cules"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.30227610006136241,
+            0.07321014466032405,
+            0.029793279522265015,
+            0.72947064175631826
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "tivation and groiis sek ns brjars and wilchs."
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.32515263796151167,
+            0.10109746158251287,
+            0.029839103722647087,
+            0.85098763554474044
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "The grenter mitil we fevsices the more we are exfected"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.35465113619099603,
+            0.065822788569969481,
+            0.029069815608774974,
+            0.88101266329405736
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "to acemplisk, o ttink there je more în the c'abturationt"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.38413322282738593,
+            0.06810105341442152,
+            0.026331554161717508,
+            0.43091427328808063
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "of the avind than there ras m"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.37997500300386239,
+            0.55602438328691473,
+            0.030599212646484408,
+            0.20450314381083512
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Saind italf"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.41170352748267508,
+            0.075746577252687186,
+            0.027371499231990226,
+            0.47889254210425192
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Ne mist - alss crttvate the"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.41059137192884371,
+            0.54404870083138968,
+            0.028588306343293846,
+            0.33223373329704575
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "heart kentdmend of"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.43577757089908109,
+            0.068213609682709953,
+            0.038651588942189952,
+            0.82559074026639334
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "felnge and gentlenest of tispasitire."
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.46656974605263674,
+            0.088607590602720943,
+            0.033430275274294707,
+            0.87088609705857245
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "These is salss a great impartance ttuched .to the cutti-"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.49548182057068663,
+            0.065525433030065416,
+            0.03352924693714493,
+            0.83866587154200811
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "vabzónd af our manneze for sohet maker a jřügy laly"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.520958069354436,
+            0.068020152913351506,
+            0.034006186936716309,
+            0.72215562830857238
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "appeor to bettr advantage than gruocfulness"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.54454439493121065,
+            0.067796372637067503,
+            0.039743319424715984,
+            0.83155937820184422
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "katatemesi of manners all tnu fdlitenes ariginatir"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.57372408187047164,
+            0.068123930738893779,
+            0.034693796283399081,
+            0.82322057505122959
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "an tamclmest af hecrt fer áf we feel kindly. towents"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.59978290513842658,
+            0.073961525751866097,
+            0.045802024913058403,
+            0.33769574608307718
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "anyese then it no no?"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.60610463804611359,
+            0.40253165538879032,
+            0.031976769187233689,
+            0.52405061982368506
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Daulle tomvact skindly to thems."
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.63505378975572691,
+            0.11885471179609008,
+            0.030226916130807413,
+            0.8256163550204918
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "then lit vs all thoa easneetty strise to ucemplisti"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.66279069594167161,
+            0.07848101103247862,
+            0.02470930571840102,
+            0.070886080382300154
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "Vhisi"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.66715113729842646,
+            0.14430379639176083,
+            0.027616322675842464,
+            0.73670887764685788
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "sss thit me may make orsselves sgeela"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.69133773649687058,
+            0.07254015728260077,
+            0.02667752448294225,
+            0.2168195880827356
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "those that mit"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.6885681677997797,
+            0.30311748579685771,
+            0.032155379531525474,
+            0.4138519787397541
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : ". B0 für surpuss res."
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.71681301595195135,
+            0.67211483405035077,
+            0.036409745171526064,
+            0.26063887799372443
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Sarah S. Döickest"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.74999999694807074,
+            0.068354429144445006,
+            0.023255819960447788,
+            0.12911392795583587
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "гАри к."
+            }
+          ]
+        }
+      ],
+      "orientation_score" : 856.50000011920929,
+      "revision" : 3,
+      "usesLanguageCorrection" : false
+    },
+    {
+      "clockwise_rotation" : 0,
+      "file" : "05-081-original.png",
+      "lines" : [
+        {
+          "box" : [
+            0.25569621233083689,
+            0.86614420040706841,
+            0.50379745400017084,
+            0.027899686520376221
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "The bearty of female culture."
+            },
+            {
+              "confidence" : 1,
+              "text" : "The bearly of female culture."
+            },
+            {
+              "confidence" : 1,
+              "text" : "The bearty of female culture,"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.081012658923685851,
+            0.84156976809631645,
+            0.22025316582351434,
+            0.021802324635855408
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "there is mott..."
+            },
+            {
+              "confidence" : 1,
+              "text" : "there is motte..."
+            },
+            {
+              "confidence" : 1,
+              "text" : "there is mott..."
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.29844114630817997,
+            0.83964645949380756,
+            0.62073954597848358,
+            0.030202662309509076
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "y more in fiortant thin the orellivalion."
+            },
+            {
+              "confidence" : 1,
+              "text" : "y more in fiortant thin the oreltivalion."
+            },
+            {
+              "confidence" : 1,
+              "text" : "y more in fiortant thin the crellivalion."
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.080740222250423932,
+            0.80648983487364834,
+            0.86890462239583321,
+            0.033418321758975855
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "of nor minded there is gren to each of us a mind"
+            },
+            {
+              "confidence" : 1,
+              "text" : "of ner minded there is gren to each of us a mind"
+            },
+            {
+              "confidence" : 1,
+              "text" : "of nor minced there is gren to each of us a mind"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.083233787770001455,
+            0.78016249732798904,
+            0.88430249156847673,
+            0.035781286353227859
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "some snipersar to there but it motters not, what diree"
+            },
+            {
+              "confidence" : 1,
+              "text" : "some snipersar to there but it motters not, what direi"
+            },
+            {
+              "confidence" : 1,
+              "text" : "some snipersar to there but it motters not, what dire"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.088472920779946632,
+            0.75679591819224457,
+            0.84078922792862032,
+            0.025397467538480822
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "I intellect we bassess i- ra the common. drity of cid"
+            },
+            {
+              "confidence" : 1,
+              "text" : "I intellect we bassess t- ra the common. drity of cid"
+            },
+            {
+              "confidence" : 1,
+              "text" : "I intellect we bassess d- ra the common. drity of cid"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.072764073353841371,
+            0.72729264210145739,
+            0.32268056400486678,
+            0.028202577070756352
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "to improve it of ve"
+            },
+            {
+              "confidence" : 1,
+              "text" : "to improve it of we"
+            },
+            {
+              "confidence" : 1,
+              "text" : "to improve at of ve"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.46075949182801962,
+            0.73255813980879281,
+            0.46075949747054307,
+            0.018895348336629425
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "mol- do His what with be the."
+            },
+            {
+              "confidence" : 1,
+              "text" : "not do His what with be the."
+            },
+            {
+              "confidence" : 1,
+              "text" : "mol do His what with be the."
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.060440812499795417,
+            0.69672681692604899,
+            0.33472863702826161,
+            0.030490868069161348
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "result i woky it- well"
+            },
+            {
+              "confidence" : 1,
+              "text" : "result i woky it -well"
+            },
+            {
+              "confidence" : 1,
+              "text" : "result i woky it- will"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.4447390170039997,
+            0.69551602372616672,
+            0.52075452127091881,
+            0.037163101244122254
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "an a field that is not en cul"
+            },
+            {
+              "confidence" : 1,
+              "text" : "an a field that is not en cub"
+            },
+            {
+              "confidence" : 1,
+              "text" : "an a field that is not en cut"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.068354440734929314,
+            0.67296511578539187,
+            0.72911390294142764,
+            0.024840526521019091
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "tivation and gross sel r bryars and viceche."
+            },
+            {
+              "confidence" : 1,
+              "text" : "tivation and gross sek r bryars and viceche."
+            },
+            {
+              "confidence" : 1,
+              "text" : "tivation and gross sel r bryars and wiceche."
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.098652825252676407,
+            0.64440325399800158,
+            0.84828481205174189,
+            0.027210788069100156
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "The greater mitil we fevsiess the more we are erfected"
+            },
+            {
+              "confidence" : 1,
+              "text" : "The greater mitil we fersiess the more we are erfected"
+            },
+            {
+              "confidence" : 1,
+              "text" : "The greater mitil we fevsess the more we are erfected"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.065647029070976137,
+            0.61216693564533675,
+            0.87621509989754109,
+            0.035056320477428904
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "to accomplish. I think there jes mere in the cultivationt"
+            },
+            {
+              "confidence" : 1,
+              "text" : "to accomplish. I think there jes mere in the cultivatient"
+            },
+            {
+              "confidence" : 1,
+              "text" : "to accomplish. I think there jes mere in the cultivatiant"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.065822789846448376,
+            0.58996865208157745,
+            0.43797467341188523,
+            0.023510971786833812
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "of the anind than there is m"
+            },
+            {
+              "confidence" : 1,
+              "text" : "of the amind than there is m"
+            },
+            {
+              "confidence" : 1,
+              "text" : "of the anind than there is n"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.56422603808567273,
+            0.58852154089475528,
+            0.19298872817409496,
+            0.028050688740601792
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "sand staf"
+            },
+            {
+              "confidence" : 1,
+              "text" : "sand steelf"
+            },
+            {
+              "confidence" : 1,
+              "text" : "mand staf"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.088607590947300099,
+            0.56394984306464657,
+            0.44810127299991465,
+            0.023259458870723337
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "We must also crittivate the"
+            },
+            {
+              "confidence" : 1,
+              "text" : "We must also crittrivate the"
+            },
+            {
+              "confidence" : 1,
+              "text" : "We must also crittaivate the"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.55401255919789727,
+            0.56295395806066062,
+            0.15273437499999998,
+            0.02380138624424466
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "heart leis"
+            },
+            {
+              "confidence" : 1,
+              "text" : "heart lis"
+            },
+            {
+              "confidence" : 1,
+              "text" : "heart lie"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.71098282487604858,
+            0.56282250943264978,
+            0.1628981626750341,
+            0.023689647901768196
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "amend of"
+            },
+            {
+              "confidence" : 1,
+              "text" : "dimend of"
+            },
+            {
+              "confidence" : 1,
+              "text" : "amend ot"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.070886091855749747,
+            0.52601880828343139,
+            0.82025313247096998,
+            0.035109717868338608
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Belinge and gentlenest of disposition."
+            },
+            {
+              "confidence" : 1,
+              "text" : "Belige and gentlenest of disposition."
+            },
+            {
+              "confidence" : 1,
+              "text" : "Belinge and gentlenest of disposition ."
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.086075962231611333,
+            0.50000000018152235,
+            0.84810123964737028,
+            0.033542319749216398
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "There nevalso a great importance attuched to the culti"
+            },
+            {
+              "confidence" : 1,
+              "text" : "There nevalso a great importance attuched to the cutti"
+            },
+            {
+              "confidence" : 1,
+              "text" : "There nevalso a great importance ottuched to the culti"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.06301885834329668,
+            0.47100346454600572,
+            0.84109673838797805,
+            0.033528677722129752
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "vatzond at our manness for saket make a joy late"
+            },
+            {
+              "confidence" : 1,
+              "text" : "vatzond at our manness for saket make a jay late"
+            },
+            {
+              "confidence" : 1,
+              "text" : "vatsond at our manness for saket make a joy late"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.067763802136140069,
+            0.4528528274726854,
+            0.1576993348168545,
+            0.02490600418521316
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "appear to"
+            },
+            {
+              "confidence" : 1,
+              "text" : "apocar to"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "aloear to"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.24810127307084601,
+            0.44764890329680018,
+            0.53670884429431354,
+            0.030548771346998072
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "better adriantage than grior fulness"
+            },
+            {
+              "confidence" : 1,
+              "text" : "better adriantage than grior filness"
+            },
+            {
+              "confidence" : 1,
+              "text" : "better adriantage than griorfulness"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.067904898817268577,
+            0.4174016103517304,
+            0.83379740063609975,
+            0.036783883265193329
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "pateterass of manners all tre folitenes vriginates"
+            },
+            {
+              "confidence" : 1,
+              "text" : "patetenass of manners all tre folitenes vriginates"
+            },
+            {
+              "confidence" : 1,
+              "text" : "patestenass of manners all tre faltenes vriginates"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.062859491896247191,
+            0.38932623072217742,
+            0.83117388949368165,
+            0.037283358678548706
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "in tendered of heart for at we feel killy towels"
+            },
+            {
+              "confidence" : 1,
+              "text" : "in tendered of heart for at me feel killy towels"
+            },
+            {
+              "confidence" : 1,
+              "text" : "in tendered of heart for at we feel kills towels"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.072954502606672036,
+            0.35715708311518168,
+            0.83893109097506835,
+            0.038998161961666167
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "anyin the it no no tauble tomact kindly to them"
+            },
+            {
+              "confidence" : 1,
+              "text" : "anyin the it no no tauble tomact skindly to them"
+            },
+            {
+              "confidence" : 1,
+              "text" : "anyin the it no no tauble tomact kindly to then"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.11632248383192724,
+            0.33183045454867277,
+            0.82556952804815575,
+            0.033127072612319952
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "then let us all the sancatty strive to coemplat"
+            },
+            {
+              "confidence" : 1,
+              "text" : "then let us all the sancatty strive to coemplati"
+            },
+            {
+              "confidence" : 1,
+              "text" : "then let us all the sanetty strive to coemplat"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.078481012363797772,
+            0.31250000068971817,
+            0.068354430485292869,
+            0.02325581278546851
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "thise"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "thisi"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "this"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.14683542681399733,
+            0.30658307191585399,
+            0.57974686752903004,
+            0.024812277432145757
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "oss thid we may make orselves."
+            },
+            {
+              "confidence" : 1,
+              "text" : "ass thid we may make orselves."
+            },
+            {
+              "confidence" : 1,
+              "text" : "ess thid we may make orselves."
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.07290529947527237,
+            0.28316638200173705,
+            0.22127800613153176,
+            0.026690492061985704
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "those that mo"
+            },
+            {
+              "confidence" : 1,
+              "text" : "those that no"
+            },
+            {
+              "confidence" : 1,
+              "text" : "Those that mo"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.28792495456770367,
+            0.28040908747427129,
+            0.41943149253970285,
+            0.030960900955439352
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "W to fur burbass red."
+            },
+            {
+              "confidence" : 1,
+              "text" : "W to fur burbass sed."
+            },
+            {
+              "confidence" : 1,
+              "text" : "W Bo fur burbass red."
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.67269729808482481,
+            0.24934692380613144,
+            0.25430756449047986,
+            0.029691922178836538
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "Sarah & Doicker"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "Sarak & Doicker"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "Parak & Doicker"
+            }
+          ]
+        }
+      ],
+      "orientation_score" : 843,
+      "revision" : 3,
+      "usesLanguageCorrection" : true
+    },
+    {
+      "clockwise_rotation" : 0,
+      "file" : "05-081-contrast.png",
+      "lines" : [
+        {
+          "box" : [
+            0.25288198086980085,
+            0.86188760864220038,
+            0.50695330510373982,
+            0.032422630764473936
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "The bearty of female zullere,"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.081012659330776726,
+            0.84011627991945048,
+            0.43291139029414272,
+            0.024774002505694059
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "there is mott ng, more înifis"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.5088607649111907,
+            0.84294670802862492,
+            0.41012656623548494,
+            0.024785849592155018
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "tant thien the creltivation."
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.078191805255469052,
+            0.80648045599355389,
+            0.87148897765112698,
+            0.034861133539564548
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "of ner minched there ns grven to each of uss a mind"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.080800118422686543,
+            0.78025281658004031,
+            0.88656319373292347,
+            0.034590801848886854
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "some srifessar t othere but it monleras not, whiit dgjree"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.085877896511378504,
+            0.75661622596326972,
+            0.84090749605105874,
+            0.026324137624902044
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "I inttellect-we fassess it- ra the comtur. drity of ad"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.072840541650038046,
+            0.7272950674190175,
+            0.31754583973702183,
+            0.028241684294793346
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "to improve it of we"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.46329113338550154,
+            0.73255813980821682,
+            0.4556962143528005,
+            0.018895348336629425
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "mol do tié what vitl de the."
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.06318682385814417,
+            0.69769932743862473,
+            0.33173607998206972,
+            0.028594116880602205
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "result? why iI- will"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.45474199918438812,
+            0.6957301110942391,
+            0.50819828888106211,
+            0.036653754255240978
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "an a field that ia not-n cule"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.070886059283764957,
+            0.67296511578535356,
+            0.72658231141137297,
+            0.02484052652101898
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "tivation and grois sek n bryars and wrecha."
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.098734169485733547,
+            0.64534883682405031,
+            0.84303798988217216,
+            0.026162791476354363
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "The grenter mitil ve fevsices the more we are erfected"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.065655882910438321,
+            0.61361657705141193,
+            0.87620682846653009,
+            0.033615858502522467
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "to acesmplisk. o think there žes more mn the aulturtiant"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.065822792156154344,
+            0.59153605032174494,
+            0.43037973205899932,
+            0.021943573667711602
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "of the avind than there rss mn"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.57438407678531866,
+            0.58731237394862934,
+            0.18273145331711071,
+            0.02836386701530047
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "sand staef"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.086075945377679791,
+            0.56238244484639677,
+            0.44810127299991453,
+            0.024826856989845658
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Ne mist cliso crttrivate the"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.55443038119584853,
+            0.56394984278141047,
+            0.14936708544121413,
+            0.021943573667711602
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "beart len"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.73643963887704011,
+            0.5605154430163295,
+            0.13724730444736166,
+            0.024317951262184057
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "vend of"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.070886071501600686,
+            0.52601880829892778,
+            0.46835443882342892,
+            0.035109717868338497
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "felnge and genttenes"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.56353910039381627,
+            0.53133209782503377,
+            0.2903696195675376,
+            0.031301863141194319
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "of disnaention"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.086075962289073077,
+            0.50000000017785684,
+            0.84810123964737016,
+            0.033542319749216287
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Theri ns salss a great imporlance attuched .to the culti"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.063199116937129762,
+            0.47813277724550118,
+            0.70402051581711067,
+            0.025991161190977663
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "vatgont af our mannegs for woht makee a j"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.7573673591224882,
+            0.47140980865111048,
+            0.14871062398608259,
+            0.035592024752338913
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "vnng late"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.067311029027108796,
+            0.45184037164817925,
+            0.15612529483649251,
+            0.026812646082576164
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "appeur to"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.2582278476414388,
+            0.45494186097199507,
+            0.078481013397050048,
+            0.020348836486242416
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "better"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.33640198261153786,
+            0.44644807737531633,
+            0.44881845276212429,
+            0.032506933182384512
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "advantage Han gruoefúlness"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.068006449491642126,
+            0.42475077156677787,
+            0.20568424078936132,
+            0.024065710085686476
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "patetenesi of"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.26518605585275007,
+            0.4166023142644969,
+            0.63934146068135256,
+            0.038151356568530748
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "• manners all tuu folitenes vriginatear"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.065359330866772508,
+            0.38929948077609855,
+            0.82864696731984289,
+            0.037314191955757803
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "in tamclneed of heirt fir af we feel kíndly towertl"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.074040141396417181,
+            0.35589368979907943,
+            0.32236598280609635,
+            0.041589745309285608
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "anyene theuint ro mi"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.3971583367337313,
+            0.36032157652387675,
+            0.52457865730660869,
+            0.032839980170270899
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Wauble tomvact skindly to them."
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.1164556965008853,
+            0.34156976781444948,
+            0.25316455611765709,
+            0.020499197741660979
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "then let. uis all"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.38210143507392391,
+            0.33186901280063408,
+            0.55992104785689889,
+            0.033246337507959467
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "tva eaznestty strise to wcesmplish"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.073417721294424088,
+            0.31104651121557447,
+            0.068354430485292855,
+            0.024709303326741261
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "this"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.14898959879523618,
+            0.31447538771760764,
+            0.12704377721567625,
+            0.018208904924063907
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "ss: thứt."
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.28787859429000978,
+            0.30172462670212041,
+            0.41696126969134223,
+            0.035528684036111424
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "we may make ouselvrs"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.72405063136879544,
+            0.30658307159268772,
+            0.17721519261761443,
+            0.020451811787476681
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "риа т"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.073417722385121342,
+            0.2848837216595913,
+            0.20253164155887127,
+            0.023266748649573232
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "those that m"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.30806114888703517,
+            0.27661918389860762,
+            0.40248426426955253,
+            0.036367130578498497
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "- B0 fur surpass res."
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.67251702622674681,
+            0.24925195003210499,
+            0.2572217597336065,
+            0.030939136851917626
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Sarali &. Dörichiet"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.063291139011985395,
+            0.22383721013484947,
+            0.13164556951470713,
+            0.024709300935081502
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "гкрик."
+            }
+          ]
+        }
+      ],
+      "orientation_score" : 857.90000027418137,
+      "revision" : 3,
+      "usesLanguageCorrection" : false
+    },
+    {
+      "clockwise_rotation" : 0,
+      "file" : "05-081-contrast.png",
+      "lines" : [
+        {
+          "box" : [
+            0.25288198086980085,
+            0.86188760864220038,
+            0.50695330510373982,
+            0.032422630764473936
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "The bearty of female culture,"
+            },
+            {
+              "confidence" : 1,
+              "text" : "The bearity of female culture,"
+            },
+            {
+              "confidence" : 1,
+              "text" : "The bearty of female culture."
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.081012659330776726,
+            0.84011627991945048,
+            0.43291139029414272,
+            0.024774002505694059
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "there is mott no, more initis"
+            },
+            {
+              "confidence" : 1,
+              "text" : "there is nott no, more initis"
+            },
+            {
+              "confidence" : 1,
+              "text" : "there is mott no more initis"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.5088607649111907,
+            0.84294670802862492,
+            0.41012656623548494,
+            0.024785849592155018
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "tant thien the crellivation."
+            },
+            {
+              "confidence" : 1,
+              "text" : "tant thin the crellivation."
+            },
+            {
+              "confidence" : 1,
+              "text" : "tant thin the orellivation."
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.078191805255469052,
+            0.80648045599355389,
+            0.87148897765112698,
+            0.034861133539564548
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "of nor minched there is given to each of us a mind"
+            },
+            {
+              "confidence" : 1,
+              "text" : "of nor minched There is given to each of us a mind"
+            },
+            {
+              "confidence" : 1,
+              "text" : "of ner minched there is given to each of us a mind"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.080800118422686543,
+            0.78025281658004031,
+            0.88656319373292347,
+            0.034590801848886854
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "some sifessor to there but it monteras not whit degree"
+            },
+            {
+              "confidence" : 1,
+              "text" : "some sifessor to there but it monteras not whit degre"
+            },
+            {
+              "confidence" : 1,
+              "text" : "some sifessor to there but it monteras not whit depree"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.085877896511378504,
+            0.75661622596326972,
+            0.84090749605105874,
+            0.026324137624902044
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "I intellect we bassess it- ra the comtor. drity of ad"
+            },
+            {
+              "confidence" : 1,
+              "text" : "I intellect we bassess it-ra the comtor. drity of ad"
+            },
+            {
+              "confidence" : 1,
+              "text" : "I intellect we bassess it- ra the comtvi. drity of ad"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.072840541650038046,
+            0.7272950674190175,
+            0.31754583973702183,
+            0.028241684294793346
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "to improve it of we"
+            },
+            {
+              "confidence" : 1,
+              "text" : "to improve it Of we"
+            },
+            {
+              "confidence" : 1,
+              "text" : "to improve it of ve"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.46329113338550154,
+            0.73255813980821682,
+            0.4556962143528005,
+            0.018895348336629425
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "mol do tie what witt be the."
+            },
+            {
+              "confidence" : 1,
+              "text" : "mol do tie what wittle the."
+            },
+            {
+              "confidence" : 1,
+              "text" : "mol do tie what witt be the"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.06318682385814417,
+            0.69769932743862473,
+            0.33173607998206972,
+            0.028594116880602205
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "result? why it - will"
+            },
+            {
+              "confidence" : 1,
+              "text" : "result? why it- will"
+            },
+            {
+              "confidence" : 1,
+              "text" : "result? why it- well"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.45474199918438812,
+            0.6957301110942391,
+            0.50819828888106211,
+            0.036653754255240978
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "an a field that is not in cule"
+            },
+            {
+              "confidence" : 1,
+              "text" : "an a field that is not on cule"
+            },
+            {
+              "confidence" : 1,
+              "text" : "an a field that is not in cul"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.070886059283764957,
+            0.67296511578535356,
+            0.72658231141137297,
+            0.02484052652101898
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "tivation and gros see me bryars and wrecha."
+            },
+            {
+              "confidence" : 1,
+              "text" : "tivation and gros see me bryars and wreche."
+            },
+            {
+              "confidence" : 1,
+              "text" : "tivation and gros see me bryars and wecha."
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.098734169485733547,
+            0.64534883682405031,
+            0.84303798988217216,
+            0.026162791476354363
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "The grenter mitil we fusics the more we are expected"
+            },
+            {
+              "confidence" : 1,
+              "text" : "The grenter mitil we fuses the more we are expected"
+            },
+            {
+              "confidence" : 1,
+              "text" : "The grenter mitil we fusics the more we are enfected"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.065655882910438321,
+            0.61361657705141193,
+            0.87620682846653009,
+            0.033615858502522467
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "to accomplisk. o think there ses more in the culturatient"
+            },
+            {
+              "confidence" : 1,
+              "text" : "to accomplisk. o think there ses more in the culturatiant"
+            },
+            {
+              "confidence" : 1,
+              "text" : "to accomplisk. o think there ses more in the culturationt"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.065822792156154344,
+            0.59153605032174494,
+            0.43037973205899932,
+            0.021943573667711602
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "of the anind than there iss in"
+            },
+            {
+              "confidence" : 1,
+              "text" : "of the avind than there iss in"
+            },
+            {
+              "confidence" : 1,
+              "text" : "of the anind than there iss m"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.57438407678531866,
+            0.58731237394862934,
+            0.18273145331711071,
+            0.02836386701530047
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "sand staf"
+            },
+            {
+              "confidence" : 1,
+              "text" : "sand stef"
+            },
+            {
+              "confidence" : 1,
+              "text" : "sand steelf"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.086075945377679791,
+            0.56238244484639677,
+            0.44810127299991453,
+            0.024826856989845658
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "We must also crettrivate the"
+            },
+            {
+              "confidence" : 1,
+              "text" : "We must also crettivate the"
+            },
+            {
+              "confidence" : 1,
+              "text" : "We must aliso crettivate the"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.55443038119584853,
+            0.56394984278141047,
+            0.14936708544121413,
+            0.021943573667711602
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "beart len"
+            },
+            {
+              "confidence" : 1,
+              "text" : "beart les"
+            },
+            {
+              "confidence" : 1,
+              "text" : "beart lent"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.73643963887704011,
+            0.5605154430163295,
+            0.13724730444736166,
+            0.024317951262184057
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "vend of"
+            },
+            {
+              "confidence" : 1,
+              "text" : "viend of"
+            },
+            {
+              "confidence" : 1,
+              "text" : "rend of"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.070886071501600686,
+            0.52601880829892778,
+            0.46835443882342892,
+            0.035109717868338497
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "feelige and gentleness"
+            },
+            {
+              "confidence" : 1,
+              "text" : "feelige and gentlenes"
+            },
+            {
+              "confidence" : 1,
+              "text" : "Belige and gentleness"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.56353910039381627,
+            0.53133209782503377,
+            0.2903696195675376,
+            0.031301863141194319
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "of dissention"
+            },
+            {
+              "confidence" : 1,
+              "text" : "of dismaention"
+            },
+            {
+              "confidence" : 1,
+              "text" : "of dissaintion"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.086075962289073077,
+            0.50000000017785684,
+            0.84810123964737016,
+            0.033542319749216287
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "There is also a great importance attuched to the culti"
+            },
+            {
+              "confidence" : 1,
+              "text" : "There is salso a great importance attuched to the culti"
+            },
+            {
+              "confidence" : 1,
+              "text" : "There is also a great importance ottuched to the culti"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.063199116937129762,
+            0.47813277724550118,
+            0.70402051581711067,
+            0.025991161190977663
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "vationt of our manness for whet make a j"
+            },
+            {
+              "confidence" : 1,
+              "text" : "vation of our manness for whet make a j"
+            },
+            {
+              "confidence" : 1,
+              "text" : "vation of our manness for whet maker a j"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.7573673591224882,
+            0.47140980865111048,
+            0.14871062398608259,
+            0.035592024752338913
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "ning late"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "ving late"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "ning lite"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.067311029027108796,
+            0.45184037164817925,
+            0.15612529483649251,
+            0.026812646082576164
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "appear to"
+            },
+            {
+              "confidence" : 1,
+              "text" : "apper to"
+            },
+            {
+              "confidence" : 1,
+              "text" : "appeur to"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.2582278476414388,
+            0.45494186097199507,
+            0.078481013397050048,
+            0.020348836486242416
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "better"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "beter"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "bette"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.33640198261153786,
+            0.44644807737531633,
+            0.44881845276212429,
+            0.032506933182384512
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "advantage Han griorfulnes"
+            },
+            {
+              "confidence" : 1,
+              "text" : "advantage Han groefulness"
+            },
+            {
+              "confidence" : 1,
+              "text" : "advantage Han groefulnes"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.26518605585275007,
+            0.4166023142644969,
+            0.63934146068135256,
+            0.038151356568530748
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "• manners all true folitenes vriginater"
+            },
+            {
+              "confidence" : 1,
+              "text" : "• manners all true folitenes vriginatea"
+            },
+            {
+              "confidence" : 1,
+              "text" : "• manners all tre folitenes vriginater"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.065359330866772508,
+            0.38929948077609855,
+            0.82864696731984289,
+            0.037314191955757803
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "in tamned of heart for at we feel kindly towell"
+            },
+            {
+              "confidence" : 1,
+              "text" : "in tamned of heart for of we feel kindly towell"
+            },
+            {
+              "confidence" : 1,
+              "text" : "in tamned of heart for at we feel kindly towerl"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.074040141396417181,
+            0.35589368979907943,
+            0.32236598280609635,
+            0.041589745309285608
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "anger then it no mi"
+            },
+            {
+              "confidence" : 1,
+              "text" : "anger then it no ni"
+            },
+            {
+              "confidence" : 1,
+              "text" : "anger then int no mi"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.3971583367337313,
+            0.36032157652387675,
+            0.52457865730660869,
+            0.032839980170270899
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "huble tomact kindly to them."
+            },
+            {
+              "confidence" : 1,
+              "text" : "Wuble tomact kindly to them."
+            },
+            {
+              "confidence" : 1,
+              "text" : "huble tomact skindly to them."
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.1164556965008853,
+            0.34156976781444948,
+            0.25316455611765709,
+            0.020499197741660979
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "then let. us all"
+            },
+            {
+              "confidence" : 1,
+              "text" : "then lit. us all"
+            },
+            {
+              "confidence" : 1,
+              "text" : "then let. vis all"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.38210143507392391,
+            0.33186901280063408,
+            0.55992104785689889,
+            0.033246337507959467
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "tra sanesty strive to wcesplish"
+            },
+            {
+              "confidence" : 1,
+              "text" : "tra sanesty strive to wesplish"
+            },
+            {
+              "confidence" : 1,
+              "text" : "tra sanesty strive to weeplish"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.073417721294424088,
+            0.31104651121557447,
+            0.068354430485292855,
+            0.024709303326741261
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "this"
+            },
+            {
+              "confidence" : 1,
+              "text" : "this"
+            },
+            {
+              "confidence" : 1,
+              "text" : "this:"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.14898959879523618,
+            0.31447538771760764,
+            0.12704377721567625,
+            0.018208904924063907
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "ss: thứt."
+            },
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "ss: thi."
+            },
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "ss: thi."
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.28787859429000978,
+            0.30172462670212041,
+            0.41696126969134223,
+            0.035528684036111424
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "we may make orselve"
+            },
+            {
+              "confidence" : 1,
+              "text" : "we may make arselve"
+            },
+            {
+              "confidence" : 1,
+              "text" : "we may make ouselve"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.073417722385121342,
+            0.2848837216595913,
+            0.20253164155887127,
+            0.023266748649573232
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "those that m"
+            },
+            {
+              "confidence" : 1,
+              "text" : "those that mi"
+            },
+            {
+              "confidence" : 1,
+              "text" : "those that n"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.30806114888703517,
+            0.27661918389860762,
+            0.40248426426955253,
+            0.036367130578498497
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "- B0 fur surpass res."
+            },
+            {
+              "confidence" : 1,
+              "text" : "- B0 fur surpass res."
+            },
+            {
+              "confidence" : 1,
+              "text" : "- B0 fur surpass res."
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.67251702622674681,
+            0.24925195003210499,
+            0.2572217597336065,
+            0.030939136851917626
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "Sarah &. Dörichiet"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "Sarah &. Dörickies"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "Sarah &. Dörichies"
+            }
+          ]
+        }
+      ],
+      "orientation_score" : 817,
+      "revision" : 3,
+      "usesLanguageCorrection" : true
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "baseline_items": 1200,
+  "source_pages_processed": 193,
+  "ocr_runs": 1351,
+  "ocr_errors": 0,
+  "image_adjudicated_items_including_pilot": 81,
+  "outcomes": {
+    "image_supported": 28,
+    "retained_without_new_image_adjudication": 1119,
+    "unresolved": 33,
+    "duplicate_witness": 16,
+    "context_only": 2,
+    "partial_reading": 2
+  },
+  "annotation_replacements": 30,
+  "additional_whole_line_changes": 6,
+  "current_uncertainties": 1175,
+  "unresolved_IDs": "Original IDs retained; newly introduced uncertainties use numbers above the old maximum on their page. Resolved IDs are retired, not reassigned.",
+  "new_image_adjudications": 31,
+  "family_text_changes": 11,
+  "editorial_note_synchronizations": 7
+}

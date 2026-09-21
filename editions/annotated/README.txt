@@ -1,5 +1,5 @@
 GEORGE DOUGLAS PAPERS ANNOTATED TRANSCRIPTION
-Version 1.0 • September 2026
+Version 1.1 • September 2026
 
 Prepared for Volney Douglas as an AI-assisted contribution for ACU review.
 
@@ -14,7 +14,8 @@ For offline searching across all volumes, open:
   Supporting-files/Complete-transcript.html
 For doubts and proposed corrections, open:
   Supporting-files/Unresolved-readings.html
-The matching TSV has blank columns for corrections, reviewers and evidence.
+The matching TSV preserves proposed readings, reviewers and evidence.
+Review-summary.txt explains the revision and points to its item ledger.
 Supporting-files/PDF-page-map.tsv gives the starting edition PDF page for
 each source-page entry. Some entries continue onto the following PDF page.
 

@@ -1,0 +1,747 @@
+{
+  "best_clockwise_rotation" : 180,
+  "engine" : "Apple Vision",
+  "os" : "Version 27.0 (Build 26A428)",
+  "page_id" : "05-022",
+  "records" : [
+    {
+      "clockwise_rotation" : 0,
+      "file" : "05-022-original.png",
+      "lines" : [
+        {
+          "box" : [
+            0.37370181128195457,
+            0.79284036618995035,
+            0.30968661595657243,
+            0.039319268164377252
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "L.W. Wefber due"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.37389705497935882,
+            0.75432086837878298,
+            0.34276078158915352,
+            0.058279149672564312
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "bill to N. L. Dreglas"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.37921693539132079,
+            0.73333449888369306,
+            0.23788288494417936,
+            0.036237979492384276
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Jan. 21, 1829"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.1697284206190923,
+            0.43498815612486419,
+            0.66559105971495136,
+            0.058416202124043082
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Due Ad Donglas er beaver five dollars"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.16306520947325559,
+            0.42964599233689649,
+            0.24146971347017843,
+            0.029583403028661803
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "valu seccived."
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.43983153407972564,
+            0.42085591583530368,
+            0.19418849302141861,
+            0.026702650317638521
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "1 анкату. В15"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.62907800485616006,
+            0.38456960293212905,
+            0.30396739114171034,
+            0.062915221036777269
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "1539 8 sPehter"
+            }
+          ]
+        }
+      ],
+      "orientation_score" : 81.100000083446503,
+      "revision" : 3,
+      "usesLanguageCorrection" : false
+    },
+    {
+      "clockwise_rotation" : 90,
+      "file" : "05-022-original.png",
+      "lines" : [
+        {
+          "box" : [
+            0.79441535433209276,
+            0.31420589685318268,
+            0.040313413314143065,
+            0.3106682595242275
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "L.W. Wefber due"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.75468536300014899,
+            0.28187315866611973,
+            0.055369356387474089,
+            0.34055441368344608
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "bill to N.L. Dreglas"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.73546510819998467,
+            0.38121547225740282,
+            0.03343025010790579,
+            0.23756905887903801
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Gan. 21, 1829"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.44133566628419935,
+            0.15536058668784691,
+            0.052777790619806364,
+            0.67817683312452126
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Due AL Donglas es bearer five dolars"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.42929924024970523,
+            0.58088834530585343,
+            0.030416235051550833,
+            0.25245788075463638
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "value seccived."
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.38651709262950834,
+            0.060614412877155188,
+            0.082991625396212076,
+            0.5330403438018706
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "danuary. 9i9t i539- S A NPebber"
+            }
+          ]
+        }
+      ],
+      "orientation_score" : 81.5,
+      "revision" : 3,
+      "usesLanguageCorrection" : false
+    },
+    {
+      "clockwise_rotation" : 180,
+      "file" : "05-022-original.png",
+      "lines" : [
+        {
+          "box" : [
+            0.31471562101151668,
+            0.16475789009339736,
+            0.307426413671476,
+            0.041637591255181738
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "L.W. Vikefber due"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.28210944172765551,
+            0.1910969570562342,
+            0.34195161377202499,
+            0.050668495110597012
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "bill to :N. L. Areglas"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.37937385026032311,
+            0.22965114707890344,
+            0.23941068094037288,
+            0.034883752741417862
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Jan. 21, 1829"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.15665751167265768,
+            0.49849376422335923,
+            0.67783250506735193,
+            0.069375120373525334
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Die AP. Douglas es bearer five dollars"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.36062817407939102,
+            0.54111418715571746,
+            0.4725823095553498,
+            0.038986897679896826
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "value seccivedo fanuary. B\/St"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.058135358365464324,
+            0.55251108498715562,
+            0.31063646388614019,
+            0.060875747397866165
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "1539 82 NPetter"
+            }
+          ]
+        }
+      ],
+      "orientation_score" : 88.100000083446503,
+      "revision" : 3,
+      "usesLanguageCorrection" : false
+    },
+    {
+      "clockwise_rotation" : 270,
+      "file" : "05-022-original.png",
+      "lines" : [
+        {
+          "box" : [
+            0.17090859938430633,
+            0.37848124393866645,
+            0.032409369801437549,
+            0.30023545605169499
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "2. W. Wehber due"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.19237163609540942,
+            0.38010991665523852,
+            0.046660763712106063,
+            0.33584155198624244
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "bill to :N. L. Dreglas"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.22965115146686993,
+            0.38121547174832626,
+            0.034883740445858624,
+            0.23756905887903801
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Jan. 21, 1829"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.50214097535827573,
+            0.14229722816725721,
+            0.057990923319777399,
+            0.69700321746919691
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Due AL Donglas es hearer five dollars"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.54122168191121167,
+            0.15771249071977056,
+            0.038706372958051904,
+            0.48152689013222993
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "value seccived. fanuary. 9\/5t"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.55225187581765334,
+            0.63765110819632842,
+            0.066450329580007295,
+            0.31480761519247957
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "1539. 88 SPehter."
+            }
+          ]
+        }
+      ],
+      "orientation_score" : 82.100000083446503,
+      "revision" : 3,
+      "usesLanguageCorrection" : false
+    },
+    {
+      "clockwise_rotation" : 180,
+      "file" : "05-022-original.png",
+      "lines" : [
+        {
+          "box" : [
+            0.31471562101151668,
+            0.16475789009339736,
+            0.307426413671476,
+            0.041637591255181738
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "7. W. Webber due"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "7. W. Wetber due"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "7. W. Vetber due"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.28210944172765551,
+            0.1910969570562342,
+            0.34195161377202499,
+            0.050668495110597012
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "bill to N. L. A reglas"
+            },
+            {
+              "confidence" : 1,
+              "text" : "bill to N. I. A reglas"
+            },
+            {
+              "confidence" : 1,
+              "text" : "bill to N. L. Areglas"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.37937385026032311,
+            0.22965114707890344,
+            0.23941068094037288,
+            0.034883752741417862
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Jan. 21, 1829"
+            },
+            {
+              "confidence" : 1,
+              "text" : "Gan. 21, 1829"
+            },
+            {
+              "confidence" : 1,
+              "text" : "Jan. 21,1829"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.15665751167265768,
+            0.49849376422335923,
+            0.67783250506735193,
+            0.069375120373525334
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Die AP. Douglas es bearer five dollars"
+            },
+            {
+              "confidence" : 1,
+              "text" : "Die AP. Douglas es beaver five dollars"
+            },
+            {
+              "confidence" : 1,
+              "text" : "Die Al. Douglas es bearer five dollars"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.36062817407939102,
+            0.54111418715571746,
+            0.4725823095553498,
+            0.038986897679896826
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "value seccivedo January. B\/St"
+            },
+            {
+              "confidence" : 1,
+              "text" : "value seccivedo January. B\/St"
+            },
+            {
+              "confidence" : 1,
+              "text" : "value seccived January. B\/St"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.058135358365464324,
+            0.55251108498715562,
+            0.31063646388614019,
+            0.060875747397866165
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "1539-82 SPeller"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "1539-82 sPeller"
+            },
+            {
+              "confidence" : 0.5,
+              "text" : "1539 82 SPeller"
+            }
+          ]
+        }
+      ],
+      "orientation_score" : 86.5,
+      "revision" : 3,
+      "usesLanguageCorrection" : true
+    },
+    {
+      "clockwise_rotation" : 180,
+      "file" : "05-022-contrast.png",
+      "lines" : [
+        {
+          "box" : [
+            0.31279341881071115,
+            0.15844858548226071,
+            0.3134006582071151,
+            0.045295036002381162
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "L.W0. Wetter due"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.27735694052177778,
+            0.18243201622841709,
+            0.35118481769503324,
+            0.065053258952740944
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "bill to .N. I. Druglas"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.37937385058479911,
+            0.22965114693019917,
+            0.23941068094037277,
+            0.036337241542425791
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Gan. 21,1829"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.16080271118802772,
+            0.50167003695194512,
+            0.67026701353421858,
+            0.070135431650854896
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Die A.d. Douglas is bearer five dollars"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.35832828882537521,
+            0.54932436149216057,
+            0.22190593528552732,
+            0.032017215233863361
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.30000001192092896,
+              "text" : "у aнuary. ЭГ?"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.061708967182381079,
+            0.55044035889266385,
+            0.30973109867770049,
+            0.064699755475753573
+          ],
+          "candidates" : [
+            {
+              "confidence" : 0.5,
+              "text" : "1839. 809 sPehter"
+            }
+          ]
+        }
+      ],
+      "orientation_score" : 60.700000107288361,
+      "revision" : 3,
+      "usesLanguageCorrection" : false
+    },
+    {
+      "clockwise_rotation" : 180,
+      "file" : "05-022-contrast.png",
+      "lines" : [
+        {
+          "box" : [
+            0.31279341881071115,
+            0.15844858548226071,
+            0.3134006582071151,
+            0.045295036002381162
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "2. W. Wetter due"
+            },
+            {
+              "confidence" : 1,
+              "text" : "L.W0. Wetter due"
+            },
+            {
+              "confidence" : 1,
+              "text" : "L.W0. Wetter due"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.27735694052177778,
+            0.18243201622841709,
+            0.35118481769503324,
+            0.065053258952740944
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "bill to IN. I. Druglas"
+            },
+            {
+              "confidence" : 1,
+              "text" : "bill to iN. I. Druglas"
+            },
+            {
+              "confidence" : 1,
+              "text" : "bill to N. I. Druglas"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.37937385058479911,
+            0.22965114693019917,
+            0.23941068094037277,
+            0.036337241542425791
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Gan. 21, 1829"
+            },
+            {
+              "confidence" : 1,
+              "text" : "gan. 21, 1829"
+            },
+            {
+              "confidence" : 1,
+              "text" : "Jan. 21, 1829"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.16080271118802772,
+            0.50167003695194512,
+            0.67026701353421858,
+            0.070135431650854896
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "Die AL. Douglas is bearer five dollars"
+            },
+            {
+              "confidence" : 1,
+              "text" : "Die At. Douglas is bearer five dollars"
+            },
+            {
+              "confidence" : 1,
+              "text" : "Die As. Douglas is bearer five dollars"
+            }
+          ]
+        },
+        {
+          "box" : [
+            0.061708967182381079,
+            0.55044035889266385,
+            0.30973109867770049,
+            0.064699755475753573
+          ],
+          "candidates" : [
+            {
+              "confidence" : 1,
+              "text" : "1839. 809 Petter"
+            },
+            {
+              "confidence" : 1,
+              "text" : "1839. 800 Petter"
+            },
+            {
+              "confidence" : 1,
+              "text" : "1839. 809 sPelter"
+            }
+          ]
+        }
+      ],
+      "orientation_score" : 66,
+      "revision" : 3,
+      "usesLanguageCorrection" : true
+    }
+  ]
+}
