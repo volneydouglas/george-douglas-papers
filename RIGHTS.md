@@ -1,6 +1,6 @@
 # Rights and publication status
 
-This repository is a private review copy of an independent family project. No blanket open-source or Creative Commons license is granted over the entire collection by this repository. Private GitHub visibility does not itself establish copyright ownership or publication permission.
+This independent family project was made public on GitHub on 20 September 2026 at Volney Douglas's request. No blanket open-source or Creative Commons license is granted over the entire collection by this repository. Public GitHub visibility does not itself establish copyright ownership or permission for further reuse.
 
 ## Source collection
 
@@ -13,14 +13,14 @@ The Folder 2 record displays a Creative Commons Attribution–NonCommercial–No
 
 The [Creative Commons license explanation](https://creativecommons.org/licenses/by-nc-nd/4.0/) describes restrictions on sharing adaptations, permits format changes, and states that its requirements do not apply to public-domain elements. The rights status of historical text, supplied images, modern descriptive material and new editorial contributions should be considered separately.
 
-## Before a public release
+## Publication and reuse
 
-Clarify relevant reuse terms with ACU and, where applicable, other rights holders. Choose appropriate notices for each type of material. Credit ACU without implying endorsement. A proposed public release should also be reviewed for personal information and unsupported historical claims.
+The change to public visibility is the project owner's sharing decision. It does not represent a permission response, review or endorsement from ACU. Relevant reuse terms have not been clarified with ACU or other rights holders. Retain the source credits, uncertainty statements and applicable rights notices when sharing material.
 
-Keep source-image links, exact filenames and checksums so readers can consult the repository's scans. This private repository does not contain copies of the original six source PDFs.
+Source-image links, exact filenames and checksums are retained so readers can consult ACU's scans. This repository does not contain copies of the original six source PDFs. Earlier exports and audit records that describe a private review copy retain their historical wording.
 
 ## Preparation
 
 The transcripts and family reading edition were prepared with AI assistance for Volney Douglas. They are offered for review and correction. Do not remove the preparation and uncertainty statements when sharing a version.
 
-Sources for this note were consulted on 19 September 2026. No contact or permission response from ACU is represented by this note.
+Sources for this note were consulted on 19 September 2026; the visibility statement was updated on 20 September 2026. No contact or permission response from ACU is represented by this note.

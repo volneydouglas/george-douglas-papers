@@ -1,6 +1,6 @@
 # Review status
 
-20 September 2026, revision 1.1. Private AI-assisted reference and family editions.
+20 September 2026, revision 1.1. Publicly shared AI-assisted reference and family editions.
 
 ## Completed
 
@@ -28,6 +28,6 @@ Revision 1.1 applies 28 resolved readings, two partial recoveries, 16 clearer-wi
 - The editions have not been systematically reconciled word by word with each other or with the other agent's complete translation.
 - Folders 4–7 in the finding aid were not supplied as manuscript scans and are not transcribed here.
 - Nathaniel Lynn Douglas's father has not been established. References to another person's father are not proof of his parentage.
-- ACU has not reviewed or endorsed the contribution. No invitation or files have been sent. Public distribution remains outside the current private review scope.
+- ACU has not reviewed or endorsed the contribution. No invitation or files have been sent to ACU. The repository was made public on 20 September 2026 at the project owner's request; that change does not alter the verification status of the editions.
 
 Coverage is complete for the supplied scans. Complete scholarly verification remains unfinished.

@@ -2,13 +2,15 @@
 
 An independent family project prepared for Volney Douglas from scans supplied by Abilene Christian University Special Collections and Archives. The collection is the George Douglas Papers, 1830–1939, Center for Restoration Studies MS 5.
 
-**Private review edition · September 2026 · revision 1.1**
+**Public review edition · September 2026 · revision 1.1**
 
 Both editions account for all **387 pages of the six supplied source PDFs**. This is complete coverage of the supplied scans, including covers, later labels, envelopes, duplicates and fragments. It does not mean every word has been recovered. The annotated transcript contains **1,175 marked unresolved readings** and has not received an independent human transcription check or ACU approval.
 
 **Revision 1.1:** [Complete uncertainty processing run](review/full-run-2026-09/) covering all 1,200 original items on 193 pages. Supported corrections are now applied throughout both editions and their download packages. There are 81 focused image decisions including the earlier pilot: 28 resolved readings, two partial recoveries and 16 clearer-witness references. The remaining 1,119 items were machine-processed without a fresh individual image adjudication. All uncertain passages remain marked; see the audit for exact scope.
 
 ## Start reading
+
+For a short introduction, read [eight family highlights for Dad, with quotations and source references](research/highlights-for-dad.md).
 
 | Edition | Purpose | Download |
 | --- | --- | --- |
@@ -54,6 +56,8 @@ This is an independent family contribution, with thanks to ACU for preserving th
 
 ## Sharing and versioning
 
-This repository is being kept private while the material is reviewed and reuse terms are clarified. No public website is deployed. See [rights and publication status](RIGHTS.md). An invitation to ACU to review the contribution has not yet been sent.
+The repository was made public on 20 September 2026 at Volney Douglas's request. Its pages and downloads can be shared without a GitHub invitation. No separate public website is deployed. See [rights and publication status](RIGHTS.md). An invitation to ACU to review the contribution has not yet been sent.
+
+References to a private review copy in earlier document exports and audit records describe the preparation stage. The revision 1.1 edition files and download packages are unchanged by this visibility change; public availability does not indicate ACU review or endorsement.
 
 Current document editions identify themselves as version/revision 1.1. The `v1.0-review` tag preserves the original snapshot for comparison; the intervening pilot remains in the review history. See [the change log](CHANGELOG.md) for applied corrections and limits.

@@ -1,5 +1,11 @@
 # Change log
 
+## Public repository and family highlights — 20 September 2026
+
+- Made the GitHub repository public at Volney Douglas's request and updated current visibility statements, retaining the existing attribution, rights and review limitations.
+- Added `research/highlights-for-dad.md`: eight family stories with quotations, stable transcript citations, and a note distinguishing N. L.'s documented locations from his still-unproved birthplace and parentage. Selected quoted manuscript passages were compared with the supplied scans again.
+- Kept revision 1.1 edition files, ZIP packages, frozen review evidence and the `v1.0-review` tag unchanged. Historical references to private review remain in those records.
+
 ## Revision 1.1 — 20 September 2026
 
 - Processed every original uncertainty item: 1,200 items on 193 pages, seven OCR variants per page, 1,351 runs without errors. Raw outputs and an item-by-item scope ledger are preserved in `review/full-run-2026-09/`.
