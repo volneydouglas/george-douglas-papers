@@ -1,51 +1,39 @@
 # George Douglas Papers annotated transcription
 
-Version 1.1 • September 2026
+Version 2.0 • September 2026
 
-## Purpose and scope
+## Scope
 
-This edition offers a direct, annotated transcription of the six supplied PDFs of the George Douglas Papers, 1830–1939, Center for Restoration Studies MS 5, Abilene Christian University Special Collections and Archives. It accounts for all 387 scan pages, including repository covers, later identifying slips, envelopes, duplicate images and fragments. Some damaged passages remain only partly transcribed. Folders 4–7 described in the finding aid were not supplied as manuscript scans and are outside this edition.
+Version 2.0 adds the four newly supplied PDFs, sources 07–10, containing 545 scan pages. Combined with the earlier six sources and 387 scan pages, the collection now accounts for 932 scan pages. Covers, later labels, envelopes, duplicate images, blank leaves and fragments count as source pages. Coverage does not mean every word is legible. Earlier volumes I–IV retain their version 1.1 text and layout; new volumes V–VIII and the combined reading files carry version 2.0.
 
-## Preparation and review
+## Preparation and independence
 
-Prepared for Volney Douglas with AI assistance in September 2026, from visual reading of the supplied scans. Each scan received an initial reading. Version 1.1 adds local OCR processing of all 193 pages containing the original 1,200 uncertainties, and applies selected image-checked corrections. OCR completion is not a complete new visual check; the item ledger records which passages were individually adjudicated. The page inventory identifies the review level. This edition has not received an independent human transcription check or repository approval. It is offered for scholarly review and correction, and does not replace the source images.
+Prepared for Volney Douglas with AI assistance in September 2026. Every new scan page received an initial visual reading, with selected enlargement, rotation, contrast adjustment and comparison against related passages within the source collection. Local Apple Vision OCR was run at four orientations on all 545 new pages as a reading aid. OCR agreement alone did not establish a reading. The other agent’s transcription was excluded as a source for this addition. Reference and family readings of the new pages were prepared together from the scans; they are not independent of each other. No independent human verification or ACU endorsement is claimed. The earlier version 1.1 has its own disclosed comparison history, preserved in the previous guide and review records.
 
-## Independence
+## Reference and family editions
 
-The first edition was prepared separately from the plain-English family edition. For version 1.1, the other agent’s contextual review and the family edition were consulted to guide image checks; this revision is not a blinded comparison. Part of a pre-existing 25-page transcription was viewed during the initial inventory, before the request for independence; it has not been used for this transcription. The work is therefore not a blind experiment.
+The annotated reference edition preserves readable original wording, spelling, grammar and abbreviations. Ordinary prose wrapping may be reflowed; poem lines and ledger groups are retained. Capitalization, punctuation and word division sometimes require judgment. Superscripts are generally lowered; raised numbers in the convivial journal are retained. Underlining and decorative marks are not systematically encoded. This is a direct reading transcript, not a facsimile or fully diplomatic edition. The family edition modernizes wording and explains abbreviated forms where secure. Very damaged passages sometimes receive an explicitly identified fragmentary reading rather than an invented continuous text. Financial figures remain as read and are not silently reconciled.
 
-## Wording and layout
+## Uncertainty and interventions
 
-Original wording, spelling, grammar, abbreviations and recoverable punctuation are retained. No silent expansion or modernization is intended. Handwritten capitalization, punctuation and word division sometimes require judgment. Superscripts are lowered to the baseline. Ordinary line wrapping is reflowed; verse lines, addresses and separate text blocks are distinguished. Underlining and decorative features are not systematically encoded. This is a direct reading transcript, not a facsimile or a fully diplomatic edition.
+Double square brackets identify editorial intervention. [[word?]] is a tentative reading; [[illegible]] marks unread writing, with no implied word count. [[lost: description]] records missing material and [[obscured: description]] records an obstruction. [[deleted: text]] and [[inserted: text]] distinguish readable revisions. [[separate block: description]], [[blank]] and other descriptive markers explain layout or non-textual material. Original single brackets and question marks remain part of the source. A gap is not filled solely to make a fluent sentence or to match a related copy.
 
-## Uncertainty notation
+## Order and evidence
 
-Double square brackets contain editorial intervention. [[illegible]] means writing could not be read; an unspecified gap does not imply a word count. Adjacent unreadable spans may be combined. A stated extent, such as [[illegible: approximately 3 words]], is an estimate. [[word?]] gives a tentative reading, including tentative phrases. [[lost: torn edge]] records writing missing at a damaged edge; [[obscured: fold]] identifies an obstruction. Original single brackets remain as written. No missing wording is supplied solely to produce a fluent sentence.
+The reference volumes retain PDF scan order. Editorial notes link displaced continuations and clearer related versions. The family edition also retains source-page locators, with reading-order guidance beside the relevant text. Later identifying slips remain distinct from the manuscript and may disagree with it. A name in an account does not establish kinship, ownership or parentage. Poems may use fictional speakers, aliases, satire and imagined events. Letters preserve their writers’ assertions, rumors and opinions, including offensive historical language; a transcript does not verify those statements.
 
-## Corrections and separate blocks
+## Locators and corrections
 
-[[deleted: text]] records readable canceled text; [[deleted: illegible]] records an unread cancellation. [[inserted: text]] records a significant insertion in its intended position. [[margin]] and [[/margin]] enclose marginal writing. [[postmark]] and [[postage]] identify postal text. [[blank]], [[seal]] and [[sketch]] identify useful non-textual features. A [[separate block: description]] marker introduces an independently positioned passage. Handwriting or cancellation may itself be uncertain.
+A page ID such as 09-003 means source 09, PDF scan page 3, counting the cover as page 1. A block ID such as 09-003-P02 identifies the second transcript block. These locators are not original manuscript page numbers. Earlier IDs are unchanged. New uncertainty IDs append U001, U002 and so on to their source-page ID. Please propose corrections with the locator, existing wording, proposed wording and supporting image evidence. The original scans remain authoritative.
 
-## Source order and later descriptions
+## Source credit
 
-Entries follow the PDFs’ scan order. Where the leaves appear out of sequence, the editorial note suggests a reading order without moving the entry. Later identifying slips are transcribed separately; their names, dates and attributions are not silently substituted for manuscript readings. Duplicate scans retain separate entries. Apparent contradictions are recorded rather than reconciled.
+Original documents and scans: George Douglas Papers, 1830–1939, Center for Restoration Studies MS 5, Abilene Christian University Special Collections and Archives, Brown Library, Abilene, Texas. Collection address: https://digitalcommons.acu.edu/george_douglas/. This family contribution acknowledges the university’s preservation and scanning work. It does not claim university publication, approval or a transfer of copyright.
 
-## Documentary statements
+## Earlier scans and review history
 
-The letters preserve their writers’ assertions, beliefs, rumors and opinions. Transcription does not establish those statements as historical fact. Historical racial language and other offensive wording remain where legible. The original scans are the evidence against which this typescript should be checked.
+The replacement PDFs for sources 01–06 add no manuscript pages. Folders 1–3 matched the earlier copies pixel for pixel at the comparison render size; the sermon and endorsement contain the same decoded scan-image pixels with altered page dimensions or margins. The finding aid is visually unchanged, with small render and text-extraction encoding differences documented in the comparison report. The older 1,200-item review remains a historical review of sources 01–06; it is not a review of the 545 new pages. New marked doubts require further source or human review.
 
-## References and corrections
+## Reuse files
 
-A page ID such as 05-025 means source 05, PDF scan page 25, counting the cover as page 1. A block ID such as 05-025-P02 adds the second transcript paragraph or block. These are editorial locators; they are not manuscript page numbers. Suggested citation: George Douglas Papers annotated transcription, version 1.1, 05-025-P02; corresponding source 05, scan page 25. For a correction, give that locator, the existing wording, a proposed reading, and the image or other evidence supporting it.
-
-## Files for reuse
-
-The package includes four searchable PDFs and four editable Word files, a complete UTF-8 transcript, structured JSON, an offline HTML reading copy, a page inventory, and an unresolved-readings register in TSV and HTML. The register retains the original uncertainty IDs; resolved IDs are retired and new IDs use higher numbers. The review ledger preserves all 1,200 baseline items. The register includes tentative readings, unread text, loss and obstruction; structural markers and readable insertions or deletions are not unresolved items. Original source PDFs are identified by filename and SHA-256 checksum but are not duplicated in this package.
-
-## Repository credit
-
-Original documents and scans: George Douglas Papers, 1830–1939, Center for Restoration Studies MS 5, Abilene Christian University Special Collections and Archives, Brown Library, Abilene Christian University, Abilene, Texas. Collection address printed in the supplied files: https://digitalcommons.acu.edu/george_douglas. This contribution acknowledges the repository’s work in preserving and scanning the collection. No repository endorsement or transfer of copyright is asserted.
-
-## Transcription guidance
-
-The general approach of retaining original spelling and abbreviations and marking uncertainty is informed by the Smithsonian Transcription Center’s How to Transcribe guidance, consulted September 2026: https://transcription.si.edu/instructions/transcribe. This edition defines its own notation and is not a Smithsonian project.
+The combined HTML, UTF-8 text, structured JSON, source manifest, page inventory, uncertainty register and PDF page map cover all ten sources. The new per-page records also contain the family readings and notes. Existing volume files remain available alongside four new volumes in each edition. Original source PDFs are identified by filename and checksum but are not duplicated in the public package.

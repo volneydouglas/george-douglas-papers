@@ -1,33 +1,33 @@
 # Review status
 
-20 September 2026, revision 1.1. Publicly shared AI-assisted reference and family editions.
+26 September 2026, version 2.0. Publicly shared AI-assisted reference and family editions.
 
-## Completed
+## Completed coverage and exports
 
-- All six supplied PDFs and 387 source scan pages remain accounted for in both editions.
-- The annotated edition contains 971 transcript blocks and four PDF/Word pairs totaling 186 PDF pages. The family edition contains 161 entries and four PDF/Word pairs totaling 127 PDF pages.
-- All original source checksums were verified. Annotated PDF, Word, HTML and plain text agree with the structured master; the family PDFs agree with Word, including corrected search/copy encoding. Coverage, paragraph locators, HTML filters and family navigation passed validation.
-- All 313 final pages were rendered. The 102 changed page bodies received visual inspection; 211 bodies were pixel-identical to the previously inspected edition. Footer samples were checked across all eight volumes. Encoding repairs left all 127 family pages pixel-identical.
-- The source-to-PDF map, current uncertainty register, structured data, guides, exact change records and both ZIP packages were rebuilt.
+- All ten supplied source PDFs and **932 scan pages** are accounted for, including the **545 newly supplied pages** in Folders 4–7.
+- The annotated master contains **2,183 transcript blocks**. Eight annotated PDF/Word pairs total **514 PDF pages**. Eight family PDF/Word pairs total **383 PDF pages**. The family ledger contains 706 entries, including grouped entries from the earlier edition.
+- Every new source page received an initial AI visual reading. Apple Vision OCR at four orientations was used as an aid, with selected enlargement, rotation, contrast adjustment and comparison with related source passages. No reading was established by OCR agreement alone.
+- New Word text matches the structured master. PDF paragraph checks found no omitted or changed paragraphs after whitespace normalization. One raised-number extraction issue was checked with a second PDF extractor. All **584 new export pages** were visually inspected. Export checks do not establish handwriting accuracy.
+- The previous 387 page objects, 1,175 uncertainty rows, 16 DOCX/PDF exports, seven family Markdown files, research notes and previous review evidence are preserved. The earlier 313 PDF pages retain their documented inspection history, giving **897 PDF pages** across both complete editions.
+- Combined transcript text, HTML, source catalog, page inventory, source-to-PDF map, uncertainty register, family ledger and both ZIP packages include the additions. New source checksums and retained-file checksums were verified.
 
-## Review sequence
+## Uncertainty and review history
 
-The [contextual review](review/uncertain-text-review-2026-09.md) examined all 1,200 original register entries without access to the scans and proposed readings or flagged conflicts. It did not resolve handwriting.
+The current register contains **3,415 entries: 1,175 retained from version 1.1 and 2,240 added**. An entry may cover several words or an obscured passage; this is not an error count. Doubtful readings, illegibility and missing or covered text remain marked.
 
-The [50-item image pilot](review/image-pilot-2026-09/) then provided focused source evidence for selected candidates. It was deliberately selected and does not estimate the recoverability of other passages. Its original reports and draft overlay remain historical records.
+The [new-scan review record](review/new-scans-2026-09/) documents twelve targeted pre-build corrections and clearer-witness links, source comparison, export checks and visual-review evidence. Those twelve records are selected changes, not a claim that only twelve passages were considered or that all uncertain readings received specialist adjudication.
 
-The [complete processing run](review/full-run-2026-09/) covered all 193 scan pages containing those 1,200 items: 1,351 Apple Vision OCR runs, no errors. An additional 31 items received individual image adjudication, bringing the total to 81. The ledger explicitly marks the other 1,119 as machine-processed without fresh individual image adjudication.
+The earlier [contextual review](review/uncertain-text-review-2026-09.md), [50-item image pilot](review/image-pilot-2026-09/) and [complete processing run](review/full-run-2026-09/) concern the original six-source collection. The full run processed 1,200 items on 193 pages in 1,351 OCR runs. Across the pilot and subsequent work, 81 items received focused image decisions; another 1,119 were machine-processed without fresh individual image adjudication in that revision.
 
-Revision 1.1 applies 28 resolved readings, two partial recoveries, 16 clearer-witness notes, six surrounding-text changes, eleven family-text changes and seven synchronized editorial notes. Three new doubts were added, leaving 1,175 uncertainty entries. Original IDs are retained; resolved IDs are retired. No change was accepted solely from OCR agreement. No trained handwriting recognition model was tested.
+Version 1.1 applied 28 resolved readings, two partial recoveries, 16 clearer-witness references, six surrounding-text changes, eleven family-text changes and seven synchronized notes. Three new doubts left 1,175 uncertainty entries. Those decisions and stable identifiers remain unchanged in version 2.0.
 
-## Remaining work
+## What remains open
 
-- The 1,119 machine-only items still lack a fresh individual image adjudication in this round. Other checked items remain uncertain. The number of register entries is not an error count; a single entry can cover several words.
-- An independent human reader has not verified every transcription. Export checks establish consistent presentation, not historical or handwriting accuracy. The revised AI readings were informed by contextual proposals and are not blinded.
-- Damaged passages may benefit from further source-image work, better witnesses or specialist reading. A trained handwriting model would need evaluation against independently checked samples before accepting its output. This project has not exhausted all possible improvement methods.
-- The editions have not been systematically reconciled word by word with each other or with the other agent's complete translation.
-- Folders 4–7 in the finding aid were not supplied as manuscript scans and are not transcribed here.
-- Nathaniel Lynn Douglas's father has not been established. References to another person's father are not proof of his parentage.
-- ACU has not reviewed or endorsed the contribution. No invitation or files have been sent to ACU. The repository was made public on 20 September 2026 at the project owner's request; that change does not alter the verification status of the editions.
+- No independent human reader has verified every transcription. The old machine-only items retain their stated limits; the new pages received an initial AI reading and selected focused checks, not exhaustive independent paleographic review.
+- The other agent’s transcription was excluded from the additions. The new annotated and family versions were prepared together from the scans and are not independent of each other. A systematic comparison with the other agent’s complete version remains to be done. Earlier materials retain their own disclosed comparison history.
+- Damaged or faint passages may improve through better scans, comparison with clearer copies, specialist reading or a handwriting model evaluated against independently checked samples. These methods have not been exhausted.
+- Nathaniel Lynn Douglas’s father and birthplace remain unproved. References to other people’s parents, business partners and in-laws must not be converted into unsupported parentage claims. Literary speakers and nicknames in the poems are not automatically biographical identifications.
+- The earlier family highlights and research digest have not yet been expanded for the new scans.
+- ACU has not reviewed or endorsed this edition. This update does not send an email or submit files to the university.
 
-Coverage is complete for the supplied scans. Complete scholarly verification remains unfinished.
+Coverage of the supplied scans is complete. Scholarly verification remains open.

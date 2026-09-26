@@ -1,0 +1,30 @@
+{
+  "date": "2026-09-26",
+  "status": "passed",
+  "source_scan_pages": 932,
+  "new_source_scan_pages": 545,
+  "annotated_blocks": 2183,
+  "uncertainty_entries": 3415,
+  "family_entries": 706,
+  "preserved_prior_files": 398,
+  "new_visual_review_records": 584,
+  "all_old_page_objects_and_uncertainty_rows_unchanged": true,
+  "new_docx_body_matches_master": true,
+  "html_and_plain_text_match_master": true,
+  "page_inventory_and_maps_complete": true,
+  "new_family_markdown_matches_master": true,
+  "current_relative_links_valid": true,
+  "packages": {
+    "George-Douglas-University-Transcription-Edition.zip": {
+      "sha256": "ee81c81e3d00521e8147902aabb532af314e8306c6e5bd235ad5d83858fc8b2d",
+      "files": 46,
+      "bytes": 5327266
+    },
+    "George-Douglas-Independent-Family-Edition.zip": {
+      "sha256": "88a84bdd4e4d484cdb6c94de7954735a5cf7ca9a383f0612b026eca403bda2fd",
+      "files": 42,
+      "bytes": 3751861
+    }
+  },
+  "limits": "These checks verify release consistency; they do not repeat handwriting interpretation, PDF extraction checks or visual review."
+}

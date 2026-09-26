@@ -4,7 +4,7 @@ Original documents represented in supplied scans: George Douglas Papers, 1830–
 
 [ACU collection page](https://digitalcommons.acu.edu/george_douglas/)
 
-The six source PDFs are identified below; their bytes are not stored in this repository. Page counts include covers, identifying slips, envelopes, duplicate scans and fragments.
+Ten source PDFs are identified below; their bytes are not stored in this repository. Page counts include covers, identifying slips, envelopes, duplicate scans and fragments. Sources 01–06 preserve the exact files and identifiers used for version 1.1; sources 07–10 were added in version 2.0.
 
 | Source | Exact filename | Scan pages |
 | --- | --- | --- |
@@ -14,8 +14,12 @@ The six source PDFs are identified below; their bytes are not stored in this rep
 | 04 | ACU CRS MS5 - 04 - Folder 1, Correspondence and Loan Papers.pdf | 96 |
 | 05 | ACU CRS MS5 - 05 - Folder 2, Correspondence and Legal Papers.pdf | 158 |
 | 06 | ACU CRS MS5 - 06 - Folder 3, Correspondence and Legal Papers.pdf | 118 |
+| 07 | George Douglas Papers Folder 4- Correspondence.pdf | 111 |
+| 08 | George Douglas Papers Folder 5 - Daybook of N.L. Douglas.pdf | 167 |
+| 09 | George Douglas Papers Folder 6 - Correspondence.pdf | 134 |
+| 10 | George Douglas Papers Folder 7 - Poems Etc.pdf | 133 |
 
-Total: **387 scan pages**.
+Total: **932 scan pages**, including **545 new pages** in sources 07–10.
 
 ## Source checksums
 
@@ -43,6 +47,24 @@ Total: **387 scan pages**.
 
 `d9ef810f7432dac5f9d1949cea8708f92bb447e8a431a550ea11c22c3a1cce76`
 
-The 25-page pre-existing transcription is not a primary source in this edition. A portion was seen during the initial inventory before the independence request; it was not used to prepare these transcriptions. See the editorial guide for the full disclosure.
+**Source 07**
 
-Folders 4–7 described in the finding aid were not supplied as manuscript scans and remain outside the edition.
+`d793cb8a8affd81758c51115e10bdd7b8c961840d20fcaca9978367d4d9c5914`
+
+**Source 08**
+
+`d944ef6ad351cef3b3b99ed472514c72cd74a6b34b3e77e674db04cd5fb672ce`
+
+**Source 09**
+
+`c7d09095adfe8a5111474596c93a759be128b5efcd3fef5a9a942b77377862a3`
+
+**Source 10**
+
+`3cda436be7bee32202e7103029824d0252d162d88303988be716c2f558dcf4a2`
+
+## Replacement copies and excluded transcription
+
+Six newly supplied replacement files for sources 01–06 contain no additional manuscript pages. All 372 pages of Folders 1–3 match the earlier copies pixel-for-pixel at the comparison render size. The sermon and endorsement contain identical decoded embedded image pixels, with different PDF dimensions or margins. The finding aid is visually unchanged; small render and text-extraction differences are documented. This does not mean the replacement PDFs are byte-identical. See [the comparison record](review/new-scans-2026-09/replacement-comparison.json).
+
+The pre-existing transcription supplied alongside the scans is not a primary source for this edition. A portion of an earlier 25-page copy was seen during initial inventory before the independence request; it was not used to prepare the transcriptions. The currently supplied 43-page `The George Douglas Papers - Transcription.pdf` was excluded from the new reading. See the [editorial guide](editions/annotated/Supporting-files/Editorial-guide.md) for the full method and disclosure.

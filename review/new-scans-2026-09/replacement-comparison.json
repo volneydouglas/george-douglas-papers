@@ -1,0 +1,2503 @@
+[
+  {
+    "source": "01",
+    "old_filename": "ACU CRS MS5 - 01 - Finding Aid, George Douglas Papers 1830-1939.pdf",
+    "new_filename": "Finding Aid for George Douglas Papers (1830-1939).pdf",
+    "new_sha256": "051403a249082b4e59945931677426e41bf38d7bd425687b8580ee5ec05c76f1",
+    "pages": [
+      {
+        "page": 1,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 2,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 3,
+        "same_dimensions": true,
+        "identical_render": false,
+        "mean_absolute_difference": 0.00993
+      },
+      {
+        "page": 4,
+        "same_dimensions": true,
+        "identical_render": false,
+        "mean_absolute_difference": 0.0109
+      },
+      {
+        "page": 5,
+        "same_dimensions": true,
+        "identical_render": false,
+        "mean_absolute_difference": 0.01098
+      },
+      {
+        "page": 6,
+        "same_dimensions": true,
+        "identical_render": false,
+        "mean_absolute_difference": 0.01504
+      }
+    ],
+    "embedded_image_comparison": [
+      {
+        "page": 1,
+        "same_decoded_image_pixels": true,
+        "old_rotation": 0,
+        "new_rotation": 0,
+        "image_count": 1
+      },
+      {
+        "page": 2,
+        "same_decoded_image_pixels": true,
+        "old_rotation": 0,
+        "new_rotation": 0,
+        "image_count": 0
+      },
+      {
+        "page": 3,
+        "same_decoded_image_pixels": true,
+        "old_rotation": 0,
+        "new_rotation": 0,
+        "image_count": 0
+      },
+      {
+        "page": 4,
+        "same_decoded_image_pixels": true,
+        "old_rotation": 0,
+        "new_rotation": 0,
+        "image_count": 0
+      },
+      {
+        "page": 5,
+        "same_decoded_image_pixels": true,
+        "old_rotation": 0,
+        "new_rotation": 0,
+        "image_count": 0
+      },
+      {
+        "page": 6,
+        "same_decoded_image_pixels": true,
+        "old_rotation": 0,
+        "new_rotation": 0,
+        "image_count": 0
+      }
+    ],
+    "normalized_text_identical": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "decision": "Replacement copy of previously covered source; no added manuscript pages.",
+    "basis": "Page renders are identical on pages 1\u20132 and differ only minutely on pages 3\u20136 (maximum mean absolute pixel difference 0.01504). Side-by-side visual comparison confirms same six-page finding aid. Extracted text differs in line-break placement and ligature encoding; normalized-text comparison is not identical."
+  },
+  {
+    "source": "02",
+    "old_filename": "ACU CRS MS5 - 02 - L. Douglas Sermon Notes, 16 Feb 1883.pdf",
+    "new_filename": "L. Douglas sermon notes.pdf",
+    "new_sha256": "19476edbf146ddf92736004f7ab1bf87d68d8e3217a2d0dab58ba513902b71d0",
+    "pages": [
+      {
+        "page": 1,
+        "same_dimensions": true,
+        "identical_render": false,
+        "mean_absolute_difference": 0.01214
+      },
+      {
+        "page": 2,
+        "same_dimensions": false,
+        "identical_render": false,
+        "mean_absolute_difference": 12.71222
+      },
+      {
+        "page": 3,
+        "same_dimensions": false,
+        "identical_render": false,
+        "mean_absolute_difference": 34.96767
+      },
+      {
+        "page": 4,
+        "same_dimensions": false,
+        "identical_render": false,
+        "mean_absolute_difference": 35.81812
+      }
+    ],
+    "embedded_image_comparison": [
+      {
+        "page": 1,
+        "same_decoded_image_pixels": true,
+        "old_rotation": 0,
+        "new_rotation": 0,
+        "image_count": 1
+      },
+      {
+        "page": 2,
+        "same_decoded_image_pixels": true,
+        "old_rotation": 0,
+        "new_rotation": 0,
+        "image_count": 1
+      },
+      {
+        "page": 3,
+        "same_decoded_image_pixels": true,
+        "old_rotation": 0,
+        "new_rotation": 0,
+        "image_count": 1
+      },
+      {
+        "page": 4,
+        "same_decoded_image_pixels": true,
+        "old_rotation": 0,
+        "new_rotation": 0,
+        "image_count": 1
+      }
+    ],
+    "decision": "Replacement copy of previously covered source; no added manuscript pages.",
+    "basis": "Same embedded image pixels on every page; visual side-by-side comparison confirms same manuscript content. PDF page dimensions or margins differ."
+  },
+  {
+    "source": "03",
+    "old_filename": "ACU CRS MS5 - 03 - Sylvana Church Endorsement for George Douglas, Sept 1888.pdf",
+    "new_filename": "Endorsement from congregation at Sylvana Church for George Dougla.pdf",
+    "new_sha256": "50606245013d6ec8523489b68575dacecc92860e1db8e56411000c7d3a7b55c5",
+    "pages": [
+      {
+        "page": 1,
+        "same_dimensions": true,
+        "identical_render": false,
+        "mean_absolute_difference": 0.00764
+      },
+      {
+        "page": 2,
+        "same_dimensions": false,
+        "identical_render": false,
+        "mean_absolute_difference": 2.02124
+      },
+      {
+        "page": 3,
+        "same_dimensions": false,
+        "identical_render": false,
+        "mean_absolute_difference": 18.24076
+      },
+      {
+        "page": 4,
+        "same_dimensions": false,
+        "identical_render": false,
+        "mean_absolute_difference": 10.19756
+      },
+      {
+        "page": 5,
+        "same_dimensions": false,
+        "identical_render": false,
+        "mean_absolute_difference": 3.73071
+      }
+    ],
+    "embedded_image_comparison": [
+      {
+        "page": 1,
+        "same_decoded_image_pixels": true,
+        "old_rotation": 0,
+        "new_rotation": 0,
+        "image_count": 1
+      },
+      {
+        "page": 2,
+        "same_decoded_image_pixels": true,
+        "old_rotation": 0,
+        "new_rotation": 0,
+        "image_count": 1
+      },
+      {
+        "page": 3,
+        "same_decoded_image_pixels": true,
+        "old_rotation": 0,
+        "new_rotation": 0,
+        "image_count": 1
+      },
+      {
+        "page": 4,
+        "same_decoded_image_pixels": true,
+        "old_rotation": 0,
+        "new_rotation": 0,
+        "image_count": 1
+      },
+      {
+        "page": 5,
+        "same_decoded_image_pixels": true,
+        "old_rotation": 0,
+        "new_rotation": 0,
+        "image_count": 1
+      }
+    ],
+    "decision": "Replacement copy of previously covered source; no added manuscript pages.",
+    "basis": "Same embedded image pixels on every page; visual side-by-side comparison confirms same manuscript content. PDF page dimensions or margins differ."
+  },
+  {
+    "source": "04",
+    "old_filename": "ACU CRS MS5 - 04 - Folder 1, Correspondence and Loan Papers.pdf",
+    "new_filename": "George Douglas Papers Folder 1 - Correspondence Loan Papers.pdf",
+    "new_sha256": "b383ba43e2283f87609442343863e789964a239242df0d000ece92089290ac47",
+    "pages": [
+      {
+        "page": 1,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 2,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 3,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 4,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 5,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 6,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 7,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 8,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 9,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 10,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 11,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 12,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 13,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 14,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 15,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 16,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 17,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 18,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 19,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 20,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 21,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 22,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 23,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 24,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 25,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 26,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 27,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 28,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 29,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 30,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 31,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 32,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 33,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 34,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 35,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 36,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 37,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 38,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 39,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 40,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 41,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 42,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 43,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 44,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 45,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 46,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 47,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 48,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 49,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 50,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 51,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 52,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 53,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 54,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 55,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 56,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 57,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 58,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 59,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 60,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 61,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 62,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 63,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 64,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 65,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 66,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 67,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 68,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 69,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 70,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 71,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 72,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 73,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 74,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 75,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 76,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 77,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 78,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 79,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 80,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 81,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 82,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 83,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 84,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 85,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 86,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 87,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 88,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 89,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 90,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 91,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 92,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 93,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 94,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 95,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 96,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      }
+    ],
+    "decision": "Replacement copy of previously covered source; no added manuscript pages.",
+    "basis": "All page renders identical at 550-pixel long dimension."
+  },
+  {
+    "source": "05",
+    "old_filename": "ACU CRS MS5 - 05 - Folder 2, Correspondence and Legal Papers.pdf",
+    "new_filename": "George Douglas Papers Folder 2 - Correspondence and Legal Papers.pdf",
+    "new_sha256": "fac96f757558772508d51256082ace7a5f31dc0c475b35bcd795a86bc126d6bf",
+    "pages": [
+      {
+        "page": 1,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 2,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 3,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 4,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 5,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 6,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 7,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 8,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 9,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 10,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 11,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 12,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 13,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 14,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 15,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 16,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 17,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 18,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 19,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 20,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 21,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 22,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 23,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 24,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 25,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 26,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 27,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 28,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 29,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 30,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 31,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 32,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 33,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 34,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 35,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 36,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 37,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 38,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 39,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 40,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 41,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 42,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 43,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 44,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 45,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 46,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 47,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 48,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 49,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 50,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 51,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 52,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 53,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 54,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 55,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 56,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 57,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 58,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 59,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 60,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 61,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 62,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 63,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 64,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 65,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 66,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 67,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 68,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 69,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 70,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 71,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 72,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 73,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 74,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 75,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 76,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 77,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 78,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 79,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 80,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 81,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 82,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 83,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 84,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 85,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 86,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 87,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 88,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 89,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 90,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 91,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 92,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 93,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 94,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 95,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 96,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 97,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 98,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 99,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 100,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 101,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 102,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 103,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 104,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 105,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 106,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 107,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 108,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 109,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 110,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 111,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 112,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 113,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 114,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 115,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 116,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 117,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 118,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 119,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 120,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 121,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 122,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 123,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 124,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 125,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 126,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 127,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 128,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 129,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 130,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 131,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 132,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 133,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 134,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 135,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 136,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 137,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 138,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 139,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 140,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 141,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 142,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 143,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 144,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 145,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 146,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 147,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 148,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 149,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 150,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 151,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 152,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 153,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 154,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 155,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 156,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 157,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 158,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      }
+    ],
+    "decision": "Replacement copy of previously covered source; no added manuscript pages.",
+    "basis": "All page renders identical at 550-pixel long dimension."
+  },
+  {
+    "source": "06",
+    "old_filename": "ACU CRS MS5 - 06 - Folder 3, Correspondence and Legal Papers.pdf",
+    "new_filename": "George Douglas Papers Folder 3 - Correspondence and Legal Papers.pdf",
+    "new_sha256": "bb105d384201888fe9ed743d2136ae462b5b3563e8cfcefea4012b9ef26a843a",
+    "pages": [
+      {
+        "page": 1,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 2,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 3,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 4,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 5,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 6,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 7,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 8,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 9,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 10,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 11,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 12,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 13,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 14,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 15,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 16,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 17,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 18,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 19,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 20,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 21,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 22,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 23,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 24,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 25,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 26,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 27,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 28,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 29,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 30,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 31,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 32,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 33,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 34,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 35,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 36,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 37,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 38,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 39,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 40,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 41,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 42,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 43,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 44,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 45,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 46,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 47,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 48,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 49,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 50,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 51,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 52,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 53,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 54,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 55,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 56,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 57,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 58,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 59,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 60,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 61,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 62,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 63,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 64,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 65,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 66,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 67,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 68,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 69,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 70,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 71,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 72,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 73,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 74,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 75,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 76,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 77,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 78,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 79,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 80,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 81,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 82,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 83,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 84,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 85,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 86,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 87,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 88,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 89,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 90,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 91,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 92,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 93,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 94,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 95,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 96,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 97,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 98,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 99,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 100,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 101,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 102,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 103,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 104,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 105,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 106,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 107,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 108,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 109,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 110,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 111,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 112,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 113,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 114,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 115,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 116,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 117,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      },
+      {
+        "page": 118,
+        "same_dimensions": true,
+        "identical_render": true,
+        "mean_absolute_difference": 0.0
+      }
+    ],
+    "decision": "Replacement copy of previously covered source; no added manuscript pages.",
+    "basis": "All page renders identical at 550-pixel long dimension."
+  }
+]

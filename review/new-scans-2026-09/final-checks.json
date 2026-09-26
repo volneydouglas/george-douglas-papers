@@ -1,0 +1,14 @@
+{
+  "date": "2026-09-26",
+  "all_new_repo_docx_pdf_bytes_match_verified_outputs": true,
+  "all_new_pdf_bytes_match_inspected_render_sources": true,
+  "total_pdf_pages": {
+    "annotated": 514,
+    "family": 383
+  },
+  "interactive_html_search_and_reset": {
+    "Complete-transcript.html": 932,
+    "Unresolved-readings.html": 3415
+  },
+  "note": "Git diff whitespace review permits existing TSV CRLF and meaningful empty fields."
+}

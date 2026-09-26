@@ -1,0 +1,65 @@
+{
+  "date": "2026-09-26",
+  "new_source_scan_pages": 545,
+  "total_source_scan_pages": 932,
+  "total_transcript_blocks": 2183,
+  "new_uncertainties": 2240,
+  "total_uncertainties": 3415,
+  "all_new_source_checksums_verified": true,
+  "old_pages_and_ids_unchanged": true,
+  "old_uncertainty_rows_unchanged": true,
+  "html_text_and_anchors_match_master": true,
+  "docx_text_matches_master": true,
+  "pdf_paragraph_mismatches": 0,
+  "extraction_notes": [
+    {
+      "file": "George-Douglas-Annotated-Transcription-Volume-VIII.docx",
+      "paragraph": 326,
+      "verification": "Matches pdfplumber extraction; pypdf places raised zero characters at line ends."
+    }
+  ],
+  "volumes": [
+    {
+      "kind": "annotated",
+      "source": "07",
+      "pdf_pages": 52
+    },
+    {
+      "kind": "family",
+      "source": "07",
+      "pdf_pages": 41
+    },
+    {
+      "kind": "annotated",
+      "source": "08",
+      "pdf_pages": 95
+    },
+    {
+      "kind": "family",
+      "source": "08",
+      "pdf_pages": 82
+    },
+    {
+      "kind": "annotated",
+      "source": "09",
+      "pdf_pages": 67
+    },
+    {
+      "kind": "family",
+      "source": "09",
+      "pdf_pages": 48
+    },
+    {
+      "kind": "annotated",
+      "source": "10",
+      "pdf_pages": 114
+    },
+    {
+      "kind": "family",
+      "source": "10",
+      "pdf_pages": 85
+    }
+  ],
+  "visual_review": "All 584 final rendered pages visually inspected; clean. SHA-256 evidence in visual-review.json.",
+  "visually_inspected_new_pdf_pages": 584
+}

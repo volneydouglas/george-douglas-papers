@@ -1,19 +1,21 @@
 GEORGE DOUGLAS PAPERS — FAMILY READING EDITION
-Revision 1.1, September 2026
+Version 2.0 package, 26 September 2026
 
-Start with 01-Guide-and-Church-Papers.pdf.
+Eight searchable PDFs and eight editable Word documents account for all
+932 scan pages in ten source PDFs. Start with README.md for navigation.
+The earlier guide and volumes 1–4 retain version 1.1 and their original
+contents; volumes 5–8 add Folder 4, the daybook, Folder 6 and the poems.
 
-Four searchable PDFs and four editable Word documents account for all 387
-pages of the six supplied source PDFs. Unread passages remain marked. The
-Plain-text folder contains the same source-organized readings in Markdown.
-Source-ledger.json records page coverage. Folders 4–7 listed in the finding aid
-were not supplied and are outside this edition.
+Plain-text contains source-organized Markdown readings. Source-ledger.json
+records complete page coverage. New-source-readings.json and
+New-PDF-page-map.tsv cover the 545 added scan pages specifically.
 
-Read the method and comparison note in Volume I. The first family reading
-was prepared separately; revision 1.1 incorporates selected image-supported
-corrections after comparison with the annotated edition and contextual review.
-It is AI-assisted and has not been independently human verified. Consult
-Review-summary.txt for exactly what was processed, checked and changed.
+Unread and uncertain passages remain identified. New reference and family
+readings were prepared together from the scans, without the other agent's
+transcription. The earlier edition retains its own comparison history.
+These are AI-assisted readings without independent human verification
+of every passage or ACU endorsement. See Review-summary.txt for the
+current checks and Review-summary-v1.1.txt for the earlier review scope.
 
-Prepared for Volney Douglas. Original source PDFs remain unchanged. Nothing
-has been sent to the family or university. SHA256SUMS.txt verifies package files.
+Original source scans remain unchanged and are not included. Consult
+RIGHTS.md before reuse. SHA256SUMS.txt verifies all other package files.

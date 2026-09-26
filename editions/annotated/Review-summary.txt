@@ -1,27 +1,30 @@
-GEORGE DOUGLAS PAPERS — REVISION 1.1 REVIEW SUMMARY
-20 September 2026
+GEORGE DOUGLAS PAPERS — VERSION 2.0 REVIEW SUMMARY
+26 September 2026
 
-All 1,200 original uncertainty items on 193 scan pages were processed by the
-local image/OCR workflow (1,351 runs, zero errors). This was not a fresh
-individual visual reading of all items. There are 81 focused item decisions,
-including the earlier 50-item pilot; 1,119 items remain machine-processed only
-in this round. No reading was accepted from OCR agreement alone.
+The complete edition accounts for ten source PDFs and 932 scan pages.
+This update adds 545 pages in Folders 4–7, with four annotated and four
+family volumes in Word and PDF. All 584 new PDF pages were visually
+inspected; text checks found no missing or changed export paragraphs.
+Combined editions contain 897 PDF pages, including 313 earlier pages.
 
-Applied: 28 resolved readings, two partial surname recoveries, 16 clearer
-witness references and six additional changes to surrounding text. Eleven
-family-text corrections and seven editorial-note synchronizations accompany
-the revision. Three new doubts were added. The current annotated register
-contains 1,175 uncertainties. A marker can represent several words and is not
-an error count. Stable original item IDs are retained; retired IDs are not reused.
+The structured master has 2,183 annotated blocks. The uncertainty register
+has 3,415 entries: 1,175 unchanged earlier entries plus 2,240 new entries.
+An uncertainty entry may cover several words; it is not an error count.
 
-All 387 supplied scan pages remain covered. Both editions are AI-assisted and
-have not received independent human verification or ACU endorsement. The
-initial family reading was separate; this revision uses comparisons and is
-not a blinded independent reading. Further image and human review may help.
+Each new scan received an initial AI visual reading, aided by local Apple
+Vision OCR at four orientations and selected image adjustments and source
+comparisons. The other agent's transcription was excluded. The new family
+and reference readings were prepared together and are not independent of
+one another. No independent human verification or ACU endorsement is claimed.
 
-The annotated package's Supporting-files includes the full item ledger,
-combined decisions, change records and export-validation summary. Detailed
-OCR, source-image evidence and historical baselines are retained in the
-private repository under review/full-run-2026-09. Ledger review_record paths
-refer to that repository's review directory; the combined Review-decisions.json
-is supplied for readers using the package without the repository.
+Earlier volumes 1–4 retain version 1.1 and their original file bytes.
+Review-summary-v1.1.txt and older audit files describe the earlier 387-page
+scope, including 1,119 items without fresh individual image adjudication
+in that review round. Those records have not been silently revised.
+
+Current review details and evidence:
+https://github.com/volneydouglas/george-douglas-papers/tree/main/review/new-scans-2026-09
+https://github.com/volneydouglas/george-douglas-papers/blob/main/REVIEW-STATUS.md
+
+Further source comparison and specialist reading may improve uncertain
+passages. Coverage is complete; scholarly verification remains open.

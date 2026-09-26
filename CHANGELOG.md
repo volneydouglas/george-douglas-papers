@@ -1,5 +1,14 @@
 # Change log
 
+## Version 2.0 — 26 September 2026
+
+- Added all 545 new scan pages: Folder 4 correspondence (111), N. L. Douglas’s daybook (167), Folder 6 correspondence (134), and Folder 7 poems and other writings (133). The ten-source collection now contains 932 pages and 2,183 annotated blocks.
+- Added annotated volumes V–VIII and family volumes 5–8, each as PDF and Word: eight new document pairs, totaling 584 PDF pages. Independently read the scans without using the other agent’s transcription. The reference and family versions of the additions were prepared together.
+- Preserved uncertain passages and documented selected clearer witnesses, conflicting dates, continuations, names and amounts. Added 2,240 register entries while keeping all 1,175 earlier entries unchanged; the combined register contains 3,415 items.
+- Checked all new Word text against the master, checked PDF paragraph coverage, and visually inspected all 584 rendered pages. Expanded the combined reader, plain text, page indexes, source records, family ledger and both download packages. Added portable release checks and review evidence.
+- Confirmed replacement copies of the first six sources add no manuscript pages. Preserved earlier source identifiers, all 16 earlier DOCX/PDF exports, family Markdown, research files and review history. The original illustrated books and source scans remain unchanged.
+- This remains an AI-assisted review edition with unresolved readings. No independent human verification or ACU endorsement is claimed.
+
 ## Public repository and family highlights — 20 September 2026
 
 - Made the GitHub repository public at Volney Douglas's request and updated current visibility statements, retaining the existing attribution, rights and review limitations.
